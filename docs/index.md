@@ -1,4 +1,4 @@
-# Dinosaur BigCommerce Theme User Guide
+# Eyeva BigCommerce Theme User Guide
 
 This theme is developed and supported by [Papathemes](https://papathemes.com) 
 
