@@ -48,23 +48,11 @@ To start customizing the theme, login to your admin panel, go to **Storefront** 
 
 To configure the header, click on **Theme Styles** > **Header** section, here you can config the header colors, store logo position and size.
 
-**User Navigation** allows to change colors of the icon phone, cart.
-
-**Top Bar** section allows to change color of this top bar.
+**Utility navigation** allows to change colors of the icon search, cart, wishlist, user.
 
 **Watch the instruction video:**
 
 <iframe width="760" height="515" src="https://www.youtube.com/embed/AFpgodrjqxg?si=5kDqYIO4jkK4WyX5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-#### Quick search
-
-**Quick Search** allows user to change the colors of the search form.
-
-To configure the **Quick Search**, click on **Theme Styles** > **Header**. In **Quick Search** section you can change text colors, hover, border, and background of the search field.
-
-To change popular search keywords, type your text in **popular search keywords** field as picture below.
-
-![header-quick-search](img/quick-search.jpg)
 
 
 #### Main Navigation
@@ -92,7 +80,17 @@ To config style of main navigation, click on **Theme Styles** > **Header**. In *
 - `Alternate`: show sub-menu item as dropdown style.
 
 ![dropdown-menu](img/alternate-menu.jpg)
-11111111
+
+To show top categories on mobile below the header, in **Themes style** > **Header and footer** Find **Show top categories on mobile** option checked to show all the link categories. Section you can change:
+
+- **Background**: background color of top categories.
+
+- **Text color**: text color of menu item.
+
+- **Text hover color**: text color on hover menu item.
+
+![top-categories](img/top-categories-mobile.jpg).
+
 To create banner on Simple menu, in **Header and footer** find and checked **TURN ON EDITING MENU WIDGETS** to open Simple menu in design mode.
 
 ![edit-widget-simple](img/edit-widget-menu.jpg)
@@ -127,21 +125,22 @@ Choose edit **Padding**. **Desktop** set `Right`, `Left` = `8`. **Tablet** set `
 
 Duplicate 1 banner to 1 banners.
 
-#### Show top categories on mobile
-
-To show top categories on mobile below the header, in **Themes style** > **Header and footer** Find **Show top categories on mobile** option checked to show all the link categories. Section you can change:
-
-- **Background**: background color of top categories.
-
-- **Text color**: text color of menu item.
-
-- **Text hover color**: text color on hover menu item.
-
-![top-categories](img/top-categories-mobile.jpg).
-
 #### Hide webpage links
 
 To hide Webpage links such as **Contact us**, **About Us**, **Shipping and return** from header, in **Themes style** > **Header** Find **Hide Webpage links** option checked to hide all the links except **Categories** link.
+
+If you only want to hide some specific links not all the link you can do following step:
+
+- `- Show web page started from` field: input the order link you want to show.
+- `- Limit` field: input number web link you want to show after begining field.
+
+For example: if you only want show **Blog** and **Shipping & return**: - Begining field: 1; - limit field: 2;
+
+Note: the order will only count non-categories link.
+
+Before:
+
+![web-links-order](img/web-links-order.jpg).
 
 **Watch the instruction video:**
 
