@@ -198,7 +198,7 @@ To adjust the image height in mobile view, simply modify the **Mobile Image Heig
 
 ![Shop by category](img/shop-by-categories.jpg)
 
-Navigate to **Theme Styles** > **Home Page** choose one of the sections and type `categories` to enable this block.
+Navigate to **Theme Styles** > **Home Page** > **Sections** and fill input = `categories` to enable this block.
 
 ### Featured Brands
 
