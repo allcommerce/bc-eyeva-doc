@@ -336,75 +336,37 @@ In the popup window, copy your web link to `URL`. On the **Open links..** field 
 
 Configuring product cards in **Page Builder** > **Theme Styles** > **Products** > **Product cards**.
 
-- **Alignment**: Specifying content alignment `left` or `center`.
-- **Product title color**: Specifying the product name's color.
-- + **Hover**: Specifying color when hover or focus.
-- **Product countdown color**: specify number's color in countdown box.
-- - **Background**: Specify background's color of countdown box.
-- **Show second image on hover**: Displaying the second image when hover the product card.
-- **Show SKU**: toggle displaying the product SKU.
-- **Show Brand**: toggle displaying Brand of product.
-- **Show Add to Cart button**: toggle on to make Add to Cart button always visible.
+- **Background**: specifying the color of product card background.
+- **Product header text color**: Specifying the product name's color.
+- **Product header text hover color**: Specifying color when hover or focus.
+- **Button text color**: specify color for text in button.
+- **Button background color**: specify color for button background.
+- **Title font size**: enter the number to change the title font size.
 - **Show quantity input**: toggle on to display quantity input. If toggle of input field will not visible client cannot adjust the quantity in card.
-- + **Border**: Specifying the button border color.
-- **Show swatch/rectangle options**: Allows to display with swatch/rectangle type product option on every product card. It's helpful to display different product variants like colors or sizes.
-- **Show only option name**: enter the option name to display in card.
-- **Swatch sizes**: Specifying the swatch color/image size.
-- **Show countdown Flash Sale**: Display countdown timer for Flash Sale products.
-- **Show corresponding variant image when filtered**: toggle this option will help display variant image instead of thumbnail image when using Faceted filter. (Example: filter color Ogrance card will display image of variant Ogrance).
-- **Show call us for price**: to display call us for price message.
-- **Show custom fields**: enter the custom field name and seperate each custom field with `|` to display them in card.
-- **Badge position**: also to configure the sale badge position to `Top Left` or `Below image`.
+- **show buttons always visible**: toggle on to make button always visible.
 
-### Displaying product price ranges
-
-By default product price ranges is enabled. To turn off, Go to **Page Builder** > **Theme Styles** > **Products** > uncheck **Price ranges** checkbox.
-
-**Show retail price**: Toggle displaying the product retail prices.
-
+- **Show compare button**: toggle on to display compare button.
+- **Show swatch**: Allows to display with swatch type product option on every product card. It's helpful to display different product variants like colors or sizes.
+- **Swatch names (separator: ,)**: enter the option name to display in card.
+- **Swatch color sizes**: Specifying the swatch color size.
+- **Swatch images sizes**: Specifying the swatch image size.
+- **Show videos & 360**: toggle on to display videos and 360 images.
 
 ### Hiding prices for non logged in customers
 
-To turn on this feature, go to **Page Builder** > **Theme Styles** > **Products** > tick **Restrict Purchase to Login** checkbox.
+To turn on this feature, go to **setting** > **display** > **Products setting** > tick **Hide Product's Price from Guests?** checkbox.
 
-![hide-prices](img/hide-prices.jpg)
-
-### Redirecting to cart page after product added to cart
-
-By default the cart popup is displayed, if you want to take customer to the cart page instead, go to **Page Builder** > **Theme Styles** > **Products** > tick **Redirect to cart page after add to cart** checkbox.
+![hide-prices](img/Hide-price-from-non-login.jpg)
 
 ### Showing/Hiding Quick-View button
 
-By default quick-view buttons appear on all product cards. To hide it, go to **Page Builder** > **Theme Styles** > **Products** > un-tick **Show Quickview** checkbox.
-
-### Showing/Hiding the quantity box on PDP
-
-By default the quantity box shows up, to hide it, go to **Page Builder** > **Theme Styles** > **Products** > un-tick **Show quantity selection on product pages** checkbox.
-
-### Customizing the popup displayed after product added to cart
-
-In **Page Builder** > **Theme Styles** > **Products** > **Popup after added to cart**:
-
-- `Cart Preview`: Displaying the whole shopping cart popup on the right side.
-- `Hide`: Not show any popup.
-
-Mini added to cart popup:
-
-![cart-preview](img/cart-preview.jpg)
-
-### Displaying Recently Viewed Products
-
-Recently viewed products only display for logged-in customers.
-
-To enable it, go to **Page Builder** > **Theme Styles** > **Products** > **Show recently viewed** select number of products to display.
+By default quick-view buttons appear on all product cards. To hide it, go to **Page Builder** > **Theme Styles** > **Products** > **Display settings** un-tick **Show quick view button on product cards** checkbox.
 
 
-### Customizing Price Labels
 
-You can customize sale price label, before sale price label, retail price label or regular price label in 
-**Page Builder** > **Theme Styles** > **Products** > **Price Labels**
 
-![configure-price-labels](img/configure-price-labels.jpg)
+
+
 
 ### Displaying product weight, dimensions on PDP
 
@@ -415,9 +377,19 @@ Go to **Page Builder** > **Theme Styles** > **Products** > **Product Page**.
 
 ### Display sale badge on PDP
 
-Go to **Page Builder** > **Theme Styles** > **Products** > **Product Page**.
+Go to **Page Builder** > **Theme Styles** > **Products** > **Product sale badges** in **Show product sale badges** select badge type
+- `Percent`: display badges label with percent off.
+- `label`: only display label.
+- `None`: hide badge. 
 
-- Tick **Show sale badge** checkbox.
+To modify badges label enter text to **Label** field
+
+### Customizing Price Labels
+
+You can customize sale price label, before sale price label, retail price label or regular price label in 
+**Page Builder** > **Theme Styles** > **Products** > **Price Labels**
+
+![configure-price-labels](img/configure-price-labels.jpg)
 
 ### Sale badge, Condition badge and custom text badges
 
