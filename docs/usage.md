@@ -198,79 +198,10 @@ To adjust the image height in mobile view, simply modify the **Mobile Image Heig
 
 ![Shop by category](img/shop-by-categories.jpg)
 
-Navigate to **Theme Styles** > **Home Page** > **Sections** and fill input = `categories` to enable this block.
+Navigate to **Theme Styles** > **Home Page** > **Sections** enter `categories` to one o the section to display this block.
 
-### Featured Brands
+![Shop by category](img/Shop-by-categories-section.png)
 
-![Featured-brand](img/brands.jpg)
-
-**Featured brand** will automatic load all brands of your store.
-
-To enable **Featured brand**, in **Theme Styles** > **Homepage** > **Section** choose one of sections and type `brands` to enable this block.
-
-To change color background of this section click on **Brands carousel background** and select color fit to design.
-
-### Top Categories
-
-![Top-categories](img/top-categories.jpg)
-
-**Top Categories** will automatic load first level categories of your store.
-
-To enable **Top Categories**, in **Theme Styles** > **Homepage** > **Section** choose one of sections and type `top_categories` to enable this block.
-
-To edit color background of sections **Top Categories**, select your color in **Background** and type empty input `Background Image` in **Top Categories**.
-
-![Top-categories](img/top-category-edit-color.jpg)
-
-To edit background image of sections **Top Categories**. Dinosaur theme provides users with three options to change the background by modifying the **Background Image** field as shown below:
-
-- `blank`: leave the field empty, the background will be specified follow **Background** field.
-
-- `top-categories-men.png`: **Top Categories** will use the default image of the theme to set as background header.
-
-![Top-categories](img/top-category-edit-bgimg.jpg)
-
-- `link`: **Top Categories** will be the link you provided in the input to set the background.
-
-![Top-categories](img/top-category-edit-bgimg-2.jpg)
-
-This section allow user change section tiltle, in **Hompage** find **Top Categories** type your text in **Heading**.
-
-### Unique Sport-Inspired Fashion
-
-![Product Tag Widget](img/product-tag-widget.jpg)
-
-Drag & drop **Layout widget** to the corresponding position, change **Column** = `1`, set **Padding** = `0 0 0 0`.
-
-Drag & drop **Section Heading | PapaThemes Beautify** widget into the **Layout**. Typing your text (example "Unique Sport-Inspired Fashion"), select `custom` in **Text style** field, set **Font size** = `32px`, **Font size(Mobile)** = ` 20px`, **Font weight** = `Bold`, **Text color** = `#000000`, **Padding** = `10 0 40 0` and **Padding (Mobile)** = `18 0 18 0`.
-
-Drag & drop **Product Tags PapaThemes Dinosaur** widget below **Section Heading | PapaThemes Beautify** widget.
-
-In **Settings** > **General**:
-
-Upload your **Image**, Set **width** and **Height** follow Image size.
-
-Checked **Display in a container DIV** and **Lazyload image**.
-
-Select `Fit to box` for the **Image fit**.
-
-![Product Tag Widget](img/product-tag-widget-settings-general.jpg)
-
-In **Product 1**:
-
-Enter **Product SKU** (Hover over the tag icon to check whether SKU added to the tag).
-
-Select `Tag` for the **Tag Icon**, set **Tag Icon Color** = `#67DAC5`.
-
-Click the **Set Tag Position** button to activate the function that allows you to change the tag's position. Select the tag and then choose the position where you want to move it. Alternatively, you can also set the position manually by entering the position value in **Position - X** and **Position - Y**.
-
-Click on the plus button next to **PRODUCT TAGS PAPATHEMES DINOSAUR** to create more products and set up the same as **Product 1**.
-
-![Product Tag Widget](img/product-tag-widget-settings.jpg)
-
-**Watch the instruction video:**
-
-<iframe width="760" height="515" src="https://www.youtube.com/embed/Kq7EcW4wAmQ?si=k2_EUcsCyJubNkRF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; pictre-in-picture; web-share" allowfullscreen></iframe>
 
 ### Bestselling Products
 
@@ -293,6 +224,24 @@ Go back to **Page Builder** > **Theme Styles** > **Home Page**, make sure one of
 ![new-products](img/New-products.jpg)
 
 You can configure new products section settings in **Page Builder** > **Theme Styles** > **Home Page**, make sure one of the **Sections** fill input = `new`. In **Products** section, you can change the **Number of new products** to display, changing **New products display** to `Carousel` or `Grid`
+
+### Recently Viewed Products
+
+![bestselling-products](img/Recently-viewed-products.jpg)
+
+Recently Viewed Products will be display automatically viewed any product.
+
+You can configure recently viewed products section settings in **Page Builder** > **Theme Styles** > **Home Page**, make sure one of the **Sections** fill input = `viewed` to enable this block.
+
+### Featured Brands
+
+![Featured-brand](img/brands.jpg)
+
+**Featured brand** will automatic load all brands of your store.
+
+To enable **Featured brand**, in **Theme Styles** > **Homepage** > **Section** choose one of sections and type `brands` to enable this block.
+
+To change color background of this section click on **Brands carousel background** and select color fit to design.
 
 ### Grid layout banners
 
@@ -320,56 +269,6 @@ In **Banner 3**, change your image, set **Image width** = `2560px`, **Image heig
 
 In **GENERAL**. Set **Width (Desktop)**, **Width (Tablet)** , **Width (Mobile)** = `100%`. Set **Padding (Desktop)** = `15 0 0 0`, **Padding (Tablet)** = `10 0 0 0`, **Padding (Mobile)** = `0 0 0 0`.
 
-
-### Recently Viewed Products
-
-![bestselling-products](img/Recently-viewed-products.jpg)
-
-Recently Viewed Products will be display automatically viewed any product.
-
-You can configure recently viewed products section settings in **Page Builder** > **Theme Styles** > **Home Page**, make sure one of the **Sections** fill input = `viewed` to enable this block.
-
-### Customer Service
-
-![customer-service](img/customer-service.jpg)
-
-To enable **Customer service**, in **Theme Styles** > **Homepage** > **Section** choose one of sections and type `customer_service` to enable this block.
-
-To change color background of this section click on Background and select color fit to design.
-
-This section allow user change section tiltle, in **Hompage** find **Customer service** type your text in Heading.
-
-- **Phone number**: will automatically collect number from store profile.
-- **Whapsapp**: To change Whatsapp number, go to **Footer** find **+Whatsapp** and type your number in the input field.
-- **Email**: To change email number, go to **Footer** find **+Email** and type your email address in the input field.
-
-![whatsapp-email](img/whatsapp-email.jpg)
-
-To change Background of button, go to **General** find **General colors** change **Secondary color** to your color.
-
-To change **Text**, **Icon**, color go to **General** find **Links colors** change **Default** to your color.
-
-### About us
-
-You can add About us block on Home Page. Drag & drop **Leaderboard Banner | PapaThemes Beautify** widget to the corresponding position.
-
-On **BANNER** at `Content align`, click vertical top. Set `Banner height` and `Banner height (mobile)` = `364px`. Set `Background color` = `#FFFFFF`. Set your image on `Image`. In `Image fit` select `Fit to box`.
-
-![about-us](img/aboutus-banner.jpg)
-
-On **HEADING**. In `Heading style` select `Custom`. In `Font weight` select `Bold`. Set `Font size` = `32px`. Set `Heading color`, `Heading color (mobile)` = `#C72E2E`.
-
-![about-us](img/aboutus-heading.jpg)
-
-On **TEXT**. In `Heading style` select `Custom`. In `Font weight` select `Medium`. Set `Font size` = `18px`.
-
-![about-us](img/aboutus-text.jpg)
-
-On **ADVANCED**. In `Style for theme` select `Kitchenary`.
-
-![about-us](img/aboutus-advanced.jpg)
-
-
 ### Recent Blog Posts
 
 ![edit-recent-blog](img/edit-recent-blog.jpg)
@@ -377,63 +276,6 @@ On **ADVANCED**. In `Style for theme` select `Kitchenary`.
 You can add blog posts in Storefront > Blog. Click the **+** button to add a new blog post. Make sure **Blog Visibility** is `on`.
 
 To display the **recent blog** posts on the home page, go to **Page Builder**. In **Theme Styles** > **Home Page**, make sure one of Sections has typed `blog_recent`. Scroll down the Recent Blog section, you can configure **Heading**, **Number of posts** to display.
-
-### Customer Reviews
-
-![customer-reviews](img/customer-reviews.jpg)
-
-Drag & drop **Layout** widget to the corresponding position.select Image in the Background section to upload your image, change image fit to fill. Change **Column** = `1`. Select **Column 1**, set **Padding** = `0 0 0 0`.
-
-Drag & drop **Section Heading | PapaThemes Beautify** widget into the **Layout**. Typing your text (example "Customer Reviews"), select `custom` in **Text style** field, set **Font size** = `32px`, **Font size (Mobile)** = `20px`, **Text color** = `#FFFFFF`, **Padding** = `52 0 40 0`, **Padding (Mobile)** = `30 0 6 0`.
-
-Drag & drop **Customer Reviews | PapaThemes Beautify** widget below **Section Heading | PapaThemes Beautify** widget. Make sure to remove all reviews except for the first one.
-
-For each review, provide the following details:
-
-**Title**: Enter the title of the review.
-
-**Content**: Write the content of the review.
-
-**Rating**: Choose the desired number of review stars.
-
-**Author**: Specify the name of the reviewer.
-
-To maintain consistency in the theme, select `Beautify Furniture` in the **Style for theme** option.
-
-If you want to add more reviews, duplicate the first review as many times as needed and update the content for each review.
-
-**Watch the instruction video:**
-
-<iframe width="760" height="515" src="https://www.youtube.com/embed/CKuhCOSMPR4?si=HomGPI60tzLj5bQD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-
-
-### Newsletter
-
-![edit-newsletter](img/edit-newsletter.jpg)
-
-To enable newsletter form, go to **Marketing** > **Email Marketing**, make sure **Allow Newsletter Subscriptions** is checked. Optionally select **Show Newsletter Summary** and enter the summary text as you want.
-
-Go to Page Builder, in **Theme Styles** > **Footer** > **Newsletter** section.
-
-Make sure **Show newsletter form** is selected. You can change the **Heading**, **background color**, **background image**, **button** and **text colors**.
-
-**Watch the instruction video:**
-
-<iframe width="760" height="515" src="https://www.youtube.com/embed/K25Fthor0jE?si=LcO3xJm3V_f8-HAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-### Newsletter Popup
-
-![newsletter-popup](img/newletter-popup.jpg)
-
-**Newsletter Popup**use the same content and heading with **Newsletter** in footer. Please find instruction to change content in **Newsletter**.
-
-To change delay time and show up again peropd for display **Newsletter Popup**, in **Theme styles** > **General** > **Newsletter Popup** change **Show after page loaded (sec)** for delay time to display the popup, change **Don't show up again (sec)** for the popup re-appear again.
-
-To change image in **Newsletter popup**, simply copy and paste your Image URL to **Newsletter Popup background URL**
-
-![edit-newsletter-popup](img/newletter-popup-edit.jpg)
-
 
 ### Footer
 
