@@ -487,7 +487,7 @@ In **GENERAL**. Set **Width (Desktop)**, **Width (Tablet)** , **Width (Mobile)**
 
 Recently Viewed Products will be display automatically viewed any product.
 
-You can configure recently viewed products section settings in **Page Builder** > **Theme Styles** > **Home Page**, make sure one of the **Sections** has typed `recentviewed`. In **Recently Viewed Products** section, you can change the **Heading**, **Number of products** to display, Number of product per row (**Columns**), changing **Display type** to `Carousel` or `Grid`, changing the **background color**, editing the link of **View all products**.
+You can configure recently viewed products section settings in **Page Builder** > **Theme Styles** > **Home Page**, make sure one of the **Sections** fill input = `viewed` to enable this block.
 
 ### Customer Service
 
