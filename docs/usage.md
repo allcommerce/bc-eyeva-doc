@@ -1017,6 +1017,67 @@ To display the additional information link in the product detail page:
 
 In **Products**, select the product you want to display the link. Find **Custom Fields**, created new custom field. Set **Custom Fields Name** = `__guide_popup` and **Custom Fields Value** = `<your page name>|<Page URL>` (example: `Instruction|/instruction/`) then save.
 
+### Modal Option PDP
+
+To enable/disable the modal for selecting options in a product, you need to create the **Modifier Options** for the product first. Then, scroll down to find the **Custom Fields** section. Set the **Custom Field Name** = `__@modifiers_modal` and the **Custom Field Value** = `1` to enable the options modal or `0` to disable it.
+
+![Modal Option PDP](img/option-modal-on.jpg)
+
+To change the content of the "Select Option" button, go to the **Custom Fields** section. Set the **Custom Field Name** to `__@select_modifiers` and the **Custom Field Value** to the desired content.
+
+![Modal Option PDP](img/option-modal-button.jpg)
+
+To group multiple options into a single step in the option modal, set the **Custom Field Name** to `__@group + [title]` and the **Custom Field Value** to the Option Names you want to group together.
+
+![Modal Option PDP](img/option-modal-group.jpg)
+
+To change the title of each modifier option, set the **Custom Field Name** = `__@rename + [title to be changed]` and the **Custom Field Value** to the Option Names you want to modify.
+
+![Modal Option PDP](img/option-modal-rename.jpg)
+
+To add a description for a modifier option in the modal, set the **Custom Field Name** = `__@tooltip + [Option Name]` and the **Custom Field Value** to the desired description of the option.
+
+![Modal Option PDP](img/option-modal-tooltip-2.jpg)
+
+To add a description for each value of an option in the modal, set the **Custom Field Name** = `__@tooltip + [Option Name]: [Value]` and the **Custom Field Value** to the desired description of the value.
+
+![Modal Option PDP](img/option-modal-tooltip.jpg)
+
+To select a value of a parent option inside the modal and switch to that option while skipping the modals of other options, set the **Custom Field Name** = `__@hide_if + [Option]: [Selected Value]` and the **Custom Field Value** to the values you want to skip in the parent option.
+
+Step 1:
+
+![Modal Option PDP](img/option-modal-skip.jpg)
+
+Step 2:
+
+![Modal Option PDP](img/option-modal-skip-2.jpg)
+
+To set a non-sale price for each value of an option, you need to configure the rules for the Option Modifiers. Then, set the **Custom Field Name** = `"__@nonsale + [amount]"` and the **Custom Field Value** = `[Option Name]: [Values]` that should have the discount applied.
+
+![Modal Option PDP](img/option-modal-nonsale.jpg)
+
+### Image Product 360
+
+To create a 360-degree image of a product in the gallery, set the **Custom Field Name** = `__@360` and the Custom Field Value to the link of the image containing all angles of the product. Once saved, a button will appear on the product card and within the product detail page (PDP) to display the 360-degree modal of the product.
+
+PDP:
+
+![Image Product 360](img/image-360-pdp.jpg)
+
+Product Card:
+
+![Image Product 360](img/image-360-pdc.jpg)
+
+### Variant Options Stepper
+
+First, create a Variant Option with the type Rectangle List. Then, scroll down to find the Custom Fields section and add:
+
+  - **Custom Field Name** = `__@stepper`.
+  - **Custom Field Value** = the Rectangle List options in the Variant Option that need a UI change.
+
+![Variant Options Stepper](img/stepper-list.jpg)
+
 ### Below add to cart banner
 
 To create **Below add to cart banner**, in **Page builder** drag and drop **Layout widget** to corresponding position.
