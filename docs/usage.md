@@ -480,32 +480,189 @@ To edit color background of this section, select your color in **Background** an
 
 To change background image of this section. Enter link image into the **Best-sellers products background image link** input fit to design.
 
+### Homepage Banners under Popular Products
+
+To create **Banners** :
+
+**Desktop**:
+
+![graphic-banner-homepage](img/banner-homepage.jpg)
+
+In **Page Builder**, drag & drop **Layout** widget to the corresponding position. Change **Name** = `Layout - Desktop Only`, set **Padding** = `0 0 0 0`.
+
+In **Column 1**, set **Padding (px)** = `0 0 0 64`. Drag & drop **Section Heading | PapaThemes Beautify** to the corresponding position and fill in your content.
+
+In **Section Heading | PapaThemes Beautify**, set **Text style** = `Custom`. **Font weight** = `Normal`. In **Margin** and **Margin (Mobile)** = `0 0 24 0`. In **Padding** and **Padding (Mobile)** = `0 0 0 0`.
+
+Drag & drop **HTML** widget to the corresponding position. paste the given code below to the HTML editor, then click Save HTML button.
+
+```html
+<div class="eyeva-style">
+  <p class="mb-0 des-mb-16">
+    <a href="/eyeglasses/" class="button button--small button--primary">Browse Women</a>
+    <a href="/sunglasses/" class="button button--small button--primary">Browse Man</a>
+  </p>
+  <p>
+    <a href="#">
+      Start with a style quiz
+      <i class="icon"><svg><use href="#icon-chevron-right"></use></svg></i>
+    </a>
+  </p>
+</div>
+
+```
+In **Column 2**, set **Padding (px)** = `0 0 0 0`. Drag & drop **Flex Banners | PapaThemes Beautify** widget into the **Column 2**. Remove all banner except banner 1.
+
+To edit **Banner 1**, change your image, set **Image width** and **Image height** = `1500px`. Set **Border radius** = `0px`. In **CONTENT** section, hide **Heading text**.
+
+To show on desktop and hide on mobile. Drag and drop **Responsive | PapaThemes** on top **Layout** created.
+
+In **Screen Size 1** and **Screen Size 2**. Set `Display` = `Hide`.
+
+![graphic-banner-homepage](img/edit-graphic-banner-response.jpg)
+
+**Mobile**:
+
+![graphic-banner-homepage](img/banner-homepage-mobile.jpg)
+
+In **Page Builder**, drag & drop **Layout** widget to the corresponding position. Change **Name** = `Layout - Mobile Only`, set **Padding** = `0 0 0 0`.
+
+In **Column 1**, set **Padding (px)** = `0 0 0 0`. Drag & drop **Image** to the corresponding position and change your image.
+
+In **Column 2**, set **Padding (px)** = `0 16 0 16`. Drag & drop **Section Heading | PapaThemes Beautify** to the corresponding position and fill in your content.
+
+In **Section Heading | PapaThemes Beautify**, set **Text style** = `Custom`. **Font size** and **Font size (Mobile)** = `28px`, **Font weight** = `Normal`. In **Margin** = `0 0 0 0`, **Margin (Mobile)** = `16 0 24 0`. In **Padding** and **Padding (Mobile)** = `0 0 0 0`.
+
+Drag & drop **HTML** widget to the corresponding position. paste the given code below to the HTML editor, then click Save HTML button.
+
+```html
+<div class="eyeva-style">
+  <p class="mb-0 des-mb-16">
+    <a href="/eyeglasses/" class="button button--small button--primary">Browse Women</a>
+    <a href="/sunglasses/" class="button button--small button--primary">Browse Man</a>
+  </p>
+  <p>
+    <a href="#">
+      Start with a style quiz
+      <i class="icon"><svg><use href="#icon-chevron-right"></use></svg></i>
+    </a>
+  </p>
+</div>
+```
+
+To hide on desktop and show on mobile. Drag and drop **Responsive | PapaThemes** on top **Layout** created.
+
+In **Screen Size 3**, **Screen Size 4** and **Screen Size 5**. Set `Display` = `Hide`.
+
+![graphic-banner-homepage](img/edit-graphic-banner-response-mobile.jpg)
+
 ### Grid layout banners
 
-![grid-man-banners](img/three-men-banner.jpg)
+![grid-layout-banners](img/grid-layout-banner.jpg)
 
-To create **grid layout banners** :
+To create **grid layout banners**:
 
 In **Page Builder**, drag & drop **Layout** widget to the corresponding position. Change **Column** = `1`, set **Padding** = `0 0 0 0`.
 
+Drag & drop **Flex Banners | PapaThemes Beautify** widget into the **Layout**. Remove all banner except **Banner 1**.
+
+To edit **Banner 1**, change your image, set **Image width** = `1824px`, **Image height** = `1200px`. Set **Image fit** = `Fit to box`, **Border radius** = `0px`.
+
+In **CONTENT**, hide **Heading text** and show **Action button**. Edit **Action button**, set `Style` = `Custom`, `Radius` = `25px`, `Color` = `#FFFFFF`, `Color hover` = `#2D73BD`, `Text color` = `#000000`.
+
+In **GENERAL**, edit **Width** = `%`, set `Value (Desktop)`, `Value (Tablet)` = `50%`, `Value (Mobile)` = `100%`. Edit **Padding**, set `Desktop` = `0 16 0 0`, `Tablet` = `0 8 0 0`, `Mobile` = `0 0 8 0`.
+
+Click **Settings** of **Flex Banners | PapaThemes Beautify**.
+
+In **Padding**, set `Desktop` = `0 32 0 32`, `Tablet` and `Mobile` = `0 16 0 16`.
+
+In **Row wrap**, choose `Row no wrap` on table and `Row no wrap on mobile`.
+
+Deselect **Display banners in container div** and select **Display content overlaying banner on mobile**.
+
+![grid-layout-banners](img/grid-layout-settings.jpg)
+
+### Homepage Banner Under Featured Products
+
+![grid-layout-banners](img/layout-banner.jpg)
+
+In **Page Builder**, drag & drop **Layout** widget to the corresponding position. Change `Column` = `1`, set `Padding` = `0 0 0 0`.
+
 Drag & drop **Flex Banners | PapaThemes Beautify** widget into the **Layout**. Remove all banner except banner 1.
 
-To edit **Banner 1**, change your image, set **Image width** = `1024px`, **Image height** = `500px`. Click **Show different image on mobile**, change your image in mobile, set **Image width** = `550px`, **Image height** = `500px`. Set **Border radius** = `0px`.
+To edit **Banner 1**, change your image, set `Image width` = `3000px`, `Image height` = `1000px`. Click **Show different image on mobile**, change your image in mobile, set `Image width` = `1000px`, `Image height` = `1000px`. Set `Border radius` = `0px`.
 
-In **CONTENT**, hide `Heading text`.
+In **CONTENT**, set **Content align** vertical = `center`, `Content padding` = `40 320 40 128`, `Content padding (Tablet)` = `40 320 40 16`. Click show `Description text` and `Action button`.
 
-In **GENERAL**. Set **Width (Desktop)** and **Width (Tablet)** = `40%`, **Width (Mobile)** = `100%`. Set **Padding (Desktop)** = `0 15 15 0`, **Padding (Tablet)** = `0 10 10 0`, **Padding (Mobile)** = `0 0 0 0`.
+In **GENERAL**. Set `Width (Desktop)`, `Width (Tablet)` and `Width (Mobile)` = `100%`. Set `Padding (Desktop)`, `Padding (Tablet)` and `Padding (Mobile)` = `0 0 0 0`.
 
-Duplicate banner 1 to 2 banners.
+### Homepage Banner Under New Products
 
-In **Banner 2**, change your image, set **Image width** = `1536px`, **Image height** = `500px`. Click **Show different image on mobile**, change your image in mobile, set **Image width** = `550px`, **Image height** = `450px`. Set **Border radius** = `0px`.
+To create **Banners** :
 
-In **GENERAL**. Set **Width (Desktop)** and **Width (Tablet)** = `60%`, **Width (Mobile)** = `100%`. Set **Padding (Desktop)** = `0 0 15 15`, **Padding (Tablet)** = `0 0 10 10`, **Padding (Mobile)** = `0 0 0 0`.
+**Desktop**:
 
-In **Banner 3**, change your image, set **Image width** = `2560px`, **Image height** = `450px`. Click **Show different image on mobile**, change your image in mobile, set **Image width** = `550px`, **Image height** = `400px`. Set **Border radius** = `0px`.
+![graphic-banner-homepage](img/banner-homepage-new-product.jpg)
 
-In **GENERAL**. Set **Width (Desktop)**, **Width (Tablet)** , **Width (Mobile)** = `100%`. Set **Padding (Desktop)** = `15 0 0 0`, **Padding (Tablet)** = `10 0 0 0`, **Padding (Mobile)** = `0 0 0 0`.
+In **Page Builder**, drag & drop **Layout** widget to the corresponding position. Change **Name** = `Layout - Desktop Only`, set **Padding (px)** = `48 0 48 0`.
 
+In **Column 1**, set **Padding (px)** = `0 0 0 64`. Drag & drop **Section Heading | PapaThemes Beautify** to the corresponding position and fill in your content.
+
+In **Section Heading | PapaThemes Beautify**, set **Text style** = `Custom`. **Font weight** = `Normal`. In **Margin** and **Margin (Mobile)** = `0 0 24 0`. In **Padding** and **Padding (Mobile)** = `0 0 0 0`.
+
+Drag & drop **HTML** widget to the corresponding position. paste the given code below to the HTML editor, then click Save HTML button.
+
+```html
+<div class="eyeva-style">
+  <p class="des-mb-0 flex gap-16 des-m-0">
+    <a href="/eyeglasses/" class="button button--small button--primary">Browse Women</a>
+    <a href="/sunglasses/" class="button button--small button--primary">Browse Man</a>
+  </p>
+</div>
+
+```
+In **Column 2**, set **Padding (px)** = `0 0 0 0`. Drag & drop **Flex Banners | PapaThemes Beautify** widget into the **Column 2**. Remove all banner except banner 1.
+
+To edit **Banner 1**, change your image, set **Image width** and **Image height** = `600px`. Set **Border radius** = `0px`. In **CONTENT** section, hide **Heading text**.
+
+To show on desktop and hide on mobile. Drag and drop **Responsive | PapaThemes** on top **Layout** created.
+
+In **Screen Size 1**. Set `Display` = `Hide`.
+
+![graphic-banner-homepage](img/edit-banner-new-product.jpg)
+
+**Mobile**:
+
+![graphic-banner-homepage](img/banner-homepage-new-product-mobile.jpg)
+
+In **Page Builder**, drag & drop **Layout** widget to the corresponding position. Change **Name** = `Layout - Mobile Only`, set **Padding (px)** = `16 0 16 0`.
+
+In **Column 1**, set **Padding (px)** = `0 0 0 0`. Drag & drop **Image** to the corresponding position and change your image.
+
+In **Column 2**, set **Padding (px)** = `0 16 0 16`. Drag & drop **Section Heading | PapaThemes Beautify** to the corresponding position and fill in your content.
+
+In **Section Heading | PapaThemes Beautify**, set **Text style** = `Custom`. **Font size** and **Font size (Mobile)** = `28px`, **Font weight** = `Normal`. In **Margin** = `0 0 0 0`, **Margin (Mobile)** = `16 0 24 0`. In **Padding** and **Padding (Mobile)** = `0 0 0 0`.
+
+Drag & drop **HTML** widget to the corresponding position. paste the given code below to the HTML editor, then click Save HTML button.
+
+```html
+<div class="eyeva-style">
+  <p class="mb-0 des-mb-16">
+    <a href="/eyeglasses/" class="button button--small button--primary">Browse Women</a>
+    <a href="/sunglasses/" class="button button--small button--primary">Browse Man</a>
+  </p>
+  <p>
+    <a href="#">
+      Start with a style quiz
+      <i class="icon"><svg><use href="#icon-chevron-right"></use></svg></i>
+    </a>
+  </p>
+</div>
+```
+
+To hide on desktop and show on mobile. Drag and drop **Responsive | PapaThemes** on top **Layout** created.
+
+In **Screen Size 3**, **Screen Size 4** and **Screen Size 5**. Set `Display` = `Hide`.
 
 ### Recently Viewed Products
 
@@ -515,45 +672,11 @@ Recently Viewed Products will be display automatically viewed any product.
 
 You can configure recently viewed products section settings in **Page Builder** > **Theme Styles** > **Home Page**, make sure one of the **Sections** has typed `recentviewed`. In **Recently Viewed Products** section, you can change the **Heading**, **Number of products** to display, Number of product per row (**Columns**), changing **Display type** to `Carousel` or `Grid`, changing the **background color**, editing the link of **View all products**.
 
-### Customer Service
-
-![customer-service](img/customer-service.jpg)
-
-To enable **Customer service**, in **Theme Styles** > **Homepage** > **Section** choose one of sections and type `customer_service` to enable this block.
-
-To change color background of this section click on Background and select color fit to design.
-
-This section allow user change section tiltle, in **Hompage** find **Customer service** type your text in Heading.
-
-- **Phone number**: will automatically collect number from store profile.
-- **Whapsapp**: To change Whatsapp number, go to **Footer** find **+Whatsapp** and type your number in the input field.
-- **Email**: To change email number, go to **Footer** find **+Email** and type your email address in the input field.
-
 ![whatsapp-email](img/whatsapp-email.jpg)
 
 To change Background of button, go to **General** find **General colors** change **Secondary color** to your color.
 
 To change **Text**, **Icon**, color go to **General** find **Links colors** change **Default** to your color.
-
-### About us
-
-You can add About us block on Home Page. Drag & drop **Leaderboard Banner | PapaThemes Beautify** widget to the corresponding position.
-
-On **BANNER** at `Content align`, click vertical top. Set `Banner height` and `Banner height (mobile)` = `364px`. Set `Background color` = `#FFFFFF`. Set your image on `Image`. In `Image fit` select `Fit to box`.
-
-![about-us](img/aboutus-banner.jpg)
-
-On **HEADING**. In `Heading style` select `Custom`. In `Font weight` select `Bold`. Set `Font size` = `32px`. Set `Heading color`, `Heading color (mobile)` = `#C72E2E`.
-
-![about-us](img/aboutus-heading.jpg)
-
-On **TEXT**. In `Heading style` select `Custom`. In `Font weight` select `Medium`. Set `Font size` = `18px`.
-
-![about-us](img/aboutus-text.jpg)
-
-On **ADVANCED**. In `Style for theme` select `Kitchenary`.
-
-![about-us](img/aboutus-advanced.jpg)
 
 
 ### Recent Blog Posts
@@ -562,7 +685,7 @@ On **ADVANCED**. In `Style for theme` select `Kitchenary`.
 
 You can add blog posts in Storefront > Blog. Click the **+** button to add a new blog post. Make sure **Blog Visibility** is `on`.
 
-To display the **recent blog** posts on the home page, go to **Page Builder**. In **Theme Styles** > **Home Page**, make sure one of Sections has typed `blog_recent`. Scroll down the Recent Blog section, you can configure **Heading**, **Number of posts** to display.
+To display the **Recent blog** posts on the home page, go to **Page Builder**. In **Theme Styles** > **Home Page**, make sure one of Sections fill input `blog`. Scroll down the **Products** section, you can configure **Number of posts** to display.
 
 ### Customer Reviews
 
