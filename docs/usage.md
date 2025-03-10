@@ -37,7 +37,7 @@ Verify the widgets installed successfully if they appear in Page Builder:
 ![custom-widgets-appear](img/custom-widgets-appear.jpg)
 
 
-## Setting Up Man Style Home Page
+## Setting Up Glasses Style Home Page
 
 To start customizing the theme, login to your admin panel, go to **Storefront** > **My Themes**, click **Customize** button next to theme thumbnail.
 
@@ -432,13 +432,13 @@ Click on the plus button next to **PRODUCT TAGS PAPATHEMES DINOSAUR** to create 
 
 <iframe width="760" height="515" src="https://www.youtube.com/embed/Kq7EcW4wAmQ?si=k2_EUcsCyJubNkRF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; pictre-in-picture; web-share" allowfullscreen></iframe>
 
-### Special Products Tabs
+### Bestselling Products
 
-![special-products-tabs](img/special-products-tabs.jpg)
+![bestselling-products](img/Popular-product.jpg)
 
-You can configure special products tabs section settings in **Page Builder** > **Theme Styles** > **Home Page**, make sure one of the **Sections** field type `spt`.
+Bestselling products only display when your store has some order.
 
-In **New / Featured / Bestselling Tabs** section, Change **Number of products** = `5` and **Number of products load more on viewport** = `0`. You can change **Default tab** to `Featured`, `Bestselling` or `New`. **Display type** can be changed to `Carousel` or `Grid`. **Show more button**, **featured products**, **bestselling products**, **new products**, **categories** can be enabled by checked box.
+You can configure bestselling products section settings in **Page Builder** > **Theme Styles** > **Home Page**, make sure one of the **Sections** fill input = `bestselling`. In **Products** section, you can change **Number of most popular products** to display, changing **Most popular products display** to `Carousel` or `Grid`.
 
 ### Featured Products
 
@@ -446,39 +446,13 @@ In **New / Featured / Bestselling Tabs** section, Change **Number of products** 
 
 You can set featured products in **Products**, click the **star** icon on the same row to set the product as featured.
 
-Go back to **Page Builder** > **Theme Styles** > **Home Page**, make sure one of the **Sections** has typed `featured_products`. In **Featured products** section, you can change the **Heading**, **Number of products** to display, Number of product per row (**Columns**), changing **Display type** to `Carousel` or `Grid`, changing the **background color**, editing the link of **View all products**.
-
-![featured-products](img/Feature-products-2.jpg)
-
-To edit color background of this section, select your color in **Background** and type empty input `Featured products background image link` in **Featured products**.
-
-To change background image of this section. Enter link image into the **Featured products background image link** input fit to design.
+Go back to **Page Builder** > **Theme Styles** > **Home Page**, make sure one of the **Sections** fill input = `featured_products`. In **Products** section, you can change **Number of featured products** to display, changing **Featured products display** to `Carousel` or `Grid`.
 
 ### New Products
 
 ![new-products](img/New-products.jpg)
 
-You can configure new products section settings in **Page Builder** > **Theme Styles** > **Home Page**, make sure one of the **Sections** has typed `new_products` . In **New products** section, you can change the **Heading**, **Number of products** to display, Number of product per row (**Columns**), changing **Display type** to `Carousel` or `Grid`, changing the **background color**, editing the link of **View all products**.
-
-![new-products](img/New-products-2.jpg)
-
-To edit color background of this section, select your color in **Background** and type empty input `New products background image link` in **New products**.
-
-To change background image of this section. Enter link image into the **New products background image link** input fit to design.
-
-### Bestselling Products
-
-![bestselling-products](img/Popular-product.jpg)
-
-Bestselling products only display when your store has some order.
-
-You can configure bestselling products section settings in **Page Builder** > **Theme Styles** > **Home Page**, make sure one of the **Sections** has typed `popular_products`. In **Best-sellers products** section, you can change the **Heading**, **Number of products** to display, Number of product per row (**Columns**), changing **Display type** to `Carousel` or `Grid`, changing the **background color**, editing the link of **View all products**.
-
-![bestselling-products](img/Popular-product-2.jpg)
-
-To edit color background of this section, select your color in **Background** and type empty input `Best-sellers products background image link` in **Best-sellers products**.
-
-To change background image of this section. Enter link image into the **Best-sellers products background image link** input fit to design.
+You can configure new products section settings in **Page Builder** > **Theme Styles** > **Home Page**, make sure one of the **Sections** fill input = `new`. In **Products** section, you can change the **Number of new products** to display, changing **New products display** to `Carousel` or `Grid`
 
 ### Grid layout banners
 
@@ -513,7 +487,7 @@ In **GENERAL**. Set **Width (Desktop)**, **Width (Tablet)** , **Width (Mobile)**
 
 Recently Viewed Products will be display automatically viewed any product.
 
-You can configure recently viewed products section settings in **Page Builder** > **Theme Styles** > **Home Page**, make sure one of the **Sections** has typed `recentviewed`. In **Recently Viewed Products** section, you can change the **Heading**, **Number of products** to display, Number of product per row (**Columns**), changing **Display type** to `Carousel` or `Grid`, changing the **background color**, editing the link of **View all products**.
+You can configure recently viewed products section settings in **Page Builder** > **Theme Styles** > **Home Page**, make sure one of the **Sections** fill input = `viewed` to enable this block.
 
 ### Customer Service
 
