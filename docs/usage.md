@@ -281,7 +281,30 @@ To display the **recent blog** posts on the home page, go to **Page Builder**. I
 
 ![footer](img/footer.jpg)
 
-In **Page Builder** > **Theme Styles** > **Footer**, you can configure the newsletter form appearance in **Newsletter** section, configure the footer link colors in **Main Footer** section, displaying store logo, contact info, store address,... **Show pages** allows to limit number of web page links to display. **Show categories** allows to limit number of category links to display. Similarly for **Show brands** option.
+In **Page Builder** > **Theme Styles** > **Footer**, you can configure the footer link colors, contact info ....
+
+You can create footer info inside the widget. Drag and drop the HTML into corresponding position, then copy the HTML below and click the **Save HTML** button.
+
+```html
+  <article class="footer-info-col">
+    <h3 class="footer-info-heading">Get a Prescription</h3>
+    <ul class="footer-info-list">
+        <li><a href="/book-an-eye-exam/">Book an eye exam</a></li>
+        <li><a href="/renew-a-prescription/">Renew a prescription</a></li>
+        <li><a href="/measure-your-pd/">Measure your PD</a></li>
+    </ul>
+  </article>
+```
+
+![footer](img/footer-info-col.jpg)
+
+**Phone text** allow changing the text along with the phone number in the input field based on the text below.
+
+```html
+  We're available by phone (<a href='tel:{phone}'>{phone}</a>) and chat today from 8 a.m.-11 p.m.
+```
+
+![footer](img/footer-contact-phone.jpg)
 
 **Payment Icons** allows to select which payment icons to display.
 
