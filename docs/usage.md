@@ -283,20 +283,25 @@ To display the **recent blog** posts on the home page, go to **Page Builder**. I
 
 In **Page Builder** > **Theme Styles** > **Footer**, you can configure the footer link colors, contact info ....
 
-You can create footer info inside the widget. Drag and drop the HTML into corresponding position, then copy the HTML below and click the **Save HTML** button.
+You can create title footer info inside the widget. Drag & drop **Section Heading | PapaThemes Beautify** to the corresponding position.
 
-```html
-  <article class="footer-info-col">
-    <h3 class="footer-info-heading">Get a Prescription</h3>
-    <ul class="footer-info-list">
-        <li><a href="/book-an-eye-exam/">Book an eye exam</a></li>
-        <li><a href="/renew-a-prescription/">Renew a prescription</a></li>
-        <li><a href="/measure-your-pd/">Measure your PD</a></li>
-    </ul>
-  </article>
-```
+Select the **Column 1** and change **Padding (px)** to `0 0 0 0`.
 
-![footer](img/footer-info-col.jpg)
+In **Section Heading | PapaThemes Beautify**, set `Heading tag` = `H3`, select `Text style` = `Custom`. Set `Font family` = `Inherit`, `Font weight` = `Semi Bold`, `Font size` and `Font size (Mobile)` = `14px`. Set `Alignment` = `left`. Set `Padding`, `Padding (Mobile)` = `0 0 0 0`, `Margin` and `Margin (Mobile)` = `0 0 16 0`.
+
+![footer](img/footer-info-title.jpg)
+
+In **Page builder** > **Custom Widget** find **Footer links | PapaThemes Beautify** widget then drag and drop the widget to corresponding position in **Footer**.
+
+Select the **Column 1** and change **padding** to `0 0 0 0`.
+
+In **design** you can type your link content and click on the **insert/edit link** button as picture below:
+
+![footer-links](img/footer-link-widget.jpg)
+
+In the popup window, copy your web link to `URL`. On the **Open links..** field you can select how your link could be open in **New Window** or **Current Window**
+
+![Insert-links](img/insert-links.jpg)
 
 **Phone text** allow changing the text along with the phone number in the input field based on the text below.
 
@@ -305,6 +310,19 @@ You can create footer info inside the widget. Drag and drop the HTML into corres
 ```
 
 ![footer](img/footer-contact-phone.jpg)
+
+You can create **Footer contact** inside the widget. Drag & drop the HTML into corresponding position, then copy the HTML below and click the **Save HTML** button.
+
+```html
+  <ul class="footer-contacts-callouts">
+    <li><a href="/faq"><i class="icon" aria-hidden="true"><svg><use href="#icon-comments-question-check"></use></svg></i>FAQ</a></li>
+    <li><a href="#text-message"><i class="icon" aria-hidden="true"><svg><use href="#icon-message-dots"></use></svg></i>Text</a></li>
+    <li><a href="#chat"><i class="icon" aria-hidden="true"><svg><use href="#icon-messages"></use></svg></i>Chat</a></li>
+    <li><a href="mailto:contact@papathemes.com"><i class="icon" aria-hidden="true"><svg><use href="#icon-envelope"></use></svg></i>Email</a></li>
+</ul>
+```
+
+![footer](img/footer-contact-col.jpg)
 
 **Payment Icons** allows to select which payment icons to display.
 
@@ -336,20 +354,6 @@ To create the title, drag & drop the **Section Heading** widget to above the Ins
 **Watch the instruction video:**
 
 <iframe width="760" height="515" src="https://www.youtube.com/embed/iUCG6iXI0zg?si=MMQGRbdEEY3D6KBP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-### Display Custom Footer Links
-
-In **Page builder** > **Custom Widget** find **Footer links | PapaThemes Beautify** widget then drag and drop the widget to corresponding position in **Footer**.
-
-Select the **Column 1** and change **padding** to `0 0 0 0`.
-
-In **design** you can type your link content and click on the **insert/edit link** button as picture below:
-
-![footer-links](img/footer-link-widget.jpg)
-
-In the popup window, copy your web link to `URL`. On the **Open links..** field you can select how your link could be open in **New Window** or **Current Window**
- 
- ![Insert-links](img/insert-links.jpg)
 
 ## Customizing Products Display
 
