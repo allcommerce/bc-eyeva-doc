@@ -281,7 +281,48 @@ To display the **recent blog** posts on the home page, go to **Page Builder**. I
 
 ![footer](img/footer.jpg)
 
-In **Page Builder** > **Theme Styles** > **Footer**, you can configure the newsletter form appearance in **Newsletter** section, configure the footer link colors in **Main Footer** section, displaying store logo, contact info, store address,... **Show pages** allows to limit number of web page links to display. **Show categories** allows to limit number of category links to display. Similarly for **Show brands** option.
+In **Page Builder** > **Theme Styles** > **Footer**, you can configure the footer link colors, contact info ....
+
+You can create title footer info inside the widget. Drag & drop **Section Heading | PapaThemes Beautify** to the corresponding position.
+
+Select the **Column 1** and change **Padding (px)** to `0 0 0 0`.
+
+In **Section Heading | PapaThemes Beautify**, set `Heading tag` = `H3`, select `Text style` = `Custom`. Set `Font family` = `Inherit`, `Font weight` = `Semi Bold`, `Font size` and `Font size (Mobile)` = `14px`. Set `Alignment` = `left`. Set `Padding`, `Padding (Mobile)` = `0 0 0 0`, `Margin` and `Margin (Mobile)` = `0 0 16 0`.
+
+![footer](img/footer-info-title.jpg)
+
+In **Page builder** > **Custom Widget** find **Footer links | PapaThemes Beautify** widget then drag and drop the widget to corresponding position in **Footer**.
+
+Select the **Column 1** and change **padding** to `0 0 0 0`.
+
+In **design** you can type your link content and click on the **insert/edit link** button as picture below:
+
+![footer-links](img/footer-link-widget.jpg)
+
+In the popup window, copy your web link to `URL`. On the **Open links..** field you can select how your link could be open in **New Window** or **Current Window**
+
+![Insert-links](img/insert-links.jpg)
+
+**Phone text** allow changing the text along with the phone number in the input field based on the text below.
+
+```html
+  We're available by phone (<a href='tel:{phone}'>{phone}</a>) and chat today from 8 a.m.-11 p.m.
+```
+
+![footer](img/footer-contact-phone.jpg)
+
+You can create **Footer contact** inside the widget. Drag & drop the HTML into corresponding position, then copy the HTML below and click the **Save HTML** button.
+
+```html
+  <ul class="footer-contacts-callouts">
+    <li><a href="/faq"><i class="icon" aria-hidden="true"><svg><use href="#icon-comments-question-check"></use></svg></i>FAQ</a></li>
+    <li><a href="#text-message"><i class="icon" aria-hidden="true"><svg><use href="#icon-message-dots"></use></svg></i>Text</a></li>
+    <li><a href="#chat"><i class="icon" aria-hidden="true"><svg><use href="#icon-messages"></use></svg></i>Chat</a></li>
+    <li><a href="mailto:contact@papathemes.com"><i class="icon" aria-hidden="true"><svg><use href="#icon-envelope"></use></svg></i>Email</a></li>
+</ul>
+```
+
+![footer](img/footer-contact-col.jpg)
 
 **Payment Icons** allows to select which payment icons to display.
 
@@ -294,14 +335,15 @@ In **Page Builder** > **Theme Styles** > **Footer**, you can configure the newsl
 
 ### Instagram photos
 
+![instagram](img/instagram-photos.jpg)
+
 To display your Instagram photos, open <https://instagram.papathemes.com/> Follow the instruction on this page to [Connect your Facebook Page with your Instagram account](https://www.facebook.com/business/help/898752960195806). Then click **Login With Facebook** button and follow the further steps to authorize access permission. Click **Show Embedding Code** button to generate the code embedding to your web store. Choose **Preset** = `Carousel` and select **LazyLoad**.
 
 Copy all the code appear in Step 1 & Step 2. For example:
 
 ```html
-<script>!function(){var a=document.createElement("script");a.defer=!0,a.src="https://papathemes.s3.amazonaws.com/instagramapp/assets/js/embed-1.0.1.js",a.onload=function(){PapathemesInstagramApp.init({account_id:"****************",element_id:"papainstagram-render",limit:"20",preset:"grid",lazyload:"false"})},document.body.appendChild(a)}();</script>
-
-<div id="papainstagram-render"></div>
+<div id="papainstagram-render" class="container">Instagram Feed</div>
+<script>!function(){var a=document.createElement("script");a.defer=!0,a.src="https://papathemes.s3.amazonaws.com/instagramapp/assets/js/embed-1.0.1.js",a.onload=function(){PapathemesInstagramApp.init({account_id:"102757428623728",element_id:"papainstagram-render",limit:"20",preset:"grid",lazyload:"false"})},document.body.appendChild(a)}();</script>
 ```
 
 Go back to your store Page Builder. Drag & drop the HTML widget to the corresponding position. Paste the generated code above to the HTML editor, and click **Save HTML** button. Your Instagram photos should display like our demo store.
@@ -313,20 +355,6 @@ To create the title, drag & drop the **Section Heading** widget to above the Ins
 **Watch the instruction video:**
 
 <iframe width="760" height="515" src="https://www.youtube.com/embed/iUCG6iXI0zg?si=MMQGRbdEEY3D6KBP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-### Display Custom Footer Links
-
-In **Page builder** > **Custom Widget** find **Footer links | PapaThemes Beautify** widget then drag and drop the widget to corresponding position in **Footer**.
-
-Select the **Column 1** and change **padding** to `0 0 0 0`.
-
-In **design** you can type your link content and click on the **insert/edit link** button as picture below:
-
-![footer-links](img/footer-link-widget.jpg)
-
-In the popup window, copy your web link to `URL`. On the **Open links..** field you can select how your link could be open in **New Window** or **Current Window**
- 
- ![Insert-links](img/insert-links.jpg)
 
 ## Customizing Products Display
 
