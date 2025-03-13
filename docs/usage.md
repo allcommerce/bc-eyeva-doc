@@ -529,47 +529,62 @@ Note:
 
 
 
-### Modal Option PDP
+### Create modal step by step modifier option
 
+#### Enable modal
 To enable/disable the modal for selecting options in a product, you need to create the **Modifier Options** for the product first. Then, scroll down to find the **Custom Fields** section. Set the **Custom Field Name** = `__@modifiers_modal` and the **Custom Field Value** = `1` to enable the options modal or `0` to disable it.
-
+Then go to **Page builder** > **Producs** > **Display setting** enable **Show modifiers in modal**
 ![Modal Option PDP](img/option-modal-on.jpg)
 
-To change the content of the "Select Option" button, go to the **Custom Fields** section. Set the **Custom Field Name** to `__@select_modifiers` and the **Custom Field Value** to the desired content.
+#### Change button name
+
+To change the content of the **"Select Option" button**, go to the **Custom Fields** section. Set the **Custom Field Name** to `__@select_modifiers` and the **Custom Field Value** to the desired content.
 
 ![Modal Option PDP](img/option-modal-button.jpg)
 
-To group multiple options into a single step in the option modal, set the **Custom Field Name** to `__@group + [title]` and the **Custom Field Value** to the Option Names you want to group together.
+#### Grouping modifier option
+
+To group multiple options into a single step in the option modal, set the **Custom Field Name** to `__@group [title]` and the **Custom Field Value** = `Option Names;Option Name` you want to group together, separate each option by `;`.
 
 ![Modal Option PDP](img/option-modal-group.jpg)
 
-To change the **name** of each modifier option in Modal, set the **Custom Field Name** = `__@rename + [title to be changed]` where `[title to be changed]` is the name of modifier that you want to modify and the **Custom Field Value** = `new name`.
+
+#### Change title of modal option
+To change the **title** of each modifier option in Modal, set the **Custom Field Name** = `__@rename [title to be changed]` where `[title to be changed]` is the name of modifier that you want to modify and the **Custom Field Value** = `new name`.
 
 ![Modal Option PDP](img/option-modal-rename.jpg)
 
-To add a description for a modifier option in the modal, set the **Custom Field Name** = `__@tooltip + [Option Name]` and the **Custom Field Value** to the desired description of the option.
+#### Add tooltip to Modifier Option Modal
+
+To add a description for a modifier option in the modal, set the **Custom Field Name** = `__@tooltip [Option Name]` and the **Custom Field Value** to the desired description of the option.
 
 ![Modal Option PDP](img/option-modal-tooltip-2.jpg)
 
-To add a description for each value of an option in the modal, set the **Custom Field Name** = `__@tooltip + [Option Name]: [Value]` and the **Custom Field Value** to the desired description of the value.
+#### Create assign menu
+
+![Modal Option PDP](img/assign-menu.jpg)
+
+Step 1: Create menu by create a modifier option have value similar to name modifier option that you want to assign.
+
+![Modal Option PDP](img/index-modifier-value.jpg)
+
+Step 2: To make client move to correspond modifier option when click on a value of menu, set the **Custom Field Name** = `__@hide_if [menu name]: [Selected Value]` and the **Custom Field Value** to the values you want to skip in the parent option.
+
+Example: 
+
+- **Custom Field Name** = `__@hide_if Prescription type:Progressives` 
+- **Custom Field Value** = `Single-vision type;Readers strength`
+
+![Modal Option PDP](img/Assign-menu-custom-field.jpg)
+
+To add a description for each value of an option in the menu, set the **Custom Field Name** = `__@tooltip [Option Name]: [Value]` and the **Custom Field Value** to the desired description of the value.
 
 ![Modal Option PDP](img/option-modal-tooltip.jpg)
 
-To select a value of a parent option inside the modal and switch to that option while skipping the modals of other options, set the **Custom Field Name** = `__@hide_if + [Option]: [Selected Value]` and the **Custom Field Value** to the values you want to skip in the parent option.
 
-Step 1:
-
-![Modal Option PDP](img/option-modal-skip.jpg)
-
-Step 2:
-
-![Modal Option PDP](img/option-modal-skip-2.jpg)
-
-To set a non-sale price for each value of an option, you need to configure the rules for the Option Modifiers. Then, set the **Custom Field Name** = `"__@nonsale + [amount]"` and the **Custom Field Value** = `[Option Name]: [Values]` that should have the discount applied.
+To set a non-sale price for each value of an option, you need to configure the rules for the Option Modifiers. Then, set the **Custom Field Name** = `"__@nonsale [amount]"` and the **Custom Field Value** = `[Option Name]: [Values]` that should have the discount applied.
 
 ![Modal Option PDP](img/option-modal-nonsale.jpg)
-
-Finally, go to **Page builder** > **Producs** > **Display setting** enable **Show modifiers in modal**
 
 ### Image Product 360
 
