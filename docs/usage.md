@@ -233,6 +233,14 @@ Recently Viewed Products will be display automatically viewed any product.
 
 You can configure recently viewed products section settings in **Page Builder** > **Theme Styles** > **Home Page**, make sure one of the **Sections** fill input = `viewed` to enable this block.
 
+### Display product column on Homepage
+
+To change number product display per slide, in **Page builder** > **Global** > **Product**.
+
+- **Columns on Desktop**: specify number column product display for Desktop.
+- **Columns on Tablet**: specify number column product display for Table.
+- **Columns on Mobile**: specify number column product display for Mobile.
+
 ### Featured Brands
 
 ![Featured-brand](img/brands.jpg)
@@ -392,10 +400,18 @@ By default quick-view buttons appear on all product cards. To hide it, go to **P
 
 ### Displaying product weight, dimensions on PDP
 
-Go to **Page Builder** > **Theme Styles** > **Products** > **Product Page**.
+Go to **Page Builder** > **Theme Styles** > **Products** > **Display setting**.
 
 - Tick **Show product weight** checkbox.
 - Tick **Show product dimensions** checkbox.
+
+### Display customer reviews tab on PDP
+
+![Customer-reivew](img/customer-reviews.jpg)
+
+Go to **Page Builder** > **Theme Styles** > **Products** > **Display setting** checked option **Show product reviews**.
+
+Specify number of product reviews displayed.
 
 ### Display sale badge on PDP
 
@@ -438,21 +454,19 @@ You can customize sale price label, before sale price label, retail price label 
 
 ![configure-price-labels](img/configure-price-labels.jpg)
 
+### Displaying Image gallery 
 
+#### limit number thumbnail display
 
+To change number thumbnail display at image gallery go to **Page Builder** > **Theme Styles** > **Products** > **Display setting** enter your number to **Visible thumbnails**.
 
-### Numbers of products display
+#### Displaying product image thumbnails vertically
 
-In **Page Builder** > **Theme Styles** > **Products** > **Number of products displayed**:
+In **Page Builder** > **Theme Styles** > **Products** > **Display setting**, checked **Show vertical thumbnails** to display product thumbnails vertically, otherwise it's displayed horizontally.
 
-- **Category page**: Specifying number of products display per page.
-- **Brand page**: Specifying number of products displayed per page.
-- **Search result page**: Specifying number of products displayed per page.
-- **Product page (related products)**: Specifying number of products displayed
-- **Product page (customers also viewed products)**: Specifying number of products displayed
+![thumbnails-vertically](img/thumbnail-vertical.jpg)
 
-
-
+To specify the number thumbnail display in slider simply enter your desire number in **Number of visible thumbnails**.
 
 ### Configuring image sizes
 
@@ -473,7 +487,23 @@ To enable shipping countdown, **Theme styles** > **Product page**  find **shippi
 To disable shipping countdown simply leave **shipping countdown** field empty.
 
 Note: The time before cut off the message will show **shipping today** after cut off the message will show **shipping tomorrow**
+### Close description, custom field, warranty and reviews tab by default
 
+In **Page Builder** > **Theme Styles** > **Products** > **Display setting** and checked option below:
+
+- Collapse description by default
+- Collapse custom fields by default
+- Collapse warranty by default
+- Collapse reviews by default
+
+### Displaying product custom fields in a separated tab
+
+In **Page Builder** > **Theme Styles** > **Products** > **Display setting**:
+
+- Tick **Show custom fields in tab** checkbox.
+- Enter the tab title in the next **Product custom fields tab label** box.
+
+![product-custom-fields-tab](img/product-custom-fields-tab.jpg)
 
 ### Flash sales
 
@@ -513,7 +543,7 @@ To group multiple options into a single step in the option modal, set the **Cust
 
 ![Modal Option PDP](img/option-modal-group.jpg)
 
-To change the title of each modifier option, set the **Custom Field Name** = `__@rename + [title to be changed]` and the **Custom Field Value** to the Option Names you want to modify.
+To change the **name** of each modifier option in Modal, set the **Custom Field Name** = `__@rename + [title to be changed]` where `[title to be changed]` is the name of modifier that you want to modify and the **Custom Field Value** = `new name`.
 
 ![Modal Option PDP](img/option-modal-rename.jpg)
 
@@ -539,6 +569,8 @@ To set a non-sale price for each value of an option, you need to configure the r
 
 ![Modal Option PDP](img/option-modal-nonsale.jpg)
 
+Finally, go to **Page builder** > **Producs** > **Display setting** enable **Show modifiers in modal**
+
 ### Image Product 360
 
 To create a 360-degree image of a product in the gallery, set the **Custom Field Name** = `__@360` and the Custom Field Value to the link of the image containing all angles of the product. Once saved, a button will appear on the product card and within the product detail page (PDP) to display the 360-degree modal of the product.
@@ -560,29 +592,79 @@ First, create a Variant Option with the type Rectangle List. Then, scroll down t
 
 ![Variant Options Stepper](img/stepper-list.jpg)
 
+### Custom collapse description
+
+![Custom collapse description](img/Custom-collapse-description.jpg)
+
+Open the product description in Source Code edit mode in your admin panel.
+
+Copy and paste the complete HTML code below into the product description field:
+
+```html
+<!-- Main container for this style/demo -->
+<div class="eyeva-style">
+
+    <!-- Collapsible Section: Everything Included -->
+    <h2 data-collapsible="everything-included">Everything included</h2>
+
+    <!-- Content block that collapses/expands based on data-collapsible -->
+    <div id="everything-included">
+    <!-- your content here -->
+    </div>
+    <!-- /#everything-included -->
+
+    <!-- Horizontal rule separating sections -->
+    <hr />
+
+    <!-- Collapsible Section: Materials -->
+    <h2 data-collapsible="materials">Materials</h2>
+    <div id="materials">
+        <!-- your content here -->
+    </div>
+</div>
+```
+To create more tab just need to duplicate template below and paste it inside `<div class="eyeva-style"></div>` 
+
+```html
+<h2 data-collapsible="everything-included">Everything included</h2>
+
+    <!-- Content block that collapses/expands based on data-collapsible -->
+    <div id="everything-included">
+    <!-- your content here -->
+    </div>
+    <!-- /#everything-included -->
+
+    <!-- Horizontal rule separating sections -->
+    <hr />
+```
+Make sure the text in `data-collapsible="custom-text"` match to `id="custom-tex"`so the collapse can work correctly.
 
 ## Customizing Category Pages
 
-Configuring the category pages in **Page Builder** > **Theme Styles** > **Products** > **Category Page**.
+### Hide breadcrumbs and page heading
+
+To hide breadcrumbs and page heading in **page builder** navigate to **Global** > **Page** check on option that you want to hide:
+
+- **Hide breadcrumbs**
+- **Hide page heading**
+- **Hide category page heading**
+- **Hide blog page heading**
+- **Hide contact us page heading**
+
+### Numbers of products display
+
+In **Page Builder** > **Theme Styles** > **Products** > **Number of products displayed**:
+
+- **Category page**: Specifying number of products display per page.
+- **Brand page**: Specifying number of products displayed per page.
 
 ### Category Layout
 
-Theme supports displaying category Page layout in `Full width` mode or `Left sidebar` mode. In **Layout**, select the particular display mode for default display.
-
-- **Layout** = `Full width`
-
-![full-width](img/category-fullwidth.jpg)
-
-- **Layout** = `Left sidebar`
- 
-![left-sidebar](img/category-leftsidebar.jpg)
 
 ### Products Display Type
 
-Theme supports displaying products in **grid** mode (2, 3, 4 or 5 products per row), in **list mode** or **bulk order** mode. In **Products display type**, select the particular display mode for default display.
+Theme supports displaying products in **grid** and in **list mode** mode. go to **Page builder** > **Global** > **Products** in **Display style**, select the particular display mode for default display.
 
-- **Display type** on the right allow your customers to change product category display by themselves.
-![products-display-type-by-customer](img/products-display-type-by-customer.png)
 
 **Grid:**
 
@@ -592,94 +674,21 @@ Theme supports displaying products in **grid** mode (2, 3, 4 or 5 products per r
 
 ![products-display-type-list](img/products-display-type-list.jpg)
 
-**Bulk order:**
 
-![products-display-type-bulk](img/products-display-type-bulk.jpg)
 
-### Display Bulk Order layout
+### Display images/colors on Faceted filter:
 
-To display this bulk order layout, select **Products display type** = `Bulk order`.
+![display-image-filter](img/display-images-filter.jpg)
 
-![products-display-type-bulk-order](img/products-display-type-bulk-order.jpg)
+Go to **Page Builder** > **Theme Styles** > **Products** > **Display setting** enter the option name that you want to display images on filter to **Faceted filter images** each option name is seperated by comma.
 
-### Displaying Shop by Brand
+![image-filter](img/image-filter.jpg)
 
-- **Shop by Brand**: Specifying number of popular brands to display.
+Enter the option name that want to display color swatch into **Faceted filter colors** each option name is seperated by comma.
 
-![popular-brands-sidebar](img/popular-brands-bar.jpg)
+![color-filter](img/color-filter.jpg)
 
-### Displaying Price Slider
-
-- **Shop by Price**:
-  - `Slider`: Displaying the price slider.
-  - `List`: Displaying price list.
-  - `Hide`.
-
-![shop-by-price-slider](img/shop-by-price-slider.jpg)
-
-### Infinite Products Loading
-
-This feature allows you to choose the method of loading more products in the current catalog.
-
-![infinite-product-loading](img/infinite-product-loading.jpg)
-
-**Infinite Products Loading**:
-
-  - `On scroll`: Products will automatic loadout when scrolling down.
-
-  - `Load more button`: Click on the **Load more button** to continue loading more products.
-
-  - `Off`: Show **page numbers** and **arrow** button as original. Click on button to see more products.
-
-### Display contextual search
-
-This feature allows searching products within the current category and the current selected filter.
-
-![contextual-search](img/contextual-search.jpg)
-
-Select **Show quick search in category** = `Show` to enable it.
-
-- **+ Show results in descendent categories**: if selected, it also displays results in the descendent categories.
-
-### Common Settings
-
-- **Number of products per page**: Specifying number of products to display per page.
-- **Show category image**: Displaying the category image or not.
-- **Show category description on AMP page**: Displaying category description on AMP category page or not. If the category content contains images, the AMP page could be invalid. It's recommended to turn off this option.
-
-## Customizing Brand Page & Search Page
-
-Configuring the brand page in **Page Builder** > **Theme Styles** > **Products** > **Brand Page**.
-
-- **Number of brands per page**: Specifying number of brands to display per page.
-- **Number of products per page**: Specifying number of products to display per page.
-- **Brand image in gallery view**: Specifying the brand card image size.
-- **Brand image in brand page**: Specifying the large image size displayed on the brand page.
-
-Configuring the search results page in **Page Builder** > **Theme Styles** > **Products** > **Search results**.
-
-- **Number of products per page**: Specifying number of products to display on the search results page.
-
-### Displaying brand quick-view introduction
-
-![brand-quick-view](img/brand-quick-view.jpg)
-
-In **Marketing** > **Marketing Banner**, click **Create a Banner** button. 
-
-- Enter the brand introduction content to **Banner Content**.
-- Select **Show on Page** = `For a Specific Brand` and select the corresponding brand.
-- Select **Location** = `Bottom of Page`.
-- Then click **Save** button to finish.
-
-Watch the instruction video:
-
-<iframe width="760" height="515" src="https://www.youtube.com/embed/T_V5ESUEq2M?si=GvRIRsv8OkWSS6gQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; pictre-in-picture; web-share" allowfullscreen></iframe>
-
-### Display product in Search page
-
-To change number products display per page in **Product** section find **Search page** then change **Number of products per page**:
-
-![Search-product-number](img/product-search-page.jpg)
+To change size for image/color on filter click on **+ image size** select **Specify dimension**
 
 ## Customizing Cart page
 
