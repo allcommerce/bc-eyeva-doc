@@ -233,6 +233,14 @@ Recently Viewed Products will be display automatically viewed any product.
 
 You can configure recently viewed products section settings in **Page Builder** > **Theme Styles** > **Home Page**, make sure one of the **Sections** fill input = `viewed` to enable this block.
 
+### Display product column on Homepage
+
+To change number product display per slide, in **Page builder** > **Global** > **Product**.
+
+- **Columns on Desktop**: specify number column product display for Desktop.
+- **Columns on Tablet**: specify number column product display for Table.
+- **Columns on Mobile**: specify number column product display for Mobile.
+
 ### Featured Brands
 
 ![Featured-brand](img/brands.jpg)
@@ -453,7 +461,48 @@ To display the **Recent blog** posts on the home page, go to **Page Builder**. I
 
 ![footer](img/footer.jpg)
 
-In **Page Builder** > **Theme Styles** > **Footer**, you can configure the newsletter form appearance in **Newsletter** section, configure the footer link colors in **Main Footer** section, displaying store logo, contact info, store address,... **Show pages** allows to limit number of web page links to display. **Show categories** allows to limit number of category links to display. Similarly for **Show brands** option.
+In **Page Builder** > **Theme Styles** > **Footer**, you can configure the footer link colors, contact info ....
+
+You can create title footer info inside the widget. Drag & drop **Section Heading | PapaThemes Beautify** to the corresponding position.
+
+Select the **Column 1** and change **Padding (px)** to `0 0 0 0`.
+
+In **Section Heading | PapaThemes Beautify**, set `Heading tag` = `H3`, select `Text style` = `Custom`. Set `Font family` = `Inherit`, `Font weight` = `Semi Bold`, `Font size` and `Font size (Mobile)` = `14px`. Set `Alignment` = `left`. Set `Padding`, `Padding (Mobile)` = `0 0 0 0`, `Margin` and `Margin (Mobile)` = `0 0 16 0`.
+
+![footer](img/footer-info-title.jpg)
+
+In **Page builder** > **Custom Widget** find **Footer links | PapaThemes Beautify** widget then drag and drop the widget to corresponding position in **Footer**.
+
+Select the **Column 1** and change **padding** to `0 0 0 0`.
+
+In **design** you can type your link content and click on the **insert/edit link** button as picture below:
+
+![footer-links](img/footer-link-widget.jpg)
+
+In the popup window, copy your web link to `URL`. On the **Open links..** field you can select how your link could be open in **New Window** or **Current Window**
+
+![Insert-links](img/insert-links.jpg)
+
+**Phone text** allow changing the text along with the phone number in the input field based on the text below.
+
+```html
+  We're available by phone (<a href='tel:{phone}'>{phone}</a>) and chat today from 8 a.m.-11 p.m.
+```
+
+![footer](img/footer-contact-phone.jpg)
+
+You can create **Footer contact** inside the widget. Drag & drop the HTML into corresponding position, then copy the HTML below and click the **Save HTML** button.
+
+```html
+  <ul class="footer-contacts-callouts">
+    <li><a href="/faq"><i class="icon" aria-hidden="true"><svg><use href="#icon-comments-question-check"></use></svg></i>FAQ</a></li>
+    <li><a href="#text-message"><i class="icon" aria-hidden="true"><svg><use href="#icon-message-dots"></use></svg></i>Text</a></li>
+    <li><a href="#chat"><i class="icon" aria-hidden="true"><svg><use href="#icon-messages"></use></svg></i>Chat</a></li>
+    <li><a href="mailto:contact@papathemes.com"><i class="icon" aria-hidden="true"><svg><use href="#icon-envelope"></use></svg></i>Email</a></li>
+</ul>
+```
+
+![footer](img/footer-contact-col.jpg)
 
 **Payment Icons** allows to select which payment icons to display.
 
@@ -466,14 +515,15 @@ In **Page Builder** > **Theme Styles** > **Footer**, you can configure the newsl
 
 ### Instagram photos
 
+![instagram](img/instagram-photos.jpg)
+
 To display your Instagram photos, open <https://instagram.papathemes.com/> Follow the instruction on this page to [Connect your Facebook Page with your Instagram account](https://www.facebook.com/business/help/898752960195806). Then click **Login With Facebook** button and follow the further steps to authorize access permission. Click **Show Embedding Code** button to generate the code embedding to your web store. Choose **Preset** = `Carousel` and select **LazyLoad**.
 
 Copy all the code appear in Step 1 & Step 2. For example:
 
 ```html
-<script>!function(){var a=document.createElement("script");a.defer=!0,a.src="https://papathemes.s3.amazonaws.com/instagramapp/assets/js/embed-1.0.1.js",a.onload=function(){PapathemesInstagramApp.init({account_id:"****************",element_id:"papainstagram-render",limit:"20",preset:"grid",lazyload:"false"})},document.body.appendChild(a)}();</script>
-
-<div id="papainstagram-render"></div>
+<div id="papainstagram-render" class="container">Instagram Feed</div>
+<script>!function(){var a=document.createElement("script");a.defer=!0,a.src="https://papathemes.s3.amazonaws.com/instagramapp/assets/js/embed-1.0.1.js",a.onload=function(){PapathemesInstagramApp.init({account_id:"102757428623728",element_id:"papainstagram-render",limit:"20",preset:"grid",lazyload:"false"})},document.body.appendChild(a)}();</script>
 ```
 
 Go back to your store Page Builder. Drag & drop the HTML widget to the corresponding position. Paste the generated code above to the HTML editor, and click **Save HTML** button. Your Instagram photos should display like our demo store.
@@ -486,20 +536,6 @@ To create the title, drag & drop the **Section Heading** widget to above the Ins
 
 <iframe width="760" height="515" src="https://www.youtube.com/embed/iUCG6iXI0zg?si=MMQGRbdEEY3D6KBP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-### Display Custom Footer Links
-
-In **Page builder** > **Custom Widget** find **Footer links | PapaThemes Beautify** widget then drag and drop the widget to corresponding position in **Footer**.
-
-Select the **Column 1** and change **padding** to `0 0 0 0`.
-
-In **design** you can type your link content and click on the **insert/edit link** button as picture below:
-
-![footer-links](img/footer-link-widget.jpg)
-
-In the popup window, copy your web link to `URL`. On the **Open links..** field you can select how your link could be open in **New Window** or **Current Window**
- 
- ![Insert-links](img/insert-links.jpg)
-
 ## Customizing Products Display
 
 ### Product Card
@@ -508,68 +544,80 @@ In the popup window, copy your web link to `URL`. On the **Open links..** field 
 
 Configuring product cards in **Page Builder** > **Theme Styles** > **Products** > **Product cards**.
 
-- **Alignment**: Specifying content alignment `left` or `center`.
-- **Product title color**: Specifying the product name's color.
-- + **Hover**: Specifying color when hover or focus.
-- **Product countdown color**: specify number's color in countdown box.
-- - **Background**: Specify background's color of countdown box.
-- **Show second image on hover**: Displaying the second image when hover the product card.
-- **Show SKU**: toggle displaying the product SKU.
-- **Show Brand**: toggle displaying Brand of product.
-- **Show Add to Cart button**: toggle on to make Add to Cart button always visible.
+- **Background**: specifying the color of product card background.
+- **Product header text color**: Specifying the product name's color.
+- **Product header text hover color**: Specifying color when hover or focus.
+- **Button text color**: specify color for text in button.
+- **Button background color**: specify color for button background.
+- **Title font size**: enter the number to change the title font size.
 - **Show quantity input**: toggle on to display quantity input. If toggle of input field will not visible client cannot adjust the quantity in card.
-- + **Border**: Specifying the button border color.
-- **Show swatch/rectangle options**: Allows to display with swatch/rectangle type product option on every product card. It's helpful to display different product variants like colors or sizes.
-- **Show only option name**: enter the option name to display in card.
-- **Swatch sizes**: Specifying the swatch color/image size.
-- **Show countdown Flash Sale**: Display countdown timer for Flash Sale products.
-- **Show corresponding variant image when filtered**: toggle this option will help display variant image instead of thumbnail image when using Faceted filter. (Example: filter color Ogrance card will display image of variant Ogrance).
-- **Show call us for price**: to display call us for price message.
-- **Show custom fields**: enter the custom field name and seperate each custom field with `|` to display them in card.
-- **Badge position**: also to configure the sale badge position to `Top Left` or `Below image`.
+- **show buttons always visible**: toggle on to make button always visible.
 
-### Displaying product price ranges
-
-By default product price ranges is enabled. To turn off, Go to **Page Builder** > **Theme Styles** > **Products** > uncheck **Price ranges** checkbox.
-
-**Show retail price**: Toggle displaying the product retail prices.
-
+- **Show compare button**: toggle on to display compare button.
+- **Show swatch**: Allows to display with swatch type product option on every product card. It's helpful to display different product variants like colors or sizes.
+- **Swatch names (separator: ,)**: enter the option name to display in card.
+- **Swatch color sizes**: Specifying the swatch color size.
+- **Swatch images sizes**: Specifying the swatch image size.
+- **Show videos & 360**: toggle on to display videos and 360 images.
 
 ### Hiding prices for non logged in customers
 
-To turn on this feature, go to **Page Builder** > **Theme Styles** > **Products** > tick **Restrict Purchase to Login** checkbox.
+To turn on this feature, go to **setting** > **display** > **Products setting** > tick **Hide Product's Price from Guests?** checkbox.
 
-![hide-prices](img/hide-prices.jpg)
-
-### Redirecting to cart page after product added to cart
-
-By default the cart popup is displayed, if you want to take customer to the cart page instead, go to **Page Builder** > **Theme Styles** > **Products** > tick **Redirect to cart page after add to cart** checkbox.
+![hide-prices](img/Hide-price-from-non-login.jpg)
 
 ### Showing/Hiding Quick-View button
 
-By default quick-view buttons appear on all product cards. To hide it, go to **Page Builder** > **Theme Styles** > **Products** > un-tick **Show Quickview** checkbox.
+By default quick-view buttons appear on all product cards. To hide it, go to **Page Builder** > **Theme Styles** > **Products** > **Display settings** un-tick **Show quick view button on product cards** checkbox.
 
-### Showing/Hiding the quantity box on PDP
+### Displaying product weight, dimensions on PDP
 
-By default the quantity box shows up, to hide it, go to **Page Builder** > **Theme Styles** > **Products** > un-tick **Show quantity selection on product pages** checkbox.
+Go to **Page Builder** > **Theme Styles** > **Products** > **Display setting**.
 
-### Customizing the popup displayed after product added to cart
+- Tick **Show product weight** checkbox.
+- Tick **Show product dimensions** checkbox.
 
-In **Page Builder** > **Theme Styles** > **Products** > **Popup after added to cart**:
+### Display customer reviews tab on PDP
 
-- `Cart Preview`: Displaying the whole shopping cart popup on the right side.
-- `Hide`: Not show any popup.
+![Customer-reivew](img/customer-reviews.jpg)
 
-Mini added to cart popup:
+Go to **Page Builder** > **Theme Styles** > **Products** > **Display setting** checked option **Show product reviews**.
 
-![cart-preview](img/cart-preview.jpg)
+Specify number of product reviews displayed.
 
-### Displaying Recently Viewed Products
+### Display sale badge on PDP
 
-Recently viewed products only display for logged-in customers.
+Go to **Page Builder** > **Theme Styles** > **Products** > **Product sale badges** in **Show product sale badges** select badge type
 
-To enable it, go to **Page Builder** > **Theme Styles** > **Products** > **Show recently viewed** select number of products to display.
+- `Percent`: display badges label with percent off.
+- `label`: only display label.
+- `None`: hide badge. 
 
+- **Label**: Specifying the badge text.
+- **Text color**: Specifying the badge text color.
+- **Background color**: Specifying the badge background color
+
+### Sold out badge
+
+Displaying **sold out badge**, in **Page Builder** navigate to **Product** find **Show product sold-out badges** select Label.
+
+Enter text to display for sold out badge at **Product sold out badge label** field.
+
+- **Badge text color**: specifying text color.
+- **Badge color**: specifying background color.
+
+### Condition badge
+
+![product-badges](img/product-badges.jpg)
+
+
+
+Displaying the condition badge in tick **Show custom badges**.
+
+Displaying the condition badge in **Custom badges**, tick **Enable custom badge from '__badge' custom field**. Edit product, add custom field with name `__badge` and value is the badge text.
+
+- **Badge color (PDP)**: Specifying the text color of the custom badge in Product detail page.
+- **Badge text color (PDP)**: Specifying the background color of the custom badge in Product detail page.
 
 ### Customizing Price Labels
 
@@ -578,170 +626,19 @@ You can customize sale price label, before sale price label, retail price label 
 
 ![configure-price-labels](img/configure-price-labels.jpg)
 
-### Displaying product weight, dimensions on PDP
-
-Go to **Page Builder** > **Theme Styles** > **Products** > **Product Page**.
-
-- Tick **Show product weight** checkbox.
-- Tick **Show product dimensions** checkbox.
-
-### Display sale badge on PDP
-
-Go to **Page Builder** > **Theme Styles** > **Products** > **Product Page**.
-
-- Tick **Show sale badge** checkbox.
-
-### Sale badge, Condition badge and custom text badges
-
-![product-badges](img/product-badges.jpg)
-
-Displaying the sale badge in **Page Builder** > **Theme Styles** > **Products** > **Product sale badges**, tick **Show sale badges**.
-
-- **Label**: Specifying the badge text.
-- **Text color**: Specifying the badge text color.
-- **Background color**: Specifying the badge background color
-
-Displaying the condition badge in **Condition badges**, tick **Show condition badges**.
-
-Displaying the condition badge in **Custom badges**, tick **Enable custom badge from '__badge' custom field**. Edit product, add custom field with name `__badge` and value is the badge text.
-
-- **Text color**: Specifying the text color of the custom badge.
-- **Background color**: Specifying the background color of the custom badge.
-
 ### Displaying Image gallery 
 
-#### Displaying thumbnail as a slider
+#### limit number thumbnail display
 
-In **Page Builder** > **Theme Styles** > **Products** > **Product Page**, **Enable thumbnail carousel** section, you can change display thumbnail images to slider or grid.
-
-- `1 row`: Sub-images are displayed in the slider on 1 row.
-
-- `2 rows`: Sub-images are displayed in the slider on 2 row.
-
-- `Hide`: All sub-images are displayed as grid.
-
-![thumbnail-2](img/thumbnail-2.jpg)
-
+To change number thumbnail display at image gallery go to **Page Builder** > **Theme Styles** > **Products** > **Display setting** enter your number to **Visible thumbnails**.
 
 #### Displaying product image thumbnails vertically
 
-In **Page Builder** > **Theme Styles** > **Products** > **Product Page**, checked **Show image thumbnails vertically** to display product thumbnails vertically, otherwise it's displayed horizontally.
-
-Checked **Show image thumbnails vertically**:
+In **Page Builder** > **Theme Styles** > **Products** > **Display setting**, checked **Show vertical thumbnails** to display product thumbnails vertically, otherwise it's displayed horizontally.
 
 ![thumbnails-vertically](img/thumbnail-vertical.jpg)
 
 To specify the number thumbnail display in slider simply enter your desire number in **Number of visible thumbnails**.
-
-### Video image product detail page
-
-In **Page Builder** > **Theme Styles** > **Products** > **Product Page** find **Show videos** select `tab` or `image gallery` to change display video position.
-
-Videos displayed in **tab** options:
-
-![video image product detail tab option](img/video-image-PDP-tab.jpg)
-
-Videos displayed in **image gallery** option:
-
-![video image product detail image gallery option](img/video-image-PDP-image-gallery.jpg)
-
-### Setup bulk pricing 
-
-Bulk pricing discounts can be managed under the Pricing section when adding or editing a product. Click Show **Advanced Pricing** to view bulk pricing fields, among other pricing product fields. Bulk pricing of Dino theme auto display under price slider. customer can slide to to increase product quantity to reach each bulk pricing point.
-
-- **% Discount:** takes a percentage off the total product price when the quantity threshold is met ("Order 2 or more, get 10% off").
-
-![bulk-pricing-discount](img/bulk-discount.jpg)
-
-- **$ Fixed Amount:** specifies a fixed price for each unit when the quantity threshold is met ("Get 2 for $15 each"). This discount type is not available for category-level bulk discounts.
-
-![bulk-pricing-discount](img/bulk-fixed.jpg)
-
-- **$ Off/Unit:** subtracts a fixed amount from the price of each unit when the quantity threshold is met ("Save $7 on each when you buy 2 or more")
-
-![bulk-pricing-off-unit](img/bulk-off-unit.jpg)
-
-### Displaying sticky Add to Cart button on PDP on mobile
-
-In **Page Builder** > **Theme Styles** > **Products** > **Product Page**, tick **
-Show sticky Add to Cart on mobile**.
-
-![Show sticky Add to Cart on mobile](img/sticky-add-to-cart.jpg)
-
-### Displaying product custom fields in a separated tab
-
-In **Page Builder** > **Theme Styles** > **Products** > **Product Page**:
-
-- Tick **Show custom fields in tab** checkbox.
-- Enter the tab title in the next **Tab title** box.
-
-![product-custom-fields-tab](img/product-custom-fields-tab.jpg)
-
-### Custom tabs
-
-![Custom-tab-sample](img\custom-tab-sample.jpg)
-To add the **custom tabs** in product pages, edit your product description, click on **HTML button** to open HTML Source Editor:
-
-![Custom-tab](img\custom-tab.jpg)
-
-Use the editor at the **[link](https://bc-supermarket-docs.papathemes.com/customization/product-page#custom-tabs)** to generate HTML for your **custom tabs**. Click Export HTML button, copy & paste the generated HTML at the end of HTML Source Editor.
-
-### Displaying product tabs description full width
-
-In **Page Builder** > **Theme Styles** > **Products** > **Product Page**:
-
-- Tick **Tab description full width** checkbox to display tabs description full width in Product page.
-
-![Tabs-fullwidth](img\product-tabs-fullwidth.jpg)
-
-### Displaying Delivery & Returns tab
-
-In **Page Builder** > **Theme Styles** > **Products** > **Product Page**:
-
-- Tick **Show Delivery & Returns tab** checkbox.
-- Enter the tab title in the next **Tab title** box.
-
-You can add specific content or global content using BC widgets:
-
-![add-widgets-to-delivery-returns-tab](img/add-widgets-to-delivery-returns-tab.jpg)
-
-
-### Numbers of products, reviews, thumbnails
-
-In **Page Builder** > **Theme Styles** > **Products** > **Product Page**:
-
-- **Number of Product Reviews**: Specifying number of product reviews displayed.
-- **Number of Related Products**: Specifying number of related products displayed.
-- **Number of Customers Also Viewed Products**: Specifying number of customer also viewed products displayed.
-
-### Displaying Swatch Options in the dropdown select box
-
-In **Page Builder** > **Theme Styles** > **Products** > **Swatch display type**:
-
-- `Default` (Square): Displaying the regular swatches by default.
-- `Dropdown`: Displaying swatches in the dropdown select box.
-- `Dropdown + Square`: Displaying swatches in the dropdown select box in addition to regular swatches.
-
-![swatch-dropdown](img/swatch-dropdown.jpg)
-
-
-### Displaying Frequently Bought Together Products
-
-![frequently-bought-together](img/frequently-bought-together.jpg)
-
-Enabling this feature in **Page Builder** > **Theme Styles** > **Products** > **Frequently Bought Together**, Select **Position** to display it.
-
-- **Load products from**: Specifing products to display here.
-  - `Custom fields __alsobought`: Specifying the relevant products in product custom fields with name `__alsobought` and value is the relevant product ID. For example:
-  ![edit-product-bought-together](img/edit-product-bought-together.jpg)
-  - `Related products`: Pulling from the related products.
-  - `Similar by biews`: Pulling from customer also viewed products.
-- **Auto select all items**: Auto select or unselect all frequently bought together products.
-- **Thumbnail size**: Specifying the thumbnail image size.
-### Configuring swatch dimension
-
-In **Page Builder** > **Theme Styles** > **Products** > **Swatch display type** > Set **Swatch size**.
-
 
 ### Configuring image sizes
 
@@ -762,34 +659,23 @@ To enable shipping countdown, **Theme styles** > **Product page**  find **shippi
 To disable shipping countdown simply leave **shipping countdown** field empty.
 
 Note: The time before cut off the message will show **shipping today** after cut off the message will show **shipping tomorrow**
+### Close description, custom field, warranty and reviews tab by default
 
-### Coupon
+In **Page Builder** > **Theme Styles** > **Products** > **Display setting** and checked option below:
 
-![Coupon-ticket](img/coupon-ticket.jpg)
+- Collapse description by default
+- Collapse custom fields by default
+- Collapse warranty by default
+- Collapse reviews by default
 
-In **Page Builder**, drag and drop widget **Coupons | PapaThemes Dinosaur** to correct widget region as picture below.
+### Displaying product custom fields in a separated tab
 
-Set **Layout** > **Column** `padding` = `0`.
+In **Page Builder** > **Theme Styles** > **Products** > **Display setting**:
 
-![Coupon-ticket](img/coupon-region.jpg)
+- Tick **Show custom fields in tab** checkbox.
+- Enter the tab title in the next **Product custom fields tab label** box.
 
-To edit **Coupon**. To modify the title and details of the coupon ticket, simply click on the title or content of ticket and adjust them. Copy Simply click on the title of the ticket and adjust them according to the **Marketing** > **Coupon codes**. Then copy Coupon code of **Coupon codes** to input `Coupon code` of **Coupon** widget.
-
-![Coupon-ticket](img/set-coupon-code.jpg)
-
-Coupons will appear in the sections below.
-
-`Cart popup`:
-
-![Coupon-ticket](img/coupon-cartpopup.jpg)
-
-`Cart Page`:
-
-![Coupon-ticket](img/coupon-cartpage.jpg)
-
-**Watch the instruction video:**
-
-<iframe width="760" height="515" src="https://www.youtube.com/embed/TFaHUPuuzKg?si=8LjKIj4aHZkS4fFR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; pictre-in-picture; web-share" allowfullscreen></iframe>
+![product-custom-fields-tab](img/product-custom-fields-tab.jpg)
 
 ### Flash sales
 
@@ -813,75 +699,62 @@ Note:
 
 - Make sure you product also have sale price in orde for Flash Sale display. When you remove the **sale price** **Flash Sale** banner will auto disable.
 
-### Brand logo in product detail
-
-![brand logo in product detail](img/brand-logo.jpg)
-
-To display **Brand logo** in product detail, in **Page Builder** > **Products** > **Product Page** find and check **Show brand image** option.
 
 
-### Ask question
+### Create modal step by step modifier option
 
-In **Page Builder** > **Theme Styles** > **Products** > **Product Page** find **Ask question (contact page URL)** and enter `/contact-us/` to display **Ask Questions?**.
-
-![ask question](img/ask-question.jpg)
-
-
-### Instruction & size guide
-
-![Instruction & size guide](img/Instruction-size.jpg)
-
-To create additional information link:
-
-In **Storefront** > **Web Pages**, click on the **Create a Web Page** button to create new webpage.
-
-In **Web Page Details**, enter your page name in **Page Name** field, **Page URL** will be automatically generated. In **Page content** field enter your content.
-
-Uncheck **Navigation Menu** options.
-
-In **Advanced Options** set **Sort Order** = `2`.
-
-To display the additional information link in the product detail page:
-
-In **Products**, select the product you want to display the link. Find **Custom Fields**, created new custom field. Set **Custom Fields Name** = `__guide_popup` and **Custom Fields Value** = `<your page name>|<Page URL>` (example: `Instruction|/instruction/`) then save.
-
-### Modal Option PDP
-
+#### Enable modal
 To enable/disable the modal for selecting options in a product, you need to create the **Modifier Options** for the product first. Then, scroll down to find the **Custom Fields** section. Set the **Custom Field Name** = `__@modifiers_modal` and the **Custom Field Value** = `1` to enable the options modal or `0` to disable it.
-
+Then go to **Page builder** > **Producs** > **Display setting** enable **Show modifiers in modal**
 ![Modal Option PDP](img/option-modal-on.jpg)
 
-To change the content of the "Select Option" button, go to the **Custom Fields** section. Set the **Custom Field Name** to `__@select_modifiers` and the **Custom Field Value** to the desired content.
+#### Change button name
+
+To change the content of the **"Select Option" button**, go to the **Custom Fields** section. Set the **Custom Field Name** to `__@select_modifiers` and the **Custom Field Value** to the desired content.
 
 ![Modal Option PDP](img/option-modal-button.jpg)
 
-To group multiple options into a single step in the option modal, set the **Custom Field Name** to `__@group + [title]` and the **Custom Field Value** to the Option Names you want to group together.
+#### Grouping modifier option
+
+To group multiple options into a single step in the option modal, set the **Custom Field Name** to `__@group [title]` and the **Custom Field Value** = `Option Names;Option Name` you want to group together, separate each option by `;`.
 
 ![Modal Option PDP](img/option-modal-group.jpg)
 
-To change the title of each modifier option, set the **Custom Field Name** = `__@rename + [title to be changed]` and the **Custom Field Value** to the Option Names you want to modify.
+
+#### Change title of modal option
+To change the **title** of each modifier option in Modal, set the **Custom Field Name** = `__@rename [title to be changed]` where `[title to be changed]` is the name of modifier that you want to modify and the **Custom Field Value** = `new name`.
 
 ![Modal Option PDP](img/option-modal-rename.jpg)
 
-To add a description for a modifier option in the modal, set the **Custom Field Name** = `__@tooltip + [Option Name]` and the **Custom Field Value** to the desired description of the option.
+#### Add tooltip to Modifier Option Modal
+
+To add a description for a modifier option in the modal, set the **Custom Field Name** = `__@tooltip [Option Name]` and the **Custom Field Value** to the desired description of the option.
 
 ![Modal Option PDP](img/option-modal-tooltip-2.jpg)
 
-To add a description for each value of an option in the modal, set the **Custom Field Name** = `__@tooltip + [Option Name]: [Value]` and the **Custom Field Value** to the desired description of the value.
+#### Create assign menu
+
+![Modal Option PDP](img/assign-menu.jpg)
+
+Step 1: Create menu by create a modifier option have value similar to name modifier option that you want to assign.
+
+![Modal Option PDP](img/index-modifier-value.jpg)
+
+Step 2: To make client move to correspond modifier option when click on a value of menu, set the **Custom Field Name** = `__@hide_if [menu name]: [Selected Value]` and the **Custom Field Value** to the values you want to skip in the parent option.
+
+Example: 
+
+- **Custom Field Name** = `__@hide_if Prescription type:Progressives` 
+- **Custom Field Value** = `Single-vision type;Readers strength`
+
+![Modal Option PDP](img/Assign-menu-custom-field.jpg)
+
+To add a description for each value of an option in the menu, set the **Custom Field Name** = `__@tooltip [Option Name]: [Value]` and the **Custom Field Value** to the desired description of the value.
 
 ![Modal Option PDP](img/option-modal-tooltip.jpg)
 
-To select a value of a parent option inside the modal and switch to that option while skipping the modals of other options, set the **Custom Field Name** = `__@hide_if + [Option]: [Selected Value]` and the **Custom Field Value** to the values you want to skip in the parent option.
 
-Step 1:
-
-![Modal Option PDP](img/option-modal-skip.jpg)
-
-Step 2:
-
-![Modal Option PDP](img/option-modal-skip-2.jpg)
-
-To set a non-sale price for each value of an option, you need to configure the rules for the Option Modifiers. Then, set the **Custom Field Name** = `"__@nonsale + [amount]"` and the **Custom Field Value** = `[Option Name]: [Values]` that should have the discount applied.
+To set a non-sale price for each value of an option, you need to configure the rules for the Option Modifiers. Then, set the **Custom Field Name** = `"__@nonsale [amount]"` and the **Custom Field Value** = `[Option Name]: [Values]` that should have the discount applied.
 
 ![Modal Option PDP](img/option-modal-nonsale.jpg)
 
@@ -906,44 +779,79 @@ First, create a Variant Option with the type Rectangle List. Then, scroll down t
 
 ![Variant Options Stepper](img/stepper-list.jpg)
 
-### Below add to cart banner
+### Custom collapse description
 
-To create **Below add to cart banner**, in **Page builder** drag and drop **Layout widget** to corresponding position.
+![Custom collapse description](img/Custom-collapse-description.jpg)
 
-Select **Column 1**, set **Padding** = `0 0 0 0`.
+Open the product description in Source Code edit mode in your admin panel.
 
-Drag and drop **Callout icon | PapaThemes Beautify widget** into column 1, delete all icons except callout icon 1.
+Copy and paste the complete HTML code below into the product description field:
 
-In **Styles** select `Left`, set **Padding** for all desktop, mobile and table = `0`.
+```html
+<!-- Main container for this style/demo -->
+<div class="eyeva-style">
 
-In **Icon** change to `Choose Image`, in **Icon image** select your desire image.
+    <!-- Collapsible Section: Everything Included -->
+    <h2 data-collapsible="everything-included">Everything included</h2>
 
-To input your text into the widget, simply type it into the text field located in the design window.
+    <!-- Content block that collapses/expands based on data-collapsible -->
+    <div id="everything-included">
+    <!-- your content here -->
+    </div>
+    <!-- /#everything-included -->
 
-![Below add to cart banner](img/banner-below-add-to-cart.jpg)
+    <!-- Horizontal rule separating sections -->
+    <hr />
+
+    <!-- Collapsible Section: Materials -->
+    <h2 data-collapsible="materials">Materials</h2>
+    <div id="materials">
+        <!-- your content here -->
+    </div>
+</div>
+```
+To create more tab just need to duplicate template below and paste it inside `<div class="eyeva-style"></div>` 
+
+```html
+<h2 data-collapsible="everything-included">Everything included</h2>
+
+    <!-- Content block that collapses/expands based on data-collapsible -->
+    <div id="everything-included">
+    <!-- your content here -->
+    </div>
+    <!-- /#everything-included -->
+
+    <!-- Horizontal rule separating sections -->
+    <hr />
+```
+Make sure the text in `data-collapsible="custom-text"` match to `id="custom-tex"`so the collapse can work correctly.
 
 ## Customizing Category Pages
 
-Configuring the category pages in **Page Builder** > **Theme Styles** > **Products** > **Category Page**.
+### Hide breadcrumbs and page heading
+
+To hide breadcrumbs and page heading in **page builder** navigate to **Global** > **Page** check on option that you want to hide:
+
+- **Hide breadcrumbs**
+- **Hide page heading**
+- **Hide category page heading**
+- **Hide blog page heading**
+- **Hide contact us page heading**
+
+### Numbers of products display
+
+In **Page Builder** > **Theme Styles** > **Products** > **Number of products displayed**:
+
+- **Category page**: Specifying number of products display per page.
+- **Brand page**: Specifying number of products displayed per page.
 
 ### Category Layout
 
-Theme supports displaying category Page layout in `Full width` mode or `Left sidebar` mode. In **Layout**, select the particular display mode for default display.
-
-- **Layout** = `Full width`
-
-![full-width](img/category-fullwidth.jpg)
-
-- **Layout** = `Left sidebar`
- 
-![left-sidebar](img/category-leftsidebar.jpg)
 
 ### Products Display Type
 
-Theme supports displaying products in **grid** mode (2, 3, 4 or 5 products per row), in **list mode** or **bulk order** mode. In **Products display type**, select the particular display mode for default display.
+Theme supports displaying products in **grid** and in **list mode** mode. go to **Page builder** > **Global** > **Products** in **Display style**, select the particular display mode for default display.
 
-- **Display type** on the right allow your customers to change product category display by themselves.
-![products-display-type-by-customer](img/products-display-type-by-customer.png)
 
 **Grid:**
 
@@ -953,94 +861,21 @@ Theme supports displaying products in **grid** mode (2, 3, 4 or 5 products per r
 
 ![products-display-type-list](img/products-display-type-list.jpg)
 
-**Bulk order:**
 
-![products-display-type-bulk](img/products-display-type-bulk.jpg)
 
-### Display Bulk Order layout
+### Display images/colors on Faceted filter:
 
-To display this bulk order layout, select **Products display type** = `Bulk order`.
+![display-image-filter](img/display-images-filter.jpg)
 
-![products-display-type-bulk-order](img/products-display-type-bulk-order.jpg)
+Go to **Page Builder** > **Theme Styles** > **Products** > **Display setting** enter the option name that you want to display images on filter to **Faceted filter images** each option name is seperated by comma.
 
-### Displaying Shop by Brand
+![image-filter](img/image-filter.jpg)
 
-- **Shop by Brand**: Specifying number of popular brands to display.
+Enter the option name that want to display color swatch into **Faceted filter colors** each option name is seperated by comma.
 
-![popular-brands-sidebar](img/popular-brands-bar.jpg)
+![color-filter](img/color-filter.jpg)
 
-### Displaying Price Slider
-
-- **Shop by Price**:
-  - `Slider`: Displaying the price slider.
-  - `List`: Displaying price list.
-  - `Hide`.
-
-![shop-by-price-slider](img/shop-by-price-slider.jpg)
-
-### Infinite Products Loading
-
-This feature allows you to choose the method of loading more products in the current catalog.
-
-![infinite-product-loading](img/infinite-product-loading.jpg)
-
-**Infinite Products Loading**:
-
-  - `On scroll`: Products will automatic loadout when scrolling down.
-
-  - `Load more button`: Click on the **Load more button** to continue loading more products.
-
-  - `Off`: Show **page numbers** and **arrow** button as original. Click on button to see more products.
-
-### Display contextual search
-
-This feature allows searching products within the current category and the current selected filter.
-
-![contextual-search](img/contextual-search.jpg)
-
-Select **Show quick search in category** = `Show` to enable it.
-
-- **+ Show results in descendent categories**: if selected, it also displays results in the descendent categories.
-
-### Common Settings
-
-- **Number of products per page**: Specifying number of products to display per page.
-- **Show category image**: Displaying the category image or not.
-- **Show category description on AMP page**: Displaying category description on AMP category page or not. If the category content contains images, the AMP page could be invalid. It's recommended to turn off this option.
-
-## Customizing Brand Page & Search Page
-
-Configuring the brand page in **Page Builder** > **Theme Styles** > **Products** > **Brand Page**.
-
-- **Number of brands per page**: Specifying number of brands to display per page.
-- **Number of products per page**: Specifying number of products to display per page.
-- **Brand image in gallery view**: Specifying the brand card image size.
-- **Brand image in brand page**: Specifying the large image size displayed on the brand page.
-
-Configuring the search results page in **Page Builder** > **Theme Styles** > **Products** > **Search results**.
-
-- **Number of products per page**: Specifying number of products to display on the search results page.
-
-### Displaying brand quick-view introduction
-
-![brand-quick-view](img/brand-quick-view.jpg)
-
-In **Marketing** > **Marketing Banner**, click **Create a Banner** button. 
-
-- Enter the brand introduction content to **Banner Content**.
-- Select **Show on Page** = `For a Specific Brand` and select the corresponding brand.
-- Select **Location** = `Bottom of Page`.
-- Then click **Save** button to finish.
-
-Watch the instruction video:
-
-<iframe width="760" height="515" src="https://www.youtube.com/embed/T_V5ESUEq2M?si=GvRIRsv8OkWSS6gQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; pictre-in-picture; web-share" allowfullscreen></iframe>
-
-### Display product in Search page
-
-To change number products display per page in **Product** section find **Search page** then change **Number of products per page**:
-
-![Search-product-number](img/product-search-page.jpg)
+To change size for image/color on filter click on **+ image size** select **Specify dimension**
 
 ## Customizing Cart page
 
