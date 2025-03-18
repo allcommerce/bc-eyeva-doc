@@ -1,0 +1,755 @@
+<!DOCTYPE html>
+<html class="writer-html5" lang="en" >
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+      <link rel="shortcut icon" href="img/favicon.ico" />
+    <title>Usage Guide - Eyeva BigCommerce Theme User Guide</title>
+    <link rel="stylesheet" href="css/theme.css" />
+    <link rel="stylesheet" href="css/theme_extra.css" />
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/styles/github.min.css" />
+        <link href="css/style.css" rel="stylesheet" />
+    
+      <script>
+        // Current page data
+        var mkdocs_page_name = "Usage Guide";
+        var mkdocs_page_input_path = "usage.md";
+        var mkdocs_page_url = null;
+      </script>
+    
+    <!--[if lt IE 9]>
+      <script src="js/html5shiv.min.js"></script>
+    <![endif]-->
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/highlight.min.js"></script>
+      <script>hljs.highlightAll();</script> 
+      <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+        ga('create', "UA-241859-16", "tvlgiao.github.io");
+        ga('send', 'pageview');
+      </script>
+    
+</head>
+
+<body class="wy-body-for-nav" role="document">
+
+  <div class="wy-grid-for-nav">
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side stickynav">
+    <div class="wy-side-scroll">
+      <div class="wy-side-nav-search">
+          <a href="index.html" class="icon icon-home"> Eyeva BigCommerce Theme User Guide
+        </a><div role="search">
+  <form id ="rtd-search-form" class="wy-form" action="./search.html" method="get">
+      <input type="text" name="q" placeholder="Search docs" aria-label="Search docs" title="Type search term here" />
+  </form>
+</div>
+      </div>
+
+      <div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="Navigation menu">
+              <ul>
+                <li class="toctree-l1"><a class="reference internal" href="index.html">Home</a>
+                </li>
+              </ul>
+              <ul class="current">
+                <li class="toctree-l1 current"><a class="reference internal current" href="#">Usage Guide</a>
+    <ul class="current">
+    <li class="toctree-l2"><a class="reference internal" href="#get-started">Get Started</a>
+        <ul>
+    <li class="toctree-l3"><a class="reference internal" href="#customizing-typography-fonts-and-colors">Customizing Typography, Fonts and Colors</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#customizing-checkout-pages-typography-and-colors">Customizing Checkout Page's Typography and Colors</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#installing-papathemes-widgets-app">Installing PapaThemes Widgets App</a>
+    </li>
+        </ul>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#setting-up-glasses-style-home-page">Setting Up Glasses Style Home Page</a>
+        <ul>
+    <li class="toctree-l3"><a class="reference internal" href="#header">Header</a>
+        <ul>
+    <li class="toctree-l4"><a class="reference internal" href="#main-navigation">Main Navigation</a>
+    </li>
+    <li class="toctree-l4"><a class="reference internal" href="#hide-webpage-links">Hide webpage links</a>
+    </li>
+        </ul>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#top-banner">Top Banner</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#ad-banner-top-header">Ad Banner Top header</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#main-carousel">Main Carousel</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#shop-by-category">Shop By Category</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#bestselling-products">Bestselling Products</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#featured-products">Featured Products</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#new-products">New Products</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#recently-viewed-products">Recently Viewed Products</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#display-product-column-on-homepage">Display product column on Homepage</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#featured-brands">Featured Brands</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#grid-layout-banners">Grid layout banners</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#recent-blog-posts">Recent Blog Posts</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#footer">Footer</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#instagram-photos">Instagram photos</a>
+    </li>
+        </ul>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#customizing-products-display">Customizing Products Display</a>
+        <ul>
+    <li class="toctree-l3"><a class="reference internal" href="#product-card">Product Card</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#hiding-prices-for-non-logged-in-customers">Hiding prices for non logged in customers</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#showinghiding-quick-view-button">Showing/Hiding Quick-View button</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#displaying-product-weight-dimensions-on-pdp">Displaying product weight, dimensions on PDP</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#display-customer-reviews-tab-on-pdp">Display customer reviews tab on PDP</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#display-sale-badge-on-pdp">Display sale badge on PDP</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#sold-out-badge">Sold out badge</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#condition-badge">Condition badge</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#customizing-price-labels">Customizing Price Labels</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#displaying-image-gallery">Displaying Image gallery</a>
+        <ul>
+    <li class="toctree-l4"><a class="reference internal" href="#limit-number-thumbnail-display">limit number thumbnail display</a>
+    </li>
+    <li class="toctree-l4"><a class="reference internal" href="#displaying-product-image-thumbnails-vertically">Displaying product image thumbnails vertically</a>
+    </li>
+        </ul>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#configuring-image-sizes">Configuring image sizes</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#shipping-countdown">Shipping countdown</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#close-description-custom-field-warranty-and-reviews-tab-by-default">Close description, custom field, warranty and reviews tab by default</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#displaying-product-custom-fields-in-a-separated-tab">Displaying product custom fields in a separated tab</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#flash-sales">Flash sales</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#create-modal-step-by-step-modifier-option">Create modal step by step modifier option</a>
+        <ul>
+    <li class="toctree-l4"><a class="reference internal" href="#enable-modal">Enable modal</a>
+    </li>
+    <li class="toctree-l4"><a class="reference internal" href="#change-button-name">Change button name</a>
+    </li>
+    <li class="toctree-l4"><a class="reference internal" href="#grouping-modifier-option">Grouping modifier option</a>
+    </li>
+    <li class="toctree-l4"><a class="reference internal" href="#change-title-of-modal-option">Change title of modal option</a>
+    </li>
+    <li class="toctree-l4"><a class="reference internal" href="#add-tooltip-to-modifier-option-modal">Add tooltip to Modifier Option Modal</a>
+    </li>
+    <li class="toctree-l4"><a class="reference internal" href="#create-assign-menu">Create assign menu</a>
+    </li>
+        </ul>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#image-product-360">Image Product 360</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#variant-options-stepper">Variant Options Stepper</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#custom-collapse-description">Custom collapse description</a>
+    </li>
+        </ul>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#customizing-category-pages">Customizing Category Pages</a>
+        <ul>
+    <li class="toctree-l3"><a class="reference internal" href="#hide-breadcrumbs-and-page-heading">Hide breadcrumbs and page heading</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#numbers-of-products-display">Numbers of products display</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#category-layout">Category Layout</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#products-display-type">Products Display Type</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#display-imagescolors-on-faceted-filter">Display images/colors on Faceted filter:</a>
+    </li>
+        </ul>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#customizing-cart-page">Customizing Cart page</a>
+        <ul>
+    <li class="toctree-l3"><a class="reference internal" href="#display-free-shipping-message-in-cart-page">Display free shipping message in cart page.</a>
+    </li>
+        </ul>
+    </li>
+    </ul>
+                </li>
+              </ul>
+              <ul>
+                <li class="toctree-l1"><a class="reference internal" href="update.html">Update Guide</a>
+                </li>
+              </ul>
+              <ul>
+                <li class="toctree-l1"><a class="reference internal" href="faqs.html">FAQs</a>
+                </li>
+              </ul>
+              <ul>
+                <li class="toctree-l1"><a class="reference internal" href="support.html">Support</a>
+                </li>
+              </ul>
+              <ul>
+                <li class="toctree-l1"><a class="reference internal" href="changelog.html">Release Notes</a>
+                </li>
+              </ul>
+      </div>
+    </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap">
+      <nav class="wy-nav-top" role="navigation" aria-label="Mobile navigation menu">
+          <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+          <a href="index.html">Eyeva BigCommerce Theme User Guide</a>
+        
+      </nav>
+      <div class="wy-nav-content">
+        <div class="rst-content"><div role="navigation" aria-label="breadcrumbs navigation">
+  <ul class="wy-breadcrumbs">
+    <li><a href="index.html" class="icon icon-home" aria-label="Docs"></a></li>
+      <li class="breadcrumb-item active">Usage Guide</li>
+    <li class="wy-breadcrumbs-aside">
+    </li>
+  </ul>
+  <hr/>
+</div>
+          <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
+            <div class="section" itemprop="articleBody">
+              
+                <h1 id="usage-guide">Usage Guide<a class="headerlink" href="#usage-guide" title="Permanent link">&para;</a></h1>
+<h2 id="get-started">Get Started<a class="headerlink" href="#get-started" title="Permanent link">&para;</a></h2>
+<p>Thanks for using our theme!</p>
+<p>To set up the theme exactly like our demo stores, you may need to install the our free app <strong><a href="https://www.bigcommerce.com/apps/papathemes-widgets/">PapaThemes Widgets</a></strong>. This app provides additional widgets to build the content in Page Builder visually without coding skill.</p>
+<p>For displaying your Instagram photos on your website, you can use our free tool <strong><a href="https://instagram.papathemes.com/">PapaThemes Instagram</a></strong>. We will guide you step by step later in this manual.</p>
+<h3 id="customizing-typography-fonts-and-colors">Customizing Typography, Fonts and Colors<a class="headerlink" href="#customizing-typography-fonts-and-colors" title="Permanent link">&para;</a></h3>
+<p>Customizing Typography, Fonts and Colors, Buttons in <strong>Page Builder</strong> &gt; <strong>Theme Styles</strong> &gt; <strong>General</strong>. There are dozens of options to help you customize your website beautifully and uniquely.</p>
+<h3 id="customizing-checkout-pages-typography-and-colors">Customizing Checkout Page's Typography and Colors<a class="headerlink" href="#customizing-checkout-pages-typography-and-colors" title="Permanent link">&para;</a></h3>
+<p>Customizing the checkout page's typography and colors in <strong>Page Builder</strong> &gt; <strong>Theme Styles</strong> &gt; <strong>Optimized Checkout</strong></p>
+<h3 id="installing-papathemes-widgets-app">Installing PapaThemes Widgets App<a class="headerlink" href="#installing-papathemes-widgets-app" title="Permanent link">&para;</a></h3>
+<p>Find and install <strong><a href="https://www.bigcommerce.com/apps/papathemes-widgets/">PapaThemes Widgets</a></strong> app from <a href="https://www.bigcommerce.com/apps/">BigCommerce Apps Marketplace</a>.</p>
+<p>After installed, go to your admin page, on the left sidebar, click <strong>Apps</strong> &gt;<strong> My Apps</strong>, click <strong>Launch</strong> button of PapaThemes Widgets app to open the app:</p>
+<p><img alt="launch-papathemes-widgets-app" src="img/launch-papathemes-widgets-app.jpg" /></p>
+<p>Then click the Install buttons in turn to install all available widgets:</p>
+<p><img alt="install-papathemes-widgets" src="img/install-papathemes-widgets.jpg" /></p>
+<p>Go to <strong>Storefront</strong> &gt; <strong>My Themes</strong> &gt; click <strong>Customize</strong> in dropdown menu of Eyeva theme to open Page Builder. Select any theme style to start:</p>
+<p><img alt="click-theme-customize" src="img/click-theme-customize.jpg" /></p>
+<p>Verify the widgets installed successfully if they appear in Page Builder:</p>
+<p><img alt="custom-widgets-appear" src="img/custom-widgets-appear.jpg" /></p>
+<h2 id="setting-up-glasses-style-home-page">Setting Up Glasses Style Home Page<a class="headerlink" href="#setting-up-glasses-style-home-page" title="Permanent link">&para;</a></h2>
+<p>To start customizing the theme, login to your admin panel, go to <strong>Storefront</strong> &gt; <strong>My Themes</strong>, click <strong>Customize</strong> button next to theme thumbnail.</p>
+<h3 id="header">Header<a class="headerlink" href="#header" title="Permanent link">&para;</a></h3>
+<p><img alt="Header" src="img/header.jpg" /></p>
+<p>To configure the header, click on <strong>Theme Styles</strong> &gt; <strong>Header</strong> section, here you can config the header colors, store logo position and size.</p>
+<p><strong>Utility navigation</strong> allows to change colors of the icon search, cart, wishlist, user.</p>
+<p><strong>Watch the instruction video:</strong></p>
+<iframe width="760" height="515" src="https://www.youtube.com/embed/AFpgodrjqxg?si=5kDqYIO4jkK4WyX5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<h4 id="main-navigation">Main Navigation<a class="headerlink" href="#main-navigation" title="Permanent link">&para;</a></h4>
+<p><strong>Main Navigation</strong> allows to customize this navigation bar like changing the menu type to column, dropdown menu or mega menu; changing colors of the top menu as well as the sub-menus. There is an option "<strong>Hide webpage links</strong>" that allows to hide the static web page links on the main navigation. "<strong>Show top categories on mobile</strong>" to show top categories on mobile device.</p>
+<p>To configure the Main navigation, click on <strong>Theme Styles</strong> &gt; <strong>Header and footer</strong>. In <strong>Main navigation</strong> section you can change:</p>
+<ul>
+<li>
+<p><strong>Text color</strong>: text color of menu item.</p>
+</li>
+<li>
+<p><strong>Text hover color</strong>: text color on hover menu item.</p>
+</li>
+<li>
+<p><strong>Dropdown menu background</strong>: background color of sub menu block.</p>
+</li>
+<li>
+<p><strong>Dropdown menu border</strong>: border-color bottom of main navigation.</p>
+</li>
+</ul>
+<p><img alt="main-navigation" src="img/main-navigation.jpg" /></p>
+<p>To config style of main navigation, click on <strong>Theme Styles</strong> &gt; <strong>Header</strong>. In <strong>Main navigation</strong> select <strong>Menu style</strong>. The theme offer 3 option as below:</p>
+<ul>
+<li><code>Simple</code>: show submenu under Simple menu style. <strong>Simple menu</strong> allow user insert banner and product into it</li>
+</ul>
+<p><img alt="mega-menu" src="img/simple-menu.jpg" /></p>
+<ul>
+<li><code>Alternate</code>: show sub-menu item as dropdown style.</li>
+</ul>
+<p><img alt="dropdown-menu" src="img/alternate-menu.jpg" /></p>
+<p>To show top categories on mobile below the header, in <strong>Themes style</strong> &gt; <strong>Header and footer</strong> Find <strong>Show top categories on mobile</strong> option checked to show all the link categories. Section you can change:</p>
+<ul>
+<li>
+<p><strong>Background</strong>: background color of top categories.</p>
+</li>
+<li>
+<p><strong>Text color</strong>: text color of menu item.</p>
+</li>
+<li>
+<p><strong>Text hover color</strong>: text color on hover menu item.</p>
+</li>
+</ul>
+<p><img alt="top-categories" src="img/top-categories-mobile.jpg" />.</p>
+<p>To create banner on Simple menu, in <strong>Header and footer</strong> find and checked <strong>TURN ON EDITING MENU WIDGETS</strong> to open Simple menu in design mode.</p>
+<p><img alt="edit-widget-simple" src="img/edit-widget-menu.jpg" /></p>
+<p>To customize Banner on right of sub menu on mobile. Drag and drop <strong>Flex Banners | PapaThemes Beautify</strong> into corresponding position:</p>
+<p><img alt="edit-widget-simple" src="img/edit-flex-banner-right.jpg" /></p>
+<p>In <strong>Column 1</strong>, set padding = <code>0</code>.</p>
+<p>Remove all banner except banner 1. Selet your image want to upload. Set <code>Image width</code> = <code>250px</code>, <code>Image height</code> = <code>250px</code>. Set <code>Border radius</code> = <code>16px</code>.</p>
+<p><img alt="edit-widget-simple" src="img/edit-setting-flex-banner-1.jpg" /></p>
+<p>In <strong>CONTENT</strong>. Click center and bottom on <strong>Content align</strong>.</p>
+<p>In <strong>Content padding</strong>, <strong>Content padding (Tablet)</strong>, <strong>Content padding (Mobile)</strong> set <code>Top</code>, <code>Right</code>, <code>Bottom</code>, <code>Left</code> = <code>16</code>.</p>
+<p>Hide <code>Heading Text</code>.</p>
+<p>Show <code>Action button</code>. Set <code>Style</code> = <code>Default</code>, <code>Position</code> = <code>Bottom</code>.</p>
+<p><img alt="edit-widget-simple" src="img/edit-setting-flex-banner-2.jpg" />.</p>
+<p>In <strong>GENERAL</strong></p>
+<p>Choose edit <strong>Width</strong>. Choose <code>px</code> on <strong>Width</strong>, set <code>Value (Desktop)</code>, <code>Value (Tablet)</code>, <code>Value (Mobile)</code> = <code>250px</code>.</p>
+<p>Choose edit <strong>Padding</strong>. <strong>Desktop</strong> set <code>Right</code>, <code>Left</code> = <code>8</code>. <strong>Tablet</strong> set <code>Right</code>, <code>Left</code> = <code>4</code>. <strong>Mobile</strong> set <code>Right</code> = <code>4</code>, <code>Bottom</code> = <code>0</code>, <code>Left</code> = <code>4</code>.</p>
+<p><img alt="edit-widget-simple" src="img/edit-setting-flex-banner-3.jpg" />.</p>
+<p>Duplicate 1 banner to 1 banners.</p>
+<h4 id="hide-webpage-links">Hide webpage links<a class="headerlink" href="#hide-webpage-links" title="Permanent link">&para;</a></h4>
+<p>To hide Webpage links such as <strong>Contact us</strong>, <strong>About Us</strong>, <strong>Shipping and return</strong> from header, in <strong>Themes style</strong> &gt; <strong>Header</strong> Find <strong>Hide Webpage links</strong> option checked to hide all the links except <strong>Categories</strong> link.</p>
+<p>If you only want to hide some specific links not all the link you can do following step:</p>
+<ul>
+<li><code>- Show web page started from</code> field: input the order link you want to show.</li>
+<li><code>- Limit</code> field: input number web link you want to show after begining field.</li>
+</ul>
+<p>For example: if you only want show <strong>Blog</strong> and <strong>Shipping &amp; return</strong>: - Begining field: 1; - limit field: 2;</p>
+<p>Note: the order will only count non-categories link.</p>
+<p>Before:</p>
+<p><img alt="web-links-order" src="img/web-links-order.jpg" />.</p>
+<p><strong>Watch the instruction video:</strong></p>
+<iframe width="760" height="515" src="https://www.youtube.com/embed/8gJ2qS92AUg?si=zJJ9CwFmVu0Jk1HQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; pictre-in-picture; web-share" allowfullscreen></iframe>
+
+<h3 id="top-banner">Top Banner<a class="headerlink" href="#top-banner" title="Permanent link">&para;</a></h3>
+<p>Go back to <strong>Storefront</strong> &gt; <strong>My Themes</strong> &gt; click <strong>Customize</strong> button beside the theme thumbnail. You can see the top banner appears above the header. To change the colors of the top banner, go to <strong>Theme Styles</strong> &gt; <strong>General</strong> &gt; <strong>Top banners</strong> section. Here you can change the text color and the background color.</p>
+<p><strong>Watch the instruction video:</strong></p>
+<iframe width="760" height="515" src="https://www.youtube.com/embed/NL1QiC3INpU?si=oMcyYeScMlBQl28f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<p>You can also create <strong>top banner</strong> by drag and drop <strong>HTML widget</strong> into corresponding position:</p>
+<p><img alt="top-banner" src="img/top-banner.jpg" /></p>
+<p>Enter your content inside <code>&lt;p&gt;&lt;/p&gt;</code>.</p>
+<pre><code class="language-html">&lt;p&gt;Get a discount with our limited time offer - Use code&amp;nbsp;&lt;strong&gt;SAVE10&lt;/strong&gt;&amp;nbsp;for&amp;nbsp;&lt;strong&gt;10%&lt;/strong&gt;&amp;nbsp;off your purchase!&lt;/p&gt;
+&lt;p&gt;Dive into our newest collection of eco-friendly products! Let's make a difference together.&lt;/p&gt;
+&lt;p&gt;Discover the beauty of handcrafted artisanal items in our latest collection. Every piece tells a story.&lt;/p&gt;
+
+</code></pre>
+<h3 id="ad-banner-top-header">Ad Banner Top header<a class="headerlink" href="#ad-banner-top-header" title="Permanent link">&para;</a></h3>
+<p>To display the ad banner appearing on all pages on the header, drag and drop the HTML widget to the corresponding position, paste the given code below to the HTML editor, then click Save HTML button.</p>
+<pre><code class="language-html">&lt;p&gt;STAY AHEAD OF THE STYLE CURVE WITH OUR LATEST ARRIVALS -&lt;a href=&quot;/shipping-returns/&quot; style=&quot;font-weight: 500&quot;&gt; Discover Now&lt;/a&gt;&lt;/p&gt;
+</code></pre>
+<p><strong>Watch the instruction video:</strong></p>
+<iframe width="760" height="515" src="https://www.youtube.com/embed/bxD_I4ZbMi0?si=b9dDgPVcNsiazSX5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; pictre-in-picture; web-share" allowfullscreen></iframe>
+
+<h3 id="main-carousel">Main Carousel<a class="headerlink" href="#main-carousel" title="Permanent link">&para;</a></h3>
+<p><img alt="main-carousel-manager" src="img/main-carousel-manager.jpg" /></p>
+<p>Upload the carousel images in <strong>Storefront</strong> &gt; <strong>Home Page Carousel</strong>.</p>
+<p>Go back to <strong>Page Builder</strong>, in <strong>Theme Styles</strong> &gt; <strong>Home Page</strong>, make sure <strong>Carousel</strong> &gt; <strong>Show carousel</strong> is selected. You can change the carousel styles and colors here.</p>
+<p>To adjust the image height in mobile view, simply modify the <strong>Mobile Image Height</strong> to your preferred dimension.</p>
+<p><strong>Watch the instruction video:</strong></p>
+<iframe width="760" height="515" src="https://www.youtube.com/embed/IvW6T-P3Oxs?si=vGlWYu6UDo4n11HP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; pictre-in-picture; web-share" allowfullscreen></iframe>
+
+<h3 id="shop-by-category">Shop By Category<a class="headerlink" href="#shop-by-category" title="Permanent link">&para;</a></h3>
+<p><img alt="Shop by category" src="img/shop-by-categories.jpg" /></p>
+<p>Navigate to <strong>Theme Styles</strong> &gt; <strong>Home Page</strong> &gt; <strong>Sections</strong> enter <code>categories</code> to one o the section to display this block.</p>
+<p><img alt="Shop by category" src="img/Shop-by-categories-section.png" /></p>
+<h3 id="bestselling-products">Bestselling Products<a class="headerlink" href="#bestselling-products" title="Permanent link">&para;</a></h3>
+<p><img alt="bestselling-products" src="img/Popular-product.jpg" /></p>
+<p>Bestselling products only display when your store has some order.</p>
+<p>You can configure bestselling products section settings in <strong>Page Builder</strong> &gt; <strong>Theme Styles</strong> &gt; <strong>Home Page</strong>, make sure one of the <strong>Sections</strong> fill input = <code>bestselling</code>. In <strong>Products</strong> section, you can change <strong>Number of most popular products</strong> to display, changing <strong>Most popular products display</strong> to <code>Carousel</code> or <code>Grid</code>.</p>
+<h3 id="featured-products">Featured Products<a class="headerlink" href="#featured-products" title="Permanent link">&para;</a></h3>
+<p><img alt="featured-products" src="img/Feature-products.jpg" /></p>
+<p>You can set featured products in <strong>Products</strong>, click the <strong>star</strong> icon on the same row to set the product as featured.</p>
+<p>Go back to <strong>Page Builder</strong> &gt; <strong>Theme Styles</strong> &gt; <strong>Home Page</strong>, make sure one of the <strong>Sections</strong> fill input = <code>featured_products</code>. In <strong>Products</strong> section, you can change <strong>Number of featured products</strong> to display, changing <strong>Featured products display</strong> to <code>Carousel</code> or <code>Grid</code>.</p>
+<h3 id="new-products">New Products<a class="headerlink" href="#new-products" title="Permanent link">&para;</a></h3>
+<p><img alt="new-products" src="img/New-products.jpg" /></p>
+<p>You can configure new products section settings in <strong>Page Builder</strong> &gt; <strong>Theme Styles</strong> &gt; <strong>Home Page</strong>, make sure one of the <strong>Sections</strong> fill input = <code>new</code>. In <strong>Products</strong> section, you can change the <strong>Number of new products</strong> to display, changing <strong>New products display</strong> to <code>Carousel</code> or <code>Grid</code></p>
+<h3 id="recently-viewed-products">Recently Viewed Products<a class="headerlink" href="#recently-viewed-products" title="Permanent link">&para;</a></h3>
+<p><img alt="bestselling-products" src="img/Recently-viewed-products.jpg" /></p>
+<p>Recently Viewed Products will be display automatically viewed any product.</p>
+<p>You can configure recently viewed products section settings in <strong>Page Builder</strong> &gt; <strong>Theme Styles</strong> &gt; <strong>Home Page</strong>, make sure one of the <strong>Sections</strong> fill input = <code>viewed</code> to enable this block.</p>
+<h3 id="display-product-column-on-homepage">Display product column on Homepage<a class="headerlink" href="#display-product-column-on-homepage" title="Permanent link">&para;</a></h3>
+<p>To change number product display per slide, in <strong>Page builder</strong> &gt; <strong>Global</strong> &gt; <strong>Product</strong>.</p>
+<ul>
+<li><strong>Columns on Desktop</strong>: specify number column product display for Desktop.</li>
+<li><strong>Columns on Tablet</strong>: specify number column product display for Table.</li>
+<li><strong>Columns on Mobile</strong>: specify number column product display for Mobile.</li>
+</ul>
+<h3 id="featured-brands">Featured Brands<a class="headerlink" href="#featured-brands" title="Permanent link">&para;</a></h3>
+<p><img alt="Featured-brand" src="img/brands.jpg" /></p>
+<p><strong>Featured brand</strong> will automatic load all brands of your store.</p>
+<p>To enable <strong>Featured brand</strong>, in <strong>Theme Styles</strong> &gt; <strong>Homepage</strong> &gt; <strong>Section</strong> choose one of sections and type <code>brands</code> to enable this block.</p>
+<p>To change color background of this section click on <strong>Brands carousel background</strong> and select color fit to design.</p>
+<h3 id="grid-layout-banners">Grid layout banners<a class="headerlink" href="#grid-layout-banners" title="Permanent link">&para;</a></h3>
+<p><img alt="grid-man-banners" src="img/three-men-banner.jpg" /></p>
+<p>To create <strong>grid layout banners</strong> :</p>
+<p>In <strong>Page Builder</strong>, drag &amp; drop <strong>Layout</strong> widget to the corresponding position. Change <strong>Column</strong> = <code>1</code>, set <strong>Padding</strong> = <code>0 0 0 0</code>.</p>
+<p>Drag &amp; drop <strong>Flex Banners | PapaThemes Beautify</strong> widget into the <strong>Layout</strong>. Remove all banner except banner 1.</p>
+<p>To edit <strong>Banner 1</strong>, change your image, set <strong>Image width</strong> = <code>1024px</code>, <strong>Image height</strong> = <code>500px</code>. Click <strong>Show different image on mobile</strong>, change your image in mobile, set <strong>Image width</strong> = <code>550px</code>, <strong>Image height</strong> = <code>500px</code>. Set <strong>Border radius</strong> = <code>0px</code>.</p>
+<p>In <strong>CONTENT</strong>, hide <code>Heading text</code>.</p>
+<p>In <strong>GENERAL</strong>. Set <strong>Width (Desktop)</strong> and <strong>Width (Tablet)</strong> = <code>40%</code>, <strong>Width (Mobile)</strong> = <code>100%</code>. Set <strong>Padding (Desktop)</strong> = <code>0 15 15 0</code>, <strong>Padding (Tablet)</strong> = <code>0 10 10 0</code>, <strong>Padding (Mobile)</strong> = <code>0 0 0 0</code>.</p>
+<p>Duplicate banner 1 to 2 banners.</p>
+<p>In <strong>Banner 2</strong>, change your image, set <strong>Image width</strong> = <code>1536px</code>, <strong>Image height</strong> = <code>500px</code>. Click <strong>Show different image on mobile</strong>, change your image in mobile, set <strong>Image width</strong> = <code>550px</code>, <strong>Image height</strong> = <code>450px</code>. Set <strong>Border radius</strong> = <code>0px</code>.</p>
+<p>In <strong>GENERAL</strong>. Set <strong>Width (Desktop)</strong> and <strong>Width (Tablet)</strong> = <code>60%</code>, <strong>Width (Mobile)</strong> = <code>100%</code>. Set <strong>Padding (Desktop)</strong> = <code>0 0 15 15</code>, <strong>Padding (Tablet)</strong> = <code>0 0 10 10</code>, <strong>Padding (Mobile)</strong> = <code>0 0 0 0</code>.</p>
+<p>In <strong>Banner 3</strong>, change your image, set <strong>Image width</strong> = <code>2560px</code>, <strong>Image height</strong> = <code>450px</code>. Click <strong>Show different image on mobile</strong>, change your image in mobile, set <strong>Image width</strong> = <code>550px</code>, <strong>Image height</strong> = <code>400px</code>. Set <strong>Border radius</strong> = <code>0px</code>.</p>
+<p>In <strong>GENERAL</strong>. Set <strong>Width (Desktop)</strong>, <strong>Width (Tablet)</strong> , <strong>Width (Mobile)</strong> = <code>100%</code>. Set <strong>Padding (Desktop)</strong> = <code>15 0 0 0</code>, <strong>Padding (Tablet)</strong> = <code>10 0 0 0</code>, <strong>Padding (Mobile)</strong> = <code>0 0 0 0</code>.</p>
+<h3 id="recent-blog-posts">Recent Blog Posts<a class="headerlink" href="#recent-blog-posts" title="Permanent link">&para;</a></h3>
+<p><img alt="edit-recent-blog" src="img/edit-recent-blog.jpg" /></p>
+<p>You can add blog posts in Storefront &gt; Blog. Click the <strong>+</strong> button to add a new blog post. Make sure <strong>Blog Visibility</strong> is <code>on</code>.</p>
+<p>To display the <strong>recent blog</strong> posts on the home page, go to <strong>Page Builder</strong>. In <strong>Theme Styles</strong> &gt; <strong>Home Page</strong>, make sure one of Sections has typed <code>blog_recent</code>. Scroll down the Recent Blog section, you can configure <strong>Heading</strong>, <strong>Number of posts</strong> to display.</p>
+<h3 id="footer">Footer<a class="headerlink" href="#footer" title="Permanent link">&para;</a></h3>
+<p><img alt="footer" src="img/footer.jpg" /></p>
+<p>In <strong>Page Builder</strong> &gt; <strong>Theme Styles</strong> &gt; <strong>Footer</strong>, you can configure the footer link colors, contact info ....</p>
+<p>You can create title footer info inside the widget. Drag &amp; drop <strong>Section Heading | PapaThemes Beautify</strong> to the corresponding position.</p>
+<p>Select the <strong>Column 1</strong> and change <strong>Padding (px)</strong> to <code>0 0 0 0</code>.</p>
+<p>In <strong>Section Heading | PapaThemes Beautify</strong>, set <code>Heading tag</code> = <code>H3</code>, select <code>Text style</code> = <code>Custom</code>. Set <code>Font family</code> = <code>Inherit</code>, <code>Font weight</code> = <code>Semi Bold</code>, <code>Font size</code> and <code>Font size (Mobile)</code> = <code>14px</code>. Set <code>Alignment</code> = <code>left</code>. Set <code>Padding</code>, <code>Padding (Mobile)</code> = <code>0 0 0 0</code>, <code>Margin</code> and <code>Margin (Mobile)</code> = <code>0 0 16 0</code>.</p>
+<p><img alt="footer" src="img/footer-info-title.jpg" /></p>
+<p>In <strong>Page builder</strong> &gt; <strong>Custom Widget</strong> find <strong>Footer links | PapaThemes Beautify</strong> widget then drag and drop the widget to corresponding position in <strong>Footer</strong>.</p>
+<p>Select the <strong>Column 1</strong> and change <strong>padding</strong> to <code>0 0 0 0</code>.</p>
+<p>In <strong>design</strong> you can type your link content and click on the <strong>insert/edit link</strong> button as picture below:</p>
+<p><img alt="footer-links" src="img/footer-link-widget.jpg" /></p>
+<p>In the popup window, copy your web link to <code>URL</code>. On the <strong>Open links..</strong> field you can select how your link could be open in <strong>New Window</strong> or <strong>Current Window</strong></p>
+<p><img alt="Insert-links" src="img/insert-links.jpg" /></p>
+<p><strong>Phone text</strong> allow changing the text along with the phone number in the input field based on the text below.</p>
+<pre><code class="language-html">  We're available by phone (&lt;a href='tel:{phone}'&gt;{phone}&lt;/a&gt;) and chat today from 8 a.m.-11 p.m.
+</code></pre>
+<p><img alt="footer" src="img/footer-contact-phone.jpg" /></p>
+<p>You can create <strong>Footer contact</strong> inside the widget. Drag &amp; drop the HTML into corresponding position, then copy the HTML below and click the <strong>Save HTML</strong> button.</p>
+<pre><code class="language-html">  &lt;ul class=&quot;footer-contacts-callouts&quot;&gt;
+    &lt;li&gt;&lt;a href=&quot;/faq&quot;&gt;&lt;i class=&quot;icon&quot; aria-hidden=&quot;true&quot;&gt;&lt;svg&gt;&lt;use href=&quot;#icon-comments-question-check&quot;&gt;&lt;/use&gt;&lt;/svg&gt;&lt;/i&gt;FAQ&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;#text-message&quot;&gt;&lt;i class=&quot;icon&quot; aria-hidden=&quot;true&quot;&gt;&lt;svg&gt;&lt;use href=&quot;#icon-message-dots&quot;&gt;&lt;/use&gt;&lt;/svg&gt;&lt;/i&gt;Text&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;#chat&quot;&gt;&lt;i class=&quot;icon&quot; aria-hidden=&quot;true&quot;&gt;&lt;svg&gt;&lt;use href=&quot;#icon-messages&quot;&gt;&lt;/use&gt;&lt;/svg&gt;&lt;/i&gt;Chat&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;mailto:contact@papathemes.com&quot;&gt;&lt;i class=&quot;icon&quot; aria-hidden=&quot;true&quot;&gt;&lt;svg&gt;&lt;use href=&quot;#icon-envelope&quot;&gt;&lt;/use&gt;&lt;/svg&gt;&lt;/i&gt;Email&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</code></pre>
+<p><img alt="footer" src="img/footer-contact-col.jpg" /></p>
+<p><strong>Payment Icons</strong> allows to select which payment icons to display.</p>
+<p><strong>Copyright</strong> allows to configure the copyright text.</p>
+<p><strong>Watch the instruction video:</strong></p>
+<iframe width="760" height="515" src="https://www.youtube.com/embed/qIK4uCQxIJ8?si=yqS1NXihsqslwgV3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<h3 id="instagram-photos">Instagram photos<a class="headerlink" href="#instagram-photos" title="Permanent link">&para;</a></h3>
+<p><img alt="instagram" src="img/instagram-photos.jpg" /></p>
+<p>To display your Instagram photos, open <a href="https://instagram.papathemes.com/">https://instagram.papathemes.com/</a> Follow the instruction on this page to <a href="https://www.facebook.com/business/help/898752960195806">Connect your Facebook Page with your Instagram account</a>. Then click <strong>Login With Facebook</strong> button and follow the further steps to authorize access permission. Click <strong>Show Embedding Code</strong> button to generate the code embedding to your web store. Choose <strong>Preset</strong> = <code>Carousel</code> and select <strong>LazyLoad</strong>.</p>
+<p>Copy all the code appear in Step 1 &amp; Step 2. For example:</p>
+<pre><code class="language-html">&lt;div id=&quot;papainstagram-render&quot; class=&quot;container&quot;&gt;Instagram Feed&lt;/div&gt;
+&lt;script&gt;!function(){var a=document.createElement(&quot;script&quot;);a.defer=!0,a.src=&quot;https://papathemes.s3.amazonaws.com/instagramapp/assets/js/embed-1.0.1.js&quot;,a.onload=function(){PapathemesInstagramApp.init({account_id:&quot;102757428623728&quot;,element_id:&quot;papainstagram-render&quot;,limit:&quot;20&quot;,preset:&quot;grid&quot;,lazyload:&quot;false&quot;})},document.body.appendChild(a)}();&lt;/script&gt;
+</code></pre>
+<p>Go back to your store Page Builder. Drag &amp; drop the HTML widget to the corresponding position. Paste the generated code above to the HTML editor, and click <strong>Save HTML</strong> button. Your Instagram photos should display like our demo store.</p>
+<p>Please note that the app only updates your latest uploaded photos every 6 hours.</p>
+<p>To create the title, drag &amp; drop the <strong>Section Heading</strong> widget to above the Instagram photos. Set <strong>Padding</strong> = <code>40 0 40 0</code> and <strong>Padding (Mobile)</strong> = <code>20 0 20 0</code>.</p>
+<p><strong>Watch the instruction video:</strong></p>
+<iframe width="760" height="515" src="https://www.youtube.com/embed/iUCG6iXI0zg?si=MMQGRbdEEY3D6KBP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<h2 id="customizing-products-display">Customizing Products Display<a class="headerlink" href="#customizing-products-display" title="Permanent link">&para;</a></h2>
+<h3 id="product-card">Product Card<a class="headerlink" href="#product-card" title="Permanent link">&para;</a></h3>
+<p><img alt="configure-product-card" src="img/configure-product-card.jpg" /></p>
+<p>Configuring product cards in <strong>Page Builder</strong> &gt; <strong>Theme Styles</strong> &gt; <strong>Products</strong> &gt; <strong>Product cards</strong>.</p>
+<ul>
+<li><strong>Background</strong>: specifying the color of product card background.</li>
+<li><strong>Product header text color</strong>: Specifying the product name's color.</li>
+<li><strong>Product header text hover color</strong>: Specifying color when hover or focus.</li>
+<li><strong>Button text color</strong>: specify color for text in button.</li>
+<li><strong>Button background color</strong>: specify color for button background.</li>
+<li><strong>Title font size</strong>: enter the number to change the title font size.</li>
+<li><strong>Show quantity input</strong>: toggle on to display quantity input. If toggle of input field will not visible client cannot adjust the quantity in card.</li>
+<li>
+<p><strong>show buttons always visible</strong>: toggle on to make button always visible.</p>
+</li>
+<li>
+<p><strong>Show compare button</strong>: toggle on to display compare button.</p>
+</li>
+<li><strong>Show swatch</strong>: Allows to display with swatch type product option on every product card. It's helpful to display different product variants like colors or sizes.</li>
+<li><strong>Swatch names (separator: ,)</strong>: enter the option name to display in card.</li>
+<li><strong>Swatch color sizes</strong>: Specifying the swatch color size.</li>
+<li><strong>Swatch images sizes</strong>: Specifying the swatch image size.</li>
+<li><strong>Show videos &amp; 360</strong>: toggle on to display videos and 360 images.</li>
+</ul>
+<h3 id="hiding-prices-for-non-logged-in-customers">Hiding prices for non logged in customers<a class="headerlink" href="#hiding-prices-for-non-logged-in-customers" title="Permanent link">&para;</a></h3>
+<p>To turn on this feature, go to <strong>setting</strong> &gt; <strong>display</strong> &gt; <strong>Products setting</strong> &gt; tick <strong>Hide Product's Price from Guests?</strong> checkbox.</p>
+<p><img alt="hide-prices" src="img/Hide-price-from-non-login.jpg" /></p>
+<h3 id="showinghiding-quick-view-button">Showing/Hiding Quick-View button<a class="headerlink" href="#showinghiding-quick-view-button" title="Permanent link">&para;</a></h3>
+<p>By default quick-view buttons appear on all product cards. To hide it, go to <strong>Page Builder</strong> &gt; <strong>Theme Styles</strong> &gt; <strong>Products</strong> &gt; <strong>Display settings</strong> un-tick <strong>Show quick view button on product cards</strong> checkbox.</p>
+<h3 id="displaying-product-weight-dimensions-on-pdp">Displaying product weight, dimensions on PDP<a class="headerlink" href="#displaying-product-weight-dimensions-on-pdp" title="Permanent link">&para;</a></h3>
+<p>Go to <strong>Page Builder</strong> &gt; <strong>Theme Styles</strong> &gt; <strong>Products</strong> &gt; <strong>Display setting</strong>.</p>
+<ul>
+<li>Tick <strong>Show product weight</strong> checkbox.</li>
+<li>Tick <strong>Show product dimensions</strong> checkbox.</li>
+</ul>
+<h3 id="display-customer-reviews-tab-on-pdp">Display customer reviews tab on PDP<a class="headerlink" href="#display-customer-reviews-tab-on-pdp" title="Permanent link">&para;</a></h3>
+<p><img alt="Customer-reivew" src="img/customer-reviews.jpg" /></p>
+<p>Go to <strong>Page Builder</strong> &gt; <strong>Theme Styles</strong> &gt; <strong>Products</strong> &gt; <strong>Display setting</strong> checked option <strong>Show product reviews</strong>.</p>
+<p>Specify number of product reviews displayed.</p>
+<h3 id="display-sale-badge-on-pdp">Display sale badge on PDP<a class="headerlink" href="#display-sale-badge-on-pdp" title="Permanent link">&para;</a></h3>
+<p>Go to <strong>Page Builder</strong> &gt; <strong>Theme Styles</strong> &gt; <strong>Products</strong> &gt; <strong>Product sale badges</strong> in <strong>Show product sale badges</strong> select badge type</p>
+<ul>
+<li><code>Percent</code>: display badges label with percent off.</li>
+<li><code>label</code>: only display label.</li>
+<li>
+<p><code>None</code>: hide badge.</p>
+</li>
+<li>
+<p><strong>Label</strong>: Specifying the badge text.</p>
+</li>
+<li><strong>Text color</strong>: Specifying the badge text color.</li>
+<li><strong>Background color</strong>: Specifying the badge background color</li>
+</ul>
+<h3 id="sold-out-badge">Sold out badge<a class="headerlink" href="#sold-out-badge" title="Permanent link">&para;</a></h3>
+<p>Displaying <strong>sold out badge</strong>, in <strong>Page Builder</strong> navigate to <strong>Product</strong> find <strong>Show product sold-out badges</strong> select Label.</p>
+<p>Enter text to display for sold out badge at <strong>Product sold out badge label</strong> field.</p>
+<ul>
+<li><strong>Badge text color</strong>: specifying text color.</li>
+<li><strong>Badge color</strong>: specifying background color.</li>
+</ul>
+<h3 id="condition-badge">Condition badge<a class="headerlink" href="#condition-badge" title="Permanent link">&para;</a></h3>
+<p><img alt="product-badges" src="img/product-badges.jpg" /></p>
+<p>Displaying the condition badge in tick <strong>Show custom badges</strong>.</p>
+<p>Displaying the condition badge in <strong>Custom badges</strong>, tick <strong>Enable custom badge from '__badge' custom field</strong>. Edit product, add custom field with name <code>__badge</code> and value is the badge text.</p>
+<ul>
+<li><strong>Badge color (PDP)</strong>: Specifying the text color of the custom badge in Product detail page.</li>
+<li><strong>Badge text color (PDP)</strong>: Specifying the background color of the custom badge in Product detail page.</li>
+</ul>
+<h3 id="customizing-price-labels">Customizing Price Labels<a class="headerlink" href="#customizing-price-labels" title="Permanent link">&para;</a></h3>
+<p>You can customize sale price label, before sale price label, retail price label or regular price label in
+<strong>Page Builder</strong> &gt; <strong>Theme Styles</strong> &gt; <strong>Products</strong> &gt; <strong>Price Labels</strong></p>
+<p><img alt="configure-price-labels" src="img/configure-price-labels.jpg" /></p>
+<h3 id="displaying-image-gallery">Displaying Image gallery<a class="headerlink" href="#displaying-image-gallery" title="Permanent link">&para;</a></h3>
+<h4 id="limit-number-thumbnail-display">limit number thumbnail display<a class="headerlink" href="#limit-number-thumbnail-display" title="Permanent link">&para;</a></h4>
+<p>To change number thumbnail display at image gallery go to <strong>Page Builder</strong> &gt; <strong>Theme Styles</strong> &gt; <strong>Products</strong> &gt; <strong>Display setting</strong> enter your number to <strong>Visible thumbnails</strong>.</p>
+<h4 id="displaying-product-image-thumbnails-vertically">Displaying product image thumbnails vertically<a class="headerlink" href="#displaying-product-image-thumbnails-vertically" title="Permanent link">&para;</a></h4>
+<p>In <strong>Page Builder</strong> &gt; <strong>Theme Styles</strong> &gt; <strong>Products</strong> &gt; <strong>Display setting</strong>, checked <strong>Show vertical thumbnails</strong> to display product thumbnails vertically, otherwise it's displayed horizontally.</p>
+<p><img alt="thumbnails-vertically" src="img/thumbnail-vertical.jpg" /></p>
+<p>To specify the number thumbnail display in slider simply enter your desire number in <strong>Number of visible thumbnails</strong>.</p>
+<h3 id="configuring-image-sizes">Configuring image sizes<a class="headerlink" href="#configuring-image-sizes" title="Permanent link">&para;</a></h3>
+<p>In <strong>Page Builder</strong> &gt; <strong>Theme Styles</strong> &gt; <strong>Products</strong> &gt; <strong>Image Sizes</strong>:</p>
+<ul>
+<li>Main product images: Specifying the main product image size displayed on PDP.</li>
+<li>Thumbnail image: Specifying the product thumbnail size.</li>
+<li>Zoomed image: Specifying the zoomed image size.</li>
+<li>Image in gallery view: Specifying product card image size.</li>
+</ul>
+<h3 id="shipping-countdown">Shipping countdown<a class="headerlink" href="#shipping-countdown" title="Permanent link">&para;</a></h3>
+<p><img alt="shipping-countdown" src="img/shipping-countdown.jpg" /></p>
+<p>To enable shipping countdown, <strong>Theme styles</strong> &gt; <strong>Product page</strong>  find <strong>shipping countdown</strong> field and input your cut off time. Find and copied your timezone from wikipedia <code>https://en.wikipedia.org/wiki/List_of_tz_database_time_zones</code> to <strong>timezone</strong> field.</p>
+<p>To disable shipping countdown simply leave <strong>shipping countdown</strong> field empty.</p>
+<p>Note: The time before cut off the message will show <strong>shipping today</strong> after cut off the message will show <strong>shipping tomorrow</strong></p>
+<h3 id="close-description-custom-field-warranty-and-reviews-tab-by-default">Close description, custom field, warranty and reviews tab by default<a class="headerlink" href="#close-description-custom-field-warranty-and-reviews-tab-by-default" title="Permanent link">&para;</a></h3>
+<p>In <strong>Page Builder</strong> &gt; <strong>Theme Styles</strong> &gt; <strong>Products</strong> &gt; <strong>Display setting</strong> and checked option below:</p>
+<ul>
+<li>Collapse description by default</li>
+<li>Collapse custom fields by default</li>
+<li>Collapse warranty by default</li>
+<li>Collapse reviews by default</li>
+</ul>
+<h3 id="displaying-product-custom-fields-in-a-separated-tab">Displaying product custom fields in a separated tab<a class="headerlink" href="#displaying-product-custom-fields-in-a-separated-tab" title="Permanent link">&para;</a></h3>
+<p>In <strong>Page Builder</strong> &gt; <strong>Theme Styles</strong> &gt; <strong>Products</strong> &gt; <strong>Display setting</strong>:</p>
+<ul>
+<li>Tick <strong>Show custom fields in tab</strong> checkbox.</li>
+<li>Enter the tab title in the next <strong>Product custom fields tab label</strong> box.</li>
+</ul>
+<p><img alt="product-custom-fields-tab" src="img/product-custom-fields-tab.jpg" /></p>
+<h3 id="flash-sales">Flash sales<a class="headerlink" href="#flash-sales" title="Permanent link">&para;</a></h3>
+<p><img alt="Flash-sales" src="img/flash-sales.jpg" /></p>
+<p><img alt="Flash-sales" src="img/flash-sales-card.jpg" /></p>
+<p>To create flash sales for each product and product card, in <strong>product</strong> section select the product that you want to add Flash Sales.</p>
+<p>Find customer fields, click on add <strong>Add Custom Field</strong>. Enter <code>__countdown_label</code> into <strong>Custom Field Name</strong>. In <strong>Custom Field Value</strong>, type your content following format: <code>&lt;your banner name&gt;|&lt;end in&gt;</code> (example: FLASH SALES|ENDS IN).</p>
+<p>Create second custom field, enter <code>__countdown_date</code> into <strong>Custom Field Name</strong>. In <strong>Custom Field Value</strong>, input your cut off time following the format: <code>&lt;yyyy&gt;-&lt;mm&gt;-&lt;dd&gt; &lt;hh&gt;:&lt;mm&gt;:&lt;ss&gt;&lt;timezone&gt;</code> (example: 2023-03-15 17:00:00-7).</p>
+<p>Note:</p>
+<ul>
+<li>
+<p><code>&lt;yyyy&gt;-&lt;mm&gt;-&lt;dd&gt;</code> is optional. If the date is not entered, the banner will repeat automatically right after pass cut off time.</p>
+</li>
+<li>
+<p><code>&lt;hh&gt;:&lt;mm&gt;:&lt;ss&gt;</code> is 24 hour format.</p>
+</li>
+<li>
+<p><code>&lt;timezone&gt;</code> only input <code>+ or -</code> and <code>number</code> example: <code>+7</code>. if timezone are not entered, the countdown time will be different in different countries.</p>
+</li>
+<li>
+<p>Make sure you product also have sale price in orde for Flash Sale display. When you remove the <strong>sale price</strong> <strong>Flash Sale</strong> banner will auto disable.</p>
+</li>
+</ul>
+<h3 id="create-modal-step-by-step-modifier-option">Create modal step by step modifier option<a class="headerlink" href="#create-modal-step-by-step-modifier-option" title="Permanent link">&para;</a></h3>
+<h4 id="enable-modal">Enable modal<a class="headerlink" href="#enable-modal" title="Permanent link">&para;</a></h4>
+<p>To enable/disable the modal for selecting options in a product, you need to create the <strong>Modifier Options</strong> for the product first. Then, scroll down to find the <strong>Custom Fields</strong> section. Set the <strong>Custom Field Name</strong> = <code>__@modifiers_modal</code> and the <strong>Custom Field Value</strong> = <code>1</code> to enable the options modal or <code>0</code> to disable it.
+Then go to <strong>Page builder</strong> &gt; <strong>Producs</strong> &gt; <strong>Display setting</strong> enable <strong>Show modifiers in modal</strong>
+<img alt="Modal Option PDP" src="img/option-modal-on.jpg" /></p>
+<h4 id="change-button-name">Change button name<a class="headerlink" href="#change-button-name" title="Permanent link">&para;</a></h4>
+<p>To change the content of the <strong>"Select Option" button</strong>, go to the <strong>Custom Fields</strong> section. Set the <strong>Custom Field Name</strong> to <code>__@select_modifiers</code> and the <strong>Custom Field Value</strong> to the desired content.</p>
+<p><img alt="Modal Option PDP" src="img/option-modal-button.jpg" /></p>
+<h4 id="grouping-modifier-option">Grouping modifier option<a class="headerlink" href="#grouping-modifier-option" title="Permanent link">&para;</a></h4>
+<p>To group multiple options into a single step in the option modal, set the <strong>Custom Field Name</strong> to <code>__@group [title]</code> and the <strong>Custom Field Value</strong> = <code>Option Names;Option Name</code> you want to group together, separate each option by <code>;</code>.</p>
+<p><img alt="Modal Option PDP" src="img/option-modal-group.jpg" /></p>
+<h4 id="change-title-of-modal-option">Change title of modal option<a class="headerlink" href="#change-title-of-modal-option" title="Permanent link">&para;</a></h4>
+<p>To change the <strong>title</strong> of each modifier option in Modal, set the <strong>Custom Field Name</strong> = <code>__@rename [title to be changed]</code> where <code>[title to be changed]</code> is the name of modifier that you want to modify and the <strong>Custom Field Value</strong> = <code>new name</code>.</p>
+<p><img alt="Modal Option PDP" src="img/option-modal-rename.jpg" /></p>
+<h4 id="add-tooltip-to-modifier-option-modal">Add tooltip to Modifier Option Modal<a class="headerlink" href="#add-tooltip-to-modifier-option-modal" title="Permanent link">&para;</a></h4>
+<p>To add a description for a modifier option in the modal, set the <strong>Custom Field Name</strong> = <code>__@tooltip [Option Name]</code> and the <strong>Custom Field Value</strong> to the desired description of the option.</p>
+<p><img alt="Modal Option PDP" src="img/option-modal-tooltip-2.jpg" /></p>
+<h4 id="create-assign-menu">Create assign menu<a class="headerlink" href="#create-assign-menu" title="Permanent link">&para;</a></h4>
+<p><img alt="Modal Option PDP" src="img/assign-menu.jpg" /></p>
+<p>Step 1: Create menu by create a modifier option have value similar to name modifier option that you want to assign.</p>
+<p><img alt="Modal Option PDP" src="img/index-modifier-value.jpg" /></p>
+<p>Step 2: To make client move to correspond modifier option when click on a value of menu, set the <strong>Custom Field Name</strong> = <code>__@hide_if [menu name]: [Selected Value]</code> and the <strong>Custom Field Value</strong> to the values you want to skip in the parent option.</p>
+<p>Example:</p>
+<ul>
+<li><strong>Custom Field Name</strong> = <code>__@hide_if Prescription type:Progressives</code></li>
+<li><strong>Custom Field Value</strong> = <code>Single-vision type;Readers strength</code></li>
+</ul>
+<p><img alt="Modal Option PDP" src="img/Assign-menu-custom-field.jpg" /></p>
+<p>To add a description for each value of an option in the menu, set the <strong>Custom Field Name</strong> = <code>__@tooltip [Option Name]: [Value]</code> and the <strong>Custom Field Value</strong> to the desired description of the value.</p>
+<p><img alt="Modal Option PDP" src="img/option-modal-tooltip.jpg" /></p>
+<p>To set a non-sale price for each value of an option, you need to configure the rules for the Option Modifiers. Then, set the <strong>Custom Field Name</strong> = <code>"__@nonsale [amount]"</code> and the <strong>Custom Field Value</strong> = <code>[Option Name]: [Values]</code> that should have the discount applied.</p>
+<p><img alt="Modal Option PDP" src="img/option-modal-nonsale.jpg" /></p>
+<h3 id="image-product-360">Image Product 360<a class="headerlink" href="#image-product-360" title="Permanent link">&para;</a></h3>
+<p>To create a 360-degree image of a product in the gallery, set the <strong>Custom Field Name</strong> = <code>__@360</code> and the Custom Field Value to the link of the image containing all angles of the product. Once saved, a button will appear on the product card and within the product detail page (PDP) to display the 360-degree modal of the product.</p>
+<p>PDP:</p>
+<p><img alt="Image Product 360" src="img/image-360-pdp.jpg" /></p>
+<p>Product Card:</p>
+<p><img alt="Image Product 360" src="img/image-360-pdc.jpg" /></p>
+<h3 id="variant-options-stepper">Variant Options Stepper<a class="headerlink" href="#variant-options-stepper" title="Permanent link">&para;</a></h3>
+<p>First, create a Variant Option with the type Rectangle List. Then, scroll down to find the Custom Fields section and add:</p>
+<ul>
+<li><strong>Custom Field Name</strong> = <code>__@stepper</code>.</li>
+<li><strong>Custom Field Value</strong> = the Rectangle List options in the Variant Option that need a UI change.</li>
+</ul>
+<p><img alt="Variant Options Stepper" src="img/stepper-list.jpg" /></p>
+<h3 id="custom-collapse-description">Custom collapse description<a class="headerlink" href="#custom-collapse-description" title="Permanent link">&para;</a></h3>
+<p><img alt="Custom collapse description" src="img/Custom-collapse-description.jpg" /></p>
+<p>Open the product description in Source Code edit mode in your admin panel.</p>
+<p>Copy and paste the complete HTML code below into the product description field:</p>
+<pre><code class="language-html">&lt;!-- Main container for this style/demo --&gt;
+&lt;div class=&quot;eyeva-style&quot;&gt;
+
+    &lt;!-- Collapsible Section: Everything Included --&gt;
+    &lt;h2 data-collapsible=&quot;everything-included&quot;&gt;Everything included&lt;/h2&gt;
+
+    &lt;!-- Content block that collapses/expands based on data-collapsible --&gt;
+    &lt;div id=&quot;everything-included&quot;&gt;
+    &lt;!-- your content here --&gt;
+    &lt;/div&gt;
+    &lt;!-- /#everything-included --&gt;
+
+    &lt;!-- Horizontal rule separating sections --&gt;
+    &lt;hr /&gt;
+
+    &lt;!-- Collapsible Section: Materials --&gt;
+    &lt;h2 data-collapsible=&quot;materials&quot;&gt;Materials&lt;/h2&gt;
+    &lt;div id=&quot;materials&quot;&gt;
+        &lt;!-- your content here --&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</code></pre>
+<p>To create more tab just need to duplicate template below and paste it inside <code>&lt;div class="eyeva-style"&gt;&lt;/div&gt;</code></p>
+<pre><code class="language-html">&lt;h2 data-collapsible=&quot;everything-included&quot;&gt;Everything included&lt;/h2&gt;
+
+    &lt;!-- Content block that collapses/expands based on data-collapsible --&gt;
+    &lt;div id=&quot;everything-included&quot;&gt;
+    &lt;!-- your content here --&gt;
+    &lt;/div&gt;
+    &lt;!-- /#everything-included --&gt;
+
+    &lt;!-- Horizontal rule separating sections --&gt;
+    &lt;hr /&gt;
+</code></pre>
+<p>Make sure the text in <code>data-collapsible="custom-text"</code> match to <code>id="custom-tex"</code>so the collapse can work correctly.</p>
+<h2 id="customizing-category-pages">Customizing Category Pages<a class="headerlink" href="#customizing-category-pages" title="Permanent link">&para;</a></h2>
+<h3 id="hide-breadcrumbs-and-page-heading">Hide breadcrumbs and page heading<a class="headerlink" href="#hide-breadcrumbs-and-page-heading" title="Permanent link">&para;</a></h3>
+<p>To hide breadcrumbs and page heading in <strong>page builder</strong> navigate to <strong>Global</strong> &gt; <strong>Page</strong> check on option that you want to hide:</p>
+<ul>
+<li><strong>Hide breadcrumbs</strong></li>
+<li><strong>Hide page heading</strong></li>
+<li><strong>Hide category page heading</strong></li>
+<li><strong>Hide blog page heading</strong></li>
+<li><strong>Hide contact us page heading</strong></li>
+</ul>
+<h3 id="numbers-of-products-display">Numbers of products display<a class="headerlink" href="#numbers-of-products-display" title="Permanent link">&para;</a></h3>
+<p>In <strong>Page Builder</strong> &gt; <strong>Theme Styles</strong> &gt; <strong>Products</strong> &gt; <strong>Number of products displayed</strong>:</p>
+<ul>
+<li><strong>Category page</strong>: Specifying number of products display per page.</li>
+<li><strong>Brand page</strong>: Specifying number of products displayed per page.</li>
+</ul>
+<h3 id="category-layout">Category Layout<a class="headerlink" href="#category-layout" title="Permanent link">&para;</a></h3>
+<h3 id="products-display-type">Products Display Type<a class="headerlink" href="#products-display-type" title="Permanent link">&para;</a></h3>
+<p>Theme supports displaying products in <strong>grid</strong> and in <strong>list mode</strong> mode. go to <strong>Page builder</strong> &gt; <strong>Global</strong> &gt; <strong>Products</strong> in <strong>Display style</strong>, select the particular display mode for default display.</p>
+<p><strong>Grid:</strong></p>
+<p><img alt="products-display-type-grid" src="img/product-display-type-grid.jpg" /></p>
+<p><strong>List:</strong></p>
+<p><img alt="products-display-type-list" src="img/products-display-type-list.jpg" /></p>
+<h3 id="display-imagescolors-on-faceted-filter">Display images/colors on Faceted filter:<a class="headerlink" href="#display-imagescolors-on-faceted-filter" title="Permanent link">&para;</a></h3>
+<p><img alt="display-image-filter" src="img/display-images-filter.jpg" /></p>
+<p>Go to <strong>Page Builder</strong> &gt; <strong>Theme Styles</strong> &gt; <strong>Products</strong> &gt; <strong>Display setting</strong> enter the option name that you want to display images on filter to <strong>Faceted filter images</strong> each option name is seperated by comma.</p>
+<p><img alt="image-filter" src="img/image-filter.jpg" /></p>
+<p>Enter the option name that want to display color swatch into <strong>Faceted filter colors</strong> each option name is seperated by comma.</p>
+<p><img alt="color-filter" src="img/color-filter.jpg" /></p>
+<p>To change size for image/color on filter click on <strong>+ image size</strong> select <strong>Specify dimension</strong></p>
+<h2 id="customizing-cart-page">Customizing Cart page<a class="headerlink" href="#customizing-cart-page" title="Permanent link">&para;</a></h2>
+<h3 id="display-free-shipping-message-in-cart-page">Display free shipping message in cart page.<a class="headerlink" href="#display-free-shipping-message-in-cart-page" title="Permanent link">&para;</a></h3>
+<p>Not qualify message</p>
+<p><img alt="Not-qualify" src="img/not-egilible.jpg" /></p>
+<p>Qualify message</p>
+<p><img alt="qualify" src="img/promotion-qualify.jpg" /></p>
+<p>In <strong>Marketing</strong> &gt; <strong>Promotion</strong> click on <strong>create</strong> and select <strong>With legacy editor</strong></p>
+<p>In <strong>Promotion detail</strong> name your promotion</p>
+<p>In <strong>promotion type</strong> select <code>Orders totaling more than X amount get free shipping to specific shipping zones</code> at the field <strong>spend at least</strong> type your amount</p>
+<p><img alt="free-shipping-editor" src="img/free-shipping.jpg" /></p>
+<p>In <strong>Promotion option</strong> type your message at <strong>Congratulations Banner Message</strong> to display for cart have qualified and type your message for cart have not qualify at <strong>Upsell Banner Message</strong> with format <code>[your text] %%condition.remaining%% [your text]</code> then click save</p>
+<p><img alt="promotion-message" src="img/Promotion-message.jpg" /></p>
+              
+            </div>
+          </div><footer>
+    <div class="rst-footer-buttons" role="navigation" aria-label="Footer Navigation">
+        <a href="index.html" class="btn btn-neutral float-left" title="Home"><span class="icon icon-circle-arrow-left"></span> Previous</a>
+        <a href="update.html" class="btn btn-neutral float-right" title="Update Guide">Next <span class="icon icon-circle-arrow-right"></span></a>
+    </div>
+
+  <hr/>
+
+  <div role="contentinfo">
+    <!-- Copyright etc -->
+  </div>
+
+  Built with <a href="https://www.mkdocs.org/">MkDocs</a> using a <a href="https://github.com/readthedocs/sphinx_rtd_theme">theme</a> provided by <a href="https://readthedocs.org">Read the Docs</a>.
+</footer>
+          
+        </div>
+      </div>
+
+    </section>
+
+  </div>
+
+  <div class="rst-versions" role="note" aria-label="Versions">
+  <span class="rst-current-version" data-toggle="rst-current-version">
+    
+    
+      <span><a href="index.html" style="color: #fcfcfc">&laquo; Previous</a></span>
+    
+    
+      <span><a href="update.html" style="color: #fcfcfc">Next &raquo;</a></span>
+    
+  </span>
+</div>
+    <script src="js/jquery-3.6.0.min.js"></script>
+    <script>var base_url = ".";</script>
+    <script src="js/theme_extra.js"></script>
+    <script src="js/theme.js"></script>
+      <script src="https://use.fontawesome.com/540034d990.js"></script>
+      <script src="search/main.js"></script>
+    <script>
+        jQuery(function () {
+            SphinxRtdTheme.Navigation.enable(true);
+        });
+    </script>
+
+</body>
+</html>
