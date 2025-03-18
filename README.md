@@ -1,2 +1,2 @@
-# bc-Dinosaur-docs
-Documentation for the Dinosaur BigCommerce Theme by PapaThemes
+# bc-eyeva-docs
+Documentation for the Eyeva BigCommerce Theme by PapaThemes

@@ -4,7 +4,7 @@
 
 Thanks for using our theme!
 
-To set up the theme exactly like our demo stores, you may need to install the our free app **[PapaThemes Widgets](https://www.bigcommerce.com/apps/papathemes-widgets/)**. This app provides additional widgets to build the content in Page Builder visually without coding skill. 
+To set up the theme exactly like our demo stores, you may need to install the our free app **[PapaThemes Widgets](https://www.bigcommerce.com/apps/papathemes-widgets/)**. This app provides additional widgets to build the content in Page Builder visually without coding skill.
 
 For displaying your Instagram photos on your website, you can use our free tool **[PapaThemes Instagram](https://instagram.papathemes.com/)**. We will guide you step by step later in this manual.
 
@@ -28,7 +28,7 @@ Then click the Install buttons in turn to install all available widgets:
 
 ![install-papathemes-widgets](img/install-papathemes-widgets.jpg)
 
-Go to **Storefront** > **My Themes** > click **Customize** in dropdown menu of Dinosaur theme to open Page Builder. Select any theme style to start:
+Go to **Storefront** > **My Themes** > click **Customize** in dropdown menu of Eyeva theme to open Page Builder. Select any theme style to start:
 
 ![click-theme-customize](img/click-theme-customize.jpg)
 
@@ -419,7 +419,7 @@ Go to **Page Builder** > **Theme Styles** > **Products** > **Product sale badges
 
 - `Percent`: display badges label with percent off.
 - `label`: only display label.
-- `None`: hide badge. 
+- `None`: hide badge.
 
 - **Label**: Specifying the badge text.
 - **Text color**: Specifying the badge text color.
@@ -449,12 +449,12 @@ Displaying the condition badge in **Custom badges**, tick **Enable custom badge 
 
 ### Customizing Price Labels
 
-You can customize sale price label, before sale price label, retail price label or regular price label in 
+You can customize sale price label, before sale price label, retail price label or regular price label in
 **Page Builder** > **Theme Styles** > **Products** > **Price Labels**
 
 ![configure-price-labels](img/configure-price-labels.jpg)
 
-### Displaying Image gallery 
+### Displaying Image gallery
 
 #### limit number thumbnail display
 
@@ -513,16 +513,16 @@ In **Page Builder** > **Theme Styles** > **Products** > **Display setting**:
 
 To create flash sales for each product and product card, in **product** section select the product that you want to add Flash Sales.
 
-Find customer fields, click on add **Add Custom Field**. Enter `__countdown_label` into **Custom Field Name**. In **Custom Field Value**, type your content following format: `<your banner name>|<end in>` (example: FLASH SALES|ENDS IN). 
+Find customer fields, click on add **Add Custom Field**. Enter `__countdown_label` into **Custom Field Name**. In **Custom Field Value**, type your content following format: `<your banner name>|<end in>` (example: FLASH SALES|ENDS IN).
 
 Create second custom field, enter `__countdown_date` into **Custom Field Name**. In **Custom Field Value**, input your cut off time following the format: `<yyyy>-<mm>-<dd> <hh>:<mm>:<ss><timezone>` (example: 2023-03-15 17:00:00-7).
 
 Note:
 
 - `<yyyy>-<mm>-<dd>` is optional. If the date is not entered, the banner will repeat automatically right after pass cut off time.
-  
+
 - `<hh>:<mm>:<ss>` is 24 hour format.
-  
+
 - `<timezone>` only input `+ or -` and `number` example: `+7`. if timezone are not entered, the countdown time will be different in different countries.
 
 - Make sure you product also have sale price in orde for Flash Sale display. When you remove the **sale price** **Flash Sale** banner will auto disable.
@@ -570,9 +570,9 @@ Step 1: Create menu by create a modifier option have value similar to name modif
 
 Step 2: To make client move to correspond modifier option when click on a value of menu, set the **Custom Field Name** = `__@hide_if [menu name]: [Selected Value]` and the **Custom Field Value** to the values you want to skip in the parent option.
 
-Example: 
+Example:
 
-- **Custom Field Name** = `__@hide_if Prescription type:Progressives` 
+- **Custom Field Name** = `__@hide_if Prescription type:Progressives`
 - **Custom Field Value** = `Single-vision type;Readers strength`
 
 ![Modal Option PDP](img/Assign-menu-custom-field.jpg)
@@ -638,7 +638,7 @@ Copy and paste the complete HTML code below into the product description field:
     </div>
 </div>
 ```
-To create more tab just need to duplicate template below and paste it inside `<div class="eyeva-style"></div>` 
+To create more tab just need to duplicate template below and paste it inside `<div class="eyeva-style"></div>`
 
 ```html
 <h2 data-collapsible="everything-included">Everything included</h2>
@@ -719,7 +719,7 @@ Qualify message
 
 In **Marketing** > **Promotion** click on **create** and select **With legacy editor**
 
-In **Promotion detail** name your promotion 
+In **Promotion detail** name your promotion
 
 In **promotion type** select `Orders totaling more than X amount get free shipping to specific shipping zones` at the field **spend at least** type your amount
 
@@ -728,7 +728,3 @@ In **promotion type** select `Orders totaling more than X amount get free shippi
 In **Promotion option** type your message at **Congratulations Banner Message** to display for cart have qualified and type your message for cart have not qualify at **Upsell Banner Message** with format `[your text] %%condition.remaining%% [your text]` then click save
 
 ![promotion-message](img/Promotion-message.jpg)
-
-
-
-
