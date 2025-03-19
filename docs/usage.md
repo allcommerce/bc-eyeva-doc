@@ -436,6 +436,7 @@ Configure the display of product cards under **Page Builder** > **Theme Styles**
 | Show videos & 360                                     | **Checked**<br>Enables display of product videos or 360° spin images if available.                                                                                                                           |
 
 **Notes**:
+
 - All color codes are in hexadecimal format.
 - Font sizes are typically measured in **px** unless otherwise specified.
 - Checked boxes are **enabled**, unchecked boxes are **disabled** by default.
@@ -502,7 +503,7 @@ Enter the text to display for the sold-out badge in the **Product sold out badge
 
 -   **Badge text color**: Specifies the text color.
 -   **Badge color**: Specifies the background color.
--
+
 
 ### Custom Text Badge
 
@@ -550,7 +551,7 @@ In **Page Builder** > **Theme Styles** > **Products** > **Image Sizes**, you can
 
 ### Shipping Countdown
 
-![shipping-countdown](img/shipping-countdown.jpg)
+![shipping-countdown](img/shipping-countdown-1.jpg)
 
 To display a shipping countdown on the Product Detail Page (PDP), navigate to **Theme Styles** > **Product Page**. Locate the **Shipping Countdown** field and enter your cut-off time. Find and copy your timezone from Wikipedia ([https://en.wikipedia.org/wiki/List_of_tz_database_time_zones](https://en.wikipedia.org/wiki/List_of_tz_database_time_zones)) and paste it into the **Timezone** field.
 
@@ -996,7 +997,8 @@ Here's a breakdown of the classes and attributes used in the HTML code:
 
 | Class / Attribute           | Description / Usage                                                                                                         |
 |---------------------------------|--------------------------------------------------------------------------------------------------------------------------------|
-| `.flex`                     | Enables flexbox layout for an element, aligning its direct children in a row or column.                                        |
+| `.eyeva-style` | Main class to apply utility classes. |
+| `.flex` | Enables flexbox layout, aligning children in a row or column. |
 | `.flex-column-md`           | At tablet screen sizes and smaller, this stacks the flex items vertically.                                        |
 | `.gap-24`, `.column-gap-16` | Adds consistent spacing (24px or 16px) between flex items.                                                                         |
 | `.shrink-0`, `.shrink-1-md` | Controls how flex items shrink. `.shrink-0` prevents shrinking, while `.shrink-1-md` allows shrinking on tablet screens and below.        |
@@ -1007,7 +1009,7 @@ Here's a breakdown of the classes and attributes used in the HTML code:
 | `.border-y`, `.border-left`, `.border-top` | Applies a border to specific sides: top/bottom, left, or top.                                                   |
 | `.fill-alt`                 | Used for alternate background colors, often a light shade to distinguish rows or blocks.                            |
 | `.p-24`, `.py-12`, `.px-16` | Utility classes for padding: `.p-24` adds 24px padding on all sides; `.py-12` adds 12px to top/bottom; `.px-16` adds 16px to left/right.                 |
-| `.mb-0`, `.des-mb-0`        | Removes bottom margin (`margin-bottom: 0`). The `des-` prefix might target desktop or larger screens.                        |
+| `.mb-0`, `.des-mb-0`        | Removes bottom margin (`margin-bottom: 0`). The `des-` prefix might target descendent elements.                        |
 | `.font-18`, `.font-16-md`, `.font-14-md` | Utility classes for font sizes at different screen sizes (e.g., 18px on desktop, 16px on tablet and below).                    |
 | `.color-secondary`          | Applies a secondary color to text.                                                                                             |
 | `.button.button--outline`   | Styles an element as an outlined button.                                                                           |
