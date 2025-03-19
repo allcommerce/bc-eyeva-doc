@@ -2,53 +2,51 @@
 
 ## Get Started
 
-Thanks for using our theme!
+Thank you for using our theme!
 
-To set up the theme exactly like our demo stores, you may need to install the our free app **[PapaThemes Widgets](https://www.bigcommerce.com/apps/papathemes-widgets/)**. This app provides additional widgets to build the content in Page Builder visually without coding skill.
+To set up the theme exactly like our demo stores, you may need to install our free app **[PapaThemes Widgets](https://www.bigcommerce.com/apps/papathemes-widgets/)**. This app provides additional widgets to visually build content in Page Builder without requiring coding skills.
 
-For displaying your Instagram photos on your website, you can use our free tool **[PapaThemes Instagram](https://instagram.papathemes.com/)**. We will guide you step by step later in this manual.
+To display your Instagram photos on your website, you can use our free tool **[PapaThemes Instagram](https://instagram.papathemes.com/)**. We will guide you step by step later in this manual.
 
-### Customizing Typography, Fonts and Colors
+### Customizing Typography, Fonts, and Colors
 
-Customizing Typography, Fonts and Colors, Buttons in **Page Builder** > **Theme Styles** > **General**. There are dozens of options to help you customize your website beautifully and uniquely.
+Customize typography, fonts, colors, and buttons in **Page Builder** > **Theme Styles** > **General**. There are dozens of options to help you beautifully and uniquely customize your website.
 
-### Customizing Checkout Page's Typography and Colors
+### Customizing the Checkout Page's Typography and Colors
 
-Customizing the checkout page's typography and colors in **Page Builder** > **Theme Styles** > **Optimized Checkout**
+Customize the checkout page's typography and colors in **Page Builder** > **Theme Styles** > **Optimized Checkout**.
 
-### Installing PapaThemes Widgets App
+### Installing the PapaThemes Widgets App
 
-Find and install **[PapaThemes Widgets](https://www.bigcommerce.com/apps/papathemes-widgets/)** app from [BigCommerce Apps Marketplace](https://www.bigcommerce.com/apps/).
+Find and install the **[PapaThemes Widgets](https://www.bigcommerce.com/apps/papathemes-widgets/)** app from the [BigCommerce Apps Marketplace](https://www.bigcommerce.com/apps/).
 
-After installed, go to your admin page, on the left sidebar, click **Apps** >** My Apps**, click **Launch** button of PapaThemes Widgets app to open the app:
+After installation, navigate to your admin panel. In the left sidebar, click **Apps** > **My Apps**. Then, click the **Launch** button for the PapaThemes Widgets app to open it:
 
 ![launch-papathemes-widgets-app](img/launch-papathemes-widgets-app.jpg)
 
-Then click the Install buttons in turn to install all available widgets:
+Next, click the **Install** buttons in sequence to install all the available widgets.
 
 ![install-papathemes-widgets](img/install-papathemes-widgets.jpg)
 
-Go to **Storefront** > **My Themes** > click **Customize** in dropdown menu of Eyeva theme to open Page Builder. Select any theme style to start:
+Go to **Storefront** > **My Themes**. Click **Customize** on the Eyeva theme's dropdown menu to open Page Builder. Select any theme style to begin.
 
 ![click-theme-customize](img/click-theme-customize.jpg)
 
-Verify the widgets installed successfully if they appear in Page Builder:
+Confirm the widgets are installed by verifying they appear in Page Builder.
 
 ![custom-widgets-appear](img/custom-widgets-appear.jpg)
 
+## Setting Up the Glasses Style Home Page
 
-## Setting Up Glasses Style Home Page
-
-To start customizing the theme, login to your admin panel, go to **Storefront** > **My Themes**, click **Customize** button next to theme thumbnail.
+To start customizing the theme, log in to your admin panel. Navigate to **Storefront** > **My Themes** and click the **Customize** button next to the theme thumbnail.
 
 ### Header
 
 ![Header](img/header.jpg)
 
+To configure the header, navigate to **Theme Styles** > **Header**. Here, you can adjust the header colors, store logo position, and size.
 
-To configure the header, click on **Theme Styles** > **Header** section, here you can config the header colors, store logo position and size.
-
-**Utility navigation** allows to change colors of the icon search, cart, wishlist, user.
+**Utility navigation** allows you to customize the colors of the search, cart, wishlist, and user icons.
 
 **Watch the instruction video:**
 
@@ -57,128 +55,129 @@ To configure the header, click on **Theme Styles** > **Header** section, here yo
 
 #### Main Navigation
 
-**Main Navigation** allows to customize this navigation bar like changing the menu type to column, dropdown menu or mega menu; changing colors of the top menu as well as the sub-menus. There is an option "**Hide webpage links**" that allows to hide the static web page links on the main navigation. "**Show top categories on mobile**" to show top categories on mobile device.
+**Main Navigation** allows you to customize the navigation bar. You can change the menu type to column, dropdown menu, or mega menu, and also modify the colors of the top menu and submenus.
 
-To configure the Main navigation, click on **Theme Styles** > **Header and footer**. In **Main navigation** section you can change:
+The "**Hide webpage links**" option allows you to hide static webpage links in the main navigation.
 
-- **Text color**: text color of menu item.
+![hide-webpage-links](img/hide-webpage-links.jpg)
 
-- **Text hover color**: text color on hover menu item.
+The "**Show top categories on mobile**" option displays top categories on mobile devices.
 
-- **Dropdown menu background**: background color of sub menu block.
+![show-top-categories-on-mobile](img/show-top-categories-on-mobile.jpg)
 
-- **Dropdown menu border**: border-color bottom of main navigation.
+To configure the Main Navigation, navigate to **Theme Styles** > **Header and Footer**. In the **Main Navigation** section, you can adjust the following:
+
+- **Background**: The background color of the top categories.
+- **Text color**: The text color of menu items.
+- **Text hover color**: The text color when hovering over menu items.
+- **Dropdown menu background**: The background color of the submenu block.
+- **Dropdown menu border**: The border color at the bottom of the main navigation.
 
 ![main-navigation](img/main-navigation.jpg)
 
-To config style of main navigation, click on **Theme Styles** > **Header**. In **Main navigation** select **Menu style**. The theme offer 3 option as below:
 
-- `Simple`: show submenu under Simple menu style. **Simple menu** allow user insert banner and product into it
+#### Mega Menu vs. Standard Menu
+
+To configure the style (mega menu, standard menu, etc.) of the main navigation, go to **Theme Styles** > **Header**. In **Main Navigation**, select **Menu Style**. The theme offers two options:
+
+- `Simple`: Displays the submenu in a mega menu style. The **Simple Menu** allows you to insert banners and products.
 
 ![mega-menu](img/simple-menu.jpg)
 
-- `Alternate`: show sub-menu item as dropdown style.
+- `Alternate`: Displays submenu items in a dropdown (standard) style.
 
 ![dropdown-menu](img/alternate-menu.jpg)
 
-To show top categories on mobile below the header, in **Themes style** > **Header and footer** Find **Show top categories on mobile** option checked to show all the link categories. Section you can change:
+#### Displaying Widgets on the Mega Menu
 
-- **Background**: background color of top categories.
-
-- **Text color**: text color of menu item.
-
-- **Text hover color**: text color on hover menu item.
-
-![top-categories](img/top-categories-mobile.jpg).
-
-To create banner on Simple menu, in **Header and footer** find and checked **TURN ON EDITING MENU WIDGETS** to open Simple menu in design mode.
+To display banners in the Mega Menu, go to **Header and Footer** and check **TURN ON EDITING MENU WIDGETS** to open the Mega Menu in design mode.
 
 ![edit-widget-simple](img/edit-widget-menu.jpg)
 
-To customize Banner on right of sub menu on mobile. Drag and drop **Flex Banners | PapaThemes Beautify** into corresponding position:
+To customize the banner on the right of the submenu on mobile, drag and drop a **Flex Banners | PapaThemes Beautify** widget into the corresponding position:
 
 ![edit-widget-simple](img/edit-flex-banner-right.jpg)
 
-In **Column 1**, set padding = `0`.
+In **Column 1**, set padding to `0`.
 
-Remove all banner except banner 1. Selet your image want to upload. Set `Image width` = `250px`, `Image height` = `250px`. Set `Border radius` = `16px`.
+Remove all banners except Banner 1. Select the image you want to upload. Set `Image width` to `250px`, `Image height` to `250px`, and `Border radius` to `16px`.
 
 ![edit-widget-simple](img/edit-setting-flex-banner-1.jpg)
 
-In **CONTENT**. Click center and bottom on **Content align**.
+In **CONTENT**, click **Center** and **Bottom** for **Content Align**.
 
-In **Content padding**, **Content padding (Tablet)**, **Content padding (Mobile)** set `Top`, `Right`, `Bottom`, `Left` = `16`.
+In **Content Padding**, **Content Padding (Tablet)**, and **Content Padding (Mobile)**, set `Top`, `Right`, `Bottom`, and `Left` to `16`.
 
-Hide `Heading Text`.
+Hide the `Heading Text`.
 
-Show `Action button`. Set `Style` = `Default`, `Position` = `Bottom`.
+Show the `Action Button`. Set `Style` to `Default` and `Position` to `Bottom`.
 
-![edit-widget-simple](img/edit-setting-flex-banner-2.jpg).
+![edit-widget-simple](img/edit-setting-flex-banner-2.jpg)
 
-In **GENERAL**
+In **GENERAL**, edit the **Width**. Choose `px` for **Width**, and set `Value (Desktop)`, `Value (Tablet)`, and `Value (Mobile)` to `250px`.
 
-Choose edit **Width**. Choose `px` on **Width**, set `Value (Desktop)`, `Value (Tablet)`, `Value (Mobile)` = `250px`.
+Edit the **Padding**. For **Desktop**, set `Right` and `Left` to `8`. For **Tablet**, set `Right` and `Left` to `4`. For **Mobile**, set `Right` to `4`, `Bottom` to `0`, and `Left` to `4`.
 
-Choose edit **Padding**. **Desktop** set `Right`, `Left` = `8`. **Tablet** set `Right`, `Left` = `4`. **Mobile** set `Right` = `4`, `Bottom` = `0`, `Left` = `4`.
+![edit-widget-simple](img/edit-setting-flex-banner-3.jpg)
 
-![edit-widget-simple](img/edit-setting-flex-banner-3.jpg).
+Duplicate Banner 1 to create another banner.
 
-Duplicate 1 banner to 1 banners.
+#### Hide Web Page Links
 
-#### Hide webpage links
+To hide web page links such as **Contact Us**, **About Us**, and **Shipping & Returns** from the header, navigate to **Theme Styles** > **Header**. Locate the **Hide Web Page Links** option and select it to hide all links except **Categories**.
 
-To hide Webpage links such as **Contact us**, **About Us**, **Shipping and return** from header, in **Themes style** > **Header** Find **Hide Webpage links** option checked to hide all the links except **Categories** link.
+If you want to hide only specific links, follow these steps:
 
-If you only want to hide some specific links not all the link you can do following step:
+- **Show web page starting from**: Enter the order number of the first link you want to display.
+- **Limit**: Enter the number of webpage links you want to display, starting from the specified order.
 
-- `- Show web page started from` field: input the order link you want to show.
-- `- Limit` field: input number web link you want to show after begining field.
+For example, to display only **Blog** and **Shipping & Returns**:
 
-For example: if you only want show **Blog** and **Shipping & return**: - Begining field: 1; - limit field: 2;
+- **Show web page starting from**: `1`
+- **Limit**: `2`
 
-Note: the order will only count non-categories link.
+Note: The order only counts non-category links.
 
-Before:
-
-![web-links-order](img/web-links-order.jpg).
+![web-links-order](img/web-links-order.jpg)
 
 **Watch the instruction video:**
 
-<iframe width="760" height="515" src="https://www.youtube.com/embed/8gJ2qS92AUg?si=zJJ9CwFmVu0Jk1HQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; pictre-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="760" height="515" src="https://www.youtube.com/embed/8gJ2qS92AUg?si=zJJ9CwFmVu0Jk1HQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### Top Banner
 
-Go back to **Storefront** > **My Themes** > click **Customize** button beside the theme thumbnail. You can see the top banner appears above the header. To change the colors of the top banner, go to **Theme Styles** > **General** > **Top banners** section. Here you can change the text color and the background color.
+Go back to **Storefront** > **My Themes**, and click the **Customize** button beside the theme thumbnail. You can see the top banner above the header. To change the colors of the top banner, go to **Theme Styles** > **General** > **Top Banners**. Here, you can change the text color and background color.
 
 **Watch the instruction video:**
 
 <iframe width="760" height="515" src="https://www.youtube.com/embed/NL1QiC3INpU?si=oMcyYeScMlBQl28f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
-You can also create **top banner** by drag and drop **HTML widget** into corresponding position:
+### Display Top Banner on All Pages
 
 ![top-banner](img/top-banner.jpg)
 
-Enter your content inside `<p></p>`.
+To display a top banner that appears on all pages in the header, drag and drop an **HTML Widget** into the desired position. Paste the code below into the HTML editor, and then click the **Save HTML** button.
 
 ```html
-<p>Get a discount with our limited time offer - Use code&nbsp;<strong>SAVE10</strong>&nbsp;for&nbsp;<strong>10%</strong>&nbsp;off your purchase!</p>
-<p>Dive into our newest collection of eco-friendly products! Let's make a difference together.</p>
-<p>Discover the beauty of handcrafted artisanal items in our latest collection. Every piece tells a story.</p>
-
+<div data-banner-carousel style="text-align: center">
+  <div>See Clearly, Look Stylish! ? Shop Top-Quality Eyeglasses at Unbeatable Prices – Limited Time Offers!</div>
+  <div><strong>Elevate Your Vision, Elevate Your Style!</strong> ? Discover Our Exclusive Eyeglasses Collection at Amazing Prices &ndash; Shop Now!</div>
+  <div><strong>Perfect Your Look with Precision!</strong> ?️ Browse Our Premium Eyewear Range &ndash; Exceptional Deals Await!</div>
+</div>
 ```
 
-### Ad Banner Top header
+This code displays 3 messages in a carousel (specified by the `data-banner-carousel` attribute).
 
-To display the ad banner appearing on all pages on the header, drag and drop the HTML widget to the corresponding position, paste the given code below to the HTML editor, then click Save HTML button.
+To display a simple message, you can just enter the HTML code like this:
 
 ```html
-<p>STAY AHEAD OF THE STYLE CURVE WITH OUR LATEST ARRIVALS -<a href="/shipping-returns/" style="font-weight: 500"> Discover Now</a></p>
+<p>See Clearly, Look Stylish! ? Shop Top-Quality Eyeglasses at Unbeatable Prices – Limited Time Offers!</p>
 ```
 
 **Watch the instruction video:**
 
-<iframe width="760" height="515" src="https://www.youtube.com/embed/bxD_I4ZbMi0?si=b9dDgPVcNsiazSX5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; pictre-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="760" height="515" src="https://www.youtube.com/embed/bxD_I4ZbMi0?si=b9dDgPVcNsiazSX5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### Main Carousel
 
@@ -186,271 +185,340 @@ To display the ad banner appearing on all pages on the header, drag and drop the
 
 Upload the carousel images in **Storefront** > **Home Page Carousel**.
 
-Go back to **Page Builder**, in **Theme Styles** > **Home Page**, make sure **Carousel** > **Show carousel** is selected. You can change the carousel styles and colors here.
+Return to **Page Builder**. Navigate to **Theme Styles** > **Home Page** and ensure that **Carousel** > **Show carousel** is enabled. You can customize the carousel styles and colors here.
 
-To adjust the image height in mobile view, simply modify the **Mobile Image Height** to your preferred dimension.
+![homepage-carousel-settings](img/homepage-carousel-settings.jpg)
+
+To adjust the image height in mobile view, modify the **Mobile fixed height (px)** to your preferred dimension. For example, enter `500` to display a 500px height on mobile devices.
+
+![carousel-fixed-height-on-mobile](img/carousel-fixed-height-on-mobile.jpg)
+
+To display a different image on mobile, upload the image in the Image Manager. Then, copy the image URL and paste it into the corresponding **Slide [Number] for mobile** field (e.g., **Slide 1 for mobile** to **Slide 5 for mobile**).
 
 **Watch the instruction video:**
 
-<iframe width="760" height="515" src="https://www.youtube.com/embed/IvW6T-P3Oxs?si=vGlWYu6UDo4n11HP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; pictre-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="760" height="515" src="https://www.youtube.com/embed/IvW6T-P3Oxs?si=vGlWYu6UDo4n11HP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+### Free Shipping Banner below the Homepage Carousel
+
+![Free shipping banner](img/homepage-free-shipping-banner.jpg)
+
+In Page Builder, drag and drop the **Section Heading** widget into the corresponding widget region:
+
+![Free shipping banner](img/free-shipping-banner-section-heading.jpg)
+
+Configure the widget options as follows:
+
+![Free shipping banner widget config](img/free-shipping-banner-widget-config.jpg)
+
+-   **Heading tag**: P
+-   **Text style**: Custom
+-   **Font family**: Inherit
+-   **Font weight**: Extra Bold
+-   **Font size (Desktop)**: 24px
+-   **Font size (Mobile)**: 16px
+-   **Line height**: 1.6
+-   **Text color**: #0B5F33
+-   **Alignment**: Left / Center / Right
+-   **Margin (Desktop)**: 0 0 0 0
+-   **Margin (Mobile)**: 0 0 0 0
+-   **Padding (Desktop)**: 24 16 24 16
+-   **Padding (Mobile)**: 24 16 24 16
+-   **Background color**: Optional (color picker or hex code)
+
+Edit the text using the inline editor:
+
+![Free shipping banner widget edit text](img/free-shipping-banner-widget-edit-text.jpg)
+
 
 ### Shop By Category
 
 ![Shop by category](img/shop-by-categories.jpg)
 
-Navigate to **Theme Styles** > **Home Page** > **Sections** enter `categories` to one o the section to display this block.
+To display this block, navigate to **Theme Styles** > **Home Page** > **Sections** and enter `categories` into one of the section inputs.
 
 ![Shop by category](img/Shop-by-categories-section.png)
-
 
 ### Bestselling Products
 
 ![bestselling-products](img/Popular-product.jpg)
 
-Bestselling products only display when your store has some order.
+Bestselling products will only appear once your store has received orders.
 
-You can configure bestselling products section settings in **Page Builder** > **Theme Styles** > **Home Page**, make sure one of the **Sections** fill input = `bestselling`. In **Products** section, you can change **Number of most popular products** to display, changing **Most popular products display** to `Carousel` or `Grid`.
+You can configure the bestselling products section settings in **Page Builder** > **Theme Styles** > **Home Page**. Ensure that one of the **Sections** inputs is set to `bestselling`. In the **Products** section, you can adjust the **Number of most popular products** to display and change the **Most popular products display** to either `Carousel` or `Grid`.
+
+![homepage-products-settings](img/homepage-products-settings.jpg)
 
 ### Featured Products
 
 ![featured-products](img/Feature-products.jpg)
 
-You can set featured products in **Products**, click the **star** icon on the same row to set the product as featured.
+You can designate products as "featured" in **Products** by clicking the **star** icon on the corresponding row.
 
-Go back to **Page Builder** > **Theme Styles** > **Home Page**, make sure one of the **Sections** fill input = `featured_products`. In **Products** section, you can change **Number of featured products** to display, changing **Featured products display** to `Carousel` or `Grid`.
+Return to **Page Builder** > **Theme Styles** > **Home Page** and ensure that one of the **Sections** inputs is set to `featured_products`. In the **Products** section, you can modify the **Number of featured products** to display and change the **Featured products display** to either `Carousel` or `Grid`.
 
 ### New Products
 
 ![new-products](img/New-products.jpg)
 
-You can configure new products section settings in **Page Builder** > **Theme Styles** > **Home Page**, make sure one of the **Sections** fill input = `new`. In **Products** section, you can change the **Number of new products** to display, changing **New products display** to `Carousel` or `Grid`
+You can configure the new products section settings in **Page Builder** > **Theme Styles** > **Home Page**. Ensure that one of the **Sections** inputs is set to `new`. In the **Products** section, you can change the **Number of new products** to display and change the **New products display** to either `Carousel` or `Grid`.
+
+### Wide banner
+
+![glasses-wide-banner](img/glasses-wide-banner.jpg)
+
+In Page Builder, drag & drop the Flex Banner widget into the corresponding widget region:
+
+![glasses-wide-banner](img/glasses-wide-banner-flex-banner.jpg)
+
+Configure the widget options as follows:
+
+|  |  |  |
+|---|---|---|
+| ![glasses-wide-banner-flex-banner-config-1](img/glasses-wide-banner-flex-banner-config-1.jpg) | ![glasses-wide-banner-flex-banner-config-2](img/glasses-wide-banner-flex-banner-config-2.jpg) | ![glasses-wide-banner-flex-banner-config-3](img/glasses-wide-banner-flex-banner-config-3.jpg) |
+
+
+| **Setting**                                    | **Value**                                   |
+|-----------------------------------------------|---------------------------------------------|
+| **Image**                                      |                                             |
+| Image                                          | (Eyeglasses image)                          |
+| Image width                                    | 3000 px                                     |
+| Image height                                   | 1000 px                                     |
+| Show different image on mobile                 | ON (toggle enabled)                         |
+| Image (Mobile)                                 | (Alternate eyeglasses image)               |
+| Image width (Mobile)                           | 1000 px                                     |
+| Image height (Mobile)                          | 1000 px                                     |
+| Image alt text                                 | *(blank)*                                   |
+| Image fit                                      | Fill to box                                 |
+| Lazy-Load                                      | ON (toggle enabled)                         |
+| Border radius                                  | 0 px                                        |
+| Link                                           | *(blank)*                                   |
+| **Content**                                    |                                             |
+| Content align (Horizontal)                     | Left                                        |
+| Content align (Vertical)                       | Center                                      |
+| Content padding (Desktop)                      | Top: 40 px • Right: 320 px • Bottom: 40 px • Left: 128 px |
+| Content padding (Tablet)                       | Top: 40 px • Right: 320 px • Bottom: 40 px • Left: 16 px   |
+| Content padding (Mobile)                       | Top: 10 px • Right: 15 px • Bottom: 10 px • Left: 15 px    |
+| Content background                             | *(none)*                                    |
+| Heading text                                   | Visible (eye icon ON)                       |
+| Description text                               | Visible (eye icon ON)                       |
+| Action button                                  | Visible (eye icon ON)                       |
+| **General**                                    |                                             |
+| Width (Desktop)                                | 100%                                        |
+| Width (Tablet)                                 | 100%                                        |
+| Width (Mobile)                                 | 100%                                        |
+| Padding                                        | *(not shown, likely 0)*                    |
+
 
 ### Recently Viewed Products
 
 ![bestselling-products](img/Recently-viewed-products.jpg)
 
-Recently Viewed Products will be display automatically viewed any product.
+Recently Viewed Products will be displayed automatically after a product has been viewed.
 
-You can configure recently viewed products section settings in **Page Builder** > **Theme Styles** > **Home Page**, make sure one of the **Sections** fill input = `viewed` to enable this block.
+You can configure the Recently Viewed Products section settings in **Page Builder** > **Theme Styles** > **Home Page**. Ensure that one of the **Sections** inputs is set to `viewed` to enable this block.
 
-### Display product column on Homepage
+### Configure product columns on desktop, tablet, and mobile
 
-To change number product display per slide, in **Page builder** > **Global** > **Product**.
+![product-columns](img/product-columns.jpg)
 
-- **Columns on Desktop**: specify number column product display for Desktop.
-- **Columns on Tablet**: specify number column product display for Table.
-- **Columns on Mobile**: specify number column product display for Mobile.
+To change the number of products displayed per row, go to **Page Builder** > **Global** > **Product**.
+
+- **Columns on Desktop**: Specify the number of product columns to display on Desktop.
+- **Columns on Tablet**: Specify the number of product columns to display on Tablet.
+- **Columns on Mobile**: Specify the number of product columns to display on Mobile.
 
 ### Featured Brands
 
 ![Featured-brand](img/brands.jpg)
 
-**Featured brand** will automatic load all brands of your store.
+The **Featured Brands** section will automatically display all brands from your store.
 
-To enable **Featured brand**, in **Theme Styles** > **Homepage** > **Section** choose one of sections and type `brands` to enable this block.
+To enable the **Featured Brands** section, in **Theme Styles** > **Home Page** > **Sections**, choose one of the sections and type `brands` to enable this block.
 
-To change color background of this section click on **Brands carousel background** and select color fit to design.
+To change the background color of this section, click on **Brands carousel background** and select a color that fits your design.
 
-### Grid layout banners
-
-![grid-man-banners](img/three-men-banner.jpg)
-
-To create **grid layout banners** :
-
-In **Page Builder**, drag & drop **Layout** widget to the corresponding position. Change **Column** = `1`, set **Padding** = `0 0 0 0`.
-
-Drag & drop **Flex Banners | PapaThemes Beautify** widget into the **Layout**. Remove all banner except banner 1.
-
-To edit **Banner 1**, change your image, set **Image width** = `1024px`, **Image height** = `500px`. Click **Show different image on mobile**, change your image in mobile, set **Image width** = `550px`, **Image height** = `500px`. Set **Border radius** = `0px`.
-
-In **CONTENT**, hide `Heading text`.
-
-In **GENERAL**. Set **Width (Desktop)** and **Width (Tablet)** = `40%`, **Width (Mobile)** = `100%`. Set **Padding (Desktop)** = `0 15 15 0`, **Padding (Tablet)** = `0 10 10 0`, **Padding (Mobile)** = `0 0 0 0`.
-
-Duplicate banner 1 to 2 banners.
-
-In **Banner 2**, change your image, set **Image width** = `1536px`, **Image height** = `500px`. Click **Show different image on mobile**, change your image in mobile, set **Image width** = `550px`, **Image height** = `450px`. Set **Border radius** = `0px`.
-
-In **GENERAL**. Set **Width (Desktop)** and **Width (Tablet)** = `60%`, **Width (Mobile)** = `100%`. Set **Padding (Desktop)** = `0 0 15 15`, **Padding (Tablet)** = `0 0 10 10`, **Padding (Mobile)** = `0 0 0 0`.
-
-In **Banner 3**, change your image, set **Image width** = `2560px`, **Image height** = `450px`. Click **Show different image on mobile**, change your image in mobile, set **Image width** = `550px`, **Image height** = `400px`. Set **Border radius** = `0px`.
-
-In **GENERAL**. Set **Width (Desktop)**, **Width (Tablet)** , **Width (Mobile)** = `100%`. Set **Padding (Desktop)** = `15 0 0 0`, **Padding (Tablet)** = `10 0 0 0`, **Padding (Mobile)** = `0 0 0 0`.
+![homepage-featured-brands](img/homepage-featured-brands.jpg)
 
 ### Recent Blog Posts
 
 ![edit-recent-blog](img/edit-recent-blog.jpg)
 
-You can add blog posts in Storefront > Blog. Click the **+** button to add a new blog post. Make sure **Blog Visibility** is `on`.
+You can add blog posts in **Storefront** > **Blog**. Click the **+** button to add a new blog post. Make sure **Blog Visibility** is `on`.
 
-To display the **recent blog** posts on the home page, go to **Page Builder**. In **Theme Styles** > **Home Page**, make sure one of Sections has typed `blog_recent`. Scroll down the Recent Blog section, you can configure **Heading**, **Number of posts** to display.
+To display the **recent blog** posts on the home page, go to **Page Builder**. In **Theme Styles** > **Home Page**, make sure one of Sections has typed `blog`. Scroll down the Recent Blog section, you can configure **Heading**, **Number of posts** to display.
+
+![homepage-number-of-posts](img/homepage-number-of-posts.jpg)
 
 ### Footer
 
 ![footer](img/footer.jpg)
 
-In **Page Builder** > **Theme Styles** > **Footer**, you can configure the footer link colors, contact info ....
+Configure footer settings in **Theme Styles** > **Header and footer** >  **Footer**.
 
-You can create title footer info inside the widget. Drag & drop **Section Heading | PapaThemes Beautify** to the corresponding position.
+![footer-theme-settings](img/footer-theme-settings.jpg)
 
-Select the **Column 1** and change **Padding (px)** to `0 0 0 0`.
 
-In **Section Heading | PapaThemes Beautify**, set `Heading tag` = `H3`, select `Text style` = `Custom`. Set `Font family` = `Inherit`, `Font weight` = `Semi Bold`, `Font size` and `Font size (Mobile)` = `14px`. Set `Alignment` = `left`. Set `Padding`, `Padding (Mobile)` = `0 0 0 0`, `Margin` and `Margin (Mobile)` = `0 0 16 0`.
+| **Setting**                         | **Meaning**                                                                                           |
+|------------------------------------|-------------------------------------------------------------------------------------------------------|
+| **Footer background**              | The background color for the store’s footer area.                                                     |
+| **Text color**                     | The primary text color used throughout the footer.                                                    |
+| **Hover link color**               | The color applied to footer links when hovered over by the mouse.                                     |
+| **Heading color**                  | The color for any heading text within the footer (e.g. “Contact Us,” “Information,” etc.).            |
+| **Border color**                   | The color of any borders or dividing lines in the footer.                                             |
+| **Phone text**                     | The text snippet (including an HTML link) displayed for phone contact in the footer.                  |
+| **Show “Powered by BigCommerce”**  | Toggles the visibility of the “Powered by BigCommerce” credit at the footer’s bottom.                  |
+| **Show brands in footer**          | Determines if brand logos/links are displayed in the footer.                                          |
+| **Show “&copy;”, current year and store name** | Toggles the display of a copyright notice showing “© [current year] [store name].”         |
 
-![footer](img/footer-info-title.jpg)
 
-In **Page builder** > **Custom Widget** find **Footer links | PapaThemes Beautify** widget then drag and drop the widget to corresponding position in **Footer**.
-
-Select the **Column 1** and change **padding** to `0 0 0 0`.
-
-In **design** you can type your link content and click on the **insert/edit link** button as picture below:
-
-![footer-links](img/footer-link-widget.jpg)
-
-In the popup window, copy your web link to `URL`. On the **Open links..** field you can select how your link could be open in **New Window** or **Current Window**
-
-![Insert-links](img/insert-links.jpg)
-
-**Phone text** allow changing the text along with the phone number in the input field based on the text below.
+**Phone text** allows you to change the text, along with the phone number, in the input field based on the text below.
 
 ```html
-  We're available by phone (<a href='tel:{phone}'>{phone}</a>) and chat today from 8 a.m.-11 p.m.
+We're available by phone (<a href='tel:{phone}'>{phone}</a>) and chat today from 8 a.m.-11 p.m.
 ```
+
+`{phone}` will be replaced by the phone number you set in the store settings.
 
 ![footer](img/footer-contact-phone.jpg)
 
-You can create **Footer contact** inside the widget. Drag & drop the HTML into corresponding position, then copy the HTML below and click the **Save HTML** button.
+You can display contact icons (FAQ, Text, Chat, Email) using a widget. Drag and drop the HTML widget into the corresponding widget region, then copy the HTML code below and click the **Save HTML** button.
 
 ```html
-  <ul class="footer-contacts-callouts">
-    <li><a href="/faq"><i class="icon" aria-hidden="true"><svg><use href="#icon-comments-question-check"></use></svg></i>FAQ</a></li>
-    <li><a href="#text-message"><i class="icon" aria-hidden="true"><svg><use href="#icon-message-dots"></use></svg></i>Text</a></li>
-    <li><a href="#chat"><i class="icon" aria-hidden="true"><svg><use href="#icon-messages"></use></svg></i>Chat</a></li>
-    <li><a href="mailto:contact@papathemes.com"><i class="icon" aria-hidden="true"><svg><use href="#icon-envelope"></use></svg></i>Email</a></li>
+<ul class="footer-contacts-callouts">
+  <li><a href="/faq"><i class="icon" aria-hidden="true"><svg><use href="#icon-comments-question-check"></use></svg></i>FAQ</a></li>
+  <li><a href="#text-message"><i class="icon" aria-hidden="true"><svg><use href="#icon-message-dots"></use></svg></i>Text</a></li>
+  <li><a href="#chat"><i class="icon" aria-hidden="true"><svg><use href="#icon-messages"></use></svg></i>Chat</a></li>
+  <li><a href="mailto:contact@papathemes.com"><i class="icon" aria-hidden="true"><svg><use href="#icon-envelope"></use></svg></i>Email</a></li>
 </ul>
 ```
 
 ![footer](img/footer-contact-col.jpg)
 
-**Payment Icons** allows to select which payment icons to display.
+**Payment Icons** allows you to select which payment icons to display.
 
-**Copyright** allows to configure the copyright text.
+
 
 **Watch the instruction video:**
 
 <iframe width="760" height="515" src="https://www.youtube.com/embed/qIK4uCQxIJ8?si=yqS1NXihsqslwgV3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
-### Instagram photos
-
-![instagram](img/instagram-photos.jpg)
-
-To display your Instagram photos, open <https://instagram.papathemes.com/> Follow the instruction on this page to [Connect your Facebook Page with your Instagram account](https://www.facebook.com/business/help/898752960195806). Then click **Login With Facebook** button and follow the further steps to authorize access permission. Click **Show Embedding Code** button to generate the code embedding to your web store. Choose **Preset** = `Carousel` and select **LazyLoad**.
-
-Copy all the code appear in Step 1 & Step 2. For example:
-
-```html
-<div id="papainstagram-render" class="container">Instagram Feed</div>
-<script>!function(){var a=document.createElement("script");a.defer=!0,a.src="https://papathemes.s3.amazonaws.com/instagramapp/assets/js/embed-1.0.1.js",a.onload=function(){PapathemesInstagramApp.init({account_id:"102757428623728",element_id:"papainstagram-render",limit:"20",preset:"grid",lazyload:"false"})},document.body.appendChild(a)}();</script>
-```
-
-Go back to your store Page Builder. Drag & drop the HTML widget to the corresponding position. Paste the generated code above to the HTML editor, and click **Save HTML** button. Your Instagram photos should display like our demo store.
-
-Please note that the app only updates your latest uploaded photos every 6 hours.
-
-To create the title, drag & drop the **Section Heading** widget to above the Instagram photos. Set **Padding** = `40 0 40 0` and **Padding (Mobile)** = `20 0 20 0`.
-
-**Watch the instruction video:**
-
-<iframe width="760" height="515" src="https://www.youtube.com/embed/iUCG6iXI0zg?si=MMQGRbdEEY3D6KBP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
 ## Customizing Products Display
 
 ### Product Card
 
-![configure-product-card](img/configure-product-card.jpg)
 
-Configuring product cards in **Page Builder** > **Theme Styles** > **Products** > **Product cards**.
+|  |  |  |
+|---|---|---|
+| ![product-card](img/product-card.jpg) | ![product-card-settings-1](img/product-card-settings-1.jpg) | ![product-card-settings-2](img/product-card-settings-2.jpg) |
 
-- **Background**: specifying the color of product card background.
-- **Product header text color**: Specifying the product name's color.
-- **Product header text hover color**: Specifying color when hover or focus.
-- **Button text color**: specify color for text in button.
-- **Button background color**: specify color for button background.
-- **Title font size**: enter the number to change the title font size.
-- **Show quantity input**: toggle on to display quantity input. If toggle of input field will not visible client cannot adjust the quantity in card.
-- **show buttons always visible**: toggle on to make button always visible.
+Configure the display of product cards under **Page Builder** > **Theme Styles** > **Products** > **Product Cards**:
 
-- **Show compare button**: toggle on to display compare button.
-- **Show swatch**: Allows to display with swatch type product option on every product card. It's helpful to display different product variants like colors or sizes.
-- **Swatch names (separator: ,)**: enter the option name to display in card.
-- **Swatch color sizes**: Specifying the swatch color size.
-- **Swatch images sizes**: Specifying the swatch image size.
-- **Show videos & 360**: toggle on to display videos and 360 images.
 
-### Hiding prices for non logged in customers
+| **Setting**                                           | **Value & Meaning**                                                                                                                                                                                           |
+|-------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Product Cards**                                      |                                                                                                                                                                                                              |
+| Background                                            | **#F7F7F7**<br>Defines the background color of the product cards.                                                                                                                                            |
+| Product header text color                              | **#333333**<br>The main color used for product headings (e.g., product name/title).                                                                                                                          |
+| Product header text hover color                        | **#104EA5**<br>The color applied to product headings when hovered over by the mouse.                                                                                                                         |
+| Button text color                                     | **#333333**<br>The color of text on product card buttons (e.g., “Add to Cart,” “View Details”).                                                                                                              |
+| Button background                                     | **#FFFFFF**<br>The background color for product card buttons.                                                                                                                                                |
+| Title font size                                       | **18** (px)<br>Font size for the product heading/title.                                                                                                                                                      |
+| Show qty box                                          | **Checked**<br>Displays a quantity selector on the product cards (so customers can choose a specific quantity before adding to cart).                                                                        |
+| Show buttons always visible                           | **Unchecked**<br>When off, product buttons appear on hover. If turned on, the buttons are displayed at all times.                                                                                            |
+| Show compare button                                   | **Checked**<br>Displays a “Compare” button, allowing customers to compare products.                                                                                                                          |
+| Show swatches                                         | **Checked**<br>Shows color or image swatches on product cards for variants (e.g., different color options).                                                                                                  |
+| Swatch names (separator: , )                         | *(blank)*<br>If you enter text here, swatch names will be displayed alongside swatches, separated by the comma character(s).                                                                                |
+| Swatch color size                                     | **28x28**<br>Specifies the width and height (in px) for color swatches.                                                                                                                                       |
+| Swatch image size                                     | **42x28**<br>Specifies the width and height (in px) for image swatches.                                                                                                                                       |
+| Show flash sale countdown                             | **Checked**<br>Shows a countdown timer if a product is on flash sale (limited-time pricing).                                                                                                                  |
+| Show videos & 360                                     | **Checked**<br>Enables display of product videos or 360° spin images if available.                                                                                                                           |
 
-To turn on this feature, go to **setting** > **display** > **Products setting** > tick **Hide Product's Price from Guests?** checkbox.
+**Notes**:
+- All color codes are in hexadecimal format.
+- Font sizes are typically measured in **px** unless otherwise specified.
+- Checked boxes are **enabled**, unchecked boxes are **disabled** by default.
+
+
+![product-card-details](img/product-card-details.jpg)
+
+
+### Hiding Prices for Non-Logged-In Customers
+
+To enable this feature, go to **Settings** > **Display** > **Products Settings** and check the **Hide Product's Price from Guests?** checkbox.
 
 ![hide-prices](img/Hide-price-from-non-login.jpg)
 
-### Showing/Hiding Quick-View button
+### Showing/Hiding Quick View Button
 
-By default quick-view buttons appear on all product cards. To hide it, go to **Page Builder** > **Theme Styles** > **Products** > **Display settings** un-tick **Show quick view button on product cards** checkbox.
+By default, quick view buttons appear on all product cards. To hide them, go to **Page Builder** > **Theme Styles** > **Products** > **Display Settings** and uncheck the **Show quick view button on product cards** checkbox.
 
-### Displaying product weight, dimensions on PDP
+![show-quickview](img/show-quickview.jpg)
 
-Go to **Page Builder** > **Theme Styles** > **Products** > **Display setting**.
+### Displaying Product Weight and Dimensions on PDP
 
-- Tick **Show product weight** checkbox.
-- Tick **Show product dimensions** checkbox.
+Go to **Page Builder** > **Theme Styles** > **Products** > **Display Settings**.
 
-### Display customer reviews tab on PDP
+- Check the **Show product weight** checkbox.
+- Check the **Show product dimensions** checkbox.
+
+![Product Weight and Dimensions](img/product-weight-dimension.jpg)
+
+### Displaying Customer Reviews Tab on PDP
 
 ![Customer-reivew](img/customer-reviews.jpg)
 
-Go to **Page Builder** > **Theme Styles** > **Products** > **Display setting** checked option **Show product reviews**.
+Go to **Page Builder** > **Theme Styles** > **Products** > **Display Settings** and check the **Show product reviews** option.
 
-Specify number of product reviews displayed.
+Specify the number of product reviews to be displayed.
 
-### Display sale badge on PDP
+![Customer Reviews](img/product-customer-reviews.jpg)
 
-Go to **Page Builder** > **Theme Styles** > **Products** > **Product sale badges** in **Show product sale badges** select badge type
+### Display Sale Badges on PDP
 
-- `Percent`: display badges label with percent off.
-- `label`: only display label.
-- `None`: hide badge.
+Go to **Page Builder** > **Theme Styles** > **Products** > **Product Sale Badges**. In **Show product sale badges**, select the badge type:
 
-- **Label**: Specifying the badge text.
-- **Text color**: Specifying the badge text color.
-- **Background color**: Specifying the badge background color
+-   `Percent`: Displays the badge label with the percentage off.
+-   `Label`: Displays only the label.
+-   `None`: Hides the badge.
 
-### Sold out badge
+|                                              |                                              |
+| :------------------------------------------: | :------------------------------------------: |
+| ![Sale Badge Option](img/sale-badge-option-1.jpg) | ![Sale Badge Option](img/sale-badge-option-2.jpg) |
 
-Displaying **sold out badge**, in **Page Builder** navigate to **Product** find **Show product sold-out badges** select Label.
-
-Enter text to display for sold out badge at **Product sold out badge label** field.
-
-- **Badge text color**: specifying text color.
-- **Badge color**: specifying background color.
-
-### Condition badge
-
-![product-badges](img/product-badges.jpg)
+-   **Label**: Specifies the badge text.
+-   **Badge text color**: Specifies the badge text color.
+-   **Badge color**: Specifies the badge background color.
 
 
+### Sold Out Badge
 
-Displaying the condition badge in tick **Show custom badges**.
+To display a "**Sold Out**" badge, in **Page Builder**, navigate to **Products** and find **Show product sold-out badges**. Select "Label".
 
-Displaying the condition badge in **Custom badges**, tick **Enable custom badge from '__badge' custom field**. Edit product, add custom field with name `__badge` and value is the badge text.
+![sold-out-badge](img/sold-out-badge.jpg)
 
-- **Badge color (PDP)**: Specifying the text color of the custom badge in Product detail page.
-- **Badge text color (PDP)**: Specifying the background color of the custom badge in Product detail page.
+Enter the text to display for the sold-out badge in the **Product sold out badge label** field.
+
+-   **Badge text color**: Specifies the text color.
+-   **Badge color**: Specifies the background color.
+-
+
+### Custom Text Badge
+
+![Custom Badge](img/custom-badge.jpg)
+
+- **Show custom badges**: Enable to display custom badges.
+- **Badge color (PDP)**: Background color of the custom badge.
+- **Badge text color (PDP)**: Text color of the custom badge.
+
+To add a custom badge to a product, edit the product and add a custom field with the name `__badge`. The value of this field will be the badge text.
+
+![edit-product-custom-badge](img/edit-product-custom-badge.jpg)
 
 ### Customizing Price Labels
 
-You can customize sale price label, before sale price label, retail price label or regular price label in
-**Page Builder** > **Theme Styles** > **Products** > **Price Labels**
+You can customize the sale price label, before-sale price label, retail price label, or regular price label in **Page Builder** > **Theme Styles** > **Products** > **Price Labels**.
 
 ![configure-price-labels](img/configure-price-labels.jpg)
 
