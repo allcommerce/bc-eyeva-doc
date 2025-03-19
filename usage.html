@@ -127,10 +127,6 @@
     </li>
     <li class="toctree-l3"><a class="reference internal" href="#sold-out-badge">Sold Out Badge</a>
     </li>
-        </ul>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#badge-color-specifies-the-background-color">Badge color: Specifies the background color.</a>
-        <ul>
     <li class="toctree-l3"><a class="reference internal" href="#custom-text-badge">Custom Text Badge</a>
     </li>
     <li class="toctree-l3"><a class="reference internal" href="#customizing-price-labels">Customizing Price Labels</a>
@@ -719,10 +715,12 @@
 </tr>
 </tbody>
 </table>
-<p><strong>Notes</strong>:
-- All color codes are in hexadecimal format.
-- Font sizes are typically measured in <strong>px</strong> unless otherwise specified.
-- Checked boxes are <strong>enabled</strong>, unchecked boxes are <strong>disabled</strong> by default.</p>
+<p><strong>Notes</strong>:</p>
+<ul>
+<li>All color codes are in hexadecimal format.</li>
+<li>Font sizes are typically measured in <strong>px</strong> unless otherwise specified.</li>
+<li>Checked boxes are <strong>enabled</strong>, unchecked boxes are <strong>disabled</strong> by default.</li>
+</ul>
 <p><img alt="product-card-details" src="img/product-card-details.jpg" /></p>
 <h3 id="hiding-prices-for-non-logged-in-customers">Hiding Prices for Non-Logged-In Customers<a class="headerlink" href="#hiding-prices-for-non-logged-in-customers" title="Permanent link">&para;</a></h3>
 <p>To enable this feature, go to <strong>Settings</strong> &gt; <strong>Display</strong> &gt; <strong>Products Settings</strong> and check the <strong>Hide Product's Price from Guests?</strong> checkbox.</p>
@@ -774,9 +772,7 @@
 <p>Enter the text to display for the sold-out badge in the <strong>Product sold out badge label</strong> field.</p>
 <ul>
 <li><strong>Badge text color</strong>: Specifies the text color.</li>
-<li>
-<h2 id="badge-color-specifies-the-background-color"><strong>Badge color</strong>: Specifies the background color.<a class="headerlink" href="#badge-color-specifies-the-background-color" title="Permanent link">&para;</a></h2>
-</li>
+<li><strong>Badge color</strong>: Specifies the background color.</li>
 </ul>
 <h3 id="custom-text-badge">Custom Text Badge<a class="headerlink" href="#custom-text-badge" title="Permanent link">&para;</a></h3>
 <p><img alt="Custom Badge" src="img/custom-badge.jpg" /></p>
@@ -822,7 +818,7 @@
 <li><strong>Image in gallery view</strong>: Specify the size of product card images.</li>
 </ul>
 <h3 id="shipping-countdown">Shipping Countdown<a class="headerlink" href="#shipping-countdown" title="Permanent link">&para;</a></h3>
-<p><img alt="shipping-countdown" src="img/shipping-countdown.jpg" /></p>
+<p><img alt="shipping-countdown" src="img/shipping-countdown-1.jpg" /></p>
 <p>To display a shipping countdown on the Product Detail Page (PDP), navigate to <strong>Theme Styles</strong> &gt; <strong>Product Page</strong>. Locate the <strong>Shipping Countdown</strong> field and enter your cut-off time. Find and copy your timezone from Wikipedia (<a href="https://en.wikipedia.org/wiki/List_of_tz_database_time_zones">https://en.wikipedia.org/wiki/List_of_tz_database_time_zones</a>) and paste it into the <strong>Timezone</strong> field.</p>
 <p>To disable the shipping countdown, simply leave the <strong>Shipping Countdown</strong> field empty.</p>
 <p><strong>Note:</strong></p>
@@ -1209,8 +1205,12 @@
 </thead>
 <tbody>
 <tr>
+<td><code>.eyeva-style</code></td>
+<td>Main class to apply utility classes.</td>
+</tr>
+<tr>
 <td><code>.flex</code></td>
-<td>Enables flexbox layout for an element, aligning its direct children in a row or column.</td>
+<td>Enables flexbox layout, aligning children in a row or column.</td>
 </tr>
 <tr>
 <td><code>.flex-column-md</code></td>
@@ -1254,7 +1254,7 @@
 </tr>
 <tr>
 <td><code>.mb-0</code>, <code>.des-mb-0</code></td>
-<td>Removes bottom margin (<code>margin-bottom: 0</code>). The <code>des-</code> prefix might target desktop or larger screens.</td>
+<td>Removes bottom margin (<code>margin-bottom: 0</code>). The <code>des-</code> prefix might target descendent elements.</td>
 </tr>
 <tr>
 <td><code>.font-18</code>, <code>.font-16-md</code>, <code>.font-14-md</code></td>
