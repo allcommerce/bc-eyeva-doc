@@ -726,9 +726,9 @@ For example:
 
 To use our pre-designed eyeglasses product description template, edit your product description, select the **Source code** button, and paste the code provided below:
 
-![Edit HTML Button](click-edit-html-button.png)
+![Edit HTML Button](img/click-edit-html-button.png)
 
-![Paste Source Code](paste-source-code-description.png)
+![Paste Source Code](img/paste-source-code-description.png)
 
 
 ```html
