@@ -682,10 +682,36 @@ You can display contact icons (FAQ, Text, Chat, Email) using a widget. Drag and 
 **Payment Icons** allows you to select which payment icons to display.
 
 
+#### Custom Footer Links
 
-**Watch the instruction video:**
+Add custom links to the footer by using the HTML widget. Simply drag and drop it into the appropriate widget region:
 
-<iframe width="760" height="515" src="https://www.youtube.com/embed/qIK4uCQxIJ8?si=yqS1NXihsqslwgV3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+![footer-links](img/footer-links.jpg)
+
+
+Paste the following code into the HTML editor, and then click the **Save HTML** button:
+
+```html
+<article class="footer-info-col">
+    <h3 class="footer-info-heading">Ways to Save</h3>
+    <ul class="footer-info-list">
+        <li><a href="/insurance/">Insurance</a></li>
+        <li><a href="/flexible-spending/">Flexible spending</a></li>
+        <li><a href="/20-off-contacts/">20% off contacts</a></li>
+        <li><a href="/add-a-pair-and-save/">Add a pair and save</a></li>
+    </ul>
+</article>
+
+<article class="footer-info-col">
+    <h3 class="footer-info-heading">Education</h3>
+    <ul class="footer-info-list">
+        <li><a href="/eyeglasses-lens-guide/">Eyeglasses lens guide</a></li>
+        <li><a href="/sunglasses-lens-guide/">Sunglasses lens guide</a></li>
+        <li><a href="/eyewear-a-to-z/">Eyewear A to Z</a></li>
+        <li><a href="/how-our-glasses-are-made/">How our glasses are made</a></li>
+    </ul>
+</article>
+```
 
 
 ## Customizing Products Display
