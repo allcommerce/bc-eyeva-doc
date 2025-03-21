@@ -201,6 +201,34 @@
     </li>
         </ul>
     </li>
+    <li class="toctree-l2"><a class="reference internal" href="#guide-setting-up-an-eyeglasses-product-like-the-demo">Guide: Setting Up an Eyeglasses Product Like the Demo</a>
+        <ul>
+    <li class="toctree-l3"><a class="reference internal" href="#product-description">Product Description</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#product-variant-options">Product Variant Options</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#product-modifiers">Product Modifiers</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#product-rules">Product Rules</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#product-custom-fields">Product Custom Fields</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#product-images-videos">Product Images &amp; Videos</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#360-degree-product-view">360-Degree Product View</a>
+    </li>
+        </ul>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#guide-setting-up-an-contacts-product-like-the-demo">Guide: Setting Up an Contacts Product Like the Demo</a>
+        <ul>
+    <li class="toctree-l3"><a class="reference internal" href="#product-variant-options_1">Product Variant Options</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#product-modifiers_1">Product Modifiers</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#product-custom-fields_1">Product Custom Fields</a>
+    </li>
+        </ul>
+    </li>
     </ul>
                 </li>
               </ul>
@@ -2087,6 +2115,811 @@
 5.  Click <strong>Save</strong>.</li>
 </ul>
 <p><img alt="promotion-message" src="img/Promotion-message.jpg" /></p>
+<hr />
+<h2 id="guide-setting-up-an-eyeglasses-product-like-the-demo">Guide: Setting Up an Eyeglasses Product Like the Demo<a class="headerlink" href="#guide-setting-up-an-eyeglasses-product-like-the-demo" title="Permanent link">&para;</a></h2>
+<p>This section provides a step-by-step guide for setting up an eyeglasses product that replicates the theme demo. For a live example, please visit the <a href="https://eyeva-glasses-demo.mybigcommerce.com/eyeglass-modifiers-modal-demo/">Eyeglass Modifiers Modal Demo Product</a>.</p>
+<h3 id="product-description">Product Description<a class="headerlink" href="#product-description" title="Permanent link">&para;</a></h3>
+<p>To replicate the demo's product description, edit a product, click the <strong>Source code</strong> button:</p>
+<p><img alt="Edit HTML Button" src="img/click-edit-html-button.png" /></p>
+<p>and paste the following HTML code:</p>
+<p><img alt="Paste Source Code" src="img/paste-source-code-description.png" /></p>
+<pre><code class="language-html">&lt;!-- Main container for this style/demo --&gt;
+&lt;div class=&quot;eyeva-style&quot;&gt;&lt;!-- Collapsible Section: Everything Included --&gt;
+&lt;h2 data-collapsible=&quot;everything-included&quot;&gt;Everything included&lt;/h2&gt;
+&lt;!-- Content block that collapses/expands based on data-collapsible --&gt;
+&lt;div id=&quot;everything-included&quot;&gt;&lt;!-- Short intro text about additional lens types --&gt;
+&lt;p class=&quot;mb-0&quot;&gt;We also offer progressive, blue-light-filtering, and anti-fatigue lenses&amp;mdash;plus more!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;#&quot;&gt;&lt;strong&gt;View all lens types&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;!-- A bordered, rounded container listing key features (flex-column + gap for spacing) --&gt;
+&lt;div class=&quot;border border-radius p-24 flex-column gap-24 des-mb-0&quot;&gt;&lt;!-- Each &quot;feature&quot; is a flex row with some spacing between columns --&gt;
+&lt;div class=&quot;flex column-gap-16&quot;&gt;
+&lt;div class=&quot;shrink-0&quot;&gt;&lt;img class=&quot;lazyload&quot; src=&quot;https://cdn11.bigcommerce.com/s-ivbr30q0b6/images/stencil/original/image-manager/icon-1.png?t=1736235671&quot; alt=&quot;&quot; width=&quot;50&quot; height=&quot;50&quot; data-src=&quot;https://cdn11.bigcommerce.com/s-ivbr30q0b6/images/stencil/original/image-manager/icon-1.png?t=1736235671&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;span-1&quot;&gt;
+&lt;p class=&quot;font-18 font-16-md&quot;&gt;&lt;strong&gt;Single-vision prescriptions&lt;/strong&gt;&lt;/p&gt;
+&lt;p class=&quot;color-secondary font-14-md&quot;&gt;Also choose readers or non-prescription lenses.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;flex column-gap-16&quot;&gt;
+&lt;div class=&quot;shrink-0&quot;&gt;&lt;img class=&quot;lazyload&quot; src=&quot;https://cdn11.bigcommerce.com/s-ivbr30q0b6/images/stencil/original/image-manager/polycarbonate-lenses.png?t=1736235826&quot; alt=&quot;&quot; width=&quot;50&quot; height=&quot;50&quot; data-src=&quot;https://cdn11.bigcommerce.com/s-ivbr30q0b6/images/stencil/original/image-manager/polycarbonate-lenses.png?t=1736235826&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;span-1&quot;&gt;
+&lt;p class=&quot;font-18 font-16-md&quot;&gt;&lt;strong&gt;Polycarbonate lenses&lt;/strong&gt;&lt;/p&gt;
+&lt;p class=&quot;color-secondary font-14-md&quot;&gt;The most impact-resistant lens material for glasses&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;flex column-gap-16&quot;&gt;
+&lt;div class=&quot;shrink-0&quot;&gt;&lt;img class=&quot;lazyload&quot; src=&quot;https://cdn11.bigcommerce.com/s-ivbr30q0b6/images/stencil/original/image-manager/anti-reflective.png?t=1736235838&quot; alt=&quot;&quot; width=&quot;50&quot; height=&quot;50&quot; data-src=&quot;https://cdn11.bigcommerce.com/s-ivbr30q0b6/images/stencil/original/image-manager/anti-reflective.png?t=1736235838&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;span-1&quot;&gt;
+&lt;p class=&quot;font-18 font-16-md&quot;&gt;&lt;strong&gt;Anti-reflective and scratch-resistant lens coatings&lt;/strong&gt;&lt;/p&gt;
+&lt;p class=&quot;color-secondary font-14-md&quot;&gt;And our lenses block 100% of UV rays :-)&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;flex column-gap-16&quot;&gt;
+&lt;div class=&quot;shrink-0&quot;&gt;&lt;img class=&quot;lazyload&quot; src=&quot;https://cdn11.bigcommerce.com/s-ivbr30q0b6/images/stencil/original/image-manager/free-shipping-1736235871686.png?t=1736235872&quot; alt=&quot;&quot; width=&quot;50&quot; height=&quot;50&quot; data-src=&quot;https://cdn11.bigcommerce.com/s-ivbr30q0b6/images/stencil/original/image-manager/free-shipping-1736235871686.png?t=1736235872&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;span-1&quot;&gt;
+&lt;p class=&quot;font-18 font-16-md&quot;&gt;&lt;strong&gt;Free shipping&lt;/strong&gt;&lt;/p&gt;
+&lt;p class=&quot;color-secondary font-14-md&quot;&gt;On every single order at PapaThemes&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;flex column-gap-16&quot;&gt;
+&lt;div class=&quot;shrink-0&quot;&gt;&lt;img class=&quot;lazyload&quot; src=&quot;https://cdn11.bigcommerce.com/s-ivbr30q0b6/images/stencil/original/image-manager/free-returns.png?t=1736235889&quot; alt=&quot;&quot; width=&quot;50&quot; height=&quot;50&quot; data-src=&quot;https://cdn11.bigcommerce.com/s-ivbr30q0b6/images/stencil/original/image-manager/free-returns.png?t=1736235889&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;span-1&quot;&gt;
+&lt;p class=&quot;font-18 font-16-md&quot;&gt;&lt;strong&gt;Free returns or exchanges&lt;/strong&gt;&lt;/p&gt;
+&lt;p class=&quot;color-secondary font-14-md&quot;&gt;Within 30 days of purchase&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;flex column-gap-16&quot;&gt;
+&lt;div class=&quot;shrink-0&quot;&gt;&lt;img class=&quot;lazyload&quot; src=&quot;https://cdn11.bigcommerce.com/s-ivbr30q0b6/images/stencil/original/image-manager/free-scratched.png?t=1736235905&quot; alt=&quot;&quot; width=&quot;50&quot; height=&quot;50&quot; data-src=&quot;https://cdn11.bigcommerce.com/s-ivbr30q0b6/images/stencil/original/image-manager/free-scratched.png?t=1736235905&quot; /&gt;&lt;/div&gt;
+&lt;div&gt;
+&lt;p class=&quot;font-18 font-16-md&quot;&gt;&lt;strong&gt;Free scratched lens replacement&lt;/strong&gt;&lt;/p&gt;
+&lt;p class=&quot;color-secondary font-14-md&quot;&gt;Guaranteed for prescription lenses within six months of purchase&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;flex column-gap-16&quot;&gt;
+&lt;div class=&quot;shrink-0&quot;&gt;&lt;img class=&quot;lazyload&quot; src=&quot;https://cdn11.bigcommerce.com/s-ivbr30q0b6/images/stencil/original/image-manager/fsa-hsa.png?t=1736235920&quot; alt=&quot;&quot; width=&quot;50&quot; height=&quot;50&quot; data-src=&quot;https://cdn11.bigcommerce.com/s-ivbr30q0b6/images/stencil/original/image-manager/fsa-hsa.png?t=1736235920&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;span-1&quot;&gt;
+&lt;p class=&quot;font-18 font-16-md&quot;&gt;&lt;strong&gt;FSA, HSA, and insurance accepted&lt;/strong&gt;&lt;/p&gt;
+&lt;p class=&quot;color-secondary font-14-md&quot;&gt;Save an average of $100 when you use insurance&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;!-- Horizontal rule within the &quot;everything included&quot; section --&gt;&lt;hr class=&quot;m-0&quot; /&gt;&lt;!-- Another feature row with an image and description --&gt;
+&lt;div class=&quot;flex gap-24&quot;&gt;
+&lt;div class=&quot;span-1&quot;&gt;&lt;img class=&quot;lazyload&quot; src=&quot;https://cdn11.bigcommerce.com/s-ivbr30q0b6/images/stencil/original/image-manager/tvlgiao-plus-a-frame-case-and-lens-cloth-minimals-realictis-whi-e0eae8ca-7a79-4951-8b52-d395d7889fe3-1736226571449.png?t=1736226572&quot; alt=&quot;&quot; width=&quot;400&quot; height=&quot;200&quot; data-src=&quot;https://cdn11.bigcommerce.com/s-ivbr30q0b6/images/stencil/original/image-manager/tvlgiao-plus-a-frame-case-and-lens-cloth-minimals-realictis-whi-e0eae8ca-7a79-4951-8b52-d395d7889fe3-1736226571449.png?t=1736226572&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;span-1&quot;&gt;
+&lt;p class=&quot;font-18 font-16-md&quot;&gt;&lt;strong&gt;Plus a frame case and lens cloth&lt;/strong&gt;&lt;/p&gt;
+&lt;p class=&quot;color-secondary font-14-md&quot;&gt;A frame this special deserves a comfy home to keep it safe and clean.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;!-- /#everything-included --&gt; &lt;!-- Horizontal rule separating sections --&gt;&lt;hr /&gt;&lt;!-- Collapsible Section: Materials --&gt;
+&lt;h2 data-collapsible=&quot;materials&quot;&gt;Materials&lt;/h2&gt;
+&lt;div id=&quot;materials&quot;&gt;
+&lt;ul&gt;
+&lt;li&gt;Made from hand-polished cellulose acetate&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;!-- Collapsible Section: Width Guide --&gt;
+&lt;h2 data-collapsible=&quot;width-guide&quot;&gt;Width guide&lt;/h2&gt;
+&lt;div id=&quot;width-guide&quot;&gt;
+&lt;p class=&quot;mb-0&quot;&gt;We also offer progressive, blue-light-filtering, and anti-fatigue lenses&amp;mdash;plus more!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;#&quot;&gt;&lt;strong&gt;View all lens types&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;!-- Bordered container for the width guide info --&gt;
+&lt;div class=&quot;border border-radius mb-16 des-mb-0&quot;&gt;&lt;!-- Row with image and text, using .flex for layout --&gt;
+&lt;div class=&quot;flex p-24 gap-24&quot;&gt;
+&lt;div class=&quot;shrink-0&quot;&gt;&lt;img class=&quot;lazyload&quot; src=&quot;https://cdn11.bigcommerce.com/s-ivbr30q0b6/images/stencil/original/image-manager/frame-widths.png?t=1736236039&quot; alt=&quot;&quot; width=&quot;180&quot; height=&quot;100&quot; data-src=&quot;https://cdn11.bigcommerce.com/s-ivbr30q0b6/images/stencil/original/image-manager/frame-widths.png?t=1736236039&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;span-1&quot;&gt;
+&lt;p class=&quot;font-18 font-16-md&quot;&gt;&lt;strong&gt;Frame widths&lt;/strong&gt;&lt;/p&gt;
+&lt;p class=&quot;color-secondary font-14-md&quot;&gt;Our widths are determined by the overall frame width. Choose a width that best corresponds with your own face. (You won&amp;rsquo;t find this number on glasses.)&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;!-- A filler line and text about the &quot;Medium&quot; size --&gt;
+&lt;div class=&quot;fill-alt py-12 px-16 border-y&quot;&gt;Medium&lt;/div&gt;
+&lt;div class=&quot;py-12 px-16&quot;&gt;137mm&lt;/div&gt;
+&lt;/div&gt;
+&lt;!-- /.border-radius --&gt;
+&lt;p&gt;&lt;a href=&quot;#&quot; data-collapsible=&quot;other-measurements&quot;&gt;Other measurements&lt;/a&gt;&lt;/p&gt;
+&lt;!-- Another collapsible area for other measurements --&gt;
+&lt;div id=&quot;other-measurements&quot; class=&quot;border border-radius mb-16 des-mb-0&quot;&gt;
+&lt;div class=&quot;flex flex-column-md p-24 gap-24&quot;&gt;
+&lt;div class=&quot;shrink-0 shrink-1-md&quot;&gt;&lt;img class=&quot;lazyload&quot; src=&quot;https://cdn11.bigcommerce.com/s-ivbr30q0b6/images/stencil/original/image-manager/compare-lens.png?t=1736236095&quot; alt=&quot;&quot; width=&quot;180&quot; height=&quot;100&quot; data-src=&quot;https://cdn11.bigcommerce.com/s-ivbr30q0b6/images/stencil/original/image-manager/compare-lens.png?t=1736236095&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;span-1&quot;&gt;
+&lt;p class=&quot;font-18 font-16-md&quot;&gt;&lt;strong&gt;Compare &lt;code&gt;lens width&lt;/code&gt; with &lt;code&gt;bridge - temple length&lt;/code&gt; with your glasses&lt;/strong&gt;&lt;/p&gt;
+&lt;p class=&quot;color-secondary font-14-md&quot;&gt;For most glasses, these measurements are found on the inside of the temple arm. If you have a pair you like, compare it to these measurements.&lt;/p&gt;
+&lt;p class=&quot;mb-16&quot;&gt;&lt;a href=&quot;#&quot; data-collapsible=&quot;what-do-these-measurements-mean&quot;&gt;What do these measurements mean?&lt;/a&gt;&lt;/p&gt;
+&lt;!-- Additional info block with some background shading --&gt;
+&lt;div class=&quot;fill-alt border-radius p-16 flex-column gap-24&quot;&gt;&lt;!-- Repeating features, each with an image and a short description --&gt;
+&lt;div class=&quot;flex gap-24&quot;&gt;
+&lt;div class=&quot;shrink-0&quot;&gt;&lt;img class=&quot;lazyload&quot; src=&quot;https://cdn11.bigcommerce.com/s-ivbr30q0b6/images/stencil/original/image-manager/lens-width.png?t=1736236187&quot; alt=&quot;&quot; width=&quot;100&quot; height=&quot;60&quot; data-src=&quot;https://cdn11.bigcommerce.com/s-ivbr30q0b6/images/stencil/original/image-manager/lens-width.png?t=1736236187&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;span-1&quot;&gt;
+&lt;p&gt;&lt;strong&gt;Lens width&lt;/strong&gt;&lt;/p&gt;
+&lt;p class=&quot;color-secondary font-14-md&quot;&gt;The horizontal diameter of one lens (and the first measurement in the series)&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;flex gap-24&quot;&gt;
+&lt;div class=&quot;shrink-0&quot;&gt;&lt;img class=&quot;lazyload&quot; src=&quot;https://cdn11.bigcommerce.com/s-ivbr30q0b6/images/stencil/original/image-manager/bridge.png?t=1736236204&quot; alt=&quot;&quot; width=&quot;100&quot; height=&quot;60&quot; data-src=&quot;https://cdn11.bigcommerce.com/s-ivbr30q0b6/images/stencil/original/image-manager/bridge.png?t=1736236204&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;span-1&quot;&gt;
+&lt;p&gt;&lt;strong&gt;Bridge&lt;/strong&gt;&lt;/p&gt;
+&lt;p class=&quot;color-secondary font-14-md&quot;&gt;The width of the bridge (and the second measurement in the series)&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;flex gap-24&quot;&gt;
+&lt;div class=&quot;shrink-0&quot;&gt;&lt;img class=&quot;lazyload&quot; src=&quot;https://cdn11.bigcommerce.com/s-ivbr30q0b6/images/stencil/original/image-manager/temple-length-1736236238577.png?t=1736236239&quot; alt=&quot;&quot; width=&quot;100&quot; height=&quot;60&quot; data-src=&quot;https://cdn11.bigcommerce.com/s-ivbr30q0b6/images/stencil/original/image-manager/temple-length-1736236238577.png?t=1736236239&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;span-1&quot;&gt;
+&lt;p&gt;&lt;strong&gt;Temple length&lt;/strong&gt;&lt;/p&gt;
+&lt;p class=&quot;color-secondary font-14-md&quot;&gt;The length of the entire temple arm, from the front to the tip (and the last measurement)&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;!-- /.fill-alt --&gt;&lt;/div&gt;
+&lt;!-- /.span-1 --&gt;&lt;/div&gt;
+&lt;!-- /.flex --&gt; &lt;!-- A row showing column headers for lens width, bridge, temple length --&gt;
+&lt;div class=&quot;fill-alt flex child-span-1 border-y color-secondary font-14-md&quot;&gt;
+&lt;div class=&quot;py-12 px-16&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div class=&quot;py-12 px-16 border-left&quot;&gt;Lens width&lt;/div&gt;
+&lt;div class=&quot;py-12 px-16 border-left&quot;&gt;Bridge&lt;/div&gt;
+&lt;div class=&quot;py-12 px-16 border-left&quot;&gt;Temple length&lt;/div&gt;
+&lt;/div&gt;
+&lt;!-- A row with actual measurements for &quot;Medium&quot; frame sizing --&gt;
+&lt;div class=&quot;flex child-span-1 font-14-md&quot;&gt;
+&lt;div class=&quot;fill-alt py-12 px-16 color-secondary&quot;&gt;Medium&lt;/div&gt;
+&lt;div class=&quot;py-12 px-16 border-left&quot;&gt;50mm&lt;/div&gt;
+&lt;div class=&quot;py-12 px-16 border-left&quot;&gt;20mm&lt;/div&gt;
+&lt;div class=&quot;py-12 px-16 border-left&quot;&gt;140mm&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;!-- /#other-measurements --&gt; &lt;!-- A horizontal flex container with a bold heading and a button link --&gt;
+&lt;div class=&quot;flex flex-column-md border border-radius p-24 gap-24 align-items-center align-items-start-md des-mb-0&quot;&gt;
+&lt;div class=&quot;span-1&quot;&gt;&lt;strong class=&quot;font-18 font-16-md&quot;&gt;Don't have a pair of glasses?&lt;/strong&gt;&lt;/div&gt;
+&lt;div class=&quot;shrink-0&quot;&gt;&lt;a class=&quot;button button--outline&quot; href=&quot;#&quot;&gt; Measure using a credit card &lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;!-- Section: Prescription and lens types offered --&gt;
+&lt;h2 data-collapsible=&quot;prescription-and-lens-types-offered&quot;&gt;Prescription and lens types offered&lt;/h2&gt;
+&lt;div id=&quot;prescription-and-lens-types-offered&quot;&gt;
+&lt;p&gt;&lt;a class=&quot;button button--outline mb-0&quot; href=&quot;#&quot;&gt;Learn more in our lens guide&lt;/a&gt;&lt;/p&gt;
+&lt;!-- &quot;Prescription type&quot; table-like layout --&gt;
+&lt;div class=&quot;flex flex-column-md border border-radius mb-16&quot;&gt;
+&lt;div class=&quot;span-1 p-24&quot;&gt;&lt;strong class=&quot;font-18 font-16-md&quot;&gt;Prescription type&lt;/strong&gt;&lt;/div&gt;
+&lt;div class=&quot;span-2 flex-column border-left font-14-md&quot;&gt;&lt;!-- Header row with fill-alt background and two columns --&gt;
+&lt;div class=&quot;flex child-py-12 child-px-16&quot;&gt;
+&lt;div class=&quot;span-1 fill-alt&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div class=&quot;span-1 fill-alt border-left&quot;&gt;Starting price&lt;/div&gt;
+&lt;/div&gt;
+&lt;!-- Progressive listing row --&gt;
+&lt;div class=&quot;flex child-py-12 child-px-16 border-top&quot;&gt;
+&lt;div class=&quot;span-1 fill-alt&quot;&gt;Single-vision&lt;/div&gt;
+&lt;div class=&quot;span-1 border-left&quot;&gt;&lt;s&gt;$95&lt;/s&gt; &lt;strong&gt;$80.75&lt;/strong&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;flex child-py-12 child-px-16 border-top&quot;&gt;
+&lt;div class=&quot;span-1 fill-alt&quot;&gt;Progressive&lt;/div&gt;
+&lt;div class=&quot;span-1 border-left&quot;&gt;&lt;s&gt;$295&lt;/s&gt; &lt;strong&gt;$250.75&lt;/strong&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;flex child-py-12 child-px-16 border-top&quot;&gt;
+&lt;div class=&quot;span-1 fill-alt&quot;&gt;Readers&lt;/div&gt;
+&lt;div class=&quot;span-1 border-left&quot;&gt;&lt;s&gt;$95&lt;/s&gt; &lt;strong&gt;$80.75&lt;/strong&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;flex child-py-12 child-px-16 border-top&quot;&gt;
+&lt;div class=&quot;span-1 fill-alt&quot;&gt;Non-prescription&lt;/div&gt;
+&lt;div class=&quot;span-1 border-left&quot;&gt;&lt;s&gt;$95&lt;/s&gt; &lt;strong&gt;$80.75&lt;/strong&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;!-- /.flex border --&gt; &lt;!-- &quot;Lens type&quot; table-like layout --&gt;
+&lt;div class=&quot;flex flex-column-md border border-radius mb-16&quot;&gt;&lt;!-- Left label column --&gt;
+&lt;div class=&quot;span-1 p-24&quot;&gt;&lt;strong class=&quot;font-18 font-16-md&quot;&gt;Lens type&lt;/strong&gt;&lt;/div&gt;
+&lt;!-- Right column with stacked rows --&gt;
+&lt;div class=&quot;span-2 flex-column border-left font-14-md&quot;&gt;&lt;!-- Header row with two columns, second has border-left --&gt;
+&lt;div class=&quot;flex child-py-12 child-px-16&quot;&gt;
+&lt;div class=&quot;span-1 fill-alt&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div class=&quot;span-1 fill-alt border-left&quot;&gt;Additional cost&lt;/div&gt;
+&lt;/div&gt;
+&lt;!-- Each subsequent row has border-top and two columns --&gt;
+&lt;div class=&quot;flex child-py-12 child-px-16 border-top&quot;&gt;
+&lt;div class=&quot;span-1 fill-alt&quot;&gt;Classic&lt;/div&gt;
+&lt;div class=&quot;span-1 border-left&quot;&gt;Free&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;flex child-py-12 child-px-16 border-top&quot;&gt;
+&lt;div class=&quot;span-1 fill-alt&quot;&gt;Blue-light filtering&lt;/div&gt;
+&lt;div class=&quot;span-1 border-left&quot;&gt;&lt;s&gt;$50&lt;/s&gt; &lt;strong&gt;$42.50&lt;/strong&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;flex child-py-12 child-px-16 border-top&quot;&gt;
+&lt;div class=&quot;span-1 fill-alt&quot;&gt;Anti-fatigue&lt;/div&gt;
+&lt;div class=&quot;span-1 border-left&quot;&gt;&lt;s&gt;$50&lt;/s&gt; &lt;strong&gt;$42.50&lt;/strong&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;flex child-py-12 child-px-16 border-top&quot;&gt;
+&lt;div class=&quot;span-1 fill-alt&quot;&gt;Light-responsive&lt;/div&gt;
+&lt;div class=&quot;span-1 border-left&quot;&gt;&lt;s&gt;$100&lt;/s&gt; &lt;strong&gt;$85&lt;/strong&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;!-- /.span-2.flex-column --&gt;&lt;/div&gt;
+&lt;!-- /Lens type block --&gt; &lt;!-- &quot;Lens material&quot; table-like layout --&gt;
+&lt;div class=&quot;flex flex-column-md border border-radius&quot;&gt;&lt;!-- Left column for title --&gt;
+&lt;div class=&quot;span-1 p-24&quot;&gt;&lt;strong class=&quot;font-18 font-16-md&quot;&gt;Lens material&lt;/strong&gt;&lt;/div&gt;
+&lt;!-- Right column with stacked rows --&gt;
+&lt;div class=&quot;span-2 flex-column border-left font-14-md&quot;&gt;&lt;!-- Header row --&gt;
+&lt;div class=&quot;flex child-py-12 child-px-16&quot;&gt;
+&lt;div class=&quot;span-1 fill-alt&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div class=&quot;span-1 fill-alt border-left&quot;&gt;Additional cost&lt;/div&gt;
+&lt;/div&gt;
+&lt;!-- Material row: Polycarbonate --&gt;
+&lt;div class=&quot;flex child-py-12 child-px-16 border-top&quot;&gt;
+&lt;div class=&quot;span-1 fill-alt&quot;&gt;Polycarbonate&lt;/div&gt;
+&lt;div class=&quot;span-1 border-left&quot;&gt;Free&lt;/div&gt;
+&lt;/div&gt;
+&lt;!-- Material row: 1.67 high-index --&gt;
+&lt;div class=&quot;flex child-py-12 child-px-16 border-top&quot;&gt;
+&lt;div class=&quot;span-1 fill-alt&quot;&gt;1.67 high-index&lt;/div&gt;
+&lt;div class=&quot;span-1 border-left&quot;&gt;&lt;s&gt;$50&lt;/s&gt; &lt;strong&gt;$42.50&lt;/strong&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;!-- /.span-2.flex-column --&gt;&lt;/div&gt;
+&lt;!-- /Lens material block --&gt;&lt;/div&gt;
+&lt;!-- /#prescription-and-lens-types-offered --&gt;&lt;/div&gt;
+&lt;!-- /#width-guide --&gt; &lt;!-- Collapsible Section: Need a Prescription? --&gt;
+&lt;h2 data-collapsible=&quot;need-a-prescription&quot;&gt;Need a prescription?&lt;/h2&gt;
+&lt;div id=&quot;need-a-prescription&quot;&gt;&lt;!-- Option #1: In-person eye exam --&gt;
+&lt;div class=&quot;border border-radius p-24 flex gap-24 mb-16&quot;&gt;
+&lt;div class=&quot;shrink-0&quot;&gt;&lt;img class=&quot;lazyload&quot; src=&quot;https://cdn11.bigcommerce.com/s-ivbr30q0b6/images/stencil/original/image-manager/book-an-in-person-eye-exam-1736828402708.png?t=1736828403&quot; alt=&quot;&quot; width=&quot;160&quot; height=&quot;160&quot; data-src=&quot;https://cdn11.bigcommerce.com/s-ivbr30q0b6/images/stencil/original/image-manager/book-an-in-person-eye-exam-1736828402708.png?t=1736828403&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;span-1&quot;&gt;
+&lt;p class=&quot;font-18 font-16-md mb-0&quot;&gt;&lt;strong&gt;Book an in-person eye exam&lt;/strong&gt;&lt;/p&gt;
+&lt;p class=&quot;color-secondary font-14-md&quot;&gt;Meet with an eye doctor at one of our stores for a new prescription and eye health check.&lt;/p&gt;
+&lt;a class=&quot;button button--outline&quot; href=&quot;#&quot;&gt;Schedule an exam&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;!-- Option #2: Renew at home --&gt;
+&lt;div class=&quot;border border-radius p-24 flex gap-24 mb-16&quot;&gt;
+&lt;div class=&quot;shrink-0&quot;&gt;&lt;img class=&quot;lazyload&quot; src=&quot;https://cdn11.bigcommerce.com/s-ivbr30q0b6/images/stencil/original/image-manager/renew-your-prescription-at-home-1736236325022.png?t=1736236326&quot; alt=&quot;&quot; width=&quot;160&quot; height=&quot;160&quot; data-src=&quot;https://cdn11.bigcommerce.com/s-ivbr30q0b6/images/stencil/original/image-manager/renew-your-prescription-at-home-1736236325022.png?t=1736236326&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;span-1&quot;&gt;
+&lt;p class=&quot;font-18 font-16-md mb-0&quot;&gt;&lt;strong&gt;Renew your prescription at home&lt;/strong&gt;&lt;/p&gt;
+&lt;p class=&quot;color-secondary font-14-md&quot;&gt;If your vision hasn't changed, use Virtual Vision Test on an iPhone to renew your prescription from home.&lt;/p&gt;
+&lt;a class=&quot;button button--outline&quot; href=&quot;#&quot;&gt;Renew your prescription&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;!-- Already have a prescription? --&gt;
+&lt;p class=&quot;font-18 font-16-md mb-0&quot;&gt;&lt;strong&gt;Already have a non-expired prescription?&lt;/strong&gt;&lt;/p&gt;
+&lt;p class=&quot;color-secondary font-14-md&quot;&gt;During checkout, you'll be able to upload it, have us contact your doctor to retrieve it, or send it after you place your order.&lt;/p&gt;
+&lt;!-- /#need-a-prescription --&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+</code></pre>
+<h3 id="product-variant-options">Product Variant Options<a class="headerlink" href="#product-variant-options" title="Permanent link">&para;</a></h3>
+<p>Configure product variants for eyeglasses by adding options for attributes such as color and size as shown below:</p>
+<p><img alt="Eyeglass Variant Options" src="img/eyeglass-variant-options.jpg" /></p>
+<table>
+<thead>
+<tr>
+<th><strong>Option</strong></th>
+<th><strong>Type</strong></th>
+<th><strong>Values</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Color</strong></td>
+<td>Swatch</td>
+<td>Black, Brown, Purple</td>
+</tr>
+<tr>
+<td><strong>Size</strong></td>
+<td>Rectangle List</td>
+<td>Small, Medium, Large</td>
+</tr>
+</tbody>
+</table>
+<h3 id="product-modifiers">Product Modifiers<a class="headerlink" href="#product-modifiers" title="Permanent link">&para;</a></h3>
+<p>Configure product modifiers by adding relevant modifier options for the eyeglasses product. Follow the procedure illustrated below:</p>
+<p><img alt="Eyeglass Product Modifiers" src="img/eyeglass-product-modifiers.jpg" /></p>
+<table>
+<thead>
+<tr>
+<th><strong>Option Name</strong></th>
+<th><strong>Type</strong></th>
+<th><strong>Values</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Prescription type</strong></td>
+<td>Radio Buttons</td>
+<td>Single vision, Progressives, Non-prescription, Readers</td>
+</tr>
+<tr>
+<td><strong>Single-vision type</strong></td>
+<td>Radio Buttons</td>
+<td>Standard, Anti-fatigue</td>
+</tr>
+<tr>
+<td><strong>Progressives type</strong></td>
+<td>Radio Buttons</td>
+<td>Signature, Precision</td>
+</tr>
+<tr>
+<td><strong>Readers strength</strong></td>
+<td>Rectangle List</td>
+<td>0.25, 0.5, 0.75, 1</td>
+</tr>
+<tr>
+<td><strong>Lens type</strong></td>
+<td>Radio Buttons</td>
+<td>Classic, Blue-light-filtering, Light responsive</td>
+</tr>
+<tr>
+<td><strong>Lens color</strong></td>
+<td>Swatch</td>
+<td>Grey, Brown, Green</td>
+</tr>
+<tr>
+<td><strong>Lens material</strong></td>
+<td>Radio Buttons</td>
+<td>Classic, Thinner</td>
+</tr>
+<tr>
+<td><strong>Lens cleaning kit</strong></td>
+<td>Pick List</td>
+<td>Fog Lens Spray Simple, Contacts Case Green Simple</td>
+</tr>
+</tbody>
+</table>
+<h3 id="product-rules">Product Rules<a class="headerlink" href="#product-rules" title="Permanent link">&para;</a></h3>
+<p>Apply product rules to the eyeglasses product using the settings described below:</p>
+<p><img alt="Eyeglass Product Rules" src="img/eyeglass-product-rules.jpg" /></p>
+<table>
+<thead>
+<tr>
+<th><strong>Rule</strong></th>
+<th><strong>Modifier Option</strong></th>
+<th><strong>When This Is Selected</strong></th>
+<th><strong>Price Adjustment</strong></th>
+<th><strong>Weight Adjustment</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>1</strong></td>
+<td>Prescription type</td>
+<td>Single vision, Readers</td>
+<td>+ \$9.99</td>
+<td>Off (not used)</td>
+</tr>
+<tr>
+<td><strong>2</strong></td>
+<td>Prescription type</td>
+<td>Single vision, Progressives</td>
+<td>+ \$18.99</td>
+<td>Off (not used)</td>
+</tr>
+<tr>
+<td><strong>3</strong></td>
+<td>Prescription type</td>
+<td>Single vision, Non-prescription</td>
+<td>+ \$10.00</td>
+<td>Off (not used)</td>
+</tr>
+<tr>
+<td><strong>4</strong></td>
+<td>Single-vision type</td>
+<td>Anti-fatigue</td>
+<td>+ \$5.00</td>
+<td>Off (not used)</td>
+</tr>
+<tr>
+<td><strong>5</strong></td>
+<td>Lens type</td>
+<td>Light responsive</td>
+<td>+ \$8.99</td>
+<td>Off (not used)</td>
+</tr>
+<tr>
+<td><strong>6</strong></td>
+<td>Lens material</td>
+<td>Thinner</td>
+<td>+ \$4.50</td>
+<td>Off (not used)</td>
+</tr>
+</tbody>
+</table>
+<h3 id="product-custom-fields">Product Custom Fields<a class="headerlink" href="#product-custom-fields" title="Permanent link">&para;</a></h3>
+<p>Configure custom fields for the eyeglasses product as outlined below:</p>
+<p><img alt="Custom Field 1" src="img/eyeglass-product-custom-fields-1.jpg" /></p>
+<p><img alt="Custom Field 2" src="img/eyeglass-product-custom-fields-2.jpg" /></p>
+<p><img alt="Custom Field 3" src="img/eyeglass-product-custom-fields-3.jpg" /></p>
+<table>
+<thead>
+<tr>
+<th><strong>Custom Field Name</strong></th>
+<th><strong>Custom Field Value</strong></th>
+<th><strong>Explanation</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Weight</strong></td>
+<td>1kg</td>
+<td>Displays the product’s weight in the custom fields tab.</td>
+</tr>
+<tr>
+<td><strong>Width</strong></td>
+<td>20cm</td>
+<td>Displays the product’s width in the custom fields tab.</td>
+</tr>
+<tr>
+<td><strong>Height</strong></td>
+<td>10cm</td>
+<td>Displays the product’s height in the custom fields tab.</td>
+</tr>
+<tr>
+<td><strong>Depth</strong></td>
+<td>30cm</td>
+<td>Displays the product’s depth in the custom fields tab.</td>
+</tr>
+<tr>
+<td><code>__discount</code></td>
+<td>Buy 2, get extra 2% off</td>
+<td>Displays promotional text on the product card.</td>
+</tr>
+<tr>
+<td><code>__countdown_date</code></td>
+<td>12:00:00 -7</td>
+<td>A countdown timer setting (time and/or timezone offset) for a flash sale.</td>
+</tr>
+<tr>
+<td><code>__countdown_label</code></td>
+<td>BLACK FRIDAY|ENDS IN</td>
+<td>The text label shown next to the countdown timer (“BLACK FRIDAY” followed by “ENDS IN”).</td>
+</tr>
+<tr>
+<td><code>__hide_if prescription type: single vision</code></td>
+<td>progressives type; readers strength</td>
+<td>Hides the listed modifier options if the user selects “single vision.”</td>
+</tr>
+<tr>
+<td><code>__hide_if prescription type: progressives</code></td>
+<td>single-vision type; readers strength</td>
+<td>Hides the listed modifier options if the user selects “progressives.”</td>
+</tr>
+<tr>
+<td><code>__hide_if prescription type: non-prescription</code></td>
+<td>single-vision type; progressives type; readers strength; lens material: thinner</td>
+<td>Hides these options if “non-prescription” is chosen.</td>
+</tr>
+<tr>
+<td><code>__hide_if prescription type: readers</code></td>
+<td>single-vision type; progressives type; lens material: thinner</td>
+<td>Hides the listed modifiers if the user selects “readers.”</td>
+</tr>
+<tr>
+<td><code>__hide_if lens type: classic</code></td>
+<td>lens color</td>
+<td>Hides the lens color option if the lens type is set to “classic.”</td>
+</tr>
+<tr>
+<td><code>__hide_if lens type: blue-light-filtering</code></td>
+<td>lens color</td>
+<td>Hides the lens color option if the lens type is “blue-light-filtering.”</td>
+</tr>
+<tr>
+<td><code>__@nonsale 90</code></td>
+<td>prescription type: single vision</td>
+<td>Non-sale pricing for “single vision” prescription type.</td>
+</tr>
+<tr>
+<td><code>__@nonsale 95</code></td>
+<td>prescription type: readers</td>
+<td>Non-sale pricing for “readers” prescription type.</td>
+</tr>
+<tr>
+<td><code>__@nonsale 100</code></td>
+<td>single-vision type: anti-fatigue</td>
+<td>Non-sale pricing for “anti-fatigue” lens type under single-vision.</td>
+</tr>
+<tr>
+<td><code>__@nonsale 50</code></td>
+<td>lens type: blue-light-filtering</td>
+<td>Non-sale pricing for the “blue-light-filtering” lens type.</td>
+</tr>
+<tr>
+<td><code>__@nonsale 100</code></td>
+<td>lens type: light responsive</td>
+<td>Non-sale pricing for the “light responsive” lens type.</td>
+</tr>
+<tr>
+<td><code>__@nonsale 50</code></td>
+<td>lens material: thinner</td>
+<td>Non-sale pricing for the “thinner” lens material.</td>
+</tr>
+<tr>
+<td><code>__@tooltip prescription type: single vision</code></td>
+<td>Corrects for one field of vision (near, intermediate, or distance)</td>
+<td>Tooltip text explaining single-vision prescription.</td>
+</tr>
+<tr>
+<td><code>__@tooltip prescription type: progressives</code></td>
+<td>Corrects near, intermediate, and distance fields of vision in one lens so you don't have to switch between multiple pairs</td>
+<td>Tooltip text for progressives, describing multi-distance correction in a single lens.</td>
+</tr>
+<tr>
+<td><code>__@tooltip prescription type: non-prescription</code></td>
+<td>Offers style and protection with no vision correction</td>
+<td>Tooltip text for non-prescription lenses (fashion or protective use).</td>
+</tr>
+<tr>
+<td><code>__@tooltip prescription type: readers</code></td>
+<td>Offer simple magnification for, well, reading (no prescription necessary)</td>
+<td>Tooltip text for “readers,” which provide light magnification.</td>
+</tr>
+<tr>
+<td><code>__@tooltip single-vision type: standard</code></td>
+<td>Corrects one field of vision (near, intermediate, or distance)</td>
+<td>Tooltip for “standard” single-vision type.</td>
+</tr>
+<tr>
+<td><code>__@tooltip_heading single-vision type: anti-fatigue</code></td>
+<td>Ideal for screens</td>
+<td>A special heading tooltip emphasizing that “anti-fatigue” lenses reduce screen strain.</td>
+</tr>
+<tr>
+<td><code>__@tooltip progressives type: signature</code></td>
+<td>Digital free-form progressive lenses that offer a comfortable, balanced view. They also include anti-reflective and scratch-resistant lens coatings—plus block 100% of UV rays.</td>
+<td>Tooltip text for “signature” progressive lenses, highlighting technology and benefits.</td>
+</tr>
+<tr>
+<td><code>__@tooltip progressives type: precision</code></td>
+<td>Premium progressive lenses that offer more customization, resulting in optimized vision, reduced peripheral distortion, and a wider field of view (plus everything above)</td>
+<td>Tooltip text for “precision” progressive lenses, focusing on advanced performance.</td>
+</tr>
+<tr>
+<td><code>__@tooltip lens type: classic</code></td>
+<td>UV-blocking lenses with scratch-resistant, anti-reflective coatings</td>
+<td>Tooltip text describing “classic” lens type benefits.</td>
+</tr>
+<tr>
+<td><code>__@tooltip lens type: blue-light-filtering</code></td>
+<td>UV-blocking lenses with scratch-resistant, anti-reflective coatings—plus a special treatment that helps block potentially pesky blue light that occurs naturally and digitally.</td>
+<td>Tooltip text highlighting blue-light-filtering’s extra benefit (blocking more blue light).</td>
+</tr>
+<tr>
+<td><code>__@tooltip lens type: light responsive</code></td>
+<td>UV-blocking lenses with scratch-resistant, anti-reflective coatings—these also transition from clear to a darker tint outdoors, plus filter more blue light than our classic lenses. (Choose from grey, brown, or green.)</td>
+<td>Tooltip text explaining photochromic “light responsive” lenses and available colors.</td>
+</tr>
+<tr>
+<td><code>__@tooltip lens material: classic</code></td>
+<td>Our impact-resistant polycarbonate lenses are ideal for most prescription strengths. We recommend them for prescriptions that range between -4.00 and +4.00.</td>
+<td>Tooltip text describing the “classic” (polycarbonate) lens material’s benefits and recommended Rx range.</td>
+</tr>
+<tr>
+<td><code>__@tooltip lens material: thinner</code></td>
+<td>Our 1.67 high-index lenses are thinner and more lightweight when accommodating stronger prescriptions. We recommend them for prescriptions that are higher than +/- 4.00.</td>
+<td>Tooltip text describing “thinner” (1.67 high-index) lens material for high prescriptions.</td>
+</tr>
+<tr>
+<td><code>__@tooltip lens cleaning kit</code></td>
+<td>It includes anti-fog lens spray, a microfiber cloth, and a microfiber lens pouch—convenient!</td>
+<td>Tooltip text about the included items in the lens cleaning kit.</td>
+</tr>
+<tr>
+<td><code>__@group Select a prescription type</code></td>
+<td>prescription type</td>
+<td>Groups the fields related to prescription selection.</td>
+</tr>
+<tr>
+<td><code>__@modifiers_modal</code></td>
+<td>1</td>
+<td>Indicates whether the product uses a modal for modifiers (1 = enabled).</td>
+</tr>
+<tr>
+<td><code>__@select_modifiers</code></td>
+<td>Select lens and buy</td>
+<td>Specifies the text for the “Select Options” button.</td>
+</tr>
+<tr>
+<td><code>__@360</code></td>
+<td>https://cdn11.bigcommerce.com/s-ivbr30q0b6/images/stencil/original/image-manager/eyeglasses-360-1.jpg?t=1736752328#90</td>
+<td>URL for a 360° product image (with a frame reference #90).</td>
+</tr>
+</tbody>
+</table>
+<h3 id="product-images-videos">Product Images &amp; Videos<a class="headerlink" href="#product-images-videos" title="Permanent link">&para;</a></h3>
+<p>Add images and videos to the eyeglasses product as shown below:</p>
+<p><img alt="Eyeglass Product Videos" src="img/eyeglass-product-videos.jpg" /></p>
+<h3 id="360-degree-product-view">360-Degree Product View<a class="headerlink" href="#360-degree-product-view" title="Permanent link">&para;</a></h3>
+<p>For a detailed guide on enabling a 360-degree view for your product, please refer to the <a href="#displaying-360-degree-images">Displaying 360-Degree Images</a> section above.</p>
+<hr />
+<h2 id="guide-setting-up-an-contacts-product-like-the-demo">Guide: Setting Up an Contacts Product Like the Demo<a class="headerlink" href="#guide-setting-up-an-contacts-product-like-the-demo" title="Permanent link">&para;</a></h2>
+<p>This section provides a step-by-step guide for setting up a contacts product that replicates the theme demo. For a live example, please visit the <a href="https://eyeva-glasses-demo.mybigcommerce.com/contacts-demo/">Contacts Demo Product</a>.</p>
+<h3 id="product-variant-options_1">Product Variant Options<a class="headerlink" href="#product-variant-options_1" title="Permanent link">&para;</a></h3>
+<p>Configure product variants for contacts by adding options for attributes such as Right eye (OD) and Left eye (OS) as shown below:</p>
+<p><img alt="Contacts Product Variants" src="img/contacts-product-variants.jpg" /></p>
+<table>
+<thead>
+<tr>
+<th><strong>Option Name</strong></th>
+<th><strong>Type</strong></th>
+<th><strong>Values</strong></th>
+<th><strong>Default</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Right eye (OD)</td>
+<td>Rectangle List</td>
+<td>1 boxes, 2 boxes, 3 boxes, 4 boxes, 5 boxes</td>
+<td>1 boxes</td>
+</tr>
+<tr>
+<td>Left eye (OS)</td>
+<td>Rectangle List</td>
+<td>1 boxes, 2 boxes, 3 boxes, 4 boxes, 5 boxes</td>
+<td>1 boxes</td>
+</tr>
+</tbody>
+</table>
+<h3 id="product-modifiers_1">Product Modifiers<a class="headerlink" href="#product-modifiers_1" title="Permanent link">&para;</a></h3>
+<p>Configure product modifiers for the contacts product as outlined below:</p>
+<p><img alt="Contacts Product Modifiers" src="img/contacts-product-modifiers.jpg" /></p>
+<table>
+<thead>
+<tr>
+<th><strong>Option Name</strong></th>
+<th><strong>Type</strong></th>
+<th><strong>Values</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Rectangle</td>
+<td>Rectangle List</td>
+<td>Small, Medium, Large</td>
+</tr>
+<tr>
+<td>Do you have the same prescription in both eyes?</td>
+<td>Rectangle List</td>
+<td>Yes, No</td>
+</tr>
+<tr>
+<td>Sphere or power (SPH/PWR/D) – right eye</td>
+<td>Dropdown</td>
+<td>8.5, 9.0, +0.50, +0.75, +1.00, -1.00</td>
+</tr>
+<tr>
+<td>Base curve (BC) – right eye</td>
+<td>Dropdown</td>
+<td>8.5, 9.0</td>
+</tr>
+<tr>
+<td>Diameter (DIA) – right eye</td>
+<td>Dropdown</td>
+<td>14.3</td>
+</tr>
+<tr>
+<td>Sphere or power (SPH/PWR/D) – left eye</td>
+<td>Dropdown</td>
+<td>8.5, 9.0, +0.50, +0.75, +1.00, -1.00</td>
+</tr>
+<tr>
+<td>Base curve (BC) – left eye</td>
+<td>Dropdown</td>
+<td>8.5, 9.0</td>
+</tr>
+<tr>
+<td>Diameter (DIA) – left eye</td>
+<td>Dropdown</td>
+<td>14.3</td>
+</tr>
+</tbody>
+</table>
+<h3 id="product-custom-fields_1">Product Custom Fields<a class="headerlink" href="#product-custom-fields_1" title="Permanent link">&para;</a></h3>
+<p>Configure custom fields for the contacts product as outlined below:</p>
+<p><img alt="Contacts Product Custom Fields" src="img/contacts-product-custom-fields.jpg" /></p>
+<table>
+<thead>
+<tr>
+<th><strong>Custom Field Name</strong></th>
+<th><strong>Custom Field Value</strong></th>
+<th><strong>Explanation</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Weight</strong></td>
+<td>1kg</td>
+<td>Displays the product’s weight in the custom fields tab (e.g., physical package weight).</td>
+</tr>
+<tr>
+<td><strong>Width</strong></td>
+<td>20cm</td>
+<td>Displays the product’s width in the custom fields tab (physical dimension).</td>
+</tr>
+<tr>
+<td><strong>Height</strong></td>
+<td>10cm</td>
+<td>Displays the product’s height in the custom fields tab (physical dimension).</td>
+</tr>
+<tr>
+<td><strong>Depth</strong></td>
+<td>30cm</td>
+<td>Displays the product’s depth in the custom fields tab (physical dimension).</td>
+</tr>
+<tr>
+<td><code>__discount</code></td>
+<td>Buy 2, get extra 2% off</td>
+<td>Promotional text shown on the product card (e.g., “Buy 2, get extra 2% off”).</td>
+</tr>
+<tr>
+<td><code>__countdown_date</code></td>
+<td>12:00:00 -7</td>
+<td>A countdown timer setting (time and/or timezone offset) for a flash sale.</td>
+</tr>
+<tr>
+<td><code>__countdown_label</code></td>
+<td>BLACK FRIDAY|ENDS IN</td>
+<td>The text label shown next to the countdown timer (“BLACK FRIDAY” + “ENDS IN”).</td>
+</tr>
+<tr>
+<td><code>__hide_if Do you have the same prescription in both eyes?: Yes</code></td>
+<td>Sphere or power (SPH/PWR/D) - right eye; Base curve (BC) - right eye; Diameter (DIA) - right eye; Sphere or power (SPH/PWR/D) - left eye; Base curve (BC) - left eye; Diameter (DIA) - left eye</td>
+<td>Hides these fields if the customer selects “Yes, same prescription in both eyes?” (Yes).</td>
+</tr>
+<tr>
+<td><code>__hide_if Do you have the same prescription in both eyes?: No</code></td>
+<td>Sphere or power (SPH/PWR/D); Base curve (BC); Diameter (DIA)</td>
+<td>Hides these fields if the customer selects “No, different prescriptions” (No).</td>
+</tr>
+<tr>
+<td><code>__@group Select your prescription</code></td>
+<td>Sphere or power (SPH/PWR/D); Base curve (BC); Diameter (DIA)</td>
+<td>Groups modifier fields for the prescription selection flow.</td>
+</tr>
+<tr>
+<td><code>__@group Select your right eye (OD) prescription</code></td>
+<td>Sphere or power (SPH/PWR/D) - right eye; Base curve (BC) - right eye; Diameter (DIA) - right eye</td>
+<td>Groups modifier fields for the right eye prescription.</td>
+</tr>
+<tr>
+<td><code>__@group Select your left eye (OD) prescription</code></td>
+<td>Sphere or power (SPH/PWR/D) - left eye; Base curve (BC) - left eye; Diameter (DIA) - left eye</td>
+<td>Groups modifier fields for the left eye prescription (marked OD in text, though OD typically means right eye).</td>
+</tr>
+<tr>
+<td><code>__@rename Sphere or power (SPH/PWR/D) - right eye</code></td>
+<td>Sphere or power (SPH/PWR/D)</td>
+<td>Renames the “Sphere or power” field specifically for the right eye.</td>
+</tr>
+<tr>
+<td><code>__@rename Base curve (BC) - right eye</code></td>
+<td>Base curve (BC)</td>
+<td>Renames the “Base curve” field specifically for the right eye.</td>
+</tr>
+<tr>
+<td><code>__@rename Diameter (DIA) - right eye</code></td>
+<td>Diameter (DIA)</td>
+<td>Renames the “Diameter” field specifically for the right eye.</td>
+</tr>
+<tr>
+<td><code>__@rename Sphere or power (SPH/PWR/D) - left eye</code></td>
+<td>Sphere or power (SPH/PWR/D)</td>
+<td>Renames the “Sphere or power” field specifically for the left eye.</td>
+</tr>
+<tr>
+<td><code>__@rename Base curve (BC) - left eye</code></td>
+<td>Base curve (BC)</td>
+<td>Renames the “Base curve” field specifically for the left eye.</td>
+</tr>
+<tr>
+<td><code>__@rename Diameter (DIA) - left eye</code></td>
+<td>Diameter (DIA)</td>
+<td>Renames the “Diameter” field specifically for the left eye.</td>
+</tr>
+<tr>
+<td><code>__@modifiers_modal</code></td>
+<td>1</td>
+<td>Indicates whether the product uses a modal for modifiers (1 = enabled).</td>
+</tr>
+<tr>
+<td><code>__@stepper</code></td>
+<td>Rectangle; Left eye (OD) ; Right eye (OD)</td>
+<td>Defines a stepper or interactive selector for each eye (labeled OD in both cases).</td>
+</tr>
+</tbody>
+</table>
               
             </div>
           </div><footer>
