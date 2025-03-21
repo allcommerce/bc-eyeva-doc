@@ -231,6 +231,46 @@ Edit the text using the inline editor:
 ![Free shipping banner widget edit text](img/free-shipping-banner-widget-edit-text.jpg)
 
 
+### Banner: Pick 5 pairs from our Home Try-On collection
+
+![Pick 5 pairs](img/pick-5-pairs-banner.jpg)
+
+1.  Install the **Leaderboard | Eyeva Glasses** widget from our **PapaThemes Widgets** app:
+
+  ![Install Leaderboard Widget](img/install-leaderboard-widget.jpg)
+
+2.  In Page Builder, drag and drop the **Leaderboard | Eyeva Glasses** widget into the corresponding widget region:
+
+  ![drag-drop-leaderboard-widget](img/drag-drop-leaderboard-widget.jpg)
+
+3.  Configure the widget options as follows:
+
+  ![pick-5-pairs-widget-config](img/pick-5-pairs-widget-config.jpg)
+
+
+| **Setting**           | **Value**         |
+|-----------------------------|---------------------------------------|
+| **Display Image**           | **Enabled** (shows a banner image) |
+| **Image**                   | _(Preview of the “Try-On” box image)_   |
+| **Image Alt**               | `image alt text`                        |
+| **Image Width**             | `500 px`                                |
+| **Image Height**            | `500 px`                                |
+| **Image (mobile) (optional)** |     |
+| **Mobile Image Width**      | `1500 px`                               |
+| **Mobile Image Height**     | `1500 px`                               |
+| **Content Direction**       | **Text – Image**                        |
+| **Content Direction (mobile)** | **Image – Text**                     |
+| **Background**             | `#F7F7F7`                                |
+| **Background on Mobile**    | `#FFFFFF`                                |
+| **Heading**                 | *(visible)*        |
+| **Text1**                   | *(invisible)*        |
+| **Text2**                   | *(visible)*        |
+| **Button1**                 | *(visible)*        |
+| **Button2**                 | *(visible)*        |
+| **Button3**                 | *(invisible)*        |
+| **Style**                   | **Inherit theme**                       |
+
+
 ### Shop By Category
 
 ![Shop by category](img/shop-by-categories.jpg)
@@ -238,6 +278,250 @@ Edit the text using the inline editor:
 To display this block, navigate to **Theme Styles** > **Home Page** > **Sections** and enter `categories` into one of the section inputs.
 
 ![Shop by category](img/Shop-by-categories-section.png)
+
+
+### 2 Banners: Shop Winter & Shop Emma
+
+![Shop Winter](img/2-banners-shop-winter.jpg)
+
+Drag and drop the **Flex Banners | PapaThemes Beautify** widget into the corresponding widget region.
+
+Click on **Banner 1** and configure the widget options as follows:
+
+![Flex Banners Configuration](img/2-banners-shop-winter-config-1.jpg)
+
+
+
+| **Setting**         | **Value**                                        |
+|---------------------|--------------------------------------------------|
+| **Banner 1 → Image** |                                                  |
+| Image               | *(upload your image)*            |
+| Image width         | **1824 px**                                      |
+| Image height        | **1200 px**                                      |
+| Show different image on mobile | *(off - no need)* |
+| Image alt text      | `image alt text`                                 |
+| Image fit           | **Fit to box**                                   |
+| Lazy-Load           | **Checked** (ON)                                 |
+| Border radius       | **0 px**                                         |
+| Link                | *(put your link)*                                        |
+| **Content**         |                                                  |
+| Heading text        | “Shop Winter 2025” (WYSIWYG inline editor) |
+| **General**         |                                                  |
+| Width (Desktop)     | **50%**                                          |
+| Width (Tablet)      | **50%**                                          |
+| Width (Mobile)      | **100%**                                         |
+
+
+
+![Flex Banners Configuration](img/2-banners-shop-winter-config-2.jpg)
+
+Settings for Action button:
+
+| **Setting**          | **Value**     |
+|----------------------|---------------|
+| **Size**             | Unset         |
+| **Style**            | Custom        |
+| **Font family**      | Theme Default |
+| **Radius**           | 25 px         |
+| **Color**            | #FFFFFF       |
+| **Color hover**      | #2D73BD       |
+| **Text color**       | #000000       |
+| **Text color hover** | #FFFFFF       |
+| **Position**         | Bottom        |
+
+
+
+![Flex Banners Configuration](img/2-banners-shop-winter-config-3.jpg)
+
+Settings for Width:
+
+| **Setting**       | **Value** |
+|-------------------|-----------|
+| **Width**         | **%**     |
+| **Value (Desktop)** | 50%       |
+| **Value (Tablet)**  | 50%       |
+| **Value (Mobile)**  | 100%      |
+
+
+
+
+![Flex Banners Configuration](img/2-banners-shop-winter-config-4.jpg)
+
+Settings for Padding:
+
+| **Device** | **Top** | **Right** | **Bottom** | **Left** |
+|------------|--------|----------|-----------|----------|
+| **Desktop** | 0      | 16       | 0         | 0        |
+| **Tablet**  | 0      | 8        | 0         | 0        |
+| **Mobile**  | 0      | 0        | 8         | 0        |
+
+Repeat the same steps for **Banner 2**, but configure the **Width** option as follows:
+
+![Flex Banners Configuration](img/2-banners-shop-winter-config-5.jpg)
+
+Settings for Padding:
+
+| **Device**   | **Top** | **Right** | **Bottom** | **Left** |
+|--------------|--------|----------|-----------|----------|
+| **Desktop**  | 0      | 0        | 0         | 16       |
+| **Tablet**   | 0      | 0        | 0         | 8        |
+| **Mobile**   | 8      | 0        | 0         | 0        |
+
+
+### Banner: Introducing foldable frames
+
+![Introducing foldable frames](img/banner-introducing-foldable-frames.jpg)
+
+Drag and drop the **Flex Banners | PapaThemes Beautify** widget into the corresponding widget region. Remove any other banners, keeping only one, and configure its options as follows:
+
+![Introducing foldable frames configuration](img/banner-introducing-foldable-frames-config-1.jpg)
+
+Below is a **single table** summarizing the **Banner 1** settings (Flex Banners | PapaThemes Beautify) as shown in the screenshot. This includes the **Image** section, the **Content** section, and any **General** settings visible:
+
+| **Section** | **Setting**                        | **Value**                                                                                  |
+|-------------|------------------------------------|--------------------------------------------------------------------------------------------|
+| **Image**   | Image                               | *(upload your image for desktop)*                                                                  |
+|             | Image width                         | **3000 px**                                                                               |
+|             | Image height                        | **1000 px**                                                                               |
+|             | Show different image on mobile      | **ON**                                                                                    |
+|             | Image (Mobile)                      | *(upload your image for mobile)*                                                        |
+|             | Image width (Mobile)                | **1000 px**                                                                               |
+|             | Image height (Mobile)               | **1000 px**                                                                               |
+|             | Image alt text                      | `image alt text`                                                                          |
+|             | Image fit                           | **Fill to box**                                                                           |
+|             | Lazy-Load                           | **Checked** (ON)                                                                          |
+|             | Border radius                       | **0 px**                                                                                  |
+|             | Link                                | *(put your link)*                                                                                 |
+| **Content** |                        |               |
+|             | Content padding (Desktop)           | **Top:** 40<br>**Right:** 320<br>**Bottom:** 40<br>**Left:** 128                          |
+|             | Content background                  | *(transparent)*                                                                         |
+|             | Content padding (Tablet)            | **Top:** 40<br>**Right:** 320<br>**Bottom:** 40<br>**Left:** 16                           |
+|             | Content padding (Mobile)            | **Top:** 10<br>**Right:** 15<br>**Bottom:** 10<br>**Left:** 15                            |
+|             | Heading text                        | “**Introducing foldable frames**” (36px in the WYSIWYG inline editor)                            |
+|             | Description text                    | “**Each pair is engineered …**”                                        |
+|             | Action button                       | “**Shop now**”                                                                |*                        |
+
+
+![Introducing foldable frames configuration](img/banner-introducing-foldable-frames-config-2.jpg)
+
+Width settings:
+
+| **Setting**        | **Value** |
+|--------------------|-----------|
+| **Width**          | **%**     |
+| **Value (Desktop)**| **100%**  |
+| **Value (Tablet)** | **100%**  |
+| **Value (Mobile)** | **100%**  |
+
+
+![Introducing foldable frames configuration](img/banner-introducing-foldable-frames-config-3.jpg)
+
+Padding settings:
+
+| **Device**   | **Top** | **Right** | **Bottom** | **Left** |
+|--------------|--------|----------|-----------|----------|
+| **Desktop**  | 0      | 0        | 0         | 0        |
+| **Tablet**   | 0      | 0        | 0         | 0        |
+| **Mobile**   | 0      | 0        | 0         | 0        |
+
+
+
+### Banner: Take 15% off two or more prescription pairs
+
+![Take 15% off](img/banner-take-15-off.jpg)
+
+Set up this banner similarly to the "**Pick 5 pairs**" banner. See the instructions above: [Banner: Pick 5 pairs from our Home Try-On collection](#banner-pick-5-pairs-from-our-home-try-on-collection).
+
+
+
+### Banner: From custom-designed acetate to ultra-lightweight titanium
+
+![From custom-designed acetate to ultra-lightweight titanium](img/banner-from-custom-designed.jpg)
+
+Drag and drop the **Leaderboard | Eyeva Glasses** widget into the corresponding widget region. Configure the widget options as follows:
+
+![From custom-designed acetate to ultra-lightweight titanium configuration](img/banner-from-custom-designed-config.jpg)
+
+| **Setting**                     | **Value**                                                                   |
+|---------------------------------|-----------------------------------------------------------------------------|
+| **Display Image**               | *(OFF)*                                   |
+| **Background**                  | `#0F4177`                                                                    |
+| **Background on Mobile**        | `#0F4177`                                                                    |
+| **Heading**                     | **Visible**                                                    |
+| **Text1**                       | **Visible**                                                    |
+| **Text2**                       | **Visible**                                                    |
+| **Button1**                     | *(OFF)*                                               |
+| **Button2**                     | *(OFF)*                                               |
+| **Button3**                     | *(OFF)*                                               |
+| **Style**                       | **Custom**                                                                   |
+| **Base Spacing**                | **1 rem**                                                                    |
+| **Heading Font Size (Desktop)** | **36 px**                                                                    |
+| **Heading Font Size (Mobile)**  | **28 px**                                                                    |
+| **Heading Text Color**          | `#FFFFFF`                                                                    |
+| **Text Font Size (Desktop)**    | **16 px**                                                                    |
+| **Text Font Size (Mobile)**     | **14 px**                                                                    |
+| **Text Color**                  | `#FFFFFF`                                                                    |
+| **Link Color**                  | `#2D73BD`                                                                    |
+
+
+Then, add two spacer widgets (**Spacer | PapaThemes Beautify**) above and below the Leaderboard widget. Configure the spacer options as follows:
+
+![From custom-designed spacer](img/banner-from-custom-designed-spacer.jpg)
+
+| **Device**   | **Spacing** |
+|--------------|-------------|
+| **Desktop**  | 128 px      |
+| **Tablet**   | 64 px       |
+| **Mobile**   | 64 px       |
+
+
+Next, in the **Layers** panel, select the **Layout** containing the Leaderboard widget and the two Spacer widgets. Update the background color to `#0F4177`:
+
+![banner-from-custom-designed-layout](img/banner-from-custom-designed-layout.jpg)
+
+
+
+### Banner: Get 20% off your first contacts order
+
+![banner-get-20-off](img/banner-get-20-off.jpg)
+
+Set up this banner similarly to the "**Pick 5 pairs**" banner. See the instructions above: [Banner: Pick 5 pairs from our Home Try-On collection](#banner-pick-5-pairs-from-our-home-try-on-collection).
+
+
+
+### Banner: For every pair purchased
+
+![banner-for-every-pair-purchased](img/banner-for-every-pair-purchased.jpg)
+
+
+Set up this banner similarly to the "**Pick 5 pairs**" banner. See the instructions above: [Banner: Pick 5 pairs from our Home Try-On collection](#banner-pick-5-pairs-from-our-home-try-on-collection).
+
+Configure the widget options as follows:
+
+| **Setting**                  | **Value**                                                                                          |
+|------------------------------|------------------------------------------------------------------------------------------------------|
+| **Display Image**            | **ON**                                                                           |
+| **Image**                    | *(upload your image)*                                                         |
+| **Image Alt**                | `image alt text`                                                                                    |
+| **Image Width**              | **700 px**                                                                                           |
+| **Image Height**             | **700 px**                                                                                           |
+| **Image (mobile) (optional)** | *(Not selected)*                                                                                    |
+| **Mobile Image Width**       | **1500 px**                                                                                          |
+| **Mobile Image Height**      | **1500 px**                                                                                          |
+| **Content Direction**        | **Image - [Text]**                |
+| **Content Direction (mobile)** | **Image - [Text]**                   |
+| **Background**               | **#E2EDEE**                                                                                          |
+| **Background on Mobile**     | **#E2EDEE**                                                                                          |
+| **Heading**                  | **ON**                                                                            |
+| **Text1**                    | **ON**                                                                            |
+| **Text2**                    | **ON**                                                                            |
+| **Button1**                  | **OFF**                                                                            |
+| **Button2**                  | **OFF**                                                                            |
+| **Button3**                  | **OFF**                                                                            |
+| **Style**                    | **Inherit theme**                                                                                    |
+
+
+
 
 ### Bestselling Products
 
