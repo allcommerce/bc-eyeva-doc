@@ -58,3 +58,11 @@ Next, upload the images you want to display on the faceted filters to the Image 
 ![image manager](../img/faceted-filter-image-manager-1.png){ loading=lazy }
 
 ![image manager](../img/faceted-filter-image-manager-2.png){ loading=lazy }
+
+
+
+## Display FAQs Accordion
+
+![FAQ Accordion](../img/faq-accordion.jpg){ loading=lazy }
+
+To add the FAQs accordion to your category page, open Page Builder and drag the **Accordion | PapaThemes** widget into the designated widget region. Then, use the inline editor to update the FAQs content as needed.

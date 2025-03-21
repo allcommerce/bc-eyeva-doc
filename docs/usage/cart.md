@@ -25,3 +25,20 @@ To configure these messages, follow these steps:
 5.  Click **Save**.
 
   ![promotion-message](../img/Promotion-message.jpg){ loading=lazy }
+
+
+## Engaging Cart Page Messages
+
+![Cart Promo List](../img/cart-promo-list.jpg){ loading=lazy }
+
+Enhance user engagement by dragging and dropping the **HTML Widget** into the appropriate widget region on the cart page. Then, insert the code snippet below:
+
+```html
+<ul>
+  <li><svg><use href="#icon-check"/></svg>$50 eyewear credit with an annual supply</li>
+  <li><svg><use href="#icon-check"/></svg>Free shipping and free returns (for unopened boxes)</li>
+  <li><svg><use href="#icon-check"/></svg>Prescription verification during checkout</li>
+</ul>
+```
+
+Click the **Save HTML** button to apply your changes.
