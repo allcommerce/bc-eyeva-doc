@@ -22,19 +22,19 @@ Find and install the **[PapaThemes Widgets](https://www.bigcommerce.com/apps/pap
 
 After installation, navigate to your admin panel. In the left sidebar, click **Apps** > **My Apps**. Then, click the **Launch** button for the PapaThemes Widgets app to open it:
 
-![launch-papathemes-widgets-app](img/launch-papathemes-widgets-app.jpg)
+![launch-papathemes-widgets-app](img/launch-papathemes-widgets-app.jpg){ loading=lazy }
 
 Next, click the **Install** buttons in sequence to install all the available widgets.
 
-![install-papathemes-widgets](img/install-papathemes-widgets.jpg)
+![install-papathemes-widgets](img/install-papathemes-widgets.jpg){ loading=lazy }
 
 Go to **Storefront** > **My Themes**. Click **Customize** on the Eyeva theme's dropdown menu to open Page Builder. Select any theme style to begin.
 
-![click-theme-customize](img/click-theme-customize.jpg)
+![click-theme-customize](img/click-theme-customize.jpg){ loading=lazy }
 
 Confirm the widgets are installed by verifying they appear in Page Builder.
 
-![custom-widgets-appear](img/custom-widgets-appear.jpg)
+![custom-widgets-appear](img/custom-widgets-appear.jpg){ loading=lazy }
 
 ## Setting Up the Glasses Style Home Page
 
@@ -42,7 +42,7 @@ To start customizing the theme, log in to your admin panel. Navigate to **Storef
 
 ### Header
 
-![Header](img/header.jpg)
+![Header](img/header.jpg){ loading=lazy }
 
 To configure the header, navigate to **Theme Styles** > **Header**. Here, you can adjust the header colors, store logo position, and size.
 
@@ -59,11 +59,11 @@ To configure the header, navigate to **Theme Styles** > **Header**. Here, you ca
 
 The "**Hide webpage links**" option allows you to hide static webpage links in the main navigation.
 
-![hide-webpage-links](img/hide-webpage-links.jpg)
+![hide-webpage-links](img/hide-webpage-links.jpg){ loading=lazy }
 
 The "**Show top categories on mobile**" option displays top categories on mobile devices.
 
-![show-top-categories-on-mobile](img/show-top-categories-on-mobile.jpg)
+![show-top-categories-on-mobile](img/show-top-categories-on-mobile.jpg){ loading=lazy }
 
 To configure the Main Navigation, navigate to **Theme Styles** > **Header and Footer**. In the **Main Navigation** section, you can adjust the following:
 
@@ -73,7 +73,7 @@ To configure the Main Navigation, navigate to **Theme Styles** > **Header and Fo
 - **Dropdown menu background**: The background color of the submenu block.
 - **Dropdown menu border**: The border color at the bottom of the main navigation.
 
-![main-navigation](img/main-navigation.jpg)
+![main-navigation](img/main-navigation.jpg){ loading=lazy }
 
 
 #### Mega Menu vs. Standard Menu
@@ -82,27 +82,27 @@ To configure the style (mega menu, standard menu, etc.) of the main navigation, 
 
 - `Simple`: Displays the submenu in a mega menu style. The **Simple Menu** allows you to insert banners and products.
 
-![mega-menu](img/simple-menu.jpg)
+![mega-menu](img/simple-menu.jpg){ loading=lazy }
 
 - `Alternate`: Displays submenu items in a dropdown (standard) style.
 
-![dropdown-menu](img/alternate-menu.jpg)
+![dropdown-menu](img/alternate-menu.jpg){ loading=lazy }
 
 #### Displaying Widgets on the Mega Menu
 
 To display banners in the Mega Menu, go to **Header and Footer** and check **TURN ON EDITING MENU WIDGETS** to open the Mega Menu in design mode.
 
-![edit-widget-simple](img/edit-widget-menu.jpg)
+![edit-widget-simple](img/edit-widget-menu.jpg){ loading=lazy }
 
 To customize the banner on the right of the submenu on mobile, drag and drop a **Flex Banners | PapaThemes Beautify** widget into the corresponding position:
 
-![edit-widget-simple](img/edit-flex-banner-right.jpg)
+![edit-widget-simple](img/edit-flex-banner-right.jpg){ loading=lazy }
 
 In **Column 1**, set padding to `0`.
 
 Remove all banners except Banner 1. Select the image you want to upload. Set `Image width` to `250px`, `Image height` to `250px`, and `Border radius` to `16px`.
 
-![edit-widget-simple](img/edit-setting-flex-banner-1.jpg)
+![edit-widget-simple](img/edit-setting-flex-banner-1.jpg){ loading=lazy }
 
 In **CONTENT**, click **Center** and **Bottom** for **Content Align**.
 
@@ -112,13 +112,13 @@ Hide the `Heading Text`.
 
 Show the `Action Button`. Set `Style` to `Default` and `Position` to `Bottom`.
 
-![edit-widget-simple](img/edit-setting-flex-banner-2.jpg)
+![edit-widget-simple](img/edit-setting-flex-banner-2.jpg){ loading=lazy }
 
 In **GENERAL**, edit the **Width**. Choose `px` for **Width**, and set `Value (Desktop)`, `Value (Tablet)`, and `Value (Mobile)` to `250px`.
 
 Edit the **Padding**. For **Desktop**, set `Right` and `Left` to `8`. For **Tablet**, set `Right` and `Left` to `4`. For **Mobile**, set `Right` to `4`, `Bottom` to `0`, and `Left` to `4`.
 
-![edit-widget-simple](img/edit-setting-flex-banner-3.jpg)
+![edit-widget-simple](img/edit-setting-flex-banner-3.jpg){ loading=lazy }
 
 Duplicate Banner 1 to create another banner.
 
@@ -138,7 +138,7 @@ For example, to display only **Blog** and **Shipping & Returns**:
 
 Note: The order only counts non-category links.
 
-![web-links-order](img/web-links-order.jpg)
+![web-links-order](img/web-links-order.jpg){ loading=lazy }
 
 **Watch the instruction video:**
 
@@ -155,7 +155,7 @@ Go back to **Storefront** > **My Themes**, and click the **Customize** button be
 
 ### Display Top Banner on All Pages
 
-![top-banner](img/top-banner.jpg)
+![top-banner](img/top-banner.jpg){ loading=lazy }
 
 To display a top banner that appears on all pages in the header, drag and drop an **HTML Widget** into the desired position. Paste the code below into the HTML editor, and then click the **Save HTML** button.
 
@@ -181,17 +181,17 @@ To display a simple message, you can just enter the HTML code like this:
 
 ### Main Carousel
 
-![main-carousel-manager](img/main-carousel-manager.jpg)
+![main-carousel-manager](img/main-carousel-manager.jpg){ loading=lazy }
 
 Upload the carousel images in **Storefront** > **Home Page Carousel**.
 
 Return to **Page Builder**. Navigate to **Theme Styles** > **Home Page** and ensure that **Carousel** > **Show carousel** is enabled. You can customize the carousel styles and colors here.
 
-![homepage-carousel-settings](img/homepage-carousel-settings.jpg)
+![homepage-carousel-settings](img/homepage-carousel-settings.jpg){ loading=lazy }
 
 To adjust the image height in mobile view, modify the **Mobile fixed height (px)** to your preferred dimension. For example, enter `500` to display a 500px height on mobile devices.
 
-![carousel-fixed-height-on-mobile](img/carousel-fixed-height-on-mobile.jpg)
+![carousel-fixed-height-on-mobile](img/carousel-fixed-height-on-mobile.jpg){ loading=lazy }
 
 To display a different image on mobile, upload the image in the Image Manager. Then, copy the image URL and paste it into the corresponding **Slide [Number] for mobile** field (e.g., **Slide 1 for mobile** to **Slide 5 for mobile**).
 
@@ -201,15 +201,15 @@ To display a different image on mobile, upload the image in the Image Manager. T
 
 ### Free Shipping Banner below the Homepage Carousel
 
-![Free shipping banner](img/homepage-free-shipping-banner.jpg)
+![Free shipping banner](img/homepage-free-shipping-banner.jpg){ loading=lazy }
 
 In Page Builder, drag and drop the **Section Heading** widget into the corresponding widget region:
 
-![Free shipping banner](img/free-shipping-banner-section-heading.jpg)
+![Free shipping banner](img/free-shipping-banner-section-heading.jpg){ loading=lazy }
 
 Configure the widget options as follows:
 
-![Free shipping banner widget config](img/free-shipping-banner-widget-config.jpg)
+![Free shipping banner widget config](img/free-shipping-banner-widget-config.jpg){ loading=lazy }
 
 -   **Heading tag**: P
 -   **Text style**: Custom
@@ -228,24 +228,24 @@ Configure the widget options as follows:
 
 Edit the text using the inline editor:
 
-![Free shipping banner widget edit text](img/free-shipping-banner-widget-edit-text.jpg)
+![Free shipping banner widget edit text](img/free-shipping-banner-widget-edit-text.jpg){ loading=lazy }
 
 
 ### Banner: Pick 5 pairs from our Home Try-On collection
 
-![Pick 5 pairs](img/pick-5-pairs-banner.jpg)
+![Pick 5 pairs](img/pick-5-pairs-banner.jpg){ loading=lazy }
 
 1.  Install the **Leaderboard | Eyeva Glasses** widget from our **PapaThemes Widgets** app:
 
-  ![Install Leaderboard Widget](img/install-leaderboard-widget.jpg)
+  ![Install Leaderboard Widget](img/install-leaderboard-widget.jpg){ loading=lazy }
 
 2.  In Page Builder, drag and drop the **Leaderboard | Eyeva Glasses** widget into the corresponding widget region:
 
-  ![drag-drop-leaderboard-widget](img/drag-drop-leaderboard-widget.jpg)
+  ![drag-drop-leaderboard-widget](img/drag-drop-leaderboard-widget.jpg){ loading=lazy }
 
 3.  Configure the widget options as follows:
 
-  ![pick-5-pairs-widget-config](img/pick-5-pairs-widget-config.jpg)
+  ![pick-5-pairs-widget-config](img/pick-5-pairs-widget-config.jpg){ loading=lazy }
 
 
 | **Setting**           | **Value**         |
@@ -273,22 +273,22 @@ Edit the text using the inline editor:
 
 ### Shop By Category
 
-![Shop by category](img/shop-by-categories.jpg)
+![Shop by category](img/shop-by-categories.jpg){ loading=lazy }
 
 To display this block, navigate to **Theme Styles** > **Home Page** > **Sections** and enter `categories` into one of the section inputs.
 
-![Shop by category](img/Shop-by-categories-section.png)
+![Shop by category](img/Shop-by-categories-section.png){ loading=lazy }
 
 
 ### 2 Banners: Shop Winter & Shop Emma
 
-![Shop Winter](img/2-banners-shop-winter.jpg)
+![Shop Winter](img/2-banners-shop-winter.jpg){ loading=lazy }
 
 Drag and drop the **Flex Banners | PapaThemes Beautify** widget into the corresponding widget region.
 
 Click on **Banner 1** and configure the widget options as follows:
 
-![Flex Banners Configuration](img/2-banners-shop-winter-config-1.jpg)
+![Flex Banners Configuration](img/2-banners-shop-winter-config-1.jpg){ loading=lazy }
 
 
 
@@ -313,7 +313,7 @@ Click on **Banner 1** and configure the widget options as follows:
 
 
 
-![Flex Banners Configuration](img/2-banners-shop-winter-config-2.jpg)
+![Flex Banners Configuration](img/2-banners-shop-winter-config-2.jpg){ loading=lazy }
 
 Settings for Action button:
 
@@ -331,7 +331,7 @@ Settings for Action button:
 
 
 
-![Flex Banners Configuration](img/2-banners-shop-winter-config-3.jpg)
+![Flex Banners Configuration](img/2-banners-shop-winter-config-3.jpg){ loading=lazy }
 
 Settings for Width:
 
@@ -345,7 +345,7 @@ Settings for Width:
 
 
 
-![Flex Banners Configuration](img/2-banners-shop-winter-config-4.jpg)
+![Flex Banners Configuration](img/2-banners-shop-winter-config-4.jpg){ loading=lazy }
 
 Settings for Padding:
 
@@ -357,7 +357,7 @@ Settings for Padding:
 
 Repeat the same steps for **Banner 2**, but configure the **Width** option as follows:
 
-![Flex Banners Configuration](img/2-banners-shop-winter-config-5.jpg)
+![Flex Banners Configuration](img/2-banners-shop-winter-config-5.jpg){ loading=lazy }
 
 Settings for Padding:
 
@@ -370,11 +370,11 @@ Settings for Padding:
 
 ### Banner: Introducing foldable frames
 
-![Introducing foldable frames](img/banner-introducing-foldable-frames.jpg)
+![Introducing foldable frames](img/banner-introducing-foldable-frames.jpg){ loading=lazy }
 
 Drag and drop the **Flex Banners | PapaThemes Beautify** widget into the corresponding widget region. Remove any other banners, keeping only one, and configure its options as follows:
 
-![Introducing foldable frames configuration](img/banner-introducing-foldable-frames-config-1.jpg)
+![Introducing foldable frames configuration](img/banner-introducing-foldable-frames-config-1.jpg){ loading=lazy }
 
 Below is a **single table** summarizing the **Banner 1** settings (Flex Banners | PapaThemes Beautify) as shown in the screenshot. This includes the **Image** section, the **Content** section, and any **General** settings visible:
 
@@ -402,7 +402,7 @@ Below is a **single table** summarizing the **Banner 1** settings (Flex Banners 
 |             | Action button                       | “**Shop now**”                                                                |*                        |
 
 
-![Introducing foldable frames configuration](img/banner-introducing-foldable-frames-config-2.jpg)
+![Introducing foldable frames configuration](img/banner-introducing-foldable-frames-config-2.jpg){ loading=lazy }
 
 Width settings:
 
@@ -414,7 +414,7 @@ Width settings:
 | **Value (Mobile)** | **100%**  |
 
 
-![Introducing foldable frames configuration](img/banner-introducing-foldable-frames-config-3.jpg)
+![Introducing foldable frames configuration](img/banner-introducing-foldable-frames-config-3.jpg){ loading=lazy }
 
 Padding settings:
 
@@ -428,7 +428,7 @@ Padding settings:
 
 ### Banner: Take 15% off two or more prescription pairs
 
-![Take 15% off](img/banner-take-15-off.jpg)
+![Take 15% off](img/banner-take-15-off.jpg){ loading=lazy }
 
 Set up this banner similarly to the "**Pick 5 pairs**" banner. See the instructions above: [Banner: Pick 5 pairs from our Home Try-On collection](#banner-pick-5-pairs-from-our-home-try-on-collection).
 
@@ -436,11 +436,11 @@ Set up this banner similarly to the "**Pick 5 pairs**" banner. See the instructi
 
 ### Banner: From custom-designed acetate to ultra-lightweight titanium
 
-![From custom-designed acetate to ultra-lightweight titanium](img/banner-from-custom-designed.jpg)
+![From custom-designed acetate to ultra-lightweight titanium](img/banner-from-custom-designed.jpg){ loading=lazy }
 
 Drag and drop the **Leaderboard | Eyeva Glasses** widget into the corresponding widget region. Configure the widget options as follows:
 
-![From custom-designed acetate to ultra-lightweight titanium configuration](img/banner-from-custom-designed-config.jpg)
+![From custom-designed acetate to ultra-lightweight titanium configuration](img/banner-from-custom-designed-config.jpg){ loading=lazy }
 
 | **Setting**                     | **Value**                                                                   |
 |---------------------------------|-----------------------------------------------------------------------------|
@@ -466,7 +466,7 @@ Drag and drop the **Leaderboard | Eyeva Glasses** widget into the corresponding 
 
 Then, add two spacer widgets (**Spacer | PapaThemes Beautify**) above and below the Leaderboard widget. Configure the spacer options as follows:
 
-![From custom-designed spacer](img/banner-from-custom-designed-spacer.jpg)
+![From custom-designed spacer](img/banner-from-custom-designed-spacer.jpg){ loading=lazy }
 
 | **Device**   | **Spacing** |
 |--------------|-------------|
@@ -477,13 +477,13 @@ Then, add two spacer widgets (**Spacer | PapaThemes Beautify**) above and below 
 
 Next, in the **Layers** panel, select the **Layout** containing the Leaderboard widget and the two Spacer widgets. Update the background color to `#0F4177`:
 
-![banner-from-custom-designed-layout](img/banner-from-custom-designed-layout.jpg)
+![banner-from-custom-designed-layout](img/banner-from-custom-designed-layout.jpg){ loading=lazy }
 
 
 
 ### Banner: Get 20% off your first contacts order
 
-![banner-get-20-off](img/banner-get-20-off.jpg)
+![banner-get-20-off](img/banner-get-20-off.jpg){ loading=lazy }
 
 Set up this banner similarly to the "**Pick 5 pairs**" banner. See the instructions above: [Banner: Pick 5 pairs from our Home Try-On collection](#banner-pick-5-pairs-from-our-home-try-on-collection).
 
@@ -491,7 +491,7 @@ Set up this banner similarly to the "**Pick 5 pairs**" banner. See the instructi
 
 ### Banner: For every pair purchased
 
-![banner-for-every-pair-purchased](img/banner-for-every-pair-purchased.jpg)
+![banner-for-every-pair-purchased](img/banner-for-every-pair-purchased.jpg){ loading=lazy }
 
 
 Set up this banner similarly to the "**Pick 5 pairs**" banner. See the instructions above: [Banner: Pick 5 pairs from our Home Try-On collection](#banner-pick-5-pairs-from-our-home-try-on-collection).
@@ -525,17 +525,17 @@ Configure the widget options as follows:
 
 ### Bestselling Products
 
-![bestselling-products](img/Popular-product.jpg)
+![bestselling-products](img/Popular-product.jpg){ loading=lazy }
 
 Bestselling products will only appear once your store has received orders.
 
 You can configure the bestselling products section settings in **Page Builder** > **Theme Styles** > **Home Page**. Ensure that one of the **Sections** inputs is set to `bestselling`. In the **Products** section, you can adjust the **Number of most popular products** to display and change the **Most popular products display** to either `Carousel` or `Grid`.
 
-![homepage-products-settings](img/homepage-products-settings.jpg)
+![homepage-products-settings](img/homepage-products-settings.jpg){ loading=lazy }
 
 ### Featured Products
 
-![featured-products](img/Feature-products.jpg)
+![featured-products](img/Feature-products.jpg){ loading=lazy }
 
 You can designate products as "featured" in **Products** by clicking the **star** icon on the corresponding row.
 
@@ -543,23 +543,23 @@ Return to **Page Builder** > **Theme Styles** > **Home Page** and ensure that on
 
 ### New Products
 
-![new-products](img/New-products.jpg)
+![new-products](img/New-products.jpg){ loading=lazy }
 
 You can configure the new products section settings in **Page Builder** > **Theme Styles** > **Home Page**. Ensure that one of the **Sections** inputs is set to `new`. In the **Products** section, you can change the **Number of new products** to display and change the **New products display** to either `Carousel` or `Grid`.
 
 ### Wide banner
 
-![glasses-wide-banner](img/glasses-wide-banner.jpg)
+![glasses-wide-banner](img/glasses-wide-banner.jpg){ loading=lazy }
 
 In Page Builder, drag & drop the Flex Banner widget into the corresponding widget region:
 
-![glasses-wide-banner](img/glasses-wide-banner-flex-banner.jpg)
+![glasses-wide-banner](img/glasses-wide-banner-flex-banner.jpg){ loading=lazy }
 
 Configure the widget options as follows:
 
 |  |  |  |
 |---|---|---|
-| ![glasses-wide-banner-flex-banner-config-1](img/glasses-wide-banner-flex-banner-config-1.jpg) | ![glasses-wide-banner-flex-banner-config-2](img/glasses-wide-banner-flex-banner-config-2.jpg) | ![glasses-wide-banner-flex-banner-config-3](img/glasses-wide-banner-flex-banner-config-3.jpg) |
+| ![glasses-wide-banner-flex-banner-config-1](img/glasses-wide-banner-flex-banner-config-1.jpg){ loading=lazy } | ![glasses-wide-banner-flex-banner-config-2](img/glasses-wide-banner-flex-banner-config-2.jpg){ loading=lazy } | ![glasses-wide-banner-flex-banner-config-3](img/glasses-wide-banner-flex-banner-config-3.jpg){ loading=lazy } |
 
 
 | **Setting**                                    | **Value**                                   |
@@ -596,7 +596,7 @@ Configure the widget options as follows:
 
 ### Recently Viewed Products
 
-![bestselling-products](img/Recently-viewed-products.jpg)
+![bestselling-products](img/Recently-viewed-products.jpg){ loading=lazy }
 
 Recently Viewed Products will be displayed automatically after a product has been viewed.
 
@@ -604,7 +604,7 @@ You can configure the Recently Viewed Products section settings in **Page Builde
 
 ### Configure product columns on desktop, tablet, and mobile
 
-![product-columns](img/product-columns.jpg)
+![product-columns](img/product-columns.jpg){ loading=lazy }
 
 To change the number of products displayed per row, go to **Page Builder** > **Global** > **Product**.
 
@@ -614,7 +614,7 @@ To change the number of products displayed per row, go to **Page Builder** > **G
 
 ### Featured Brands
 
-![Featured-brand](img/brands.jpg)
+![Featured-brand](img/brands.jpg){ loading=lazy }
 
 The **Featured Brands** section will automatically display all brands from your store.
 
@@ -622,25 +622,25 @@ To enable the **Featured Brands** section, in **Theme Styles** > **Home Page** >
 
 To change the background color of this section, click on **Brands carousel background** and select a color that fits your design.
 
-![homepage-featured-brands](img/homepage-featured-brands.jpg)
+![homepage-featured-brands](img/homepage-featured-brands.jpg){ loading=lazy }
 
 ### Recent Blog Posts
 
-![edit-recent-blog](img/edit-recent-blog.jpg)
+![edit-recent-blog](img/edit-recent-blog.jpg){ loading=lazy }
 
 You can add blog posts in **Storefront** > **Blog**. Click the **+** button to add a new blog post. Make sure **Blog Visibility** is `on`.
 
 To display the **recent blog** posts on the home page, go to **Page Builder**. In **Theme Styles** > **Home Page**, make sure one of Sections has typed `blog`. Scroll down the Recent Blog section, you can configure **Heading**, **Number of posts** to display.
 
-![homepage-number-of-posts](img/homepage-number-of-posts.jpg)
+![homepage-number-of-posts](img/homepage-number-of-posts.jpg){ loading=lazy }
 
 ### Footer
 
-![footer](img/footer.jpg)
+![footer](img/footer.jpg){ loading=lazy }
 
 Configure footer settings in **Theme Styles** > **Header and footer** >  **Footer**.
 
-![footer-theme-settings](img/footer-theme-settings.jpg)
+![footer-theme-settings](img/footer-theme-settings.jpg){ loading=lazy }
 
 
 | **Setting**                         | **Meaning**                                                                                           |
@@ -664,7 +664,7 @@ We're available by phone (<a href='tel:{phone}'>{phone}</a>) and chat today from
 
 `{phone}` will be replaced by the phone number you set in the store settings.
 
-![footer](img/footer-contact-phone.jpg)
+![footer](img/footer-contact-phone.jpg){ loading=lazy }
 
 You can display contact icons (FAQ, Text, Chat, Email) using a widget. Drag and drop the HTML widget into the corresponding widget region, then copy the HTML code below and click the **Save HTML** button.
 
@@ -677,7 +677,7 @@ You can display contact icons (FAQ, Text, Chat, Email) using a widget. Drag and 
 </ul>
 ```
 
-![footer](img/footer-contact-col.jpg)
+![footer](img/footer-contact-col.jpg){ loading=lazy }
 
 **Payment Icons** allows you to select which payment icons to display.
 
@@ -686,7 +686,7 @@ You can display contact icons (FAQ, Text, Chat, Email) using a widget. Drag and 
 
 Add custom links to the footer by using the HTML widget. Simply drag and drop it into the appropriate widget region:
 
-![footer-links](img/footer-links.jpg)
+![footer-links](img/footer-links.jpg){ loading=lazy }
 
 
 Paste the following code into the HTML editor, and then click the **Save HTML** button:
@@ -721,7 +721,7 @@ Paste the following code into the HTML editor, and then click the **Save HTML** 
 
 |  |  |  |
 |---|---|---|
-| ![product-card](img/product-card.jpg) | ![product-card-settings-1](img/product-card-settings-1.jpg) | ![product-card-settings-2](img/product-card-settings-2.jpg) |
+| ![product-card](img/product-card.jpg){ loading=lazy } | ![product-card-settings-1](img/product-card-settings-1.jpg){ loading=lazy } | ![product-card-settings-2](img/product-card-settings-2.jpg){ loading=lazy } |
 
 Configure the display of product cards under **Page Builder** > **Theme Styles** > **Products** > **Product Cards**:
 
@@ -752,20 +752,20 @@ Configure the display of product cards under **Page Builder** > **Theme Styles**
 - Checked boxes are **enabled**, unchecked boxes are **disabled** by default.
 
 
-![product-card-details](img/product-card-details.jpg)
+![product-card-details](img/product-card-details.jpg){ loading=lazy }
 
 
 ### Hiding Prices for Non-Logged-In Customers
 
 To enable this feature, go to **Settings** > **Display** > **Products Settings** and check the **Hide Product's Price from Guests?** checkbox.
 
-![hide-prices](img/Hide-price-from-non-login.jpg)
+![hide-prices](img/Hide-price-from-non-login.jpg){ loading=lazy }
 
 ### Showing/Hiding Quick View Button
 
 By default, quick view buttons appear on all product cards. To hide them, go to **Page Builder** > **Theme Styles** > **Products** > **Display Settings** and uncheck the **Show quick view button on product cards** checkbox.
 
-![show-quickview](img/show-quickview.jpg)
+![show-quickview](img/show-quickview.jpg){ loading=lazy }
 
 ### Displaying Product Weight and Dimensions on PDP
 
@@ -774,17 +774,17 @@ Go to **Page Builder** > **Theme Styles** > **Products** > **Display Settings**.
 - Check the **Show product weight** checkbox.
 - Check the **Show product dimensions** checkbox.
 
-![Product Weight and Dimensions](img/product-weight-dimension.jpg)
+![Product Weight and Dimensions](img/product-weight-dimension.jpg){ loading=lazy }
 
 ### Displaying Customer Reviews Tab on PDP
 
-![Customer-reivew](img/customer-reviews.jpg)
+![Customer-reivew](img/customer-reviews.jpg){ loading=lazy }
 
 Go to **Page Builder** > **Theme Styles** > **Products** > **Display Settings** and check the **Show product reviews** option.
 
 Specify the number of product reviews to be displayed.
 
-![Customer Reviews](img/product-customer-reviews.jpg)
+![Customer Reviews](img/product-customer-reviews.jpg){ loading=lazy }
 
 ### Display Sale Badges on PDP
 
@@ -796,7 +796,7 @@ Go to **Page Builder** > **Theme Styles** > **Products** > **Product Sale Badges
 
 |                                              |                                              |
 | :------------------------------------------: | :------------------------------------------: |
-| ![Sale Badge Option](img/sale-badge-option-1.jpg) | ![Sale Badge Option](img/sale-badge-option-2.jpg) |
+| ![Sale Badge Option](img/sale-badge-option-1.jpg){ loading=lazy } | ![Sale Badge Option](img/sale-badge-option-2.jpg){ loading=lazy } |
 
 -   **Label**: Specifies the badge text.
 -   **Badge text color**: Specifies the badge text color.
@@ -807,7 +807,7 @@ Go to **Page Builder** > **Theme Styles** > **Products** > **Product Sale Badges
 
 To display a "**Sold Out**" badge, in **Page Builder**, navigate to **Products** and find **Show product sold-out badges**. Select "Label".
 
-![sold-out-badge](img/sold-out-badge.jpg)
+![sold-out-badge](img/sold-out-badge.jpg){ loading=lazy }
 
 Enter the text to display for the sold-out badge in the **Product sold out badge label** field.
 
@@ -817,7 +817,7 @@ Enter the text to display for the sold-out badge in the **Product sold out badge
 
 ### Custom Text Badge
 
-![Custom Badge](img/custom-badge.jpg)
+![Custom Badge](img/custom-badge.jpg){ loading=lazy }
 
 - **Show custom badges**: Enable to display custom badges.
 - **Badge color (PDP)**: Background color of the custom badge.
@@ -825,21 +825,21 @@ Enter the text to display for the sold-out badge in the **Product sold out badge
 
 To add a custom badge to a product, edit the product and add a custom field with the name `__badge`. The value of this field will be the badge text.
 
-![edit-product-custom-badge](img/edit-product-custom-badge.jpg)
+![edit-product-custom-badge](img/edit-product-custom-badge.jpg){ loading=lazy }
 
 ### Customizing Price Labels
 
 You can customize the sale price label, before-sale price label, retail price label, or regular price label in **Page Builder** > **Theme Styles** > **Products** > **Price Labels**.
 
-![configure-price-labels](img/configure-price-labels.jpg)
+![configure-price-labels](img/configure-price-labels.jpg){ loading=lazy }
 
 ### Displaying Image gallery
 
-![product-image-gallery](img/product-image-gallery.jpg)
+![product-image-gallery](img/product-image-gallery.jpg){ loading=lazy }
 
 Configure the image gallery in **Page Builder** > **Theme Styles** > **Products** > **Display settings**:
 
-![product-image-gallery-settings](img/product-image-gallery-settings.jpg)
+![product-image-gallery-settings](img/product-image-gallery-settings.jpg){ loading=lazy }
 
 
 | **Setting**              | **Value & Meaning**                                                                                           |
@@ -852,7 +852,7 @@ Configure the image gallery in **Page Builder** > **Theme Styles** > **Products*
 
 In **Page Builder** > **Theme Styles** > **Products** > **Image Sizes**, you can configure the following image sizes:
 
-![product-image-size-settings](img/product-image-size-settings.jpg)
+![product-image-size-settings](img/product-image-size-settings.jpg){ loading=lazy }
 
 -   **Main product images**: Specify the size of the main product image displayed on the Product Detail Page (PDP).
 -   **Thumbnail image**: Specify the size of product thumbnails.
@@ -861,7 +861,7 @@ In **Page Builder** > **Theme Styles** > **Products** > **Image Sizes**, you can
 
 ### Shipping Countdown
 
-![shipping-countdown](img/shipping-countdown-1.jpg)
+![shipping-countdown](img/shipping-countdown-1.jpg){ loading=lazy }
 
 To display a shipping countdown on the Product Detail Page (PDP), navigate to **Theme Styles** > **Product Page**. Locate the **Shipping Countdown** field and enter your cut-off time. Find and copy your timezone from Wikipedia ([https://en.wikipedia.org/wiki/List_of_tz_database_time_zones](https://en.wikipedia.org/wiki/List_of_tz_database_time_zones)) and paste it into the **Timezone** field.
 
@@ -877,7 +877,7 @@ To disable the shipping countdown, simply leave the **Shipping Countdown** field
 
 In **Page Builder** > **Theme Styles** > **Products** > **Display setting**:
 
-![default-collapsible-state-settings](img/default-collapsible-state-settings.jpg)
+![default-collapsible-state-settings](img/default-collapsible-state-settings.jpg){ loading=lazy }
 
 
 | **Setting**                           | **Value & Meaning**                                                                                      |
@@ -890,7 +890,7 @@ In **Page Builder** > **Theme Styles** > **Products** > **Display setting**:
 
 ### Displaying product custom fields
 
-![custom-field-tab-settings](img/custom-field-tab-settings.jpg)
+![custom-field-tab-settings](img/custom-field-tab-settings.jpg){ loading=lazy }
 
 In **Page Builder** > **Theme Styles** > **Products** > **Display setting**:
 
@@ -903,11 +903,11 @@ In **Page Builder** > **Theme Styles** > **Products** > **Display setting**:
 
 **On the Product Detail Page (PDP):**
 
-![Flash-sales](img\flash-sales.jpg)
+![Flash-sales](img\flash-sales.jpg){ loading=lazy }
 
 **On the Product Card:**
 
-![Flash-sales](img\flash-sales-card.jpg)
+![Flash-sales](img\flash-sales-card.jpg){ loading=lazy }
 
 To display flash sales for a product, edit the product and:
 
@@ -915,7 +915,7 @@ To display flash sales for a product, edit the product and:
 2.  Add a second custom field named `__countdown_date`. The value should be your cut-off time, following this format: `<yyyy>-<mm>-<dd> <hh>:<mm>:<ss><timezone>` (e.g., `2023-03-15 17:00:00-7`).
 
 
-![flash-sale-custom-fields](img/flash-sale-custom-fields.jpg)
+![flash-sale-custom-fields](img/flash-sale-custom-fields.jpg){ loading=lazy }
 
 **Note:**
 
@@ -927,22 +927,22 @@ To display flash sales for a product, edit the product and:
 
 ### Display Product Modifiers in a Right-Side Modal
 
-![product-modifiers-modal](img/product-modifiers-modal.png)
+![product-modifiers-modal](img/product-modifiers-modal.png){ loading=lazy }
 
 #### Enable Product Modifiers Modal
 
 To enable or disable the modifiers modal for specific products, edit the product and add a custom field with the name `__@modifiers_modal` and set its value to `1`.
 
-![modifiers-modal-custom-field](img/modifiers-modal-custom-field.png)
+![modifiers-modal-custom-field](img/modifiers-modal-custom-field.png){ loading=lazy }
 
 To enable the product modifiers modal for all products without adding a custom field to each, navigate to **Page Builder** > **Products** > **Display Settings** and enable **Show modifiers in modal**.
 
-![modifiers-modal-setting](img/modifiers-modal-setting.png)
+![modifiers-modal-setting](img/modifiers-modal-setting.png){ loading=lazy }
 
 
 #### Customize the "Select Options" Button Text
 
-![edit-select-modifier-button](img/edit-select-modifier-button.png)
+![edit-select-modifier-button](img/edit-select-modifier-button.png){ loading=lazy }
 
 To customize the text of the **"Select Options" button**, add a product custom field named `__@select_modifiers`. Set the value of this field to the desired button text.
 
@@ -952,58 +952,58 @@ By default, each modifier option is displayed step-by-step. To group multiple op
 
 **Custom field:**
 
-![custom-field-group](img/custom-field-group.png)
+![custom-field-group](img/custom-field-group.png){ loading=lazy }
 
 **Result:**
 
-![group-in-modifiers-modal](img/group-in-modifiers-modal.png)
+![group-in-modifiers-modal](img/group-in-modifiers-modal.png){ loading=lazy }
 
 #### Customize the Modal Title of Each Modifier Option
 
 By default, the modal title mirrors the modifier option name. To customize the title of a specific modifier option within the modal, create a custom field named `__@rename [title to be changed]` and assign the desired new title as its value.
 
-![Modal Option PDP](img/option-modal-rename.jpg)
+![Modal Option PDP](img/option-modal-rename.jpg){ loading=lazy }
 
 
 #### Add tooltip to Modifier Option Modal
 
 **Display tooltip for option value:**
 
-![Tooltip Image](img/option-value-tooltip.png)
+![Tooltip Image](img/option-value-tooltip.png){ loading=lazy }
 
 Add custom field name `__@tooltip [Option Name]: [Value]` and set the custom field value to the desired description of the value:
 
-![Tooltip Custom Field Image](img/option-value-tooltip-custom-field.png)
+![Tooltip Custom Field Image](img/option-value-tooltip-custom-field.png){ loading=lazy }
 
 **Display tooltip heading for option value:**
 
-![Tooltip Heading Image](img/option-value-tooltip-heading.png)
+![Tooltip Heading Image](img/option-value-tooltip-heading.png){ loading=lazy }
 
 Add custom field name `__@tooltip_heading [Option Name]: [Value]` and set the custom field value to the desired description of the value:
 
-![Tooltip Heading Custom Field Image](img/option-value-tooltip-heading-custom-field.png)
+![Tooltip Heading Custom Field Image](img/option-value-tooltip-heading-custom-field.png){ loading=lazy }
 
 **Display tooltip for option:**
 
-![Tooltip Image](img/option-tooltip.png)
+![Tooltip Image](img/option-tooltip.png){ loading=lazy }
 
 Add custom field name `__@tooltip [Option Name]` and set the custom field value to the desired description of the option:
 
-![Tooltip Custom Field Image](img/option-tooltip-custom-field.png)
+![Tooltip Custom Field Image](img/option-tooltip-custom-field.png){ loading=lazy }
 
 
 
 ### Displaying 360-Degree Images
 
-![360 Image Gallery](img/360-image-gallery.png)
+![360 Image Gallery](img/360-image-gallery.png){ loading=lazy }
 
 To showcase a 360-degree image gallery on your Product Detail Page (PDP), begin by uploading the 360-degree image to your Image Manager and copying its link:
 
-![360 Image Upload](img/360-image-upload.png)
+![360 Image Upload](img/360-image-upload.png){ loading=lazy }
 
 Next, edit the product and add a custom field named `__@360`.  Assign the image link as the value for this field. To display multiple 360-degree images, simply add additional custom fields using the same name.
 
-![360-image-custom-field](img/360-image-custom-field.png)
+![360-image-custom-field](img/360-image-custom-field.png){ loading=lazy }
 
 If your image sequence contains, for example, 90 frames, append `#90` to the end of the image link.  For example: `https://cdn11.bigcommerce.com/s-ivbr30q0b6/images/stencil/original/image-manager/eyeglasses-360-1.jpg?t=1736752328#90`
 
@@ -1013,15 +1013,15 @@ You can download a sample 360-degree image here: [https://cdn11.bigcommerce.com/
 
 ### Variant Options Stepper
 
-![Variant Options Stepper](img/stepper-list.jpg)
+![Variant Options Stepper](img/stepper-list.jpg){ loading=lazy }
 
 To create variant options with a Rectangle List type, follow these steps:
 
-![stepper-variant-options](img/stepper-variant-options.png)
+![stepper-variant-options](img/stepper-variant-options.png){ loading=lazy }
 
 Next, add a custom field named `__@stepper`. The value of this field should contain the option names, separated by semicolons (;).
 
-![stepper-custom-field](img/stepper-custom-field.png)
+![stepper-custom-field](img/stepper-custom-field.png){ loading=lazy }
 
 For example:
 
@@ -1032,13 +1032,13 @@ For example:
 
 ### Eyeglasses Product Description Template
 
-![Eyeglass Product Description](img/eyeglass-product-description.png)
+![Eyeglass Product Description](img/eyeglass-product-description.png){ loading=lazy }
 
 To use our pre-designed eyeglasses product description template, edit your product description, select the **Source code** button, and paste the code provided below:
 
-![Edit HTML Button](img/click-edit-html-button.png)
+![Edit HTML Button](img/click-edit-html-button.png){ loading=lazy }
 
-![Paste Source Code](img/paste-source-code-description.png)
+![Paste Source Code](img/paste-source-code-description.png){ loading=lazy }
 
 
 ```html
@@ -1214,7 +1214,7 @@ To use our pre-designed eyeglasses product description template, edit your produ
 </div>
 <div class="flex child-py-12 child-px-16 border-top">
 <div class="span-1 fill-alt">Readers</div>
-<div class="span-1 border-left"><s>$95</s> <strong>$80.75</strong></div>
+<div class="span-1 border-left"><s>$95</s> <strong>$80.75</div>
 </div>
 <div class="flex child-py-12 child-px-16 border-top">
 <div class="span-1 fill-alt">Non-prescription</div>
@@ -1335,7 +1335,7 @@ These classes and the `data-collapsible` attribute work together to create a wel
 
 ### Hiding Breadcrumbs and Page Headings
 
-![page-settings](img/page-settings.png)
+![page-settings](img/page-settings.png){ loading=lazy }
 
 To hide breadcrumbs and the page heading, go to **Global** > **Page** in Page Builder and select the options you want to hide:
 
@@ -1347,7 +1347,7 @@ To hide breadcrumbs and the page heading, go to **Global** > **Page** in Page Bu
 
 ### Number of Products Displayed
 
-![products-number-settings](img/products-number-settings.png)
+![products-number-settings](img/products-number-settings.png){ loading=lazy }
 
 In **Page Builder** > **Theme Styles** > **Products** > **Number of products displayed**:
 
@@ -1361,20 +1361,20 @@ The theme allows you to display products in either a **grid** or a **list** form
 
 **Grid:**
 
-![products-display-type-grid](img/product-display-type-grid.jpg)
+![products-display-type-grid](img/product-display-type-grid.jpg){ loading=lazy }
 
 **List:**
 
-![products-display-type-list](img/products-display-type-list.jpg)
+![products-display-type-list](img/products-display-type-list.jpg){ loading=lazy }
 
 
 ### Displaying Images and Colors on Faceted Filters
 
-![display-image-filter](img/display-images-filter.jpg)
+![display-image-filter](img/display-images-filter.jpg){ loading=lazy }
 
 To configure image and color options for faceted filters, navigate to **Page Builder** > **Theme Styles** > **Products** > **Display Settings**.
 
-![faceted-filter-image-settings](img/facted-filter-image-settings.png)
+![faceted-filter-image-settings](img/facted-filter-image-settings.png){ loading=lazy }
 
 | Setting                                      | Value & Meaning
 |----------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -1386,9 +1386,9 @@ To configure image and color options for faceted filters, navigate to **Page Bui
 
 Next, upload the images you want to display on the faceted filters to the Image Manager. Name the images according to the convention `[option-name]-[option-value]` (e.g., `shape-round`, `color-light-brown`). Be sure to replace any spaces or non-alphanumeric characters with hyphens. All images must be in PNG format (with the `.png` file extension).
 
-![image manager](img/faceted-filter-image-manager-1.png)
+![image manager](img/faceted-filter-image-manager-1.png){ loading=lazy }
 
-![image manager](img/faceted-filter-image-manager-2.png)
+![image manager](img/faceted-filter-image-manager-2.png){ loading=lazy }
 
 ## Customizing the Cart Page
 
@@ -1396,11 +1396,11 @@ Next, upload the images you want to display on the faceted filters to the Image 
 
 **Scenario 1: Cart Does Not Qualify for Free Shipping**
 
-![Not-qualify](img/not-egilible.jpg)
+![Not-qualify](img/not-egilible.jpg){ loading=lazy }
 
 **Scenario 2: Cart Qualifies for Free Shipping**
 
-![qualify](img/promotion-qualify.jpg)
+![qualify](img/promotion-qualify.jpg){ loading=lazy }
 
 To configure these messages, follow these steps:
 
@@ -1408,14 +1408,14 @@ To configure these messages, follow these steps:
 2.  In the **Promotion detail** section, name your promotion.
 3.  In the **Promotion type** section, select `Orders totaling more than X amount get free shipping to specific shipping zones`. In the **spend at least** field, enter the minimum order amount required for free shipping.
 
-  ![free-shipping-editor](img/free-shipping.jpg)
+  ![free-shipping-editor](img/free-shipping.jpg){ loading=lazy }
 4.  In the **Promotion options** section, customize your messages:
 
   *   **Congratulations Banner Message**: Enter the message to display when the cart qualifies for free shipping.
   *   **Upsell Banner Message**: Enter the message to display when the cart does not qualify. Use the format `[your text] %%condition.remaining%% [your text]` to dynamically display the remaining amount needed to qualify.
 5.  Click **Save**.
 
-  ![promotion-message](img/Promotion-message.jpg)
+  ![promotion-message](img/Promotion-message.jpg){ loading=lazy }
 
 
 
@@ -1431,11 +1431,11 @@ This section provides a step-by-step guide for setting up an eyeglasses product 
 
 To replicate the demo's product description, edit a product, click the **Source code** button:
 
-![Edit HTML Button](img/click-edit-html-button.png)
+![Edit HTML Button](img/click-edit-html-button.png){ loading=lazy }
 
 and paste the following HTML code:
 
-![Paste Source Code](img/paste-source-code-description.png)
+![Paste Source Code](img/paste-source-code-description.png){ loading=lazy }
 
 ```html
 <!-- Main container for this style/demo -->
@@ -1701,7 +1701,7 @@ and paste the following HTML code:
 
 Configure product variants for eyeglasses by adding options for attributes such as color and size as shown below:
 
-![Eyeglass Variant Options](img/eyeglass-variant-options.jpg)
+![Eyeglass Variant Options](img/eyeglass-variant-options.jpg){ loading=lazy }
 
 | **Option** | **Type**         | **Values**            |
 |------------|------------------|-----------------------|
@@ -1712,7 +1712,7 @@ Configure product variants for eyeglasses by adding options for attributes such 
 
 Configure product modifiers by adding relevant modifier options for the eyeglasses product. Follow the procedure illustrated below:
 
-![Eyeglass Product Modifiers](img/eyeglass-product-modifiers.jpg)
+![Eyeglass Product Modifiers](img/eyeglass-product-modifiers.jpg){ loading=lazy }
 
 | **Option Name**       | **Type**           | **Values**                                                    |
 |-----------------------|--------------------|--------------------------------------------------------------|
@@ -1730,7 +1730,7 @@ Configure product modifiers by adding relevant modifier options for the eyeglass
 
 Apply product rules to the eyeglasses product using the settings described below:
 
-![Eyeglass Product Rules](img/eyeglass-product-rules.jpg)
+![Eyeglass Product Rules](img/eyeglass-product-rules.jpg){ loading=lazy }
 
 
 | **Rule** | **Modifier Option**  | **When This Is Selected**               | **Price Adjustment** | **Weight Adjustment** |
@@ -1747,11 +1747,11 @@ Apply product rules to the eyeglasses product using the settings described below
 
 Configure custom fields for the eyeglasses product as outlined below:
 
-![Custom Field 1](img/eyeglass-product-custom-fields-1.jpg)
+![Custom Field 1](img/eyeglass-product-custom-fields-1.jpg){ loading=lazy }
 
-![Custom Field 2](img/eyeglass-product-custom-fields-2.jpg)
+![Custom Field 2](img/eyeglass-product-custom-fields-2.jpg){ loading=lazy }
 
-![Custom Field 3](img/eyeglass-product-custom-fields-3.jpg)
+![Custom Field 3](img/eyeglass-product-custom-fields-3.jpg){ loading=lazy }
 
 
 | **Custom Field Name**                                        | **Custom Field Value**                                                                                                                                                                                                                                                           | **Explanation**                                                                                                                                                                                                                              |
@@ -1799,7 +1799,7 @@ Configure custom fields for the eyeglasses product as outlined below:
 
 Add images and videos to the eyeglasses product as shown below:
 
-![Eyeglass Product Videos](img/eyeglass-product-videos.jpg)
+![Eyeglass Product Videos](img/eyeglass-product-videos.jpg){ loading=lazy }
 
 ### 360-Degree Product View
 
@@ -1821,7 +1821,7 @@ This section provides a step-by-step guide for setting up a contacts product tha
 
 Configure product variants for contacts by adding options for attributes such as Right eye (OD) and Left eye (OS) as shown below:
 
-![Contacts Product Variants](img/contacts-product-variants.jpg)
+![Contacts Product Variants](img/contacts-product-variants.jpg){ loading=lazy }
 
 
 | **Option Name**   | **Type**        | **Values**                         | **Default** |
@@ -1834,7 +1834,7 @@ Configure product variants for contacts by adding options for attributes such as
 
 Configure product modifiers for the contacts product as outlined below:
 
-![Contacts Product Modifiers](img/contacts-product-modifiers.jpg)
+![Contacts Product Modifiers](img/contacts-product-modifiers.jpg){ loading=lazy }
 
 | **Option Name**                                       | **Type**         | **Values**                                              |
 |-------------------------------------------------------|-----------------|---------------------------------------------------------|
@@ -1852,7 +1852,7 @@ Configure product modifiers for the contacts product as outlined below:
 
 Configure custom fields for the contacts product as outlined below:
 
-![Contacts Product Custom Fields](img/contacts-product-custom-fields.jpg)
+![Contacts Product Custom Fields](img/contacts-product-custom-fields.jpg){ loading=lazy }
 
 | **Custom Field Name**                                       | **Custom Field Value**                                                                                                              | **Explanation**                                                                                                                                             |
 |-------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
