@@ -161,6 +161,67 @@ To display a different image on mobile, upload the image in the Image Manager. T
 
 <iframe width="760" height="515" src="https://www.youtube.com/embed/IvW6T-P3Oxs?si=vGlWYu6UDo4n11HP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+
+### Using the Hero Carousel for Multi-Storefronts
+
+The BigCommerce homepage carousel is exclusive to the main channel and does not support multi-storefront deployments. As an alternative, we provide the "**Hero Carousel | Eyeva**" widget, which enables you to showcase an image carousel on any page or storefront.
+
+To implement this:
+
+1. Install the widget from the **PapaThemes Widgets** app.
+2. In Page Builder, drag and drop the "**Hero Carousel | Eyeva**" widget into the appropriate widget area.
+3. Click on each slide to customize the content using the inline editor.
+
+![add-hero-carousel-widget](../img/add-hero-carousel-widget.jpg){ loading=lazy }
+
+![hero-carousel-config-widget](../img/hero-carousel-config-widget.jpg){ loading=lazy }
+
+| **Setting**                  | **Value**                          |
+|------------------------------|------------------------------------|
+| **Slide 1 → Image**          |                                    |
+| Image                        | (Upload your image)                |
+| Width                        | 1920 px                            |
+| Height                       | 800 px                             |
+| Image on Mobile (optional)   | *(Upload a mobile-specific image)* |
+| Alt Text                     | `alt text`                         |
+| Image Link                   | *(Enter URL)*                      |
+| **Content**                  |                                    |
+| Heading                      | **Visible**                        |
+| Description                  | **Visible**                        |
+| Button 1                     | **Visible**                        |
+| Button 2                     | **Visible**                        |
+| Button 3                     | **Visible**                        |
+
+To adjust the widget settings, click the three-dot icon and select **Settings**:
+
+![hero-carousel-widget-settings](../img/hero-carousel-widget-settings.jpg){ loading=lazy }
+
+![hero-carousel-widget-settings-panel](../img/hero-carousel-widget-settings-panel.jpg){ loading=lazy }
+|-------------|-----------------------------|---------------------|
+| **General** | Background Color           | `#FFFFFF`           |
+|             | Text Color                 | `#333333`           |
+|             | Primary Color              | `#FFFFFF`           |
+|             | Border Color               | `#DDDDDD`           |
+|             | Dot Color                  | `#AAAAAA`           |
+|             | Dot Active Color           | `#555555`           |
+|             | Dot Background Color       | `#555555`           |
+|             | Height on Mobile           | `0 px`              |
+|             | Base Spacing               | `1 rem` |
+| **Slider**  | Enable Autoplay            | **Yes**    |
+|             | Autoplay Interval          | `5000 ms`           |
+|             | Autoplay on Interaction    | **Yes** |
+| **Content** | Content align              | **Left** |
+|             | Title Color                | `#333333`           |
+|             | Title Font Size (Desktop)  | `48 px`             |
+|             | Title Font Size (Mobile)   | `24 px`             |
+|             | Title Font Weight          | `400`               |
+|             | Description Color          | `#555555`           |
+|             | Description Font Size      | `16 px`             |
+|             | Button Height              | `50 px`       |
+
+
+
+
 ## Free Shipping Banner below the Homepage Carousel
 
 ![Free shipping banner](../img/homepage-free-shipping-banner.jpg){ loading=lazy }
