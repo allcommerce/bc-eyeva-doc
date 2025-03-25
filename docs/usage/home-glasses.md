@@ -197,6 +197,8 @@ To adjust the widget settings, click the three-dot icon and select **Settings**:
 ![hero-carousel-widget-settings](../img/hero-carousel-widget-settings.jpg){ loading=lazy }
 
 ![hero-carousel-widget-settings-panel](../img/hero-carousel-widget-settings-panel.jpg){ loading=lazy }
+
+| **Setting**                  | **Value**                          |
 |-------------|-----------------------------|---------------------|
 | **General** | Background Color           | `#FFFFFF`           |
 |             | Text Color                 | `#333333`           |
