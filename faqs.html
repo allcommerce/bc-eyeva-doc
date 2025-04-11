@@ -631,6 +631,18 @@
         
       
       
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  <span class="md-ellipsis">
+    FAQs
+    
+  </span>
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
       <a href="faqs.html" class="md-nav__link md-nav__link--active">
         
   
@@ -641,6 +653,34 @@
   
 
       </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#converting-videos-to-h265-format-for-safari-compatibility" class="md-nav__link">
+    <span class="md-ellipsis">
+      Converting Videos to H.265 Format for Safari Compatibility
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
       
     </li>
   
@@ -708,6 +748,23 @@
     
   
   
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#converting-videos-to-h265-format-for-safari-compatibility" class="md-nav__link">
+    <span class="md-ellipsis">
+      Converting Videos to H.265 Format for Safari Compatibility
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
 </nav>
                   </div>
                 </div>
@@ -723,6 +780,13 @@
 
 
 <h1 id="faqs">FAQs<a class="headerlink" href="#faqs" title="Permanent link">&para;</a></h1>
+<h2 id="converting-videos-to-h265-format-for-safari-compatibility">Converting Videos to H.265 Format for Safari Compatibility<a class="headerlink" href="#converting-videos-to-h265-format-for-safari-compatibility" title="Permanent link">&para;</a></h2>
+<p>Install <code>ffmpeg</code> on Windows using command line:</p>
+<div class="language-bash highlight"><pre><span></span><code><span id="__span-0-1"><a id="__codelineno-0-1" name="__codelineno-0-1" href="#__codelineno-0-1"></a>choco<span class="w"> </span>install<span class="w"> </span>ffmpeg
+</span></code></pre></div>
+<p>Run the following command to convert the video to H.265 format:</p>
+<div class="language-bash highlight"><pre><span></span><code><span id="__span-1-1"><a id="__codelineno-1-1" name="__codelineno-1-1" href="#__codelineno-1-1"></a>ffmpeg<span class="w"> </span>-i<span class="w"> </span>input.mp4<span class="w"> </span>-vcodec<span class="w"> </span>libx265<span class="w"> </span>-c:a<span class="w"> </span>aac<span class="w"> </span>-tag:v<span class="w"> </span>hvc1<span class="w">  </span>output.mp4
+</span></code></pre></div>
 
 
 
