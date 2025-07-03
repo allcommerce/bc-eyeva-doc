@@ -741,6 +741,39 @@
 </li>
       
         <li class="md-nav__item">
+  <a href="#displaying-product-card-hover-videos" class="md-nav__link">
+    <span class="md-ellipsis">
+      Displaying Product Card Hover Videos
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Displaying Product Card Hover Videos">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#enabling-video-hover-feature" class="md-nav__link">
+    <span class="md-ellipsis">
+      Enabling Video Hover Feature
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#adding-video-to-products" class="md-nav__link">
+    <span class="md-ellipsis">
+      Adding Video to Products
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
   <a href="#variant-options-stepper" class="md-nav__link">
     <span class="md-ellipsis">
       Variant Options Stepper
@@ -1192,6 +1225,39 @@
 </li>
       
         <li class="md-nav__item">
+  <a href="#displaying-product-card-hover-videos" class="md-nav__link">
+    <span class="md-ellipsis">
+      Displaying Product Card Hover Videos
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Displaying Product Card Hover Videos">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#enabling-video-hover-feature" class="md-nav__link">
+    <span class="md-ellipsis">
+      Enabling Video Hover Feature
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#adding-video-to-products" class="md-nav__link">
+    <span class="md-ellipsis">
+      Adding Video to Products
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
   <a href="#variant-options-stepper" class="md-nav__link">
     <span class="md-ellipsis">
       Variant Options Stepper
@@ -1330,6 +1396,10 @@
 <tr>
 <td>Show videos &amp; 360</td>
 <td><strong>Checked</strong><br>Enables display of product videos or 360° spin images if available.</td>
+</tr>
+<tr>
+<td>Show video from custom field __<a class="magiclink magiclink-github magiclink-mention" href="https://github.com/card_video" title="GitHub User: card_video">@card_video</a> when hovering product card</td>
+<td><strong>Unchecked</strong><br>Enables video playback when hovering over product card images. Requires products to have a <code>__@card_video</code> custom field with video URL.</td>
 </tr>
 </tbody>
 </table>
@@ -1538,6 +1608,25 @@
 <p><img alt="360-image-custom-field" loading="lazy" src="../img/360-image-custom-field.png" /></p>
 <p>If your image sequence contains, for example, 90 frames, append <code>#90</code> to the end of the image link.  For example: <code>https://cdn11.bigcommerce.com/s-ivbr30q0b6/images/stencil/original/image-manager/eyeglasses-360-1.jpg?t=1736752328#90</code></p>
 <p>You can download a sample 360-degree image here: <a href="https://cdn11.bigcommerce.com/s-ivbr30q0b6/images/stencil/original/image-manager/eyeglasses-360-1.jpg">https://cdn11.bigcommerce.com/s-ivbr30q0b6/images/stencil/original/image-manager/eyeglasses-360-1.jpg</a></p>
+<h2 id="displaying-product-card-hover-videos">Displaying Product Card Hover Videos<a class="headerlink" href="#displaying-product-card-hover-videos" title="Permanent link">&para;</a></h2>
+<p>To display videos when hovering over product images on product cards, you need to enable the feature in theme settings first.</p>
+<h3 id="enabling-video-hover-feature">Enabling Video Hover Feature<a class="headerlink" href="#enabling-video-hover-feature" title="Permanent link">&para;</a></h3>
+<p>Navigate to <strong>Page Builder</strong> &gt; <strong>Theme Styles</strong> &gt; <strong>Products</strong> &gt; <strong>Product Cards</strong> and enable the <strong>Show video from custom field __<a class="magiclink magiclink-github magiclink-mention" href="https://github.com/card_video" title="GitHub User: card_video">@card_video</a> when hovering product card</strong> checkbox.</p>
+<h3 id="adding-video-to-products">Adding Video to Products<a class="headerlink" href="#adding-video-to-products" title="Permanent link">&para;</a></h3>
+<p>Once the feature is enabled, edit your product and add a custom field named <code>__@card_video</code>. Set the video URL as the value for this field. The video will automatically play when users hover over the product image on the product card and pause when they hover away.</p>
+<p><strong>Example:</strong></p>
+<ul>
+<li><strong>Custom Field Name</strong>: <code>__@card_video</code></li>
+<li><strong>Custom Field Value</strong>: <code>https://storage.themeforshop.com/eyeva-demo/laptop-360-1-h265.mp4</code></li>
+</ul>
+<p><strong>Important Notes:</strong></p>
+<ul>
+<li>Video must be in MP4 format for maximum browser compatibility</li>
+<li>Use videos with small file sizes to optimize loading time</li>
+<li>Videos will automatically play muted when hovered</li>
+<li>Only displays when "Show video from custom field __<a class="magiclink magiclink-github magiclink-mention" href="https://github.com/card_video" title="GitHub User: card_video">@card_video</a> when hovering product card" is enabled in theme settings</li>
+</ul>
+<p>You can view a sample video at: <a href="https://storage.themeforshop.com/eyeva-demo/laptop-360-1-h265.mp4">https://storage.themeforshop.com/eyeva-demo/laptop-360-1-h265.mp4</a></p>
 <h2 id="variant-options-stepper">Variant Options Stepper<a class="headerlink" href="#variant-options-stepper" title="Permanent link">&para;</a></h2>
 <p><img alt="Variant Options Stepper" loading="lazy" src="../img/stepper-list.jpg" /></p>
 <p>To create variant options with a Rectangle List type, follow these steps:</p>
