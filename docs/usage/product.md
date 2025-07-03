@@ -28,6 +28,7 @@ Configure the display of product cards under **Page Builder** > **Theme Styles**
 | Swatch image size                                     | **42x28**<br>Specifies the width and height (in px) for image swatches.                                                                                                                                       |
 | Show flash sale countdown                             | **Checked**<br>Shows a countdown timer if a product is on flash sale (limited-time pricing).                                                                                                                  |
 | Show videos & 360                                     | **Checked**<br>Enables display of product videos or 360° spin images if available.                                                                                                                           |
+| Show video from custom field __@card_video when hovering product card | **Unchecked**<br>Enables video playback when hovering over product card images. Requires products to have a `__@card_video` custom field with video URL.                                                   |
 
 **Notes**:
 
@@ -292,6 +293,34 @@ Next, edit the product and add a custom field named `__@360`.  Assign the image 
 If your image sequence contains, for example, 90 frames, append `#90` to the end of the image link.  For example: `https://cdn11.bigcommerce.com/s-ivbr30q0b6/images/stencil/original/image-manager/eyeglasses-360-1.jpg?t=1736752328#90`
 
 You can download a sample 360-degree image here: [https://cdn11.bigcommerce.com/s-ivbr30q0b6/images/stencil/original/image-manager/eyeglasses-360-1.jpg](https://cdn11.bigcommerce.com/s-ivbr30q0b6/images/stencil/original/image-manager/eyeglasses-360-1.jpg)
+
+
+
+## Displaying Product Card Hover Videos
+
+To display videos when hovering over product images on product cards, you need to enable the feature in theme settings first.
+
+### Enabling Video Hover Feature
+
+Navigate to **Page Builder** > **Theme Styles** > **Products** > **Product Cards** and enable the **Show video from custom field __@card_video when hovering product card** checkbox.
+
+### Adding Video to Products
+
+Once the feature is enabled, edit your product and add a custom field named `__@card_video`. Set the video URL as the value for this field. The video will automatically play when users hover over the product image on the product card and pause when they hover away.
+
+**Example:**
+
+- **Custom Field Name**: `__@card_video`
+- **Custom Field Value**: `https://storage.themeforshop.com/eyeva-demo/laptop-360-1-h265.mp4`
+
+**Important Notes:**
+
+- Video must be in MP4 format for maximum browser compatibility
+- Use videos with small file sizes to optimize loading time
+- Videos will automatically play muted when hovered
+- Only displays when "Show video from custom field __@card_video when hovering product card" is enabled in theme settings
+
+You can view a sample video at: [https://storage.themeforshop.com/eyeva-demo/laptop-360-1-h265.mp4](https://storage.themeforshop.com/eyeva-demo/laptop-360-1-h265.mp4)
 
 
 
