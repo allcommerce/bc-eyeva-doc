@@ -1,6 +1,12 @@
 # Release Notes
 
 ## 1.2.0 (08-01-2025)
+- Complete PC Builder Feature + Laptops Theme Variant Implementation (#108)
+
+  <img src="img/config-category-pc-builder-template.jpg" alt="config-category-pc-builder-template" style="max-width: 300px;" loading="lazy" />
+
+  <img src="img/pc-builder-category-page.jpg" alt="pc-builder-category-page" style="max-width: 300px;" loading="lazy" />
+
 - Add card style options and header font settings in theme editor.
 
   <img src="img/config-card-style-font-size.jpg" alt="config-card-style-font-size" style="max-width: 300px;" loading="lazy" />
@@ -21,11 +27,6 @@
 - Style callout icons widgets for laptop variant.
 - Style leaderboard for laptop variant.
 - Update product columns config for laptop variant.
-- Complete PC Builder Feature + Laptops Theme Variant Implementation (#108)
-
-  <img src="img/config-category-pc-builder-template.jpg" alt="config-category-pc-builder-template" style="max-width: 300px;" loading="lazy" />
-
-  <img src="img/pc-builder-category-page.jpg" alt="pc-builder-category-page" style="max-width: 300px;" loading="lazy" />
 
 ## 1.1.0 (05-09-2025)
 - Release Sofas style
