@@ -3,18 +3,18 @@
 ## 1.2.0 (08-01-2025)
 - Add card style options and header font settings in theme editor.
 
-  ![config-card-style-font-size](img/config-card-style-font-size.jpg){ loading=lazy }
+  <img src="img/config-card-style-font-size.jpg" alt="config-card-style-font-size" style="max-width: 300px;" loading="lazy" />
 
 - Add custom fields and starting price label in theme editor.
 
-  ![config-starting-price-label](img/config-starting-price-label.jpg){ loading=lazy }
+  <img src="img/config-starting-price-label.jpg" alt="config-starting-price-label" style="max-width: 300px;" loading="lazy" />
 
 - Update button styles and add input radius settings in theme editor.
 - Update theme editor to add section alignment and brand styles.
 
-  ![config-section-align](img/config-section-align.jpg){ loading=lazy }
+  <img src="img/config-section-align.jpg" alt="config-section-align" style="max-width: 300px;" loading="lazy" />
 
-  ![config-brand-carousel-style](img/config-brand-carousel-style.jpg){ loading=lazy }
+  <img src="img/config-brand-carousel-style.jpg" alt="config-brand-carousel-style" style="max-width: 300px;" loading="lazy" />
 
 - Add theme editor for product_col_l, product_col_xl.
 - Update customer reviews widget styles and introduce new responsive design elements.
@@ -23,9 +23,9 @@
 - Update product columns config for laptop variant.
 - Complete PC Builder Feature + Laptops Theme Variant Implementation (#108)
 
-  ![config-category-pc-builder-template](img/config-category-pc-builder-template.jpg){ loading=lazy }
+  <img src="img/config-category-pc-builder-template.jpg" alt="config-category-pc-builder-template" style="max-width: 300px;" loading="lazy" />
 
-  ![pc-builder-category-page](img/pc-builder-category-page.jpg){ loading=lazy }
+  <img src="img/pc-builder-category-page.jpg" alt="pc-builder-category-page" style="max-width: 300px;" loading="lazy" />
 
 ## 1.1.0 (05-09-2025)
 - Release Sofas style
