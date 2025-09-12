@@ -1,5 +1,10 @@
 # Release Notes
 
+
+## 1.2.1 (09-12-2025)
+- Add theme settings: show custom fields on card.
+- Add a section to display the payment promotion widget in the cart drawer.
+
 ## 1.2.0 (08-01-2025)
 - Complete PC Builder Feature + Laptops Theme Variant Implementation (#108)
 
