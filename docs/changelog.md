@@ -1,5 +1,7 @@
 # Release Notes
 
+## 1.2.2 (10-03-2025)
+- Fix currency symbol and add to cart url for product card rendered by graphq
 
 ## 1.2.1 (09-12-2025)
 - Add theme settings: show custom fields on card.
