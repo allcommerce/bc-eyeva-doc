@@ -1,0 +1,5111 @@
+{
+  "id": 144,
+  "name": "ASUS ROG Zephyrus G16",
+  "type": "physical",
+  "sku": "Laptop-030",
+  "description": "<!-- Main container for this style/demo -->\n<div class=\"eyeva-style\"><!-- Hero Section: Laptop Introduction -->\n<div class=\"flex flex-column-md gap-24 mb-24\">\n<div class=\"span-1\">\n<h1 class=\"font-32 font-24-md mb-16\"><strong>Introducing the UltraBook Pro Series</strong></h1>\n<p class=\"font-18 font-16-md color-secondary mb-24\">Where performance meets elegance. Experience the future of computing with our most advanced laptop series designed for professionals, creators, and innovators.</p>\n<div class=\"flex gap-16 mb-24\"><a class=\"button\" href=\"#\">Configure Your Laptop</a> <a class=\"button button--outline\" href=\"#\">View Specifications</a></div>\n</div>\n<div class=\"shrink-0\"><img class=\"lazyload border-radius\" src=\"https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=600&amp;h=400&amp;fit=crop\" alt=\"UltraBook Pro Series Laptop\" width=\"600\" height=\"400\" data-src=\"https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=600&amp;h=400&amp;fit=crop\" /></div>\n</div>\n<hr class=\"mb-24\" /><!-- Key Features Section -->\n<h2 data-collapsible=\"key-features\">Why Choose UltraBook Pro?</h2>\n<div id=\"key-features\">\n<p class=\"mb-24 font-16\">Built for the modern professional who demands excellence in every aspect of their computing experience.</p>\n<div class=\"border border-radius p-24 flex-column gap-24 des-mb-0\">\n<div class=\"flex column-gap-16\">\n<div class=\"shrink-0\"><img class=\"lazyload\" src=\"https://images.unsplash.com/photo-1518717758536-85ae29035b6d?w=60&amp;h=60&amp;fit=crop\" alt=\"Performance Icon\" width=\"60\" height=\"60\" data-src=\"https://images.unsplash.com/photo-1518717758536-85ae29035b6d?w=60&amp;h=60&amp;fit=crop\" /></div>\n<div class=\"span-1\">\n<p class=\"font-18 font-16-md\"><strong>Blazing Performance</strong></p>\n<p class=\"color-secondary font-14-md\">12th Gen Intel Core i7 processor with 32GB DDR5 RAM and RTX 4060 graphics for seamless multitasking and content creation.</p>\n</div>\n</div>\n<div class=\"flex column-gap-16\">\n<div class=\"shrink-0\"><img class=\"lazyload\" src=\"https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=60&amp;h=60&amp;fit=crop\" alt=\"Display Icon\" width=\"60\" height=\"60\" data-src=\"https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=60&amp;h=60&amp;fit=crop\" /></div>\n<div class=\"span-1\">\n<p class=\"font-18 font-16-md\"><strong>Stunning 4K OLED Display</strong></p>\n<p class=\"color-secondary font-14-md\">15.6\" 4K OLED touchscreen with 100% DCI-P3 color accuracy and 400 nits brightness for professional-grade visuals.</p>\n</div>\n</div>\n<div class=\"flex column-gap-16\">\n<div class=\"shrink-0\"><img class=\"lazyload\" src=\"https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=60&amp;h=60&amp;fit=crop\" alt=\"Battery Icon\" width=\"60\" height=\"60\" data-src=\"https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=60&amp;h=60&amp;fit=crop\" /></div>\n<div class=\"span-1\">\n<p class=\"font-18 font-16-md\"><strong>All-Day Battery Life</strong></p>\n<p class=\"color-secondary font-14-md\">Up to 18 hours of battery life with rapid 65W USB-C charging. Work unplugged from dawn to dusk.</p>\n</div>\n</div>\n<div class=\"flex column-gap-16\">\n<div class=\"shrink-0\"><img class=\"lazyload\" src=\"https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=60&amp;h=60&amp;fit=crop\" alt=\"Security Icon\" width=\"60\" height=\"60\" data-src=\"https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=60&amp;h=60&amp;fit=crop\" /></div>\n<div class=\"span-1\">\n<p class=\"font-18 font-16-md\"><strong>Enterprise Security</strong></p>\n<p class=\"color-secondary font-14-md\">Biometric fingerprint reader, TPM 2.0 chip, and Windows Hello facial recognition for ultimate security.</p>\n</div>\n</div>\n<div class=\"flex column-gap-16\">\n<div class=\"shrink-0\"><img class=\"lazyload\" src=\"https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=60&amp;h=60&amp;fit=crop\" alt=\"Connectivity Icon\" width=\"60\" height=\"60\" data-src=\"https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=60&amp;h=60&amp;fit=crop\" /></div>\n<div class=\"span-1\">\n<p class=\"font-18 font-16-md\"><strong>Future-Ready Connectivity</strong></p>\n<p class=\"color-secondary font-14-md\">Wi-Fi 6E, Bluetooth 5.3, Thunderbolt 4 ports, and 5G optional for staying connected anywhere.</p>\n</div>\n</div>\n<div class=\"flex column-gap-16\">\n<div class=\"shrink-0\"><img class=\"lazyload\" src=\"https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=60&amp;h=60&amp;fit=crop\" alt=\"Support Icon\" width=\"60\" height=\"60\" data-src=\"https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=60&amp;h=60&amp;fit=crop\" /></div>\n<div class=\"span-1\">\n<p class=\"font-18 font-16-md\"><strong>Premium Support &amp; Warranty</strong></p>\n<p class=\"color-secondary font-14-md\">3-year premium warranty with 24/7 tech support and on-site service for business customers.</p>\n</div>\n</div>\n<hr class=\"m-0\" />\n<div class=\"flex gap-24 align-items-center\">\n<div class=\"span-1\"><img class=\"lazyload border-radius\" src=\"https://images.unsplash.com/photo-1541807084-5c52b6b3adef?w=400&amp;h=250&amp;fit=crop\" alt=\"Laptop Accessories Bundle\" width=\"400\" height=\"250\" data-src=\"https://images.unsplash.com/photo-1541807084-5c52b6b3adef?w=400&amp;h=250&amp;fit=crop\" /></div>\n<div class=\"span-1\">\n<p class=\"font-18 font-16-md\"><strong>Complete Professional Package</strong></p>\n<p class=\"color-secondary font-14-md\">Every UltraBook Pro comes with a premium leather sleeve, wireless mouse, USB-C dock, and 1-year Microsoft 365 subscription.</p>\n</div>\n</div>\n</div>\n</div>\n<hr /><!-- Use Cases Section -->\n<h2 data-collapsible=\"use-cases\">Perfect for Every Professional</h2>\n<div id=\"use-cases\">\n<div class=\"flex flex-column gap-24\">\n<div class=\"flex flex-column-md border border-radius p-24 gap-24\">\n<div class=\"shrink-0\"><img class=\"lazyload border-radius\" src=\"https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=300&amp;h=200&amp;fit=crop\" alt=\"Business Professional\" width=\"300\" height=\"200\" data-src=\"https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=300&amp;h=200&amp;fit=crop\" /></div>\n<div class=\"span-1\">\n<h3 class=\"font-20 font-18-md\"><strong>Business Executives</strong></h3>\n<p class=\"color-secondary font-14-md\">Lightweight design, enterprise security, and all-day battery life make it perfect for boardroom presentations and international travel.</p>\n<ul class=\"font-14-md\">\n<li>Advanced video conferencing capabilities</li>\n<li>Instant wake and Windows Hello login</li>\n<li>Military-grade durability testing</li>\n</ul>\n</div>\n</div>\n<div class=\"flex flex-column-md border border-radius p-24 gap-24\">\n<div class=\"shrink-0\"><img class=\"lazyload border-radius\" src=\"https://images.unsplash.com/photo-1581291518633-83b4ebd1d83e?w=300&amp;h=200&amp;fit=crop\" alt=\"Creative Professional\" width=\"300\" height=\"200\" data-src=\"https://images.unsplash.com/photo-1581291518633-83b4ebd1d83e?w=300&amp;h=200&amp;fit=crop\" /></div>\n<div class=\"span-1\">\n<h3 class=\"font-20 font-18-md\"><strong>Creative Professionals</strong></h3>\n<p class=\"color-secondary font-14-md\">4K OLED display with 100% color accuracy and powerful RTX graphics for photo editing, video production, and 3D design.</p>\n<ul class=\"font-14-md\">\n<li>Adobe Creative Suite optimized</li>\n<li>Pantone validated display</li>\n<li>Hardware-accelerated ray tracing</li>\n</ul>\n</div>\n</div>\n<div class=\"flex flex-column-md border border-radius p-24 gap-24\">\n<div class=\"shrink-0\"><img class=\"lazyload border-radius\" src=\"https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=300&amp;h=200&amp;fit=crop\" alt=\"Developer\" width=\"300\" height=\"200\" data-src=\"https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=300&amp;h=200&amp;fit=crop\" /></div>\n<div class=\"span-1\">\n<h3 class=\"font-20 font-18-md\"><strong>Software Developers</strong></h3>\n<p class=\"color-secondary font-14-md\">Powerful processing, ample RAM, and fast SSD storage handle large codebases, virtual machines, and development environments.</p>\n<ul class=\"font-14-md\">\n<li>Docker and Kubernetes ready</li>\n<li>Linux compatibility certified</li>\n<li>Multiple 4K external display support</li>\n</ul>\n</div>\n</div>\n</div>\n</div>\n<hr /><!-- Technical Specifications -->\n<h2 data-collapsible=\"specifications\">Technical Specifications</h2>\n<div id=\"specifications\">\n<p><a class=\"button button--outline mb-24\" href=\"#\">Download Full Spec Sheet</a></p>\n<div class=\"flex flex-column-md border border-radius mb-16\">\n<div class=\"span-1 p-24\"><strong class=\"font-18 font-16-md\">Display &amp; Graphics</strong></div>\n<div class=\"span-2 flex-column border-left font-14-md\">\n<div class=\"flex child-py-12 child-px-16\">\n<div class=\"span-1 fill-alt\">Display</div>\n<div class=\"span-1 fill-alt border-left\">15.6\" 4K OLED (3840x2160)</div>\n</div>\n<div class=\"flex child-py-12 child-px-16 border-top\">\n<div class=\"span-1 fill-alt\">Refresh Rate</div>\n<div class=\"span-1 border-left\">60Hz (120Hz Gaming Edition)</div>\n</div>\n<div class=\"flex child-py-12 child-px-16 border-top\">\n<div class=\"span-1 fill-alt\">Graphics</div>\n<div class=\"span-1 border-left\">NVIDIA RTX 4060 8GB GDDR6</div>\n</div>\n<div class=\"flex child-py-12 child-px-16 border-top\">\n<div class=\"span-1 fill-alt\">Color Accuracy</div>\n<div class=\"span-1 border-left\">100% DCI-P3, Pantone Validated</div>\n</div>\n</div>\n</div>\n<div class=\"flex flex-column-md border border-radius mb-16\">\n<div class=\"span-1 p-24\"><strong class=\"font-18 font-16-md\">Performance</strong></div>\n<div class=\"span-2 flex-column border-left font-14-md\">\n<div class=\"flex child-py-12 child-px-16\">\n<div class=\"span-1 fill-alt\">Processor</div>\n<div class=\"span-1 fill-alt border-left\">Intel Core i7-12700H (14-core)</div>\n</div>\n<div class=\"flex child-py-12 child-px-16 border-top\">\n<div class=\"span-1 fill-alt\">Memory</div>\n<div class=\"span-1 border-left\">32GB DDR5-4800 (upgradeable to 64GB)</div>\n</div>\n<div class=\"flex child-py-12 child-px-16 border-top\">\n<div class=\"span-1 fill-alt\">Storage</div>\n<div class=\"span-1 border-left\">1TB PCIe 4.0 NVMe SSD</div>\n</div>\n<div class=\"flex child-py-12 child-px-16 border-top\">\n<div class=\"span-1 fill-alt\">Battery</div>\n<div class=\"span-1 border-left\">99.9Wh, up to 18 hours usage</div>\n</div>\n</div>\n</div>\n<div class=\"flex flex-column-md border border-radius\">\n<div class=\"span-1 p-24\"><strong class=\"font-18 font-16-md\">Connectivity &amp; Build</strong></div>\n<div class=\"span-2 flex-column border-left font-14-md\">\n<div class=\"flex child-py-12 child-px-16\">\n<div class=\"span-1 fill-alt\">Ports</div>\n<div class=\"span-1 fill-alt border-left\">2x Thunderbolt 4, 2x USB-A 3.2, HDMI 2.1</div>\n</div>\n<div class=\"flex child-py-12 child-px-16 border-top\">\n<div class=\"span-1 fill-alt\">Wireless</div>\n<div class=\"span-1 border-left\">Wi-Fi 6E, Bluetooth 5.3, 5G (optional)</div>\n</div>\n<div class=\"flex child-py-12 child-px-16 border-top\">\n<div class=\"span-1 fill-alt\">Materials</div>\n<div class=\"span-1 border-left\">CNC-machined aluminum, carbon fiber lid</div>\n</div>\n<div class=\"flex child-py-12 child-px-16 border-top\">\n<div class=\"span-1 fill-alt\">Dimensions</div>\n<div class=\"span-1 border-left\">14.1\" &times; 9.3\" &times; 0.67\" (2.9 lbs)</div>\n</div>\n</div>\n</div>\n</div>\n<hr /><!-- Pricing & Configurations -->\n<h2 data-collapsible=\"pricing\">Choose Your Configuration</h2>\n<div id=\"pricing\">\n<p class=\"mb-24 font-16\">Select the perfect configuration for your needs. All models include our premium support package and 3-year warranty.</p>\n<div class=\"flex flex-column gap-16\">\n<div class=\"border border-radius p-24 flex flex-column-md gap-24\">\n<div class=\"span-1\">\n<h3 class=\"font-20 font-18-md mb-16\"><strong>Professional Edition</strong></h3>\n<p class=\"color-secondary font-14-md mb-16\">Perfect for business users and everyday productivity</p>\n<ul class=\"font-14-md mb-16\">\n<li>Intel Core i5-12500H processor</li>\n<li>16GB DDR5 RAM</li>\n<li>512GB NVMe SSD</li>\n<li>Integrated Iris Xe Graphics</li>\n<li>Full HD+ (1920x1200) IPS display</li>\n</ul>\n</div>\n<div class=\"shrink-0 flex flex-column align-items-center\">\n<p class=\"font-24 font-20-md\"><s class=\"color-secondary\">$1,499</s> <strong>$1,299</strong></p>\n<a class=\"button\" href=\"#\">Order Now</a></div>\n</div>\n<div class=\"border border-radius p-24 flex flex-column-md gap-24 fill-light\">\n<div class=\"span-1\">\n<h3 class=\"font-20 font-18-md mb-16\"><strong>Pro Edition (Most Popular)</strong></h3>\n<p class=\"color-secondary font-14-md mb-16\">Ideal for creative professionals and power users</p>\n<ul class=\"font-14-md mb-16\">\n<li>Intel Core i7-12700H processor</li>\n<li>32GB DDR5 RAM</li>\n<li>1TB NVMe SSD</li>\n<li>NVIDIA RTX 4060 Graphics</li>\n<li>4K OLED touchscreen display</li>\n</ul>\n</div>\n<div class=\"shrink-0 flex flex-column align-items-center\">\n<p class=\"font-24 font-20-md\"><s class=\"color-secondary\">$2,499</s> <strong>$2,199</strong></p>\n<a class=\"button\" href=\"#\">Order Now</a></div>\n</div>\n<div class=\"border border-radius p-24 flex flex-column-md gap-24\">\n<div class=\"span-1\">\n<h3 class=\"font-20 font-18-md mb-16\"><strong>Workstation Edition</strong></h3>\n<p class=\"color-secondary font-14-md mb-16\">Maximum performance for demanding workflows</p>\n<ul class=\"font-14-md mb-16\">\n<li>Intel Core i9-12900H processor</li>\n<li>64GB DDR5 RAM</li>\n<li>2TB NVMe SSD</li>\n<li>NVIDIA RTX 4070 Graphics</li>\n<li>4K OLED 120Hz display</li>\n</ul>\n</div>\n<div class=\"shrink-0 flex flex-column align-items-center\">\n<p class=\"font-24 font-20-md\"><s class=\"color-secondary\">$3,799</s> <strong>$3,399</strong></p>\n<a class=\"button\" href=\"#\">Order Now</a></div>\n</div>\n</div>\n<div class=\"border border-radius p-24 mt-24 text-center\">\n<h3 class=\"font-18 font-16-md mb-16\"><strong>Student &amp; Educator Discounts Available</strong></h3>\n<p class=\"color-secondary font-14-md mb-16\">Save an additional 10% with valid student or educator ID</p>\n<a class=\"button button--outline\" href=\"#\">Verify Eligibility</a></div>\n</div>\n<hr /><!-- Customer Support -->\n<h2 data-collapsible=\"support\">World-Class Support</h2>\n<div id=\"support\">\n<div class=\"flex flex-column gap-16\">\n<div class=\"border border-radius p-24 flex gap-24\">\n<div class=\"shrink-0\"><img class=\"lazyload border-radius\" src=\"https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=120&amp;h=120&amp;fit=crop\" alt=\"24/7 Support\" width=\"120\" height=\"120\" data-src=\"https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=120&amp;h=120&amp;fit=crop\" /></div>\n<div class=\"span-1\">\n<p class=\"font-18 font-16-md mb-8\"><strong>24/7 Priority Support</strong></p>\n<p class=\"color-secondary font-14-md mb-16\">Get expert help anytime with our dedicated support team. Chat, call, or video support available.</p>\n<a class=\"button button--outline\" href=\"#\">Contact Support</a></div>\n</div>\n<div class=\"border border-radius p-24 flex gap-24\">\n<div class=\"shrink-0\"><img class=\"lazyload border-radius\" src=\"https://images.unsplash.com/photo-1556761175-4b46a572b786?w=120&amp;h=120&amp;fit=crop\" alt=\"On-site Service\" width=\"120\" height=\"120\" data-src=\"https://images.unsplash.com/photo-1556761175-4b46a572b786?w=120&amp;h=120&amp;fit=crop\" /></div>\n<div class=\"span-1\">\n<p class=\"font-18 font-16-md mb-8\"><strong>On-Site Service</strong></p>\n<p class=\"color-secondary font-14-md mb-16\">Business customers get next-day on-site service for critical issues. Minimize downtime and maximize productivity.</p>\n<a class=\"button button--outline\" href=\"#\">Schedule Service</a></div>\n</div>\n<div class=\"border border-radius p-24 flex gap-24\">\n<div class=\"shrink-0\"><img class=\"lazyload border-radius\" src=\"https://images.unsplash.com/photo-1434626881859-194d67b2b86f?w=120&amp;h=120&amp;fit=crop\" alt=\"Setup Service\" width=\"120\" height=\"120\" data-src=\"https://images.unsplash.com/photo-1434626881859-194d67b2b86f?w=120&amp;h=120&amp;fit=crop\" /></div>\n<div class=\"span-1\">\n<p class=\"font-18 font-16-md mb-8\"><strong>Professional Setup Service</strong></p>\n<p class=\"color-secondary font-14-md mb-16\">Let our experts configure your laptop, transfer data, and optimize settings for your specific workflow.</p>\n<a class=\"button button--outline\" href=\"#\">Book Setup</a></div>\n</div>\n</div>\n<div class=\"border border-radius p-24 mt-24 text-center fill-light\">\n<h3 class=\"font-18 font-16-md mb-16\"><strong>Have Questions?</strong></h3>\n<p class=\"color-secondary font-14-md mb-16\">Our product specialists are here to help you choose the perfect configuration for your needs.</p>\n<div class=\"flex gap-16 justify-content-center\"><a class=\"button\" href=\"#\">Talk to Expert</a> <a class=\"button button--outline\" href=\"#\">Email Us</a></div>\n</div>\n</div>\n</div>\n<!-- /#need-technical-support -->",
+  "weight": 1,
+  "width": 0,
+  "depth": 0,
+  "height": 0,
+  "price": 1899,
+  "cost_price": 1899,
+  "retail_price": 0,
+  "sale_price": 1000,
+  "map_price": 0,
+  "tax_class_id": 0,
+  "product_tax_code": "",
+  "calculated_price": 1000,
+  "categories": [
+    23,
+    145,
+    181,
+    159,
+    24,
+    31,
+    70,
+    151,
+    36,
+    42
+  ],
+  "brand_id": 0,
+  "option_set_id": 37,
+  "option_set_display": "right",
+  "inventory_level": 0,
+  "inventory_warning_level": 0,
+  "inventory_tracking": "none",
+  "reviews_rating_sum": 29,
+  "reviews_count": 6,
+  "total_sold": 3,
+  "fixed_cost_shipping_price": 0,
+  "is_free_shipping": false,
+  "is_visible": true,
+  "is_featured": true,
+  "related_products": [
+    -1
+  ],
+  "warranty": "",
+  "bin_picking_number": "",
+  "layout_file": "product.html",
+  "upc": "",
+  "mpn": "",
+  "gtin": "",
+  "date_last_imported": null,
+  "search_keywords": "",
+  "availability": "available",
+  "availability_description": "",
+  "gift_wrapping_options_type": "any",
+  "gift_wrapping_options_list": [],
+  "sort_order": 0,
+  "condition": "New",
+  "is_condition_shown": false,
+  "order_quantity_minimum": 0,
+  "order_quantity_maximum": 0,
+  "page_title": "Laptop Customization Demo",
+  "meta_keywords": [],
+  "meta_description": "",
+  "date_created": "2025-04-04T07:08:09+00:00",
+  "date_modified": "2025-08-26T17:43:47+00:00",
+  "view_count": 0,
+  "preorder_release_date": null,
+  "preorder_message": "",
+  "is_preorder_only": false,
+  "is_price_hidden": false,
+  "price_hidden_label": "",
+  "custom_url": {
+    "url": "/asus-rog-zephyrus-g16/",
+    "is_customized": false
+  },
+  "base_variant_id": null,
+  "open_graph_type": "product",
+  "open_graph_title": "",
+  "open_graph_description": "",
+  "open_graph_use_meta_description": true,
+  "open_graph_use_product_name": true,
+  "open_graph_use_image": true,
+  "channels": [
+    1
+  ],
+  "images": [
+    {
+      "id": 549,
+      "product_id": 144,
+      "is_thumbnail": false,
+      "sort_order": 3,
+      "description": "",
+      "image_file": "z/775/tvlgiao_ASUS_ROG_Zephyrus_G16_Gaming_Laptop_rear_view_white_alu_0c5006a1-37f2-4f82-ada5-85ded9dd86d8.png__80903.jpg",
+      "url_zoom": "https://cdn11.bigcommerce.com/s-ucex6uk1zn/products/144/images/549/tvlgiao_ASUS_ROG_Zephyrus_G16_Gaming_Laptop_rear_view_white_alu_0c5006a1-37f2-4f82-ada5-85ded9dd86d8.png__80903.1743750493.1280.1280.jpg?c=1",
+      "url_standard": "https://cdn11.bigcommerce.com/s-ucex6uk1zn/products/144/images/549/tvlgiao_ASUS_ROG_Zephyrus_G16_Gaming_Laptop_rear_view_white_alu_0c5006a1-37f2-4f82-ada5-85ded9dd86d8.png__80903.1743750493.386.513.jpg?c=1",
+      "url_thumbnail": "https://cdn11.bigcommerce.com/s-ucex6uk1zn/products/144/images/549/tvlgiao_ASUS_ROG_Zephyrus_G16_Gaming_Laptop_rear_view_white_alu_0c5006a1-37f2-4f82-ada5-85ded9dd86d8.png__80903.1743750493.220.290.jpg?c=1",
+      "url_tiny": "https://cdn11.bigcommerce.com/s-ucex6uk1zn/products/144/images/549/tvlgiao_ASUS_ROG_Zephyrus_G16_Gaming_Laptop_rear_view_white_alu_0c5006a1-37f2-4f82-ada5-85ded9dd86d8.png__80903.1743750493.44.58.jpg?c=1",
+      "date_modified": "2025-04-04T07:08:13+00:00"
+    },
+    {
+      "id": 550,
+      "product_id": 144,
+      "is_thumbnail": false,
+      "sort_order": 1,
+      "description": "",
+      "image_file": "d/628/tvlgiao_ASUS_ROG_Zephyrus_G16_Gaming_Laptop_front-left_angle_wh_15f4098a-9ac4-4542-941f-9dd2fb52831e2.png__32811.jpg",
+      "url_zoom": "https://cdn11.bigcommerce.com/s-ucex6uk1zn/products/144/images/550/tvlgiao_ASUS_ROG_Zephyrus_G16_Gaming_Laptop_front-left_angle_wh_15f4098a-9ac4-4542-941f-9dd2fb52831e2.png__32811.1743750494.1280.1280.jpg?c=1",
+      "url_standard": "https://cdn11.bigcommerce.com/s-ucex6uk1zn/products/144/images/550/tvlgiao_ASUS_ROG_Zephyrus_G16_Gaming_Laptop_front-left_angle_wh_15f4098a-9ac4-4542-941f-9dd2fb52831e2.png__32811.1743750494.386.513.jpg?c=1",
+      "url_thumbnail": "https://cdn11.bigcommerce.com/s-ucex6uk1zn/products/144/images/550/tvlgiao_ASUS_ROG_Zephyrus_G16_Gaming_Laptop_front-left_angle_wh_15f4098a-9ac4-4542-941f-9dd2fb52831e2.png__32811.1743750494.220.290.jpg?c=1",
+      "url_tiny": "https://cdn11.bigcommerce.com/s-ucex6uk1zn/products/144/images/550/tvlgiao_ASUS_ROG_Zephyrus_G16_Gaming_Laptop_front-left_angle_wh_15f4098a-9ac4-4542-941f-9dd2fb52831e2.png__32811.1743750494.44.58.jpg?c=1",
+      "date_modified": "2025-04-04T07:08:14+00:00"
+    },
+    {
+      "id": 552,
+      "product_id": 144,
+      "is_thumbnail": false,
+      "sort_order": 2,
+      "description": "",
+      "image_file": "s/392/tvlgiao_ASUS_ROG_Zephyrus_G16_Gaming_Laptop_front-left_angle_wh_15f4098a-9ac4-4542-941f-9dd2fb5283e2.png__68477.jpg",
+      "url_zoom": "https://cdn11.bigcommerce.com/s-ucex6uk1zn/products/144/images/552/tvlgiao_ASUS_ROG_Zephyrus_G16_Gaming_Laptop_front-left_angle_wh_15f4098a-9ac4-4542-941f-9dd2fb5283e2.png__68477.1743750494.1280.1280.jpg?c=1",
+      "url_standard": "https://cdn11.bigcommerce.com/s-ucex6uk1zn/products/144/images/552/tvlgiao_ASUS_ROG_Zephyrus_G16_Gaming_Laptop_front-left_angle_wh_15f4098a-9ac4-4542-941f-9dd2fb5283e2.png__68477.1743750494.386.513.jpg?c=1",
+      "url_thumbnail": "https://cdn11.bigcommerce.com/s-ucex6uk1zn/products/144/images/552/tvlgiao_ASUS_ROG_Zephyrus_G16_Gaming_Laptop_front-left_angle_wh_15f4098a-9ac4-4542-941f-9dd2fb5283e2.png__68477.1743750494.220.290.jpg?c=1",
+      "url_tiny": "https://cdn11.bigcommerce.com/s-ucex6uk1zn/products/144/images/552/tvlgiao_ASUS_ROG_Zephyrus_G16_Gaming_Laptop_front-left_angle_wh_15f4098a-9ac4-4542-941f-9dd2fb5283e2.png__68477.1743750494.44.58.jpg?c=1",
+      "date_modified": "2025-04-04T07:08:14+00:00"
+    },
+    {
+      "id": 553,
+      "product_id": 144,
+      "is_thumbnail": false,
+      "sort_order": 5,
+      "description": "",
+      "image_file": "c/089/tvlgiao_ASUS_ROG_Zephyrus_G16_Gaming_setup_white_laptop_open_sh_44b534b8-feaf-4fdf-b652-e1480ac62cf7__36088.png",
+      "url_zoom": "https://cdn11.bigcommerce.com/s-ucex6uk1zn/products/144/images/553/tvlgiao_ASUS_ROG_Zephyrus_G16_Gaming_setup_white_laptop_open_sh_44b534b8-feaf-4fdf-b652-e1480ac62cf7__36088.1743750495.1280.1280.png?c=1",
+      "url_standard": "https://cdn11.bigcommerce.com/s-ucex6uk1zn/products/144/images/553/tvlgiao_ASUS_ROG_Zephyrus_G16_Gaming_setup_white_laptop_open_sh_44b534b8-feaf-4fdf-b652-e1480ac62cf7__36088.1743750495.386.513.png?c=1",
+      "url_thumbnail": "https://cdn11.bigcommerce.com/s-ucex6uk1zn/products/144/images/553/tvlgiao_ASUS_ROG_Zephyrus_G16_Gaming_setup_white_laptop_open_sh_44b534b8-feaf-4fdf-b652-e1480ac62cf7__36088.1743750495.220.290.png?c=1",
+      "url_tiny": "https://cdn11.bigcommerce.com/s-ucex6uk1zn/products/144/images/553/tvlgiao_ASUS_ROG_Zephyrus_G16_Gaming_setup_white_laptop_open_sh_44b534b8-feaf-4fdf-b652-e1480ac62cf7__36088.1743750495.44.58.png?c=1",
+      "date_modified": "2025-04-04T07:08:15+00:00"
+    },
+    {
+      "id": 554,
+      "product_id": 144,
+      "is_thumbnail": false,
+      "sort_order": 4,
+      "description": "",
+      "image_file": "l/475/tvlgiao_ASUS_ROG_Zephyrus_G16_Gaming_setup_white_laptop_open_sh_74e26505-5574-4027-af8e-6d419495f5ab__58087.png",
+      "url_zoom": "https://cdn11.bigcommerce.com/s-ucex6uk1zn/products/144/images/554/tvlgiao_ASUS_ROG_Zephyrus_G16_Gaming_setup_white_laptop_open_sh_74e26505-5574-4027-af8e-6d419495f5ab__58087.1743750495.1280.1280.png?c=1",
+      "url_standard": "https://cdn11.bigcommerce.com/s-ucex6uk1zn/products/144/images/554/tvlgiao_ASUS_ROG_Zephyrus_G16_Gaming_setup_white_laptop_open_sh_74e26505-5574-4027-af8e-6d419495f5ab__58087.1743750495.386.513.png?c=1",
+      "url_thumbnail": "https://cdn11.bigcommerce.com/s-ucex6uk1zn/products/144/images/554/tvlgiao_ASUS_ROG_Zephyrus_G16_Gaming_setup_white_laptop_open_sh_74e26505-5574-4027-af8e-6d419495f5ab__58087.1743750495.220.290.png?c=1",
+      "url_tiny": "https://cdn11.bigcommerce.com/s-ucex6uk1zn/products/144/images/554/tvlgiao_ASUS_ROG_Zephyrus_G16_Gaming_setup_white_laptop_open_sh_74e26505-5574-4027-af8e-6d419495f5ab__58087.1743750495.44.58.png?c=1",
+      "date_modified": "2025-04-04T07:08:15+00:00"
+    },
+    {
+      "id": 551,
+      "product_id": 144,
+      "is_thumbnail": true,
+      "sort_order": 0,
+      "description": "",
+      "image_file": "u/386/tvlgiao_ASUS_ROG_Zephyrus_G16_Gaming_Laptop_straight-on_front_v_e9309171-0518-4f9e-b746-ce8e898d0539.png__69877.jpg",
+      "url_zoom": "https://cdn11.bigcommerce.com/s-ucex6uk1zn/products/144/images/551/tvlgiao_ASUS_ROG_Zephyrus_G16_Gaming_Laptop_straight-on_front_v_e9309171-0518-4f9e-b746-ce8e898d0539.png__69877.1743750494.1280.1280.jpg?c=1",
+      "url_standard": "https://cdn11.bigcommerce.com/s-ucex6uk1zn/products/144/images/551/tvlgiao_ASUS_ROG_Zephyrus_G16_Gaming_Laptop_straight-on_front_v_e9309171-0518-4f9e-b746-ce8e898d0539.png__69877.1743750494.386.513.jpg?c=1",
+      "url_thumbnail": "https://cdn11.bigcommerce.com/s-ucex6uk1zn/products/144/images/551/tvlgiao_ASUS_ROG_Zephyrus_G16_Gaming_Laptop_straight-on_front_v_e9309171-0518-4f9e-b746-ce8e898d0539.png__69877.1743750494.220.290.jpg?c=1",
+      "url_tiny": "https://cdn11.bigcommerce.com/s-ucex6uk1zn/products/144/images/551/tvlgiao_ASUS_ROG_Zephyrus_G16_Gaming_Laptop_straight-on_front_v_e9309171-0518-4f9e-b746-ce8e898d0539.png__69877.1743750494.44.58.jpg?c=1",
+      "date_modified": "2025-04-04T07:08:14+00:00"
+    }
+  ],
+  "videos": [
+    {
+      "id": 1,
+      "type": "youtube",
+      "video_id": "dopjIw7w4FY",
+      "product_id": 144,
+      "sort_order": 0,
+      "title": "laptop 360 degree rotating demo",
+      "description": "",
+      "length": "00:10"
+    }
+  ],
+  "custom_fields": [
+    {
+      "id": 161,
+      "name": "__@modifiers_modal",
+      "value": "1"
+    },
+    {
+      "id": 162,
+      "name": "__@select_modifiers",
+      "value": "Customize"
+    },
+    {
+      "id": 163,
+      "name": "__@rename RAM",
+      "value": "Choose RAM"
+    },
+    {
+      "id": 164,
+      "name": "__@rename GPU",
+      "value": "Choose GPU"
+    },
+    {
+      "id": 165,
+      "name": "__@rename Storage",
+      "value": "Choose Storage"
+    },
+    {
+      "id": 166,
+      "name": "__@rename Display",
+      "value": "Choose Display Upgrade"
+    },
+    {
+      "id": 167,
+      "name": "__@rename Operating System",
+      "value": "Choose Operating System"
+    },
+    {
+      "id": 168,
+      "name": "__@group Choose Accessories & Services",
+      "value": "Warranty Extension; Enhanced Cooling (for i9 CPU or RTX 3050 GPU); Office Software; Logitech M185 Wireless Mouse; HyperX Gaming Headset; Shockproof Laptop Backpack"
+    },
+    {
+      "id": 177,
+      "name": "OS",
+      "value": "Windows 11 Home"
+    },
+    {
+      "id": 178,
+      "name": "Graphic Card",
+      "value": "NVIDIA® GeForce RTX™ 5080 Laptop GPU"
+    },
+    {
+      "id": 179,
+      "name": "CPU",
+      "value": "Intel® Core™ Ultra 9 Processor 275HX"
+    },
+    {
+      "id": 180,
+      "name": "Screen",
+      "value": "18\" 2.5K (2560 x 1600, WQXGA)"
+    },
+    {
+      "id": 181,
+      "name": "Display",
+      "value": "16:10 240Hz ROG Nebula Display"
+    },
+    {
+      "id": 182,
+      "name": "Memory & Storage",
+      "value": "2TB M.2 NVMe™ PCIe® 4.0 SSD storage"
+    },
+    {
+      "id": 375,
+      "name": "__discount",
+      "value": "Buy 2, get extra 2% off"
+    },
+    {
+      "id": 376,
+      "name": "__countdown_date",
+      "value": "12:00:00 -7"
+    },
+    {
+      "id": 377,
+      "name": "__countdown_label",
+      "value": "BLACK FRIDAY|ENDS IN"
+    },
+    {
+      "id": 378,
+      "name": "__@360",
+      "value": "https://cdn11.bigcommerce.com/s-ucex6uk1zn/images/stencil/original/image-manager/laptop-360-1.jpg?t=1751527376#90"
+    },
+    {
+      "id": 810,
+      "name": "__@card_video",
+      "value": "https://storage.themeforshop.com/eyeva-demo/laptop-360-1-h265.mp4"
+    }
+  ],
+  "bulk_pricing_rules": [],
+  "reviews": [
+    {
+      "id": 8,
+      "email": "",
+      "name": "Wanda Mueller",
+      "rating": 5,
+      "text": "Perfect screen refresh rate for competitive gaming. Sleek design that doesn't scream 'gamer', great for work and play. Top-tier performance for serious gaming sessions.",
+      "title": "Gaming Beast",
+      "status": "approved",
+      "date_created": "2025-04-23T04:58:37+00:00",
+      "date_modified": "2025-04-23T04:58:37+00:00",
+      "date_reviewed": "2025-04-23T04:58:37+00:00"
+    },
+    {
+      "id": 9,
+      "email": "",
+      "name": "Michael Cross",
+      "rating": 5,
+      "text": "Runs cool and quiet even under stress from AAA titles. Top-tier performance for serious gaming sessions. Sleek design that doesn't scream 'gamer', great for work and play.",
+      "title": "Super Responsive",
+      "status": "approved",
+      "date_created": "2025-04-23T04:59:30+00:00",
+      "date_modified": "2025-04-23T04:59:30+00:00",
+      "date_reviewed": "2025-04-23T04:59:30+00:00"
+    },
+    {
+      "id": 10,
+      "email": "",
+      "name": "Tina Greer",
+      "rating": 5,
+      "text": "Top-tier performance for serious gaming sessions. Runs cool and quiet even under stress from AAA titles. Handles intense multitasking like streaming while gaming effortlessly.",
+      "title": "Powerful and Compact",
+      "status": "approved",
+      "date_created": "2025-04-23T05:00:13+00:00",
+      "date_modified": "2025-04-23T05:00:13+00:00",
+      "date_reviewed": "2025-04-23T05:00:13+00:00"
+    },
+    {
+      "id": 11,
+      "email": "",
+      "name": "Denise Paul",
+      "rating": 4,
+      "text": "Perfect screen refresh rate for competitive gaming. RGB keyboard feels fantastic and the keys are very responsive. Runs cool and quiet even under stress from AAA titles.",
+      "title": "Cool Under Load",
+      "status": "approved",
+      "date_created": "2025-04-23T05:00:55+00:00",
+      "date_modified": "2025-04-23T05:00:55+00:00",
+      "date_reviewed": "2025-04-23T05:00:55+00:00"
+    },
+    {
+      "id": 12,
+      "email": "",
+      "name": "Chelsea Lara",
+      "rating": 5,
+      "text": "Runs cool and quiet even under stress from AAA titles. Perfect screen refresh rate for competitive gaming. Handles intense multitasking like streaming while gaming effortlessly.",
+      "title": "RGB and Fast",
+      "status": "approved",
+      "date_created": "2025-04-23T05:01:25+00:00",
+      "date_modified": "2025-04-23T05:01:25+00:00",
+      "date_reviewed": "2025-04-23T05:01:25+00:00"
+    },
+    {
+      "id": 13,
+      "email": "",
+      "name": "Thomas Henry",
+      "rating": 5,
+      "text": "Runs cool and quiet even under stress from AAA titles. Top-tier performance for serious gaming sessions. Sleek design that doesn't scream 'gamer', great for work and play.",
+      "title": "Next-Level Gaming",
+      "status": "approved",
+      "date_created": "2025-04-23T05:06:25+00:00",
+      "date_modified": "2025-04-23T05:06:25+00:00",
+      "date_reviewed": "2025-04-23T05:06:25+00:00"
+    }
+  ],
+  "options": [
+    {
+      "id": 353,
+      "product_id": 144,
+      "name": "CPU1743750490-144",
+      "display_name": "CPU",
+      "type": "rectangles",
+      "sort_order": 0,
+      "option_values": [
+        {
+          "id": 738,
+          "label": "Intel Core i5-1240P",
+          "sort_order": 0,
+          "value_data": null,
+          "is_default": false
+        },
+        {
+          "id": 739,
+          "label": "Intel Core i7-1260P",
+          "sort_order": 1,
+          "value_data": null,
+          "is_default": false
+        },
+        {
+          "id": 740,
+          "label": "Intel Core i9-12900H",
+          "sort_order": 2,
+          "value_data": null,
+          "is_default": false
+        }
+      ],
+      "config": []
+    }
+  ],
+  "modifiers": [
+    {
+      "id": 354,
+      "product_id": 144,
+      "name": "RAM1743750492-144",
+      "display_name": "RAM",
+      "type": "rectangles",
+      "required": true,
+      "sort_order": 0,
+      "config": [],
+      "option_values": [
+        {
+          "id": 741,
+          "option_id": 354,
+          "label": "8GB DDR4",
+          "sort_order": 0,
+          "value_data": null,
+          "is_default": false,
+          "adjusters": {
+            "price": null,
+            "weight": null,
+            "image_url": "",
+            "purchasing_disabled": {
+              "status": false,
+              "message": ""
+            }
+          }
+        },
+        {
+          "id": 742,
+          "option_id": 354,
+          "label": "16GB DDR4",
+          "sort_order": 1,
+          "value_data": null,
+          "is_default": false,
+          "adjusters": {
+            "price": {
+              "adjuster": "relative",
+              "adjuster_value": 40
+            },
+            "weight": null,
+            "image_url": "",
+            "purchasing_disabled": {
+              "status": false,
+              "message": ""
+            }
+          }
+        },
+        {
+          "id": 743,
+          "option_id": 354,
+          "label": "32GB DDR4",
+          "sort_order": 2,
+          "value_data": null,
+          "is_default": false,
+          "adjusters": {
+            "price": {
+              "adjuster": "relative",
+              "adjuster_value": 105
+            },
+            "weight": null,
+            "image_url": "",
+            "purchasing_disabled": {
+              "status": false,
+              "message": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 355,
+      "product_id": 144,
+      "name": "GPU1743750493-144",
+      "display_name": "GPU",
+      "type": "rectangles",
+      "required": true,
+      "sort_order": 0,
+      "config": [],
+      "option_values": [
+        {
+          "id": 744,
+          "option_id": 355,
+          "label": "Integrated GPU (Intel Iris Xe)",
+          "sort_order": 0,
+          "value_data": null,
+          "is_default": false,
+          "adjusters": {
+            "price": null,
+            "weight": null,
+            "image_url": "",
+            "purchasing_disabled": {
+              "status": false,
+              "message": ""
+            }
+          }
+        },
+        {
+          "id": 745,
+          "option_id": 355,
+          "label": "NVIDIA GeForce MX570",
+          "sort_order": 1,
+          "value_data": null,
+          "is_default": false,
+          "adjusters": {
+            "price": {
+              "adjuster": "relative",
+              "adjuster_value": 60
+            },
+            "weight": null,
+            "image_url": "",
+            "purchasing_disabled": {
+              "status": false,
+              "message": ""
+            }
+          }
+        },
+        {
+          "id": 746,
+          "option_id": 355,
+          "label": "NVIDIA GeForce RTX 3050",
+          "sort_order": 2,
+          "value_data": null,
+          "is_default": false,
+          "adjusters": {
+            "price": {
+              "adjuster": "relative",
+              "adjuster_value": 125
+            },
+            "weight": null,
+            "image_url": "",
+            "purchasing_disabled": {
+              "status": false,
+              "message": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 356,
+      "product_id": 144,
+      "name": "Storage1743750493-144",
+      "display_name": "Storage",
+      "type": "rectangles",
+      "required": true,
+      "sort_order": 0,
+      "config": [],
+      "option_values": [
+        {
+          "id": 747,
+          "option_id": 356,
+          "label": "256GB NVMe SSD",
+          "sort_order": 0,
+          "value_data": null,
+          "is_default": false,
+          "adjusters": {
+            "price": null,
+            "weight": null,
+            "image_url": "",
+            "purchasing_disabled": {
+              "status": false,
+              "message": ""
+            }
+          }
+        },
+        {
+          "id": 748,
+          "option_id": 356,
+          "label": "512GB NVMe SSD",
+          "sort_order": 1,
+          "value_data": null,
+          "is_default": false,
+          "adjusters": {
+            "price": {
+              "adjuster": "relative",
+              "adjuster_value": 40
+            },
+            "weight": null,
+            "image_url": "",
+            "purchasing_disabled": {
+              "status": false,
+              "message": ""
+            }
+          }
+        },
+        {
+          "id": 749,
+          "option_id": 356,
+          "label": "1TB NVMe SSD",
+          "sort_order": 2,
+          "value_data": null,
+          "is_default": false,
+          "adjusters": {
+            "price": {
+              "adjuster": "relative",
+              "adjuster_value": 80
+            },
+            "weight": null,
+            "image_url": "",
+            "purchasing_disabled": {
+              "status": false,
+              "message": ""
+            }
+          }
+        },
+        {
+          "id": 750,
+          "option_id": 356,
+          "label": "1TB SSD + 1TB HDD (Dual Storage)",
+          "sort_order": 3,
+          "value_data": null,
+          "is_default": false,
+          "adjusters": {
+            "price": {
+              "adjuster": "relative",
+              "adjuster_value": 105
+            },
+            "weight": null,
+            "image_url": "",
+            "purchasing_disabled": {
+              "status": false,
+              "message": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 357,
+      "product_id": 144,
+      "name": "Display1743750494-144",
+      "display_name": "Display",
+      "type": "rectangles",
+      "required": true,
+      "sort_order": 0,
+      "config": [],
+      "option_values": [
+        {
+          "id": 751,
+          "option_id": 357,
+          "label": "14” Full HD (IPS, 60Hz)",
+          "sort_order": 0,
+          "value_data": null,
+          "is_default": false,
+          "adjusters": {
+            "price": null,
+            "weight": null,
+            "image_url": "",
+            "purchasing_disabled": {
+              "status": false,
+              "message": ""
+            }
+          }
+        },
+        {
+          "id": 752,
+          "option_id": 357,
+          "label": "14” 2K (IPS, 90Hz)",
+          "sort_order": 1,
+          "value_data": null,
+          "is_default": false,
+          "adjusters": {
+            "price": {
+              "adjuster": "relative",
+              "adjuster_value": 60
+            },
+            "weight": null,
+            "image_url": "",
+            "purchasing_disabled": {
+              "status": false,
+              "message": ""
+            }
+          }
+        },
+        {
+          "id": 753,
+          "option_id": 357,
+          "label": "14” 4K (OLED, 90Hz)",
+          "sort_order": 2,
+          "value_data": null,
+          "is_default": false,
+          "adjusters": {
+            "price": {
+              "adjuster": "relative",
+              "adjuster_value": 145
+            },
+            "weight": null,
+            "image_url": "",
+            "purchasing_disabled": {
+              "status": false,
+              "message": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 358,
+      "product_id": 144,
+      "name": "Operating-System1743750494-144",
+      "display_name": "Operating System",
+      "type": "rectangles",
+      "required": false,
+      "sort_order": 0,
+      "config": [],
+      "option_values": [
+        {
+          "id": 754,
+          "option_id": 358,
+          "label": "Windows 11 Home",
+          "sort_order": 0,
+          "value_data": null,
+          "is_default": false,
+          "adjusters": {
+            "price": null,
+            "weight": null,
+            "image_url": "",
+            "purchasing_disabled": {
+              "status": false,
+              "message": ""
+            }
+          }
+        },
+        {
+          "id": 755,
+          "option_id": 358,
+          "label": "Windows 11 Pro",
+          "sort_order": 1,
+          "value_data": null,
+          "is_default": false,
+          "adjusters": {
+            "price": {
+              "adjuster": "relative",
+              "adjuster_value": 60
+            },
+            "weight": null,
+            "image_url": "",
+            "purchasing_disabled": {
+              "status": false,
+              "message": ""
+            }
+          }
+        },
+        {
+          "id": 756,
+          "option_id": 358,
+          "label": "Linux Ubuntu",
+          "sort_order": 2,
+          "value_data": null,
+          "is_default": false,
+          "adjusters": {
+            "price": {
+              "adjuster": "relative",
+              "adjuster_value": 20
+            },
+            "weight": null,
+            "image_url": "",
+            "purchasing_disabled": {
+              "status": false,
+              "message": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 359,
+      "product_id": 144,
+      "name": "Warranty-Extension1743750495-144",
+      "display_name": "Warranty Extension",
+      "type": "dropdown",
+      "required": false,
+      "sort_order": 0,
+      "config": [],
+      "option_values": [
+        {
+          "id": 757,
+          "option_id": 359,
+          "label": "12 months",
+          "sort_order": 0,
+          "value_data": null,
+          "is_default": false,
+          "adjusters": {
+            "price": null,
+            "weight": null,
+            "image_url": "",
+            "purchasing_disabled": {
+              "status": false,
+              "message": ""
+            }
+          }
+        },
+        {
+          "id": 758,
+          "option_id": 359,
+          "label": "24 months",
+          "sort_order": 1,
+          "value_data": null,
+          "is_default": false,
+          "adjusters": {
+            "price": {
+              "adjuster": "relative",
+              "adjuster_value": 30
+            },
+            "weight": null,
+            "image_url": "",
+            "purchasing_disabled": {
+              "status": false,
+              "message": ""
+            }
+          }
+        },
+        {
+          "id": 759,
+          "option_id": 359,
+          "label": "36 months",
+          "sort_order": 2,
+          "value_data": null,
+          "is_default": false,
+          "adjusters": {
+            "price": {
+              "adjuster": "relative",
+              "adjuster_value": 60
+            },
+            "weight": null,
+            "image_url": "",
+            "purchasing_disabled": {
+              "status": false,
+              "message": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 360,
+      "product_id": 144,
+      "name": "Enhanced-Cooling-(for-i9-CPU-or-RTX-3050-GPU)1743750496-144",
+      "display_name": "Enhanced Cooling (for i9 CPU or RTX 3050 GPU)",
+      "type": "checkbox",
+      "required": false,
+      "sort_order": 0,
+      "config": {
+        "checkbox_label": "Specialized cooling fan, premium thermal paste",
+        "checked_by_default": false
+      },
+      "option_values": [
+        {
+          "id": 760,
+          "option_id": 360,
+          "label": "Yes",
+          "sort_order": 0,
+          "value_data": {
+            "checked_value": true
+          },
+          "is_default": false,
+          "adjusters": {
+            "price": {
+              "adjuster": "relative",
+              "adjuster_value": 15
+            },
+            "weight": null,
+            "image_url": "",
+            "purchasing_disabled": {
+              "status": false,
+              "message": ""
+            }
+          }
+        },
+        {
+          "id": 761,
+          "option_id": 360,
+          "label": "No",
+          "sort_order": 1,
+          "value_data": {
+            "checked_value": false
+          },
+          "is_default": true,
+          "adjusters": {
+            "price": null,
+            "weight": null,
+            "image_url": "",
+            "purchasing_disabled": {
+              "status": false,
+              "message": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 361,
+      "product_id": 144,
+      "name": "Office-Software1743750496-144",
+      "display_name": "Office Software",
+      "type": "dropdown",
+      "required": false,
+      "sort_order": 0,
+      "config": [],
+      "option_values": [
+        {
+          "id": 762,
+          "option_id": 361,
+          "label": "Microsoft Office Home & Student 2021",
+          "sort_order": 0,
+          "value_data": null,
+          "is_default": false,
+          "adjusters": {
+            "price": {
+              "adjuster": "relative",
+              "adjuster_value": 80
+            },
+            "weight": null,
+            "image_url": "",
+            "purchasing_disabled": {
+              "status": false,
+              "message": ""
+            }
+          }
+        },
+        {
+          "id": 763,
+          "option_id": 361,
+          "label": "Microsoft 365 - 1 Year",
+          "sort_order": 1,
+          "value_data": null,
+          "is_default": false,
+          "adjusters": {
+            "price": {
+              "adjuster": "relative",
+              "adjuster_value": 40
+            },
+            "weight": null,
+            "image_url": "",
+            "purchasing_disabled": {
+              "status": false,
+              "message": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 362,
+      "product_id": 144,
+      "name": "Logitech-M185-Wireless-Mouse1743750498-144",
+      "display_name": "Logitech M185 Wireless Mouse",
+      "type": "checkbox",
+      "required": false,
+      "sort_order": 0,
+      "config": {
+        "checkbox_label": "Yes",
+        "checked_by_default": false
+      },
+      "option_values": [
+        {
+          "id": 764,
+          "option_id": 362,
+          "label": "Yes",
+          "sort_order": 0,
+          "value_data": {
+            "checked_value": true
+          },
+          "is_default": false,
+          "adjusters": {
+            "price": {
+              "adjuster": "relative",
+              "adjuster_value": 40
+            },
+            "weight": null,
+            "image_url": "",
+            "purchasing_disabled": {
+              "status": false,
+              "message": ""
+            }
+          }
+        },
+        {
+          "id": 765,
+          "option_id": 362,
+          "label": "No",
+          "sort_order": 1,
+          "value_data": {
+            "checked_value": false
+          },
+          "is_default": true,
+          "adjusters": {
+            "price": null,
+            "weight": null,
+            "image_url": "",
+            "purchasing_disabled": {
+              "status": false,
+              "message": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 363,
+      "product_id": 144,
+      "name": "HyperX-Gaming-Headset1743750499-144",
+      "display_name": "HyperX Gaming Headset",
+      "type": "checkbox",
+      "required": false,
+      "sort_order": 0,
+      "config": {
+        "checkbox_label": "Yes",
+        "checked_by_default": false
+      },
+      "option_values": [
+        {
+          "id": 766,
+          "option_id": 363,
+          "label": "Yes",
+          "sort_order": 0,
+          "value_data": {
+            "checked_value": true
+          },
+          "is_default": false,
+          "adjusters": {
+            "price": {
+              "adjuster": "relative",
+              "adjuster_value": 40
+            },
+            "weight": null,
+            "image_url": "",
+            "purchasing_disabled": {
+              "status": false,
+              "message": ""
+            }
+          }
+        },
+        {
+          "id": 767,
+          "option_id": 363,
+          "label": "No",
+          "sort_order": 1,
+          "value_data": {
+            "checked_value": false
+          },
+          "is_default": true,
+          "adjusters": {
+            "price": null,
+            "weight": null,
+            "image_url": "",
+            "purchasing_disabled": {
+              "status": false,
+              "message": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 364,
+      "product_id": 144,
+      "name": "Shockproof-Laptop-Backpack1743750500-144",
+      "display_name": "Shockproof Laptop Backpack",
+      "type": "checkbox",
+      "required": false,
+      "sort_order": 0,
+      "config": {
+        "checkbox_label": "",
+        "checked_by_default": false
+      },
+      "option_values": [
+        {
+          "id": 768,
+          "option_id": 364,
+          "label": "Yes",
+          "sort_order": 0,
+          "value_data": {
+            "checked_value": true
+          },
+          "is_default": false,
+          "adjusters": {
+            "price": {
+              "adjuster": "relative",
+              "adjuster_value": 20
+            },
+            "weight": null,
+            "image_url": "",
+            "purchasing_disabled": {
+              "status": false,
+              "message": ""
+            }
+          }
+        },
+        {
+          "id": 769,
+          "option_id": 364,
+          "label": "No",
+          "sort_order": 1,
+          "value_data": {
+            "checked_value": false
+          },
+          "is_default": true,
+          "adjusters": {
+            "price": null,
+            "weight": null,
+            "image_url": "",
+            "purchasing_disabled": {
+              "status": false,
+              "message": ""
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "parent_relations": [],
+  "variants": [
+    {
+      "id": 170,
+      "product_id": 144,
+      "sku": "Laptop-018-IN-1-1-1-1-1-1-1-1-1-1-1-1-1-1",
+      "sku_id": 187,
+      "price": null,
+      "calculated_price": 1000,
+      "sale_price": null,
+      "retail_price": null,
+      "map_price": null,
+      "fixed_cost_shipping_price": null,
+      "cost_price": null,
+      "weight": null,
+      "width": null,
+      "height": null,
+      "depth": null,
+      "is_free_shipping": false,
+      "calculated_weight": 1,
+      "purchasing_disabled": false,
+      "purchasing_disabled_message": "",
+      "image_url": "",
+      "upc": "",
+      "mpn": "",
+      "gtin": "",
+      "inventory_level": 0,
+      "inventory_warning_level": 0,
+      "bin_picking_number": "",
+      "option_values": [
+        {
+          "id": 738,
+          "label": "Intel Core i5-1240P",
+          "option_id": 353,
+          "option_display_name": "CPU"
+        }
+      ]
+    },
+    {
+      "id": 171,
+      "product_id": 144,
+      "sku": "Laptop-017-IN-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1",
+      "sku_id": 188,
+      "price": 2199,
+      "calculated_price": 2199,
+      "sale_price": null,
+      "retail_price": null,
+      "map_price": null,
+      "fixed_cost_shipping_price": null,
+      "cost_price": 0,
+      "weight": null,
+      "width": null,
+      "height": null,
+      "depth": null,
+      "is_free_shipping": false,
+      "calculated_weight": 1,
+      "purchasing_disabled": false,
+      "purchasing_disabled_message": "",
+      "image_url": "",
+      "upc": "",
+      "mpn": "",
+      "gtin": "",
+      "inventory_level": 0,
+      "inventory_warning_level": 0,
+      "bin_picking_number": "",
+      "option_values": [
+        {
+          "id": 739,
+          "label": "Intel Core i7-1260P",
+          "option_id": 353,
+          "option_display_name": "CPU"
+        }
+      ]
+    },
+    {
+      "id": 172,
+      "product_id": 144,
+      "sku": "Laptop-01-IN-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1",
+      "sku_id": 189,
+      "price": 2999,
+      "calculated_price": 2999,
+      "sale_price": null,
+      "retail_price": null,
+      "map_price": null,
+      "fixed_cost_shipping_price": null,
+      "cost_price": 0,
+      "weight": null,
+      "width": null,
+      "height": null,
+      "depth": null,
+      "is_free_shipping": false,
+      "calculated_weight": 1,
+      "purchasing_disabled": false,
+      "purchasing_disabled_message": "",
+      "image_url": "",
+      "upc": "",
+      "mpn": "",
+      "gtin": "",
+      "inventory_level": 0,
+      "inventory_warning_level": 0,
+      "bin_picking_number": "",
+      "option_values": [
+        {
+          "id": 740,
+          "label": "Intel Core i9-12900H",
+          "option_id": 353,
+          "option_display_name": "CPU"
+        }
+      ]
+    }
+  ],
+  "category_details": [
+    {
+      "id": 23,
+      "parent_id": 0,
+      "name": "Shop",
+      "description": "",
+      "views": 0,
+      "sort_order": 2,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "category_with_facets.html",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/shop/",
+        "is_customized": false
+      },
+      "image_url": "https://cdn11.bigcommerce.com/s-ucex6uk1zn/product_images/y/shop%20all__59308.png"
+    },
+    {
+      "id": 24,
+      "parent_id": 0,
+      "name": "Laptops",
+      "description": "",
+      "views": 0,
+      "sort_order": 3,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/laptops/",
+        "is_customized": false
+      },
+      "image_url": "https://cdn11.bigcommerce.com/s-ucex6uk1zn/product_images/j/tvlgiao_banner_image_three_laptop_one_white_one_grey_one_gold_c_1f4e5aa8-440a-4469-aeed-36729a88a231__50018.png"
+    },
+    {
+      "id": 25,
+      "parent_id": 0,
+      "name": "Mobile / Handhelds",
+      "description": "",
+      "views": 0,
+      "sort_order": 4,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/mobile-handhelds/",
+        "is_customized": false
+      },
+      "image_url": "https://cdn11.bigcommerce.com/s-ucex6uk1zn/product_images/f/mobile%20handhelds__97385.png"
+    },
+    {
+      "id": 26,
+      "parent_id": 0,
+      "name": "Displays / Desktops",
+      "description": "",
+      "views": 0,
+      "sort_order": 5,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/displays-desktops/",
+        "is_customized": false
+      },
+      "image_url": "https://cdn11.bigcommerce.com/s-ucex6uk1zn/product_images/w/displays%20desktop__33355.png"
+    },
+    {
+      "id": 27,
+      "parent_id": 0,
+      "name": "Motherboards / Computers",
+      "description": "",
+      "views": 0,
+      "sort_order": 6,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/motherboards-computers/",
+        "is_customized": false
+      },
+      "image_url": "https://cdn11.bigcommerce.com/s-ucex6uk1zn/product_images/a/computer__99870.png"
+    },
+    {
+      "id": 28,
+      "parent_id": 0,
+      "name": "Accessories",
+      "description": "",
+      "views": 0,
+      "sort_order": 7,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/accessories/",
+        "is_customized": false
+      },
+      "image_url": "https://cdn11.bigcommerce.com/s-ucex6uk1zn/product_images/s/accessories__94852.png"
+    },
+    {
+      "id": 29,
+      "parent_id": 0,
+      "name": "Offers",
+      "description": "",
+      "views": 0,
+      "sort_order": 10,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": false,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/offers/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 30,
+      "parent_id": 0,
+      "name": "Support",
+      "description": "",
+      "views": 0,
+      "sort_order": 11,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": false,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/support/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 31,
+      "parent_id": 24,
+      "name": "Gaming Laptops",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/laptops/gaming-laptops/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 32,
+      "parent_id": 24,
+      "name": "Business Laptops",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/laptops/business-laptops/",
+        "is_customized": false
+      },
+      "image_url": "https://cdn11.bigcommerce.com/s-ucex6uk1zn/product_images/o/b5d8293e-227d-4630-b859-3cd9aee71808__65280.png"
+    },
+    {
+      "id": 33,
+      "parent_id": 24,
+      "name": "Student Laptops",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/laptops/student-laptops/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 34,
+      "parent_id": 24,
+      "name": "MacBooks",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/laptops/macbooks/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 35,
+      "parent_id": 24,
+      "name": "Touchscreen Laptops",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/laptops/touchscreen-laptops/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 36,
+      "parent_id": 24,
+      "name": "High Performance Laptops",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/laptops/high-performance-laptops/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 37,
+      "parent_id": 36,
+      "name": "CAD/3D Design Ready",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/laptops/high-performance-laptops/cad-3d-design-ready/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 38,
+      "parent_id": 36,
+      "name": "Workstation Grade",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/laptops/high-performance-laptops/workstation-grade/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 39,
+      "parent_id": 36,
+      "name": "4K Display",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/laptops/high-performance-laptops/workstation-grade-1/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 40,
+      "parent_id": 36,
+      "name": "SSD + HDD Hybrid",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/laptops/high-performance-laptops/ssd-hdd-hybrid/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 41,
+      "parent_id": 36,
+      "name": "16GB+ RAM",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/laptops/high-performance-laptops/16gb-ram/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 42,
+      "parent_id": 36,
+      "name": "i7/i9 CPUs",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/laptops/high-performance-laptops/i7-i9-cpus/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 43,
+      "parent_id": 35,
+      "name": "OLED Touch",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/laptops/touchscreen-laptops/oled-touch/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 44,
+      "parent_id": 35,
+      "name": "ChromeOS Touch",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/laptops/touchscreen-laptops/chromeos-touch/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 45,
+      "parent_id": 35,
+      "name": "Windows Touch",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/laptops/touchscreen-laptops/windows-touch/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 46,
+      "parent_id": 35,
+      "name": "Foldable Screens",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/laptops/touchscreen-laptops/foldable-screens/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 47,
+      "parent_id": 35,
+      "name": "Stylus Compatible",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/laptops/touchscreen-laptops/stylus-compatible/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 48,
+      "parent_id": 35,
+      "name": "2-in-1 Convertibles",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/laptops/touchscreen-laptops/2-in-1-convertibles/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 49,
+      "parent_id": 34,
+      "name": "MacBook Air",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/laptops/macbooks/macbook-air/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 50,
+      "parent_id": 34,
+      "name": "MacBook Pro 13\"",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/laptops/macbooks/macbook-pro-13/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 51,
+      "parent_id": 34,
+      "name": "MacBook Pro 14\"",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/laptops/macbooks/macbook-pro-14/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 52,
+      "parent_id": 34,
+      "name": "MacBook Pro 16\"",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/laptops/macbooks/macbook-pro-16/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 53,
+      "parent_id": 34,
+      "name": "M1 Chip Models",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/laptops/macbooks/m1-chip-models/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 54,
+      "parent_id": 34,
+      "name": "M2 Chip Models",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/laptops/macbooks/m2-chip-models/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 55,
+      "parent_id": 33,
+      "name": "Budget Friendly",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/laptops/student-laptops/budget-friendly/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 56,
+      "parent_id": 33,
+      "name": "Portable Size",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/laptops/student-laptops/portable-size/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 57,
+      "parent_id": 33,
+      "name": "Windows OS",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/laptops/student-laptops/windows-os/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 58,
+      "parent_id": 33,
+      "name": "Chromebook",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/laptops/student-laptops/chromebook/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 59,
+      "parent_id": 33,
+      "name": "Under $500",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/laptops/student-laptops/under-500/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 60,
+      "parent_id": 33,
+      "name": "Basic Specs",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/laptops/student-laptops/basic-specs/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 61,
+      "parent_id": 32,
+      "name": "Lightweight Design",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/laptops/business-laptops/lightweight-design/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 62,
+      "parent_id": 32,
+      "name": "Long Battery Life",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/laptops/business-laptops/long-battery-life/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 63,
+      "parent_id": 32,
+      "name": "Security Features",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/laptops/business-laptops/security-features/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 64,
+      "parent_id": 32,
+      "name": "13-inch Models",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/laptops/business-laptops/13-inch-models/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 65,
+      "parent_id": 32,
+      "name": "Fingerprint Unlock",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/laptops/business-laptops/fingerprint-unlock/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 66,
+      "parent_id": 32,
+      "name": "Metal Chassis",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/laptops/business-laptops/metal-chassis/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 67,
+      "parent_id": 31,
+      "name": "NVIDIA RTX Series",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/new-category",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 68,
+      "parent_id": 31,
+      "name": "AMD Radeon Series",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/laptops/gaming-laptops/amd-radeon-series/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 69,
+      "parent_id": 31,
+      "name": "144Hz/240Hz Display",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/laptops/gaming-laptops/144hz-240hz-display/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 70,
+      "parent_id": 31,
+      "name": "RGB Backlit Keyboards",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/laptops/gaming-laptops/rgb-backlit-keyboards/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 71,
+      "parent_id": 31,
+      "name": "Cooling Enhanced",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/laptops/gaming-laptops/cooling-enhanced/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 72,
+      "parent_id": 31,
+      "name": "17-inch & Larger",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/laptops/gaming-laptops/17-inch-larger/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 73,
+      "parent_id": 25,
+      "name": "Tablets",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/mobile-handhelds/tablets/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 74,
+      "parent_id": 73,
+      "name": "Android Tablets",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/mobile-handhelds/tablets/android-tablets/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 75,
+      "parent_id": 73,
+      "name": "iPad Series",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/mobile-handhelds/tablets/android-tablets-1/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 76,
+      "parent_id": 73,
+      "name": "Windows Tablets",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/mobile-handhelds/tablets/windows-tablets/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 77,
+      "parent_id": 73,
+      "name": "Stylus Support",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/mobile-handhelds/tablets/stylus-support/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 78,
+      "parent_id": 73,
+      "name": "LTE/5G Tablets",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/mobile-handhelds/tablets/stylus-support-1/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 79,
+      "parent_id": 73,
+      "name": "Kids Tablets",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/mobile-handhelds/tablets/lte-5g-tablets/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 80,
+      "parent_id": 25,
+      "name": "Smartphones",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/mobile-handhelds/smartphones/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 81,
+      "parent_id": 25,
+      "name": "eReaders",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/mobile-handhelds/smartphones-1/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 82,
+      "parent_id": 25,
+      "name": "Gaming Handhelds",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/mobile-handhelds/gaming-handhelds/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 83,
+      "parent_id": 25,
+      "name": "Portable Monitors",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/mobile-handhelds/portable-monitors/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 84,
+      "parent_id": 25,
+      "name": "Mobile Accessories",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/mobile-handhelds/mobile-accessories/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 85,
+      "parent_id": 80,
+      "name": "Android Phones",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/mobile-handhelds/smartphones/android-phones/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 86,
+      "parent_id": 80,
+      "name": "iPhones",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/mobile-handhelds/smartphones/iphones/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 87,
+      "parent_id": 80,
+      "name": "Gaming Phones",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/mobile-handhelds/smartphones/gaming-phones/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 88,
+      "parent_id": 80,
+      "name": "Budget Phones",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/mobile-handhelds/smartphones/gaming-phones-1/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 89,
+      "parent_id": 80,
+      "name": "Foldable Phones",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/mobile-handhelds/smartphones/foldable-phones/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 90,
+      "parent_id": 80,
+      "name": "Flagship Models",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/mobile-handhelds/smartphones/flagship-models/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 91,
+      "parent_id": 81,
+      "name": "Kindle",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": null,
+      "image_url": ""
+    },
+    {
+      "id": 92,
+      "parent_id": 81,
+      "name": "Kobo",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/mobile-handhelds/ereaders/kobo/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 93,
+      "parent_id": 81,
+      "name": "8-inch eReaders",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/mobile-handhelds/ereaders/8-inch-ereaders/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 94,
+      "parent_id": 81,
+      "name": "Backlit Screens",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/mobile-handhelds/ereaders/backlit-screens/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 95,
+      "parent_id": 81,
+      "name": "e-Ink Touch",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/mobile-handhelds/ereaders/backlit-screens-1/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 96,
+      "parent_id": 81,
+      "name": "Waterproof Models",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/mobile-handhelds/ereaders/waterproof-models/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 97,
+      "parent_id": 82,
+      "name": "Steam Deck",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/mobile-handhelds/gaming-handhelds/steam-deck/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 98,
+      "parent_id": 82,
+      "name": "ASUS ROG Ally",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/mobile-handhelds/gaming-handhelds/asus-rog-ally/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 99,
+      "parent_id": 82,
+      "name": "Nintendo Switch",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/mobile-handhelds/gaming-handhelds/asus-rog-ally-1/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 100,
+      "parent_id": 82,
+      "name": "Android Consoles",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/mobile-handhelds/gaming-handhelds/android-consoles/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 101,
+      "parent_id": 82,
+      "name": "Emulator Handhelds",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/mobile-handhelds/gaming-handhelds/emulator-handhelds/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 102,
+      "parent_id": 82,
+      "name": "Cloud Gaming",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/mobile-handhelds/gaming-handhelds/cloud-gaming/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 103,
+      "parent_id": 83,
+      "name": "USB-C Connection",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/mobile-handhelds/portable-monitors/usb-c-connection/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 104,
+      "parent_id": 83,
+      "name": "1080p Display",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/mobile-handhelds/portable-monitors/1080p-display/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 105,
+      "parent_id": 83,
+      "name": "15.6-inch",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/mobile-handhelds/portable-monitors/15-6-inch/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 106,
+      "parent_id": 83,
+      "name": "Ultra Slim",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/mobile-handhelds/portable-monitors/ultra-slim/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 107,
+      "parent_id": 83,
+      "name": "Touchscreen",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/mobile-handhelds/portable-monitors/touchscreen/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 108,
+      "parent_id": 83,
+      "name": "Adjustable Stand",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/mobile-handhelds/portable-monitors/touchscreen-1/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 109,
+      "parent_id": 84,
+      "name": "Power Banks",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/mobile-handhelds/mobile-accessories/power-banks/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 110,
+      "parent_id": 84,
+      "name": "Bluetooth Keyboards",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/mobile-handhelds/mobile-accessories/bluetooth-keyboards/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 111,
+      "parent_id": 84,
+      "name": "OTG Cables",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/mobile-handhelds/mobile-accessories/otg-cables/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 112,
+      "parent_id": 84,
+      "name": "Stylus Pens",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/mobile-handhelds/mobile-accessories/stylus-pens/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 113,
+      "parent_id": 84,
+      "name": "Travel Cases",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/mobile-handhelds/mobile-accessories/travel-cases/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 114,
+      "parent_id": 84,
+      "name": "SIM Adapters",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/mobile-handhelds/mobile-accessories/sim-adapters/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 115,
+      "parent_id": 26,
+      "name": "Gaming Monitors",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/displays-desktops/gaming-monitors/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 116,
+      "parent_id": 26,
+      "name": "Office Monitors",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/displays-desktops/office-monitors/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 117,
+      "parent_id": 26,
+      "name": "4K Monitors",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/displays-desktops/4k-monitors/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 118,
+      "parent_id": 26,
+      "name": "All-in-One PCs",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/displays-desktops/all-in-one-pcs/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 119,
+      "parent_id": 26,
+      "name": "Mini PCs",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/displays-desktops/mini-pcs/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 120,
+      "parent_id": 26,
+      "name": "Desktop Towers",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/displays-desktops/desktop-towers/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 121,
+      "parent_id": 120,
+      "name": "Gaming Desktops",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/displays-desktops/desktop-towers/gaming-desktops/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 122,
+      "parent_id": 120,
+      "name": "Office Towers",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/displays-desktops/desktop-towers/gaming-desktops-1/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 123,
+      "parent_id": 120,
+      "name": "RGB Case",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/displays-desktops/desktop-towers/rgb-case/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 124,
+      "parent_id": 120,
+      "name": "Prebuilt",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/displays-desktops/desktop-towers/prebuilt/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 125,
+      "parent_id": 120,
+      "name": "Custom Build Kits",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/displays-desktops/desktop-towers/prebuilt-1/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 126,
+      "parent_id": 120,
+      "name": "High-End GPUs",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/displays-desktops/desktop-towers/high-end-gpus/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 127,
+      "parent_id": 119,
+      "name": "Intel NUC",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/displays-desktops/mini-pcs/intel-nuc/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 128,
+      "parent_id": 119,
+      "name": "AMD Ryzen Mini",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/displays-desktops/mini-pcs/amd-ryzen-mini/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 129,
+      "parent_id": 119,
+      "name": "Fanless Mini PC",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/displays-desktops/mini-pcs/fanless-mini-pc/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 130,
+      "parent_id": 119,
+      "name": "Linux Ready",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/displays-desktops/mini-pcs/fanless-mini-pc-1/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 131,
+      "parent_id": 119,
+      "name": "Portable PC",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/displays-desktops/mini-pcs/portable-pc/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 132,
+      "parent_id": 119,
+      "name": "Upgradable RAM",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/displays-desktops/mini-pcs/upgradable-ram/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 133,
+      "parent_id": 118,
+      "name": "Touchscreen",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/displays-desktops/all-in-one-pcs/touchscreen/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 134,
+      "parent_id": 118,
+      "name": "Windows AIO",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/displays-desktops/all-in-one-pcs/windows-aio/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 135,
+      "parent_id": 118,
+      "name": "Mac AIO",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/displays-desktops/all-in-one-pcs/mac-aio/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 136,
+      "parent_id": 118,
+      "name": "Business AIO",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/displays-desktops/all-in-one-pcs/business-aio/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 137,
+      "parent_id": 118,
+      "name": "Thin Bezels",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/displays-desktops/all-in-one-pcs/business-aio-1/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 138,
+      "parent_id": 118,
+      "name": "SSD Included",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/displays-desktops/all-in-one-pcs/ssd-included/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 139,
+      "parent_id": 117,
+      "name": "27-inch",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/displays-desktops/4k-monitors/27-inch/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 140,
+      "parent_id": 117,
+      "name": "HDR Support",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/displays-desktops/4k-monitors/27-inch-1/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 141,
+      "parent_id": 117,
+      "name": "USB-C Hub",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/displays-desktops/4k-monitors/usb-c-hub/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 142,
+      "parent_id": 117,
+      "name": "Creator-Ready",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/displays-desktops/4k-monitors/usb-c-hub-1/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 143,
+      "parent_id": 117,
+      "name": "IPS Panels",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/displays-desktops/4k-monitors/creator-ready/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 144,
+      "parent_id": 117,
+      "name": "Ultra Sharp",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/displays-desktops/4k-monitors/ultra-sharp/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 145,
+      "parent_id": 116,
+      "name": "24-inch",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/displays-desktops/office-monitors/24-inch/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 146,
+      "parent_id": 116,
+      "name": "Eye Comfort",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/displays-desktops/office-monitors/eye-comfort/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 147,
+      "parent_id": 116,
+      "name": "IPS Display",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/displays-desktops/office-monitors/ips-display/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 148,
+      "parent_id": 116,
+      "name": "Adjustable Stand",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/displays-desktops/office-monitors/ips-display-1/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 149,
+      "parent_id": 116,
+      "name": "Built-in Speakers",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/displays-desktops/office-monitors/built-in-speakers/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 150,
+      "parent_id": 116,
+      "name": "FHD Resolution",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/displays-desktops/office-monitors/fhd-resolution/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 151,
+      "parent_id": 115,
+      "name": "144Hz",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/displays-desktops/gaming-monitors/144hz/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 152,
+      "parent_id": 115,
+      "name": "165Hz",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/displays-desktops/gaming-monitors/165hz/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 153,
+      "parent_id": 115,
+      "name": "240Hz",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/displays-desktops/gaming-monitors/240hz/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 154,
+      "parent_id": 115,
+      "name": "Curved",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/displays-desktops/gaming-monitors/240hz-1/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 155,
+      "parent_id": 115,
+      "name": "G-Sync Compatible",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/displays-desktops/gaming-monitors/curved/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 156,
+      "parent_id": 115,
+      "name": "QHD/4K",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/displays-desktops/gaming-monitors/qhd-4k/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 157,
+      "parent_id": 27,
+      "name": "Intel Motherboards",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": null,
+      "image_url": ""
+    },
+    {
+      "id": 158,
+      "parent_id": 27,
+      "name": "AMD Motherboards",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/motherboards-computers/amd-motherboards/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 159,
+      "parent_id": 27,
+      "name": "Prebuilt PCs",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/motherboards-computers/prebuilt-pcs/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 160,
+      "parent_id": 27,
+      "name": "DIY PC Kits",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/motherboards-computers/diy-pc-kits/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 161,
+      "parent_id": 27,
+      "name": "CPU Bundles",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/motherboards-computers/diy-pc-kits-1/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 162,
+      "parent_id": 27,
+      "name": "Cooling Systems",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/motherboards-computers/cooling-systems/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 163,
+      "parent_id": 162,
+      "name": "Air Coolers",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/motherboards-computers/cooling-systems/air-coolers/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 164,
+      "parent_id": 162,
+      "name": "AIO Liquid Coolers",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/motherboards-computers/cooling-systems/aio-liquid-coolers/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 165,
+      "parent_id": 162,
+      "name": "Fan Sets",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/motherboards-computers/cooling-systems/aio-liquid-coolers-1/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 166,
+      "parent_id": 162,
+      "name": "RGB Fans",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/motherboards-computers/cooling-systems/fan-sets/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 167,
+      "parent_id": 162,
+      "name": "Thermal Paste",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/motherboards-computers/cooling-systems/rgb-fans/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 168,
+      "parent_id": 162,
+      "name": "Cooler Mounts",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/motherboards-computers/cooling-systems/cooler-mounts/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 169,
+      "parent_id": 161,
+      "name": "AMD Ryzen Bundles",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/motherboards-computers/cpu-bundles/amd-ryzen-bundles/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 170,
+      "parent_id": 161,
+      "name": "Intel i5/i7 Bundles",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/motherboards-computers/cpu-bundles/amd-ryzen-bundles-1/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 171,
+      "parent_id": 161,
+      "name": "Upgrade Bundles",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/motherboards-computers/cpu-bundles/upgrade-bundles/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 172,
+      "parent_id": 161,
+      "name": "Gaming Packs",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/motherboards-computers/cpu-bundles/gaming-packs/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 173,
+      "parent_id": 161,
+      "name": "CPU + Cooler",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/motherboards-computers/cpu-bundles/cpu-cooler/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 174,
+      "parent_id": 161,
+      "name": "CPU + Motherboard",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/motherboards-computers/cpu-bundles/cpu-motherboard/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 175,
+      "parent_id": 160,
+      "name": "Cable Management Kits",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/motherboards-computers/diy-pc-kits/cable-management-kits/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 176,
+      "parent_id": 160,
+      "name": "With Tools",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/motherboards-computers/diy-pc-kits/with-tools/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 177,
+      "parent_id": 160,
+      "name": "Beginner Friendly",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/motherboards-computers/diy-pc-kits/beginner-friendly/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 178,
+      "parent_id": 160,
+      "name": "All Accessories Included",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/motherboards-computers/diy-pc-kits/all-accessories-included/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 179,
+      "parent_id": 160,
+      "name": "Micro ATX Kits",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/motherboards-computers/diy-pc-kits/micro-atx-kits/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 180,
+      "parent_id": 160,
+      "name": "Full ATX Builds",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/motherboards-computers/diy-pc-kits/full-atx-builds/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 181,
+      "parent_id": 159,
+      "name": "Budget Gaming PC",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/motherboards-computers/prebuilt-pcs/budget-gaming-pc/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 182,
+      "parent_id": 159,
+      "name": "Office PC",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/motherboards-computers/prebuilt-pcs/budget-gaming-pc-1/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 183,
+      "parent_id": 159,
+      "name": "High-End RTX PCs",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/motherboards-computers/prebuilt-pcs/office-pc/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 184,
+      "parent_id": 159,
+      "name": "Compact Builds",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/motherboards-computers/prebuilt-pcs/compact-builds/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 185,
+      "parent_id": 159,
+      "name": "Liquid Cooled",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/motherboards-computers/prebuilt-pcs/liquid-cooled/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 186,
+      "parent_id": 159,
+      "name": "Plug-and-Play",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/motherboards-computers/prebuilt-pcs/plug-and-play/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 187,
+      "parent_id": 158,
+      "name": "DDR5 Support",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/motherboards-computers/amd-motherboards/ddr5-support/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 188,
+      "parent_id": 158,
+      "name": "PCIe 4.0",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/motherboards-computers/amd-motherboards/ddr5-support-1/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 189,
+      "parent_id": 158,
+      "name": "RGB Headers",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/motherboards-computers/amd-motherboards/pcie-4-0/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 190,
+      "parent_id": 158,
+      "name": "Overclock Ready",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/motherboards-computers/amd-motherboards/rgb-headers/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 191,
+      "parent_id": 158,
+      "name": "B550 / X570",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/motherboards-computers/amd-motherboards/b550-x570/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 192,
+      "parent_id": 158,
+      "name": "AM4 Socket",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/motherboards-computers/amd-motherboards/am4-socket/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 193,
+      "parent_id": 157,
+      "name": "Mini-ITX",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/motherboards-computers/intel-motherboards/mini-itx/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 194,
+      "parent_id": 157,
+      "name": "Budget Intel Boards",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/motherboards-computers/intel-motherboards/mini-itx-1/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 195,
+      "parent_id": 157,
+      "name": "Wi-Fi Included",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/motherboards-computers/intel-motherboards/wi-fi-included/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 196,
+      "parent_id": 157,
+      "name": "ATX Form Factor",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/motherboards-computers/intel-motherboards/wi-fi-included-1/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 197,
+      "parent_id": 157,
+      "name": "Z690/Z790",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/motherboards-computers/intel-motherboards/z690-z790/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 198,
+      "parent_id": 157,
+      "name": "LGA 1700",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/motherboards-computers/intel-motherboards/z690-z790-1/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 199,
+      "parent_id": 28,
+      "name": "Laptop Bags & Sleeves",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/accessories/laptop-bags-sleeves/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 200,
+      "parent_id": 28,
+      "name": "Cables & Hubs",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/accessories/cables-hubs/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 201,
+      "parent_id": 28,
+      "name": "Keyboards & Mice",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/accessories/keyboards-mice/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 202,
+      "parent_id": 28,
+      "name": "Webcams & Mics",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/accessories/webcams-mics/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 203,
+      "parent_id": 28,
+      "name": "Headphones & Earbuds",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/accessories/headphones-earbuds/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 204,
+      "parent_id": 28,
+      "name": "Laptop Stands & Cooling Pads",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/accessories/headphones-earbuds-1/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 205,
+      "parent_id": 0,
+      "name": "Gaming Gear",
+      "description": "",
+      "views": 0,
+      "sort_order": 8,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/gaming-gear/",
+        "is_customized": false
+      },
+      "image_url": "https://cdn11.bigcommerce.com/s-ucex6uk1zn/product_images/r/gaming%20gear__09981.png"
+    },
+    {
+      "id": 206,
+      "parent_id": 0,
+      "name": "Graphics Card",
+      "description": "",
+      "views": 0,
+      "sort_order": 9,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/graphics-card/",
+        "is_customized": false
+      },
+      "image_url": "https://cdn11.bigcommerce.com/s-ucex6uk1zn/product_images/z/gpu__28887.png"
+    },
+    {
+      "id": 832,
+      "parent_id": 0,
+      "name": "PC Builder",
+      "description": "<p>Build your custom PC with our comprehensive component selection. Choose from high-quality components to create the perfect computer for your needs.</p>",
+      "views": 0,
+      "sort_order": 1,
+      "page_title": "PC Builder - Build Your Custom Computer",
+      "search_keywords": "pc builder custom computer build parts components",
+      "meta_keywords": [
+        "pc builder",
+        "custom pc",
+        "computer parts",
+        "build pc"
+      ],
+      "meta_description": "Build your dream PC with our PC Builder tool. Select from top-quality components including CPUs, GPUs, motherboards, and more.",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/pc-builder/",
+        "is_customized": false
+      },
+      "image_url": "https://cdn11.bigcommerce.com/s-ucex6uk1zn/product_images/c/pc%20buider1__57697.png"
+    },
+    {
+      "id": 833,
+      "parent_id": 832,
+      "name": "CPU",
+      "description": "<p>Central Processing Units for PC building</p>",
+      "views": 0,
+      "sort_order": 2,
+      "page_title": "CPU - PC Components",
+      "search_keywords": "cpu pc component computer part",
+      "meta_keywords": [],
+      "meta_description": "Central Processing Units for PC building. Shop cpu for PC building.",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/pc-builder/cpu/",
+        "is_customized": false
+      },
+      "image_url": "https://cdn11.bigcommerce.com/s-ucex6uk1zn/product_images/g/cpu__31894.png"
+    },
+    {
+      "id": 834,
+      "parent_id": 832,
+      "name": "Motherboard",
+      "description": "<p>Motherboards for various CPU sockets</p>",
+      "views": 0,
+      "sort_order": 7,
+      "page_title": "Motherboard - PC Components",
+      "search_keywords": "motherboard pc component computer part",
+      "meta_keywords": [],
+      "meta_description": "Motherboards for various CPU sockets. Shop motherboard for PC building.",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/pc-builder/motherboard/",
+        "is_customized": false
+      },
+      "image_url": "https://cdn11.bigcommerce.com/s-ucex6uk1zn/product_images/u/mainboard__95522.png"
+    },
+    {
+      "id": 835,
+      "parent_id": 832,
+      "name": "RAM",
+      "description": "<p>Memory modules for system performance</p>",
+      "views": 0,
+      "sort_order": 10,
+      "page_title": "RAM - PC Components",
+      "search_keywords": "ram pc component computer part",
+      "meta_keywords": [],
+      "meta_description": "Memory modules for system performance. Shop ram for PC building.",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/pc-builder/ram/",
+        "is_customized": false
+      },
+      "image_url": "https://cdn11.bigcommerce.com/s-ucex6uk1zn/product_images/e/chatgpt%20image%20jul%209%2C%202025%2C%2001_58_28%20pm__19280.png"
+    },
+    {
+      "id": 836,
+      "parent_id": 832,
+      "name": "SSD",
+      "description": "<p>Solid State Drives for fast storage</p>",
+      "views": 0,
+      "sort_order": 11,
+      "page_title": "SSD - PC Components",
+      "search_keywords": "ssd pc component computer part",
+      "meta_keywords": [],
+      "meta_description": "Solid State Drives for fast storage. Shop ssd for PC building.",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/pc-builder/ssd/",
+        "is_customized": false
+      },
+      "image_url": "https://cdn11.bigcommerce.com/s-ucex6uk1zn/product_images/e/chatgpt%20image%20jul%209%2C%202025%2C%2001_59_47%20pm__82572.png"
+    },
+    {
+      "id": 837,
+      "parent_id": 832,
+      "name": "HDD",
+      "description": "<p>Hard Disk Drives for bulk storage</p>",
+      "views": 0,
+      "sort_order": 6,
+      "page_title": "HDD - PC Components",
+      "search_keywords": "hdd pc component computer part",
+      "meta_keywords": [],
+      "meta_description": "Hard Disk Drives for bulk storage. Shop hdd for PC building.",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/pc-builder/hdd/",
+        "is_customized": false
+      },
+      "image_url": "https://cdn11.bigcommerce.com/s-ucex6uk1zn/product_images/o/chatgpt%20image%20jul%209%2C%202025%2C%2001_51_42%20pm__62562.png"
+    },
+    {
+      "id": 838,
+      "parent_id": 832,
+      "name": "Graphics Card",
+      "description": "<p>Graphics Processing Units for gaming and rendering</p>",
+      "views": 0,
+      "sort_order": 5,
+      "page_title": "Graphics Card - PC Components",
+      "search_keywords": "graphics card pc component computer part",
+      "meta_keywords": [],
+      "meta_description": "Graphics Processing Units for gaming and rendering. Shop graphics card for PC building.",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/pc-builder/graphics-card/",
+        "is_customized": false
+      },
+      "image_url": "https://cdn11.bigcommerce.com/s-ucex6uk1zn/product_images/m/chatgpt%20image%20jul%209%2C%202025%2C%2001_50_43%20pm__31366.png"
+    },
+    {
+      "id": 839,
+      "parent_id": 832,
+      "name": "Power Supply",
+      "description": "<p>Power Supply Units for stable power delivery</p>",
+      "views": 0,
+      "sort_order": 9,
+      "page_title": "Power Supply - PC Components",
+      "search_keywords": "power supply pc component computer part",
+      "meta_keywords": [],
+      "meta_description": "Power Supply Units for stable power delivery. Shop power supply for PC building.",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/pc-builder/power-supply/",
+        "is_customized": false
+      },
+      "image_url": "https://cdn11.bigcommerce.com/s-ucex6uk1zn/product_images/z/chatgpt%20image%20jul%209%2C%202025%2C%2001_56_17%20pm__42715.png"
+    },
+    {
+      "id": 840,
+      "parent_id": 832,
+      "name": "PC Case",
+      "description": "<p>PC Cases and chassis for housing components</p>",
+      "views": 0,
+      "sort_order": 8,
+      "page_title": "PC Case - PC Components",
+      "search_keywords": "pc case pc component computer part",
+      "meta_keywords": [],
+      "meta_description": "PC Cases and chassis for housing components. Shop pc case for PC building.",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/pc-builder/pc-case/",
+        "is_customized": false
+      },
+      "image_url": "https://cdn11.bigcommerce.com/s-ucex6uk1zn/product_images/e/chatgpt%20image%20jul%209%2C%202025%2C%2001_54_26%20pm__11508.png"
+    },
+    {
+      "id": 841,
+      "parent_id": 832,
+      "name": "CPU Air Cooler",
+      "description": "<p>Air cooling solutions for CPUs</p>",
+      "views": 0,
+      "sort_order": 3,
+      "page_title": "CPU Air Cooler - PC Components",
+      "search_keywords": "cpu air cooler pc component computer part",
+      "meta_keywords": [],
+      "meta_description": "Air cooling solutions for CPUs. Shop cpu air cooler for PC building.",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/pc-builder/cpu-air-cooler/",
+        "is_customized": false
+      },
+      "image_url": "https://cdn11.bigcommerce.com/s-ucex6uk1zn/product_images/a/chatgpt%20image%20jul%209%2C%202025%2C%2001_49_28%20pm__91736.png"
+    },
+    {
+      "id": 842,
+      "parent_id": 832,
+      "name": "CPU Liquid Cooler",
+      "description": "<p>Liquid cooling solutions for CPUs</p>",
+      "views": 0,
+      "sort_order": 4,
+      "page_title": "CPU Liquid Cooler - PC Components",
+      "search_keywords": "cpu liquid cooler pc component computer part",
+      "meta_keywords": [],
+      "meta_description": "Liquid cooling solutions for CPUs. Shop cpu liquid cooler for PC building.",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/pc-builder/cpu-liquid-cooler/",
+        "is_customized": false
+      },
+      "image_url": "https://cdn11.bigcommerce.com/s-ucex6uk1zn/product_images/h/chatgpt%20image%20jul%209%2C%202025%2C%2001_49_46%20pm__81298.png"
+    }
+  ]
+}
