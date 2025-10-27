@@ -1,0 +1,6526 @@
+{
+  "id": 139,
+  "name": "Brown Leather L-Shaped",
+  "type": "physical",
+  "sku": "Sofa-0027",
+  "description": "<!-- Main container for this style/demo -->\n<div class=\"eyeva-style\"><!-- Collapsible Section: Everything Included -->\n<h2 data-collapsible=\"everything-included\">Everything included</h2>\n<!-- Content block that collapses/expands based on data-collapsible -->\n<div id=\"everything-included\"><!-- Short intro text about additional sofa features -->\n<p class=\"mb-0\">We also offer premium fabrics, modular designs, and convertible options&mdash;plus more!</p>\n<p><a href=\"#\"><strong>View all sofa types</strong></a></p>\n<!-- A bordered, rounded container listing key features (flex-column + gap for spacing) -->\n<div class=\"border border-radius p-24 flex-column gap-24 des-mb-0\"><!-- Each \"feature\" is a flex row with some spacing between columns -->\n<div class=\"flex column-gap-16\">\n<div class=\"shrink-0\"><img class=\"lazyload\" src=\"https://cdn11.bigcommerce.com/s-ivbr30q0b6/images/stencil/original/image-manager/icon-1.png?t=1736235671\" alt=\"\" width=\"50\" height=\"50\" data-src=\"https://cdn11.bigcommerce.com/s-ivbr30q0b6/images/stencil/original/image-manager/icon-1.png?t=1736235671\" /></div>\n<div class=\"span-1\">\n<p class=\"font-18 font-16-md\"><strong>Premium comfort design</strong></p>\n<p class=\"color-secondary font-14-md\">Choose from plush, medium, or firm cushion support.</p>\n</div>\n</div>\n<div class=\"flex column-gap-16\">\n<div class=\"shrink-0\"><img class=\"lazyload\" src=\"https://cdn11.bigcommerce.com/s-ivbr30q0b6/images/stencil/original/image-manager/polycarbonate-lenses.png?t=1736235826\" alt=\"\" width=\"50\" height=\"50\" data-src=\"https://cdn11.bigcommerce.com/s-ivbr30q0b6/images/stencil/original/image-manager/polycarbonate-lenses.png?t=1736235826\" /></div>\n<div class=\"span-1\">\n<p class=\"font-18 font-16-md\"><strong>Stain-resistant fabrics</strong></p>\n<p class=\"color-secondary font-14-md\">The most durable upholstery material for everyday use</p>\n</div>\n</div>\n<div class=\"flex column-gap-16\">\n<div class=\"shrink-0\"><img class=\"lazyload\" src=\"https://cdn11.bigcommerce.com/s-ivbr30q0b6/images/stencil/original/image-manager/anti-reflective.png?t=1736235838\" alt=\"\" width=\"50\" height=\"50\" data-src=\"https://cdn11.bigcommerce.com/s-ivbr30q0b6/images/stencil/original/image-manager/anti-reflective.png?t=1736235838\" /></div>\n<div class=\"span-1\">\n<p class=\"font-18 font-16-md\"><strong>Solid hardwood frame construction</strong></p>\n<p class=\"color-secondary font-14-md\">And our frames come with a 10-year warranty :-)</p>\n</div>\n</div>\n<div class=\"flex column-gap-16\">\n<div class=\"shrink-0\"><img class=\"lazyload\" src=\"https://cdn11.bigcommerce.com/s-ivbr30q0b6/images/stencil/original/image-manager/free-shipping-1736235871686.png?t=1736235872\" alt=\"\" width=\"50\" height=\"50\" data-src=\"https://cdn11.bigcommerce.com/s-ivbr30q0b6/images/stencil/original/image-manager/free-shipping-1736235871686.png?t=1736235872\" /></div>\n<div class=\"span-1\">\n<p class=\"font-18 font-16-md\"><strong>Free shipping</strong></p>\n<p class=\"color-secondary font-14-md\">On every single order at PapaThemes</p>\n</div>\n</div>\n<div class=\"flex column-gap-16\">\n<div class=\"shrink-0\"><img class=\"lazyload\" src=\"https://cdn11.bigcommerce.com/s-ivbr30q0b6/images/stencil/original/image-manager/free-returns.png?t=1736235889\" alt=\"\" width=\"50\" height=\"50\" data-src=\"https://cdn11.bigcommerce.com/s-ivbr30q0b6/images/stencil/original/image-manager/free-returns.png?t=1736235889\" /></div>\n<div class=\"span-1\">\n<p class=\"font-18 font-16-md\"><strong>Free returns or exchanges</strong></p>\n<p class=\"color-secondary font-14-md\">Within 30 days of purchase</p>\n</div>\n</div>\n<div class=\"flex column-gap-16\">\n<div class=\"shrink-0\"><img class=\"lazyload\" src=\"https://cdn11.bigcommerce.com/s-ivbr30q0b6/images/stencil/original/image-manager/free-scratched.png?t=1736235905\" alt=\"\" width=\"50\" height=\"50\" data-src=\"https://cdn11.bigcommerce.com/s-ivbr30q0b6/images/stencil/original/image-manager/free-scratched.png?t=1736235905\" /></div>\n<div class=\"span-1\">\n<p class=\"font-18 font-16-md\"><strong>Free fabric protection plan</strong></p>\n<p class=\"color-secondary font-14-md\">Guaranteed for all sofas within one year of purchase</p>\n</div>\n</div>\n<div class=\"flex column-gap-16\">\n<div class=\"shrink-0\"><img class=\"lazyload\" src=\"https://cdn11.bigcommerce.com/s-ivbr30q0b6/images/stencil/original/image-manager/fsa-hsa.png?t=1736235920\" alt=\"\" width=\"50\" height=\"50\" data-src=\"https://cdn11.bigcommerce.com/s-ivbr30q0b6/images/stencil/original/image-manager/fsa-hsa.png?t=1736235920\" /></div>\n<div class=\"span-1\">\n<p class=\"font-18 font-16-md\"><strong>Financing options available</strong></p>\n<p class=\"color-secondary font-14-md\">Save with 0% interest when you use our payment plans</p>\n</div>\n</div>\n<!-- Horizontal rule within the \"everything included\" section --><hr class=\"m-0\" /><!-- Another feature row with an image and description -->\n<div class=\"flex gap-24\">\n<div class=\"span-1\"><img class=\"lazyload\" src=\"https://cdn11.bigcommerce.com/s-ivbr30q0b6/images/stencil/original/image-manager/tvlgiao-plus-a-frame-case-and-lens-cloth-minimals-realictis-whi-e0eae8ca-7a79-4951-8b52-d395d7889fe3-1736226571449.png?t=1736226572\" alt=\"\" width=\"400\" height=\"200\" data-src=\"https://cdn11.bigcommerce.com/s-ivbr30q0b6/images/stencil/original/image-manager/tvlgiao-plus-a-frame-case-and-lens-cloth-minimals-realictis-whi-e0eae8ca-7a79-4951-8b52-d395d7889fe3-1736226571449.png?t=1736226572\" /></div>\n<div class=\"span-1\">\n<p class=\"font-18 font-16-md\"><strong>Plus decorative throw pillows included</strong></p>\n<p class=\"color-secondary font-14-md\">A sofa this special deserves beautiful accents to complete the look.</p>\n</div>\n</div>\n</div>\n</div>\n<!-- /#everything-included --> <!-- Horizontal rule separating sections --><hr /><!-- Collapsible Section: Materials -->\n<h2 data-collapsible=\"materials\">Materials</h2>\n<div id=\"materials\">\n<ul>\n<li>Made from premium kiln-dried hardwood frame</li>\n<li>High-density foam cushions with feather blend topper</li>\n<li>Stain-resistant performance fabric upholstery</li>\n</ul>\n</div>\n<!-- Collapsible Section: Width Guide -->\n<h2 data-collapsible=\"width-guide\">Size guide</h2>\n<div id=\"width-guide\">\n<p class=\"mb-0\">We also offer sectionals, loveseats, and apartment-sized sofas&mdash;plus more!</p>\n<p><a href=\"#\"><strong>View all sofa sizes</strong></a></p>\n<!-- Bordered container for the width guide info -->\n<div class=\"border border-radius mb-16 des-mb-0\"><!-- Row with image and text, using .flex for layout -->\n<div class=\"flex p-24 gap-24\">\n<div class=\"shrink-0\"><img class=\"lazyload\" src=\"https://cdn11.bigcommerce.com/s-ivbr30q0b6/images/stencil/original/image-manager/frame-widths.png?t=1736236039\" alt=\"\" width=\"180\" height=\"100\" data-src=\"https://cdn11.bigcommerce.com/s-ivbr30q0b6/images/stencil/original/image-manager/frame-widths.png?t=1736236039\" /></div>\n<div class=\"span-1\">\n<p class=\"font-18 font-16-md\"><strong>Sofa dimensions</strong></p>\n<p class=\"color-secondary font-14-md\">Our sizes are determined by the overall sofa width. Choose a size that best fits your space and seating needs.</p>\n</div>\n</div>\n<!-- A filler line and text about the \"Medium\" size -->\n<div class=\"fill-alt py-12 px-16 border-y\">Standard 3-Seater</div>\n<div class=\"py-12 px-16\">84 inches (213 cm)</div>\n</div>\n<!-- /.border-radius -->\n<p><a href=\"#\" data-collapsible=\"other-measurements\">Other measurements</a></p>\n<!-- Another collapsible area for other measurements -->\n<div id=\"other-measurements\" class=\"border border-radius mb-16 des-mb-0\">\n<div class=\"flex flex-column-md p-24 gap-24\">\n<div class=\"shrink-0 shrink-1-md\"><img class=\"lazyload\" src=\"https://cdn11.bigcommerce.com/s-ivbr30q0b6/images/stencil/original/image-manager/compare-lens.png?t=1736236095\" alt=\"\" width=\"180\" height=\"100\" data-src=\"https://cdn11.bigcommerce.com/s-ivbr30q0b6/images/stencil/original/image-manager/compare-lens.png?t=1736236095\" /></div>\n<div class=\"span-1\">\n<p class=\"font-18 font-16-md\"><strong>Compare <code>width</code> with <code>depth - height</code> with your space</strong></p>\n<p class=\"color-secondary font-14-md\">For proper placement, measure your room and ensure you have at least 30 inches of walking space in front of the sofa.</p>\n<p class=\"mb-16\"><a href=\"#\" data-collapsible=\"what-do-these-measurements-mean\">What do these measurements mean?</a></p>\n<!-- Additional info block with some background shading -->\n<div class=\"fill-alt border-radius p-16 flex-column gap-24\"><!-- Repeating features, each with an image and a short description -->\n<div class=\"flex gap-24\">\n<div class=\"shrink-0\"><img class=\"lazyload\" src=\"https://cdn11.bigcommerce.com/s-ivbr30q0b6/images/stencil/original/image-manager/lens-width.png?t=1736236187\" alt=\"\" width=\"100\" height=\"60\" data-src=\"https://cdn11.bigcommerce.com/s-ivbr30q0b6/images/stencil/original/image-manager/lens-width.png?t=1736236187\" /></div>\n<div class=\"span-1\">\n<p><strong>Width</strong></p>\n<p class=\"color-secondary font-14-md\">The total width from arm to arm (the first measurement in the series)</p>\n</div>\n</div>\n<div class=\"flex gap-24\">\n<div class=\"shrink-0\"><img class=\"lazyload\" src=\"https://cdn11.bigcommerce.com/s-ivbr30q0b6/images/stencil/original/image-manager/bridge.png?t=1736236204\" alt=\"\" width=\"100\" height=\"60\" data-src=\"https://cdn11.bigcommerce.com/s-ivbr30q0b6/images/stencil/original/image-manager/bridge.png?t=1736236204\" /></div>\n<div class=\"span-1\">\n<p><strong>Depth</strong></p>\n<p class=\"color-secondary font-14-md\">The measurement from front to back (the second measurement in the series)</p>\n</div>\n</div>\n<div class=\"flex gap-24\">\n<div class=\"shrink-0\"><img class=\"lazyload\" src=\"https://cdn11.bigcommerce.com/s-ivbr30q0b6/images/stencil/original/image-manager/temple-length-1736236238577.png?t=1736236239\" alt=\"\" width=\"100\" height=\"60\" data-src=\"https://cdn11.bigcommerce.com/s-ivbr30q0b6/images/stencil/original/image-manager/temple-length-1736236238577.png?t=1736236239\" /></div>\n<div class=\"span-1\">\n<p><strong>Height</strong></p>\n<p class=\"color-secondary font-14-md\">The total height from floor to the top of the backrest (the third measurement)</p>\n</div>\n</div>\n</div>\n<!-- /.fill-alt --></div>\n<!-- /.span-1 --></div>\n<!-- /.flex --> <!-- A row showing column headers for width, depth, height -->\n<div class=\"fill-alt flex child-span-1 border-y color-secondary font-14-md\">\n<div class=\"py-12 px-16\">&nbsp;</div>\n<div class=\"py-12 px-16 border-left\">Width</div>\n<div class=\"py-12 px-16 border-left\">Depth</div>\n<div class=\"py-12 px-16 border-left\">Height</div>\n</div>\n<!-- A row with actual measurements for \"Standard\" sofa sizing -->\n<div class=\"flex child-span-1 font-14-md\">\n<div class=\"fill-alt py-12 px-16 color-secondary\">Standard</div>\n<div class=\"py-12 px-16 border-left\">84\"</div>\n<div class=\"py-12 px-16 border-left\">38\"</div>\n<div class=\"py-12 px-16 border-left\">36\"</div>\n</div>\n</div>\n<!-- /#other-measurements --> <!-- A horizontal flex container with a bold heading and a button link -->\n<div class=\"flex flex-column-md border border-radius p-24 gap-24 align-items-center align-items-start-md des-mb-0\">\n<div class=\"span-1\"><strong class=\"font-18 font-16-md\">Not sure which size is right?</strong></div>\n<div class=\"shrink-0\"><a class=\"button button--outline\" href=\"#\"> Request free swatches </a></div>\n</div>\n<!-- Section: Upholstery and fabric options -->\n<h2 data-collapsible=\"prescription-and-lens-types-offered\">Upholstery and fabric options</h2>\n<div id=\"prescription-and-lens-types-offered\">\n<p><a class=\"button button--outline mb-0\" href=\"#\">Learn more in our fabric guide</a></p>\n<!-- \"Fabric type\" table-like layout -->\n<div class=\"flex flex-column-md border border-radius mb-16\">\n<div class=\"span-1 p-24\"><strong class=\"font-18 font-16-md\">Fabric type</strong></div>\n<div class=\"span-2 flex-column border-left font-14-md\"><!-- Header row with fill-alt background and two columns -->\n<div class=\"flex child-py-12 child-px-16\">\n<div class=\"span-1 fill-alt\">&nbsp;</div>\n<div class=\"span-1 fill-alt border-left\">Starting price</div>\n</div>\n<!-- Fabric listing rows -->\n<div class=\"flex child-py-12 child-px-16 border-top\">\n<div class=\"span-1 fill-alt\">Performance fabric</div>\n<div class=\"span-1 border-left\"><s>$1,295</s> <strong>$1,099</strong></div>\n</div>\n<div class=\"flex child-py-12 child-px-16 border-top\">\n<div class=\"span-1 fill-alt\">Premium velvet</div>\n<div class=\"span-1 border-left\"><s>$1,495</s> <strong>$1,270</strong></div>\n</div>\n<div class=\"flex child-py-12 child-px-16 border-top\">\n<div class=\"span-1 fill-alt\">Leather</div>\n<div class=\"span-1 border-left\"><s>$1,995</s> <strong>$1,695</strong></div>\n</div>\n<div class=\"flex child-py-12 child-px-16 border-top\">\n<div class=\"span-1 fill-alt\">Premium leather</div>\n<div class=\"span-1 border-left\"><s>$2,495</s> <strong>$2,120</strong></div>\n</div>\n</div>\n</div>\n<!-- /.flex border --> <!-- \"Cushion type\" table-like layout -->\n<div class=\"flex flex-column-md border border-radius mb-16\"><!-- Left label column -->\n<div class=\"span-1 p-24\"><strong class=\"font-18 font-16-md\">Cushion type</strong></div>\n<!-- Right column with stacked rows -->\n<div class=\"span-2 flex-column border-left font-14-md\"><!-- Header row with two columns, second has border-left -->\n<div class=\"flex child-py-12 child-px-16\">\n<div class=\"span-1 fill-alt\">&nbsp;</div>\n<div class=\"span-1 fill-alt border-left\">Additional cost</div>\n</div>\n<!-- Each subsequent row has border-top and two columns -->\n<div class=\"flex child-py-12 child-px-16 border-top\">\n<div class=\"span-1 fill-alt\">Standard foam</div>\n<div class=\"span-1 border-left\">Free</div>\n</div>\n<div class=\"flex child-py-12 child-px-16 border-top\">\n<div class=\"span-1 fill-alt\">Down blend</div>\n<div class=\"span-1 border-left\"><s>$300</s> <strong>$255</strong></div>\n</div>\n<div class=\"flex child-py-12 child-px-16 border-top\">\n<div class=\"span-1 fill-alt\">Memory foam</div>\n<div class=\"span-1 border-left\"><s>$250</s> <strong>$212.50</strong></div>\n</div>\n<div class=\"flex child-py-12 child-px-16 border-top\">\n<div class=\"span-1 fill-alt\">Extra firm</div>\n<div class=\"span-1 border-left\"><s>$200</s> <strong>$170</strong></div>\n</div>\n</div>\n<!-- /.span-2.flex-column --></div>\n<!-- /Cushion type block --> <!-- \"Frame material\" table-like layout -->\n<div class=\"flex flex-column-md border border-radius\"><!-- Left column for title -->\n<div class=\"span-1 p-24\"><strong class=\"font-18 font-16-md\">Frame material</strong></div>\n<!-- Right column with stacked rows -->\n<div class=\"span-2 flex-column border-left font-14-md\"><!-- Header row -->\n<div class=\"flex child-py-12 child-px-16\">\n<div class=\"span-1 fill-alt\">&nbsp;</div>\n<div class=\"span-1 fill-alt border-left\">Additional cost</div>\n</div>\n<!-- Material rows -->\n<div class=\"flex child-py-12 child-px-16 border-top\">\n<div class=\"span-1 fill-alt\">Kiln-dried hardwood</div>\n<div class=\"span-1 border-left\">Free</div>\n</div>\n<div class=\"flex child-py-12 child-px-16 border-top\">\n<div class=\"span-1 fill-alt\">Solid walnut</div>\n<div class=\"span-1 border-left\"><s>$400</s> <strong>$340</strong></div>\n</div>\n</div>\n<!-- /.span-2.flex-column --></div>\n<!-- /Frame material block --></div>\n<!-- /#upholstery-and-fabric-options --></div>\n<!-- /#width-guide --> <!-- Collapsible Section: Need Design Help? -->\n<h2 data-collapsible=\"need-a-prescription\">Need design help?</h2>\n<div id=\"need-a-prescription\"><!-- Option #1: In-store consultation -->\n<div class=\"border border-radius p-24 flex gap-24 mb-16\">\n<div class=\"shrink-0\"><img class=\"lazyload\" src=\"https://cdn11.bigcommerce.com/s-ivbr30q0b6/images/stencil/original/image-manager/book-an-in-person-eye-exam-1736828402708.png?t=1736828403\" alt=\"\" width=\"160\" height=\"160\" data-src=\"https://cdn11.bigcommerce.com/s-ivbr30q0b6/images/stencil/original/image-manager/book-an-in-person-eye-exam-1736828402708.png?t=1736828403\" /></div>\n<div class=\"span-1\">\n<p class=\"font-18 font-16-md mb-0\"><strong>Book an in-store consultation</strong></p>\n<p class=\"color-secondary font-14-md\">Meet with a design expert at one of our showrooms for personalized advice and fabric selection.</p>\n<a class=\"button button--outline\" href=\"#\">Schedule a consultation</a></div>\n</div>\n<!-- Option #2: Virtual design help -->\n<div class=\"border border-radius p-24 flex gap-24 mb-16\">\n<div class=\"shrink-0\"><img class=\"lazyload\" src=\"https://cdn11.bigcommerce.com/s-ivbr30q0b6/images/stencil/original/image-manager/renew-your-prescription-at-home-1736236325022.png?t=1736236326\" alt=\"\" width=\"160\" height=\"160\" data-src=\"https://cdn11.bigcommerce.com/s-ivbr30q0b6/images/stencil/original/image-manager/renew-your-prescription-at-home-1736236325022.png?t=1736236326\" /></div>\n<div class=\"span-1\">\n<p class=\"font-18 font-16-md mb-0\"><strong>Get virtual design assistance</strong></p>\n<p class=\"color-secondary font-14-md\">Connect with our design team via video chat to visualize how this sofa will look in your space.</p>\n<a class=\"button button--outline\" href=\"#\">Book a virtual consultation</a></div>\n</div>\n<!-- Already decided? -->\n<p class=\"font-18 font-16-md mb-0\"><strong>Already know what you want?</strong></p>\n<p class=\"color-secondary font-14-md\">During checkout, you'll be able to select your preferred fabric, cushion type, and delivery date. Free fabric swatches are available upon request.</p>\n</div>\n<!-- /#need-design-help --></div>",
+  "weight": 1,
+  "width": 0,
+  "depth": 0,
+  "height": 0,
+  "price": 999,
+  "cost_price": 1899,
+  "retail_price": 0,
+  "sale_price": 899,
+  "map_price": 0,
+  "tax_class_id": 0,
+  "product_tax_code": "",
+  "calculated_price": 899,
+  "categories": [
+    23,
+    72,
+    18,
+    70,
+    42,
+    45,
+    74,
+    80,
+    26,
+    34,
+    30,
+    33
+  ],
+  "brand_id": 0,
+  "option_set_id": 42,
+  "option_set_display": "right",
+  "inventory_level": 0,
+  "inventory_warning_level": 0,
+  "inventory_tracking": "none",
+  "reviews_rating_sum": 23,
+  "reviews_count": 5,
+  "total_sold": 3,
+  "fixed_cost_shipping_price": 0,
+  "is_free_shipping": false,
+  "is_visible": true,
+  "is_featured": true,
+  "related_products": [
+    -1
+  ],
+  "warranty": "",
+  "bin_picking_number": "",
+  "layout_file": "product.html",
+  "upc": "",
+  "mpn": "",
+  "gtin": "",
+  "date_last_imported": null,
+  "search_keywords": "hover, video, 360",
+  "availability": "available",
+  "availability_description": "",
+  "gift_wrapping_options_type": "any",
+  "gift_wrapping_options_list": [],
+  "sort_order": 0,
+  "condition": "New",
+  "is_condition_shown": false,
+  "order_quantity_minimum": 0,
+  "order_quantity_maximum": 0,
+  "page_title": "",
+  "meta_keywords": [],
+  "meta_description": "",
+  "date_created": "2025-03-13T08:59:24+00:00",
+  "date_modified": "2025-05-09T05:00:27+00:00",
+  "view_count": 0,
+  "preorder_release_date": null,
+  "preorder_message": "",
+  "is_preorder_only": false,
+  "is_price_hidden": false,
+  "price_hidden_label": "",
+  "custom_url": {
+    "url": "/brown-leather-l-shaped/",
+    "is_customized": false
+  },
+  "base_variant_id": null,
+  "open_graph_type": "product",
+  "open_graph_title": "",
+  "open_graph_description": "",
+  "open_graph_use_meta_description": true,
+  "open_graph_use_product_name": true,
+  "open_graph_use_image": true,
+  "channels": [
+    1
+  ],
+  "images": [
+    {
+      "id": 512,
+      "product_id": 139,
+      "is_thumbnail": false,
+      "sort_order": 2,
+      "description": "",
+      "image_file": "t/733/tvlgiao_A_cozy_and_sophisticated_living_space_featuring_a_dark__364f4c9f-f10c-4d14-bb7a-63bdcf4a0f2a__50140.png",
+      "url_zoom": "https://cdn11.bigcommerce.com/s-hhudllvhkp/products/139/images/512/tvlgiao_A_cozy_and_sophisticated_living_space_featuring_a_dark__364f4c9f-f10c-4d14-bb7a-63bdcf4a0f2a__50140.1741856928.1280.1280.png?c=1",
+      "url_standard": "https://cdn11.bigcommerce.com/s-hhudllvhkp/products/139/images/512/tvlgiao_A_cozy_and_sophisticated_living_space_featuring_a_dark__364f4c9f-f10c-4d14-bb7a-63bdcf4a0f2a__50140.1741856928.386.513.png?c=1",
+      "url_thumbnail": "https://cdn11.bigcommerce.com/s-hhudllvhkp/products/139/images/512/tvlgiao_A_cozy_and_sophisticated_living_space_featuring_a_dark__364f4c9f-f10c-4d14-bb7a-63bdcf4a0f2a__50140.1741856928.220.290.png?c=1",
+      "url_tiny": "https://cdn11.bigcommerce.com/s-hhudllvhkp/products/139/images/512/tvlgiao_A_cozy_and_sophisticated_living_space_featuring_a_dark__364f4c9f-f10c-4d14-bb7a-63bdcf4a0f2a__50140.1741856928.44.58.png?c=1",
+      "date_modified": "2025-03-13T09:08:48+00:00"
+    },
+    {
+      "id": 513,
+      "product_id": 139,
+      "is_thumbnail": false,
+      "sort_order": 1,
+      "description": "",
+      "image_file": "s/404/tvlgiao_A_cozy_and_sophisticated_living_space_featuring_a_dark__d1ebccb5-0fa9-44c3-a578-9d11c3ec8f11__42603.png",
+      "url_zoom": "https://cdn11.bigcommerce.com/s-hhudllvhkp/products/139/images/513/tvlgiao_A_cozy_and_sophisticated_living_space_featuring_a_dark__d1ebccb5-0fa9-44c3-a578-9d11c3ec8f11__42603.1741856928.1280.1280.png?c=1",
+      "url_standard": "https://cdn11.bigcommerce.com/s-hhudllvhkp/products/139/images/513/tvlgiao_A_cozy_and_sophisticated_living_space_featuring_a_dark__d1ebccb5-0fa9-44c3-a578-9d11c3ec8f11__42603.1741856928.386.513.png?c=1",
+      "url_thumbnail": "https://cdn11.bigcommerce.com/s-hhudllvhkp/products/139/images/513/tvlgiao_A_cozy_and_sophisticated_living_space_featuring_a_dark__d1ebccb5-0fa9-44c3-a578-9d11c3ec8f11__42603.1741856928.220.290.png?c=1",
+      "url_tiny": "https://cdn11.bigcommerce.com/s-hhudllvhkp/products/139/images/513/tvlgiao_A_cozy_and_sophisticated_living_space_featuring_a_dark__d1ebccb5-0fa9-44c3-a578-9d11c3ec8f11__42603.1741856928.44.58.png?c=1",
+      "date_modified": "2025-03-13T09:08:48+00:00"
+    },
+    {
+      "id": 514,
+      "product_id": 139,
+      "is_thumbnail": false,
+      "sort_order": 3,
+      "description": "",
+      "image_file": "d/779/tvlgiao_A_modern_minimalist_living_room_featuring_a_dark_brown__0f4aa954-e6a8-4f4c-827b-a79ee4cef420__71257.png",
+      "url_zoom": "https://cdn11.bigcommerce.com/s-hhudllvhkp/products/139/images/514/tvlgiao_A_modern_minimalist_living_room_featuring_a_dark_brown__0f4aa954-e6a8-4f4c-827b-a79ee4cef420__71257.1741856928.1280.1280.png?c=1",
+      "url_standard": "https://cdn11.bigcommerce.com/s-hhudllvhkp/products/139/images/514/tvlgiao_A_modern_minimalist_living_room_featuring_a_dark_brown__0f4aa954-e6a8-4f4c-827b-a79ee4cef420__71257.1741856928.386.513.png?c=1",
+      "url_thumbnail": "https://cdn11.bigcommerce.com/s-hhudllvhkp/products/139/images/514/tvlgiao_A_modern_minimalist_living_room_featuring_a_dark_brown__0f4aa954-e6a8-4f4c-827b-a79ee4cef420__71257.1741856928.220.290.png?c=1",
+      "url_tiny": "https://cdn11.bigcommerce.com/s-hhudllvhkp/products/139/images/514/tvlgiao_A_modern_minimalist_living_room_featuring_a_dark_brown__0f4aa954-e6a8-4f4c-827b-a79ee4cef420__71257.1741856928.44.58.png?c=1",
+      "date_modified": "2025-03-13T09:08:48+00:00"
+    },
+    {
+      "id": 511,
+      "product_id": 139,
+      "is_thumbnail": true,
+      "sort_order": 0,
+      "description": "",
+      "image_file": "j/741/tvlgiao_A_modern_beige_fabric_sofa_with_a_sleek_minimalist_desi_4d1cd707-4fcb-4178-8d10-672a7bd0b519__77588.jpg",
+      "url_zoom": "https://cdn11.bigcommerce.com/s-hhudllvhkp/products/139/images/511/tvlgiao_A_modern_beige_fabric_sofa_with_a_sleek_minimalist_desi_4d1cd707-4fcb-4178-8d10-672a7bd0b519__77588.1741856367.1280.1280.jpg?c=1",
+      "url_standard": "https://cdn11.bigcommerce.com/s-hhudllvhkp/products/139/images/511/tvlgiao_A_modern_beige_fabric_sofa_with_a_sleek_minimalist_desi_4d1cd707-4fcb-4178-8d10-672a7bd0b519__77588.1741856367.386.513.jpg?c=1",
+      "url_thumbnail": "https://cdn11.bigcommerce.com/s-hhudllvhkp/products/139/images/511/tvlgiao_A_modern_beige_fabric_sofa_with_a_sleek_minimalist_desi_4d1cd707-4fcb-4178-8d10-672a7bd0b519__77588.1741856367.220.290.jpg?c=1",
+      "url_tiny": "https://cdn11.bigcommerce.com/s-hhudllvhkp/products/139/images/511/tvlgiao_A_modern_beige_fabric_sofa_with_a_sleek_minimalist_desi_4d1cd707-4fcb-4178-8d10-672a7bd0b519__77588.1741856367.44.58.jpg?c=1",
+      "date_modified": "2025-03-13T08:59:27+00:00"
+    }
+  ],
+  "videos": [
+    {
+      "id": 31,
+      "type": "youtube",
+      "video_id": "tHMBHUN7xGM",
+      "product_id": 139,
+      "sort_order": 0,
+      "title": "EYEVA SOFAS DEMO",
+      "description": "",
+      "length": "00:47"
+    }
+  ],
+  "custom_fields": [
+    {
+      "id": 826,
+      "name": "__@modifiers_modal",
+      "value": "1"
+    },
+    {
+      "id": 827,
+      "name": "__@select_modifiers",
+      "value": "Customize"
+    },
+    {
+      "id": 828,
+      "name": "__@group Choose Exact Dimensions",
+      "value": "Main section length; Chaise length; Backrest height"
+    },
+    {
+      "id": 829,
+      "name": "__@group Choose Upholstery",
+      "value": "Upholstery"
+    },
+    {
+      "id": 830,
+      "name": "__@group Choose Color",
+      "value": "Premium Genuine Leather; Synthetic Leather (PU/Simili); High-Grade Fabric/Ni"
+    },
+    {
+      "id": 831,
+      "name": "__@group Choose Frame & Legs",
+      "value": "Frame; Legs"
+    },
+    {
+      "id": 832,
+      "name": "__@group Choose Accessories & Services",
+      "value": "Throw Pillows / Cushions; Cup Holder Tray; Leather Care Kit; Delivery & Installation"
+    },
+    {
+      "id": 833,
+      "name": "__@hide_if Upholstery: Premium Genuine Leather",
+      "value": "Synthetic Leather (PU/Simili); High-Grade Fabric/Ni"
+    },
+    {
+      "id": 834,
+      "name": "__@hide_if Upholstery: Synthetic Leather (PU/Simili)",
+      "value": "Premium Genuine Leather; High-Grade Fabric/Ni"
+    },
+    {
+      "id": 835,
+      "name": "__@hide_if Upholstery: High-Grade Fabric/Ni",
+      "value": "Premium Genuine Leather; Synthetic Leather (PU/Simili)"
+    },
+    {
+      "id": 836,
+      "name": "__@tooltip Main section length: 2m",
+      "value": "Recommended for smaller living rooms or tight spaces."
+    },
+    {
+      "id": 837,
+      "name": "__@tooltip Main section length: 2.2m",
+      "value": "Adds extra seating and legroom for a 3-seater configuration."
+    },
+    {
+      "id": 838,
+      "name": "__@tooltip Chaise length: 1.5m",
+      "value": "Standard chaise length—enough for one person to stretch out."
+    },
+    {
+      "id": 839,
+      "name": "__@tooltip Chaise length: 1.6m",
+      "value": "Longer chaise for additional comfort or taller individuals."
+    },
+    {
+      "id": 840,
+      "name": "__@tooltip Backrest height: 80cm",
+      "value": "Fixed standard height for balanced neck and back support."
+    },
+    {
+      "id": 841,
+      "name": "__@tooltip Upholstery",
+      "value": "Choose your preferred covering material—each affects feel, durability, and cost."
+    },
+    {
+      "id": 842,
+      "name": "__@tooltip Upholstery: Premium Genuine Leather",
+      "value": "High-end natural leather; luxurious finish with fewer color options."
+    },
+    {
+      "id": 843,
+      "name": "__@tooltip Upholstery: Synthetic Leather (PU/Simili)",
+      "value": "Budget-friendly alternative with moderate durability; comes in more color choices."
+    },
+    {
+      "id": 844,
+      "name": "__@tooltip Upholstery: High-Grade Fabric/Ni",
+      "value": "Soft and breathable; wide variety of colors and patterns available."
+    },
+    {
+      "id": 845,
+      "name": "__@tooltip Frame: Sapele Wood Frame",
+      "value": "Standard sturdy hardwood; no extra cost."
+    },
+    {
+      "id": 846,
+      "name": "__@tooltip Frame: Walnut Wood Frame",
+      "value": "Premium hardwood with rich color; higher cost."
+    },
+    {
+      "id": 847,
+      "name": "__@tooltip Frame: Metal Frame",
+      "value": "Lightweight yet durable; modern industrial look."
+    },
+    {
+      "id": 848,
+      "name": "__@tooltip Legs: Wooden Cylinder Legs",
+      "value": "Simple and classic; 10cm height for easy cleaning underneath."
+    },
+    {
+      "id": 849,
+      "name": "__@tooltip Legs: Angled Wooden Legs",
+      "value": "Adds a mid-century feel; slight additional cost."
+    },
+    {
+      "id": 850,
+      "name": "__@tooltip Legs: Metal Legs",
+      "value": "Sleek look; only compatible with metal or reinforced wood frames."
+    },
+    {
+      "id": 851,
+      "name": "__@tooltip Throw Pillows / Cushions: 30×50cm throw pillow",
+      "value": "Small accent pillows; match or contrast color for decorative flair."
+    },
+    {
+      "id": 852,
+      "name": "__@tooltip Throw Pillows / Cushions: 40×40cm back cushion",
+      "value": "Additional comfort and support; optional matching or contrasting colors."
+    },
+    {
+      "id": 853,
+      "name": "__@tooltip Cup Holder Tray",
+      "value": "Mounted on a wide armrest; convenient for drinks and remote controls."
+    },
+    {
+      "id": 854,
+      "name": "__@tooltip Leather Care Kit",
+      "value": "Cleaning solution and brush to maintain and protect leather surfaces."
+    },
+    {
+      "id": 855,
+      "name": "__@tooltip Delivery & Installation",
+      "value": "Free under 10km; extra fee beyond that distance. Professional setup included."
+    },
+    {
+      "id": 856,
+      "name": "__@tooltip Choose Exact Dimensions",
+      "value": "Specify the sofa’s length, chaise size, and any additional measurements."
+    },
+    {
+      "id": 857,
+      "name": "__@tooltip Choose Frame & Legs",
+      "value": "Select the sofa’s internal frame and leg style for stability and aesthetics."
+    },
+    {
+      "id": 858,
+      "name": "__@tooltip Choose Accessories & Services",
+      "value": "Enhance your sofa with extra cushions, functional add-ons, or coverage."
+    },
+    {
+      "id": 928,
+      "name": "__@360",
+      "value": "https://storage.themeforshop.com/eyeva-demo/sofa-brown-leather-l-shaped-360-1.jpg#90"
+    },
+    {
+      "id": 931,
+      "name": "__@card_video",
+      "value": "https://storage.themeforshop.com/eyeva-demo/sofa-brown-leather-l-shaped-h265.mp4"
+    },
+    {
+      "id": 937,
+      "name": "__@360",
+      "value": "https://cdn11.bigcommerce.com/s-hhudllvhkp/images/stencil/original/image-manager/sofa1-merged.jpg?t=1745821498#90"
+    },
+    {
+      "id": 955,
+      "name": "__badge",
+      "value": "Hover Video"
+    },
+    {
+      "id": 961,
+      "name": "__countdown_date",
+      "value": "12:00:00 -7"
+    },
+    {
+      "id": 962,
+      "name": "__countdown_label",
+      "value": "BLACK FRIDAY|ENDS IN"
+    }
+  ],
+  "bulk_pricing_rules": [],
+  "reviews": [
+    {
+      "id": 14,
+      "email": "",
+      "name": "Isabella White",
+      "rating": 4,
+      "text": "I've been using this sofa for a month now, and it still feels brand new. The fabric is soft, yet durable, and the color hasn't faded. It's a perfect size for my living room, and I've received many compliments from guests. Absolutely a must-have if you're looking for comfort and style.",
+      "title": "Stylish and Functional",
+      "status": "approved",
+      "date_created": "2025-03-14T07:15:00+00:00",
+      "date_modified": "2025-03-14T07:15:00+00:00",
+      "date_reviewed": "2025-03-14T07:15:00+00:00"
+    },
+    {
+      "id": 15,
+      "email": "",
+      "name": "Daniel Rivera",
+      "rating": 4,
+      "text": "I've been using this sofa for a month now, and it still feels brand new. The fabric is soft, yet durable, and the color hasn't faded. It's a perfect size for my living room, and I've received many compliments from guests. Absolutely a must-have if you're looking for comfort and style.",
+      "title": "Super Comfortable",
+      "status": "approved",
+      "date_created": "2025-03-14T07:15:37+00:00",
+      "date_modified": "2025-03-14T07:15:37+00:00",
+      "date_reviewed": "2025-03-14T07:15:37+00:00"
+    },
+    {
+      "id": 16,
+      "email": "",
+      "name": "Henry King",
+      "rating": 5,
+      "text": "I appreciate the craftsmanship in this product. The stitching is precise, and it holds up well over time. Highly recommend it.",
+      "title": "Exceeded Expectations",
+      "status": "approved",
+      "date_created": "2025-03-14T07:16:16+00:00",
+      "date_modified": "2025-03-14T07:16:16+00:00",
+      "date_reviewed": "2025-03-14T07:16:16+00:00"
+    },
+    {
+      "id": 17,
+      "email": "",
+      "name": "Daniel Rivera",
+      "rating": 5,
+      "text": "I was hesitant at first, but this sofa exceeded my expectations. The fabric is soft, the structure is sturdy, and it looks stylish.",
+      "title": "Would Buy Again",
+      "status": "approved",
+      "date_created": "2025-03-14T07:16:43+00:00",
+      "date_modified": "2025-03-14T07:16:43+00:00",
+      "date_reviewed": "2025-03-14T07:16:43+00:00"
+    },
+    {
+      "id": 18,
+      "email": "",
+      "name": "Liam Johnson",
+      "rating": 5,
+      "text": "I've been using this sofa for a month now, and it still feels brand new. The fabric is soft, yet durable, and the color hasn't faded. It's a perfect size for my living room, and I've received many compliments from guests. Absolutely a must-have if you're looking for comfort and style.",
+      "title": "Perfect for My Home",
+      "status": "approved",
+      "date_created": "2025-03-14T07:17:16+00:00",
+      "date_modified": "2025-03-14T07:17:16+00:00",
+      "date_reviewed": "2025-03-14T07:17:16+00:00"
+    }
+  ],
+  "options": [
+    {
+      "id": 482,
+      "product_id": 139,
+      "name": "Color1741856365-139",
+      "display_name": "Color",
+      "type": "swatch",
+      "sort_order": 0,
+      "option_values": [
+        {
+          "id": 218,
+          "label": "Brown",
+          "sort_order": 0,
+          "value_data": {
+            "image_url": "https://cdn11.bigcommerce.com/s-hhudllvhkp/product_images/attribute_value_images/218.preview.jpg?t=1741856367"
+          },
+          "is_default": false
+        },
+        {
+          "id": 219,
+          "label": "Green",
+          "sort_order": 2,
+          "value_data": {
+            "image_url": "https://cdn11.bigcommerce.com/s-hhudllvhkp/product_images/attribute_value_images/219.preview.jpg?t=1741856368"
+          },
+          "is_default": false
+        },
+        {
+          "id": 220,
+          "label": "Black",
+          "sort_order": 3,
+          "value_data": {
+            "image_url": "https://cdn11.bigcommerce.com/s-hhudllvhkp/product_images/attribute_value_images/220.preview.jpg?t=1741856367"
+          },
+          "is_default": false
+        }
+      ],
+      "config": []
+    },
+    {
+      "id": 483,
+      "product_id": 139,
+      "name": "Style",
+      "display_name": "Style",
+      "type": "rectangles",
+      "sort_order": 1,
+      "option_values": [
+        {
+          "id": 98,
+          "label": "Straight (I-shaped) - 2-seater",
+          "sort_order": 0,
+          "value_data": null,
+          "is_default": false
+        },
+        {
+          "id": 99,
+          "label": "Straight (I-shaped) - 3-seater",
+          "sort_order": 1,
+          "value_data": null,
+          "is_default": false
+        },
+        {
+          "id": 100,
+          "label": "L-shaped - Short",
+          "sort_order": 2,
+          "value_data": null,
+          "is_default": false
+        },
+        {
+          "id": 101,
+          "label": "L-shaped - Long",
+          "sort_order": 3,
+          "value_data": null,
+          "is_default": false
+        },
+        {
+          "id": 102,
+          "label": "U-shaped",
+          "sort_order": 4,
+          "value_data": null,
+          "is_default": false
+        }
+      ],
+      "config": []
+    }
+  ],
+  "modifiers": [
+    {
+      "id": 484,
+      "product_id": 139,
+      "name": "Main section length",
+      "display_name": "Main section length",
+      "type": "radio_buttons",
+      "required": true,
+      "sort_order": 2,
+      "config": [],
+      "option_values": [
+        {
+          "id": 103,
+          "option_id": 484,
+          "label": "2m",
+          "sort_order": 0,
+          "value_data": null,
+          "is_default": false,
+          "adjusters": {
+            "price": null,
+            "weight": null,
+            "image_url": "",
+            "purchasing_disabled": {
+              "status": false,
+              "message": ""
+            }
+          }
+        },
+        {
+          "id": 104,
+          "option_id": 484,
+          "label": "2.2m",
+          "sort_order": 1,
+          "value_data": null,
+          "is_default": false,
+          "adjusters": {
+            "price": {
+              "adjuster": "relative",
+              "adjuster_value": 100
+            },
+            "weight": null,
+            "image_url": "",
+            "purchasing_disabled": {
+              "status": false,
+              "message": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 485,
+      "product_id": 139,
+      "name": "Chaise length",
+      "display_name": "Chaise length",
+      "type": "radio_buttons",
+      "required": true,
+      "sort_order": 3,
+      "config": [],
+      "option_values": [
+        {
+          "id": 105,
+          "option_id": 485,
+          "label": "1.5m",
+          "sort_order": 0,
+          "value_data": null,
+          "is_default": false,
+          "adjusters": {
+            "price": null,
+            "weight": null,
+            "image_url": "",
+            "purchasing_disabled": {
+              "status": false,
+              "message": ""
+            }
+          }
+        },
+        {
+          "id": 106,
+          "option_id": 485,
+          "label": "1.6m",
+          "sort_order": 1,
+          "value_data": null,
+          "is_default": false,
+          "adjusters": {
+            "price": {
+              "adjuster": "relative",
+              "adjuster_value": 50
+            },
+            "weight": null,
+            "image_url": "",
+            "purchasing_disabled": {
+              "status": false,
+              "message": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 486,
+      "product_id": 139,
+      "name": "Backrest height",
+      "display_name": "Backrest height",
+      "type": "radio_buttons",
+      "required": true,
+      "sort_order": 4,
+      "config": [],
+      "option_values": [
+        {
+          "id": 107,
+          "option_id": 486,
+          "label": "80cm",
+          "sort_order": 0,
+          "value_data": null,
+          "is_default": false,
+          "adjusters": {
+            "price": null,
+            "weight": null,
+            "image_url": "",
+            "purchasing_disabled": {
+              "status": false,
+              "message": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 487,
+      "product_id": 139,
+      "name": "Upholstery",
+      "display_name": "Upholstery",
+      "type": "radio_buttons",
+      "required": true,
+      "sort_order": 5,
+      "config": [],
+      "option_values": [
+        {
+          "id": 108,
+          "option_id": 487,
+          "label": "Premium Genuine Leather",
+          "sort_order": 0,
+          "value_data": null,
+          "is_default": false,
+          "adjusters": {
+            "price": {
+              "adjuster": "relative",
+              "adjuster_value": 500
+            },
+            "weight": null,
+            "image_url": "",
+            "purchasing_disabled": {
+              "status": false,
+              "message": ""
+            }
+          }
+        },
+        {
+          "id": 109,
+          "option_id": 487,
+          "label": "Synthetic Leather (PU/Simili)",
+          "sort_order": 1,
+          "value_data": null,
+          "is_default": false,
+          "adjusters": {
+            "price": {
+              "adjuster": "relative",
+              "adjuster_value": 200
+            },
+            "weight": null,
+            "image_url": "",
+            "purchasing_disabled": {
+              "status": false,
+              "message": ""
+            }
+          }
+        },
+        {
+          "id": 110,
+          "option_id": 487,
+          "label": "High-Grade Fabric/Ni",
+          "sort_order": 2,
+          "value_data": null,
+          "is_default": false,
+          "adjusters": {
+            "price": {
+              "adjuster": "relative",
+              "adjuster_value": 100
+            },
+            "weight": null,
+            "image_url": "",
+            "purchasing_disabled": {
+              "status": false,
+              "message": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 488,
+      "product_id": 139,
+      "name": "Premium Genuine Leather",
+      "display_name": "Premium Genuine Leather",
+      "type": "swatch",
+      "required": false,
+      "sort_order": 6,
+      "config": [],
+      "option_values": [
+        {
+          "id": 111,
+          "option_id": 488,
+          "label": "Black",
+          "sort_order": 0,
+          "value_data": {
+            "colors": [
+              "#080808"
+            ]
+          },
+          "is_default": false,
+          "adjusters": {
+            "price": null,
+            "weight": null,
+            "image_url": "",
+            "purchasing_disabled": {
+              "status": false,
+              "message": ""
+            }
+          }
+        },
+        {
+          "id": 112,
+          "option_id": 488,
+          "label": "Dark Brown",
+          "sort_order": 1,
+          "value_data": {
+            "colors": [
+              "#6B1110"
+            ]
+          },
+          "is_default": false,
+          "adjusters": {
+            "price": null,
+            "weight": null,
+            "image_url": "",
+            "purchasing_disabled": {
+              "status": false,
+              "message": ""
+            }
+          }
+        },
+        {
+          "id": 113,
+          "option_id": 488,
+          "label": "Tan Brown",
+          "sort_order": 2,
+          "value_data": {
+            "colors": [
+              "#AC7366"
+            ]
+          },
+          "is_default": false,
+          "adjusters": {
+            "price": null,
+            "weight": null,
+            "image_url": "",
+            "purchasing_disabled": {
+              "status": false,
+              "message": ""
+            }
+          }
+        },
+        {
+          "id": 114,
+          "option_id": 488,
+          "label": "Olive Green",
+          "sort_order": 3,
+          "value_data": {
+            "colors": [
+              "#0A960C"
+            ]
+          },
+          "is_default": false,
+          "adjusters": {
+            "price": null,
+            "weight": null,
+            "image_url": "",
+            "purchasing_disabled": {
+              "status": false,
+              "message": ""
+            }
+          }
+        },
+        {
+          "id": 115,
+          "option_id": 488,
+          "label": "Gray",
+          "sort_order": 4,
+          "value_data": {
+            "colors": [
+              "#D8D6D6"
+            ]
+          },
+          "is_default": false,
+          "adjusters": {
+            "price": null,
+            "weight": null,
+            "image_url": "",
+            "purchasing_disabled": {
+              "status": false,
+              "message": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 489,
+      "product_id": 139,
+      "name": "Synthetic Leather (PU/Simili)",
+      "display_name": "Synthetic Leather (PU/Simili)",
+      "type": "swatch",
+      "required": false,
+      "sort_order": 7,
+      "config": [],
+      "option_values": [
+        {
+          "id": 116,
+          "option_id": 489,
+          "label": "Black",
+          "sort_order": 0,
+          "value_data": {
+            "colors": [
+              "#0E0D0D"
+            ]
+          },
+          "is_default": false,
+          "adjusters": {
+            "price": null,
+            "weight": null,
+            "image_url": "",
+            "purchasing_disabled": {
+              "status": false,
+              "message": ""
+            }
+          }
+        },
+        {
+          "id": 117,
+          "option_id": 489,
+          "label": "White",
+          "sort_order": 1,
+          "value_data": {
+            "colors": [
+              "#FFFFFF"
+            ]
+          },
+          "is_default": false,
+          "adjusters": {
+            "price": null,
+            "weight": null,
+            "image_url": "",
+            "purchasing_disabled": {
+              "status": false,
+              "message": ""
+            }
+          }
+        },
+        {
+          "id": 118,
+          "option_id": 489,
+          "label": "Brown",
+          "sort_order": 2,
+          "value_data": {
+            "colors": [
+              "#733C25"
+            ]
+          },
+          "is_default": false,
+          "adjusters": {
+            "price": null,
+            "weight": null,
+            "image_url": "",
+            "purchasing_disabled": {
+              "status": false,
+              "message": ""
+            }
+          }
+        },
+        {
+          "id": 119,
+          "option_id": 489,
+          "label": "Beige",
+          "sort_order": 3,
+          "value_data": {
+            "colors": [
+              "#BA9F9F"
+            ]
+          },
+          "is_default": false,
+          "adjusters": {
+            "price": null,
+            "weight": null,
+            "image_url": "",
+            "purchasing_disabled": {
+              "status": false,
+              "message": ""
+            }
+          }
+        },
+        {
+          "id": 120,
+          "option_id": 489,
+          "label": "Gray",
+          "sort_order": 4,
+          "value_data": {
+            "colors": [
+              "#929191"
+            ]
+          },
+          "is_default": false,
+          "adjusters": {
+            "price": null,
+            "weight": null,
+            "image_url": "",
+            "purchasing_disabled": {
+              "status": false,
+              "message": ""
+            }
+          }
+        },
+        {
+          "id": 121,
+          "option_id": 489,
+          "label": "Navy Blue",
+          "sort_order": 5,
+          "value_data": {
+            "colors": [
+              "#012D95"
+            ]
+          },
+          "is_default": false,
+          "adjusters": {
+            "price": null,
+            "weight": null,
+            "image_url": "",
+            "purchasing_disabled": {
+              "status": false,
+              "message": ""
+            }
+          }
+        },
+        {
+          "id": 122,
+          "option_id": 489,
+          "label": "Wine Red",
+          "sort_order": 6,
+          "value_data": {
+            "colors": [
+              "#6B1D04"
+            ]
+          },
+          "is_default": false,
+          "adjusters": {
+            "price": null,
+            "weight": null,
+            "image_url": "",
+            "purchasing_disabled": {
+              "status": false,
+              "message": ""
+            }
+          }
+        },
+        {
+          "id": 123,
+          "option_id": 489,
+          "label": "Dark Green",
+          "sort_order": 7,
+          "value_data": {
+            "colors": [
+              "#04631D"
+            ]
+          },
+          "is_default": false,
+          "adjusters": {
+            "price": null,
+            "weight": null,
+            "image_url": "",
+            "purchasing_disabled": {
+              "status": false,
+              "message": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 490,
+      "product_id": 139,
+      "name": "High-Grade Fabric/Ni",
+      "display_name": "High-Grade Fabric/Ni",
+      "type": "swatch",
+      "required": false,
+      "sort_order": 8,
+      "config": [],
+      "option_values": [
+        {
+          "id": 124,
+          "option_id": 490,
+          "label": "Navy",
+          "sort_order": 0,
+          "value_data": {
+            "colors": [
+              "#1203AD"
+            ]
+          },
+          "is_default": false,
+          "adjusters": {
+            "price": null,
+            "weight": null,
+            "image_url": "",
+            "purchasing_disabled": {
+              "status": false,
+              "message": ""
+            }
+          }
+        },
+        {
+          "id": 125,
+          "option_id": 490,
+          "label": "Mustard",
+          "sort_order": 1,
+          "value_data": {
+            "colors": [
+              "#0C5C27"
+            ]
+          },
+          "is_default": false,
+          "adjusters": {
+            "price": null,
+            "weight": null,
+            "image_url": "",
+            "purchasing_disabled": {
+              "status": false,
+              "message": ""
+            }
+          }
+        },
+        {
+          "id": 126,
+          "option_id": 490,
+          "label": "Light Gray",
+          "sort_order": 2,
+          "value_data": {
+            "colors": [
+              "#E2DFDF"
+            ]
+          },
+          "is_default": false,
+          "adjusters": {
+            "price": null,
+            "weight": null,
+            "image_url": "",
+            "purchasing_disabled": {
+              "status": false,
+              "message": ""
+            }
+          }
+        },
+        {
+          "id": 127,
+          "option_id": 490,
+          "label": "Dark Gray",
+          "sort_order": 3,
+          "value_data": {
+            "colors": [
+              "#6D6C6C"
+            ]
+          },
+          "is_default": false,
+          "adjusters": {
+            "price": null,
+            "weight": null,
+            "image_url": "",
+            "purchasing_disabled": {
+              "status": false,
+              "message": ""
+            }
+          }
+        },
+        {
+          "id": 128,
+          "option_id": 490,
+          "label": "Burgundy",
+          "sort_order": 4,
+          "value_data": {
+            "colors": [
+              "#A36D28"
+            ]
+          },
+          "is_default": false,
+          "adjusters": {
+            "price": null,
+            "weight": null,
+            "image_url": "",
+            "purchasing_disabled": {
+              "status": false,
+              "message": ""
+            }
+          }
+        },
+        {
+          "id": 129,
+          "option_id": 490,
+          "label": "Green",
+          "sort_order": 5,
+          "value_data": {
+            "colors": [
+              "#07AF12"
+            ]
+          },
+          "is_default": false,
+          "adjusters": {
+            "price": null,
+            "weight": null,
+            "image_url": "",
+            "purchasing_disabled": {
+              "status": false,
+              "message": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 491,
+      "product_id": 139,
+      "name": "Frame",
+      "display_name": "Frame",
+      "type": "radio_buttons",
+      "required": true,
+      "sort_order": 9,
+      "config": [],
+      "option_values": [
+        {
+          "id": 130,
+          "option_id": 491,
+          "label": "Sapele Wood Frame",
+          "sort_order": 0,
+          "value_data": null,
+          "is_default": false,
+          "adjusters": {
+            "price": null,
+            "weight": null,
+            "image_url": "",
+            "purchasing_disabled": {
+              "status": false,
+              "message": ""
+            }
+          }
+        },
+        {
+          "id": 131,
+          "option_id": 491,
+          "label": "Walnut Wood Frame",
+          "sort_order": 1,
+          "value_data": null,
+          "is_default": false,
+          "adjusters": {
+            "price": {
+              "adjuster": "relative",
+              "adjuster_value": 200
+            },
+            "weight": null,
+            "image_url": "",
+            "purchasing_disabled": {
+              "status": false,
+              "message": ""
+            }
+          }
+        },
+        {
+          "id": 132,
+          "option_id": 491,
+          "label": "Metal Frame",
+          "sort_order": 2,
+          "value_data": null,
+          "is_default": false,
+          "adjusters": {
+            "price": {
+              "adjuster": "relative",
+              "adjuster_value": 100
+            },
+            "weight": null,
+            "image_url": "",
+            "purchasing_disabled": {
+              "status": false,
+              "message": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 492,
+      "product_id": 139,
+      "name": "Legs",
+      "display_name": "Legs",
+      "type": "radio_buttons",
+      "required": true,
+      "sort_order": 10,
+      "config": [],
+      "option_values": [
+        {
+          "id": 133,
+          "option_id": 492,
+          "label": "Wooden Cylinder Legs",
+          "sort_order": 0,
+          "value_data": null,
+          "is_default": false,
+          "adjusters": {
+            "price": null,
+            "weight": null,
+            "image_url": "",
+            "purchasing_disabled": {
+              "status": false,
+              "message": ""
+            }
+          }
+        },
+        {
+          "id": 134,
+          "option_id": 492,
+          "label": "Angled Wooden Legs",
+          "sort_order": 1,
+          "value_data": null,
+          "is_default": false,
+          "adjusters": {
+            "price": {
+              "adjuster": "relative",
+              "adjuster_value": 30
+            },
+            "weight": null,
+            "image_url": "",
+            "purchasing_disabled": {
+              "status": false,
+              "message": ""
+            }
+          }
+        },
+        {
+          "id": 135,
+          "option_id": 492,
+          "label": "Metal Legs",
+          "sort_order": 2,
+          "value_data": null,
+          "is_default": false,
+          "adjusters": {
+            "price": {
+              "adjuster": "relative",
+              "adjuster_value": 50
+            },
+            "weight": null,
+            "image_url": "",
+            "purchasing_disabled": {
+              "status": false,
+              "message": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 493,
+      "product_id": 139,
+      "name": "Throw Pillows / Cushions",
+      "display_name": "Throw Pillows / Cushions",
+      "type": "radio_buttons",
+      "required": false,
+      "sort_order": 11,
+      "config": [],
+      "option_values": [
+        {
+          "id": 136,
+          "option_id": 493,
+          "label": "30×50cm throw pillow",
+          "sort_order": 0,
+          "value_data": null,
+          "is_default": false,
+          "adjusters": {
+            "price": {
+              "adjuster": "relative",
+              "adjuster_value": 20
+            },
+            "weight": null,
+            "image_url": "",
+            "purchasing_disabled": {
+              "status": false,
+              "message": ""
+            }
+          }
+        },
+        {
+          "id": 137,
+          "option_id": 493,
+          "label": "40×40cm back cushion",
+          "sort_order": 1,
+          "value_data": null,
+          "is_default": false,
+          "adjusters": {
+            "price": {
+              "adjuster": "relative",
+              "adjuster_value": 25
+            },
+            "weight": null,
+            "image_url": "",
+            "purchasing_disabled": {
+              "status": false,
+              "message": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 494,
+      "product_id": 139,
+      "name": "Cup Holder Tray",
+      "display_name": "Cup Holder Tray",
+      "type": "checkbox",
+      "required": false,
+      "sort_order": 12,
+      "config": {
+        "checkbox_label": "Yes",
+        "checked_by_default": false
+      },
+      "option_values": [
+        {
+          "id": 138,
+          "option_id": 494,
+          "label": "Yes",
+          "sort_order": 0,
+          "value_data": {
+            "checked_value": true
+          },
+          "is_default": false,
+          "adjusters": {
+            "price": null,
+            "weight": null,
+            "image_url": "",
+            "purchasing_disabled": {
+              "status": false,
+              "message": ""
+            }
+          }
+        },
+        {
+          "id": 139,
+          "option_id": 494,
+          "label": "No",
+          "sort_order": 1,
+          "value_data": {
+            "checked_value": false
+          },
+          "is_default": true,
+          "adjusters": {
+            "price": null,
+            "weight": null,
+            "image_url": "",
+            "purchasing_disabled": {
+              "status": false,
+              "message": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 495,
+      "product_id": 139,
+      "name": "Leather Care Kit",
+      "display_name": "Leather Care Kit",
+      "type": "checkbox",
+      "required": false,
+      "sort_order": 13,
+      "config": {
+        "checkbox_label": "Yes",
+        "checked_by_default": false
+      },
+      "option_values": [
+        {
+          "id": 140,
+          "option_id": 495,
+          "label": "Yes",
+          "sort_order": 0,
+          "value_data": {
+            "checked_value": true
+          },
+          "is_default": false,
+          "adjusters": {
+            "price": {
+              "adjuster": "relative",
+              "adjuster_value": 30
+            },
+            "weight": null,
+            "image_url": "",
+            "purchasing_disabled": {
+              "status": false,
+              "message": ""
+            }
+          }
+        },
+        {
+          "id": 141,
+          "option_id": 495,
+          "label": "No",
+          "sort_order": 1,
+          "value_data": {
+            "checked_value": false
+          },
+          "is_default": true,
+          "adjusters": {
+            "price": null,
+            "weight": null,
+            "image_url": "",
+            "purchasing_disabled": {
+              "status": false,
+              "message": ""
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 496,
+      "product_id": 139,
+      "name": "Delivery & Installation",
+      "display_name": "Delivery & Installation",
+      "type": "radio_buttons",
+      "required": false,
+      "sort_order": 14,
+      "config": [],
+      "option_values": [
+        {
+          "id": 142,
+          "option_id": 496,
+          "label": "Free within 10km radius",
+          "sort_order": 0,
+          "value_data": null,
+          "is_default": false,
+          "adjusters": {
+            "price": null,
+            "weight": null,
+            "image_url": "",
+            "purchasing_disabled": {
+              "status": false,
+              "message": ""
+            }
+          }
+        },
+        {
+          "id": 143,
+          "option_id": 496,
+          "label": "Additional $1/km beyond that",
+          "sort_order": 1,
+          "value_data": null,
+          "is_default": false,
+          "adjusters": {
+            "price": null,
+            "weight": null,
+            "image_url": "",
+            "purchasing_disabled": {
+              "status": false,
+              "message": ""
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "parent_relations": [],
+  "variants": [
+    {
+      "id": 510,
+      "product_id": 139,
+      "sku": "Sofa-0016-GR-ST-1-1-1-1-1-1-1-1-1-1",
+      "sku_id": 532,
+      "price": null,
+      "calculated_price": 899,
+      "sale_price": null,
+      "retail_price": null,
+      "map_price": null,
+      "fixed_cost_shipping_price": null,
+      "cost_price": 0,
+      "weight": null,
+      "width": null,
+      "height": null,
+      "depth": null,
+      "is_free_shipping": false,
+      "calculated_weight": 1,
+      "purchasing_disabled": false,
+      "purchasing_disabled_message": "",
+      "image_url": "",
+      "upc": "",
+      "mpn": "",
+      "gtin": "",
+      "inventory_level": 0,
+      "inventory_warning_level": 0,
+      "bin_picking_number": "",
+      "option_values": [
+        {
+          "id": 218,
+          "label": "Brown",
+          "option_id": 482,
+          "option_display_name": "Color"
+        },
+        {
+          "id": 98,
+          "label": "Straight (I-shaped) - 2-seater",
+          "option_id": 483,
+          "option_display_name": "Style"
+        }
+      ]
+    },
+    {
+      "id": 511,
+      "product_id": 139,
+      "sku": "Sofa-0015-GR-ST-1-1-1-1-1-1-1-1-1-1-1",
+      "sku_id": 533,
+      "price": null,
+      "calculated_price": 899,
+      "sale_price": null,
+      "retail_price": null,
+      "map_price": null,
+      "fixed_cost_shipping_price": null,
+      "cost_price": null,
+      "weight": null,
+      "width": null,
+      "height": null,
+      "depth": null,
+      "is_free_shipping": false,
+      "calculated_weight": 1,
+      "purchasing_disabled": false,
+      "purchasing_disabled_message": "",
+      "image_url": "",
+      "upc": "",
+      "mpn": "",
+      "gtin": "",
+      "inventory_level": 0,
+      "inventory_warning_level": 0,
+      "bin_picking_number": "",
+      "option_values": [
+        {
+          "id": 218,
+          "label": "Brown",
+          "option_id": 482,
+          "option_display_name": "Color"
+        },
+        {
+          "id": 99,
+          "label": "Straight (I-shaped) - 3-seater",
+          "option_id": 483,
+          "option_display_name": "Style"
+        }
+      ]
+    },
+    {
+      "id": 512,
+      "product_id": 139,
+      "sku": "Sofa-0016-GR-LS-1-1-1-1-1-1-1-1-1-1",
+      "sku_id": 534,
+      "price": null,
+      "calculated_price": 899,
+      "sale_price": null,
+      "retail_price": null,
+      "map_price": null,
+      "fixed_cost_shipping_price": null,
+      "cost_price": null,
+      "weight": null,
+      "width": null,
+      "height": null,
+      "depth": null,
+      "is_free_shipping": false,
+      "calculated_weight": 1,
+      "purchasing_disabled": false,
+      "purchasing_disabled_message": "",
+      "image_url": "",
+      "upc": "",
+      "mpn": "",
+      "gtin": "",
+      "inventory_level": 0,
+      "inventory_warning_level": 0,
+      "bin_picking_number": "",
+      "option_values": [
+        {
+          "id": 218,
+          "label": "Brown",
+          "option_id": 482,
+          "option_display_name": "Color"
+        },
+        {
+          "id": 100,
+          "label": "L-shaped - Short",
+          "option_id": 483,
+          "option_display_name": "Style"
+        }
+      ]
+    },
+    {
+      "id": 513,
+      "product_id": 139,
+      "sku": "Sofa-0015-GR-LS-1-1-1-1-1-1-1-1-1-1-1",
+      "sku_id": 535,
+      "price": null,
+      "calculated_price": 899,
+      "sale_price": null,
+      "retail_price": null,
+      "map_price": null,
+      "fixed_cost_shipping_price": null,
+      "cost_price": null,
+      "weight": null,
+      "width": null,
+      "height": null,
+      "depth": null,
+      "is_free_shipping": false,
+      "calculated_weight": 1,
+      "purchasing_disabled": false,
+      "purchasing_disabled_message": "",
+      "image_url": "",
+      "upc": "",
+      "mpn": "",
+      "gtin": "",
+      "inventory_level": 0,
+      "inventory_warning_level": 0,
+      "bin_picking_number": "",
+      "option_values": [
+        {
+          "id": 218,
+          "label": "Brown",
+          "option_id": 482,
+          "option_display_name": "Color"
+        },
+        {
+          "id": 101,
+          "label": "L-shaped - Long",
+          "option_id": 483,
+          "option_display_name": "Style"
+        }
+      ]
+    },
+    {
+      "id": 514,
+      "product_id": 139,
+      "sku": "Sofa-0015-GR-US-1-1-1-1-1-1-1-1-1-1",
+      "sku_id": 536,
+      "price": null,
+      "calculated_price": 899,
+      "sale_price": null,
+      "retail_price": null,
+      "map_price": null,
+      "fixed_cost_shipping_price": null,
+      "cost_price": null,
+      "weight": null,
+      "width": null,
+      "height": null,
+      "depth": null,
+      "is_free_shipping": false,
+      "calculated_weight": 1,
+      "purchasing_disabled": false,
+      "purchasing_disabled_message": "",
+      "image_url": "",
+      "upc": "",
+      "mpn": "",
+      "gtin": "",
+      "inventory_level": 0,
+      "inventory_warning_level": 0,
+      "bin_picking_number": "",
+      "option_values": [
+        {
+          "id": 218,
+          "label": "Brown",
+          "option_id": 482,
+          "option_display_name": "Color"
+        },
+        {
+          "id": 102,
+          "label": "U-shaped",
+          "option_id": 483,
+          "option_display_name": "Style"
+        }
+      ]
+    },
+    {
+      "id": 515,
+      "product_id": 139,
+      "sku": "Sofa-0016-PU-ST-1-1-1-1-1-1-1-1-1-1",
+      "sku_id": 537,
+      "price": null,
+      "calculated_price": 899,
+      "sale_price": null,
+      "retail_price": null,
+      "map_price": null,
+      "fixed_cost_shipping_price": null,
+      "cost_price": null,
+      "weight": null,
+      "width": null,
+      "height": null,
+      "depth": null,
+      "is_free_shipping": false,
+      "calculated_weight": 1,
+      "purchasing_disabled": false,
+      "purchasing_disabled_message": "",
+      "image_url": "",
+      "upc": "",
+      "mpn": "",
+      "gtin": "",
+      "inventory_level": 0,
+      "inventory_warning_level": 0,
+      "bin_picking_number": "",
+      "option_values": [
+        {
+          "id": 219,
+          "label": "Green",
+          "option_id": 482,
+          "option_display_name": "Color"
+        },
+        {
+          "id": 98,
+          "label": "Straight (I-shaped) - 2-seater",
+          "option_id": 483,
+          "option_display_name": "Style"
+        }
+      ]
+    },
+    {
+      "id": 516,
+      "product_id": 139,
+      "sku": "Sofa-0015-PU-ST-1-1-1-1-1-1-1-1-1-1-1",
+      "sku_id": 538,
+      "price": null,
+      "calculated_price": 899,
+      "sale_price": null,
+      "retail_price": null,
+      "map_price": null,
+      "fixed_cost_shipping_price": null,
+      "cost_price": null,
+      "weight": null,
+      "width": null,
+      "height": null,
+      "depth": null,
+      "is_free_shipping": false,
+      "calculated_weight": 1,
+      "purchasing_disabled": false,
+      "purchasing_disabled_message": "",
+      "image_url": "",
+      "upc": "",
+      "mpn": "",
+      "gtin": "",
+      "inventory_level": 0,
+      "inventory_warning_level": 0,
+      "bin_picking_number": "",
+      "option_values": [
+        {
+          "id": 219,
+          "label": "Green",
+          "option_id": 482,
+          "option_display_name": "Color"
+        },
+        {
+          "id": 99,
+          "label": "Straight (I-shaped) - 3-seater",
+          "option_id": 483,
+          "option_display_name": "Style"
+        }
+      ]
+    },
+    {
+      "id": 517,
+      "product_id": 139,
+      "sku": "Sofa-0016-PU-LS-1-1-1-1-1-1-1-1-1-1",
+      "sku_id": 539,
+      "price": null,
+      "calculated_price": 899,
+      "sale_price": null,
+      "retail_price": null,
+      "map_price": null,
+      "fixed_cost_shipping_price": null,
+      "cost_price": null,
+      "weight": null,
+      "width": null,
+      "height": null,
+      "depth": null,
+      "is_free_shipping": false,
+      "calculated_weight": 1,
+      "purchasing_disabled": false,
+      "purchasing_disabled_message": "",
+      "image_url": "",
+      "upc": "",
+      "mpn": "",
+      "gtin": "",
+      "inventory_level": 0,
+      "inventory_warning_level": 0,
+      "bin_picking_number": "",
+      "option_values": [
+        {
+          "id": 219,
+          "label": "Green",
+          "option_id": 482,
+          "option_display_name": "Color"
+        },
+        {
+          "id": 100,
+          "label": "L-shaped - Short",
+          "option_id": 483,
+          "option_display_name": "Style"
+        }
+      ]
+    },
+    {
+      "id": 518,
+      "product_id": 139,
+      "sku": "Sofa-0015-PU-LS-1-1-1-1-1-1-1-1-1-1-1",
+      "sku_id": 540,
+      "price": null,
+      "calculated_price": 899,
+      "sale_price": null,
+      "retail_price": null,
+      "map_price": null,
+      "fixed_cost_shipping_price": null,
+      "cost_price": null,
+      "weight": null,
+      "width": null,
+      "height": null,
+      "depth": null,
+      "is_free_shipping": false,
+      "calculated_weight": 1,
+      "purchasing_disabled": false,
+      "purchasing_disabled_message": "",
+      "image_url": "",
+      "upc": "",
+      "mpn": "",
+      "gtin": "",
+      "inventory_level": 0,
+      "inventory_warning_level": 0,
+      "bin_picking_number": "",
+      "option_values": [
+        {
+          "id": 219,
+          "label": "Green",
+          "option_id": 482,
+          "option_display_name": "Color"
+        },
+        {
+          "id": 101,
+          "label": "L-shaped - Long",
+          "option_id": 483,
+          "option_display_name": "Style"
+        }
+      ]
+    },
+    {
+      "id": 519,
+      "product_id": 139,
+      "sku": "Sofa-0015-PU-US-1-1-1-1-1-1-1-1-1-1",
+      "sku_id": 541,
+      "price": null,
+      "calculated_price": 899,
+      "sale_price": null,
+      "retail_price": null,
+      "map_price": null,
+      "fixed_cost_shipping_price": null,
+      "cost_price": null,
+      "weight": null,
+      "width": null,
+      "height": null,
+      "depth": null,
+      "is_free_shipping": false,
+      "calculated_weight": 1,
+      "purchasing_disabled": false,
+      "purchasing_disabled_message": "",
+      "image_url": "",
+      "upc": "",
+      "mpn": "",
+      "gtin": "",
+      "inventory_level": 0,
+      "inventory_warning_level": 0,
+      "bin_picking_number": "",
+      "option_values": [
+        {
+          "id": 219,
+          "label": "Green",
+          "option_id": 482,
+          "option_display_name": "Color"
+        },
+        {
+          "id": 102,
+          "label": "U-shaped",
+          "option_id": 483,
+          "option_display_name": "Style"
+        }
+      ]
+    },
+    {
+      "id": 520,
+      "product_id": 139,
+      "sku": "Sofa-0027-LI-ST-1-1",
+      "sku_id": 542,
+      "price": null,
+      "calculated_price": 899,
+      "sale_price": null,
+      "retail_price": null,
+      "map_price": null,
+      "fixed_cost_shipping_price": null,
+      "cost_price": null,
+      "weight": null,
+      "width": null,
+      "height": null,
+      "depth": null,
+      "is_free_shipping": false,
+      "calculated_weight": 1,
+      "purchasing_disabled": false,
+      "purchasing_disabled_message": "",
+      "image_url": "",
+      "upc": "",
+      "mpn": "",
+      "gtin": "",
+      "inventory_level": 0,
+      "inventory_warning_level": 0,
+      "bin_picking_number": "",
+      "option_values": [
+        {
+          "id": 220,
+          "label": "Black",
+          "option_id": 482,
+          "option_display_name": "Color"
+        },
+        {
+          "id": 98,
+          "label": "Straight (I-shaped) - 2-seater",
+          "option_id": 483,
+          "option_display_name": "Style"
+        }
+      ]
+    },
+    {
+      "id": 521,
+      "product_id": 139,
+      "sku": "Sofa-0025-LI-ST-1-1-1",
+      "sku_id": 543,
+      "price": null,
+      "calculated_price": 899,
+      "sale_price": null,
+      "retail_price": null,
+      "map_price": null,
+      "fixed_cost_shipping_price": null,
+      "cost_price": null,
+      "weight": null,
+      "width": null,
+      "height": null,
+      "depth": null,
+      "is_free_shipping": false,
+      "calculated_weight": 1,
+      "purchasing_disabled": false,
+      "purchasing_disabled_message": "",
+      "image_url": "",
+      "upc": "",
+      "mpn": "",
+      "gtin": "",
+      "inventory_level": 0,
+      "inventory_warning_level": 0,
+      "bin_picking_number": "",
+      "option_values": [
+        {
+          "id": 220,
+          "label": "Black",
+          "option_id": 482,
+          "option_display_name": "Color"
+        },
+        {
+          "id": 99,
+          "label": "Straight (I-shaped) - 3-seater",
+          "option_id": 483,
+          "option_display_name": "Style"
+        }
+      ]
+    },
+    {
+      "id": 522,
+      "product_id": 139,
+      "sku": "Sofa-0027-LI-LS-1-1",
+      "sku_id": 544,
+      "price": null,
+      "calculated_price": 899,
+      "sale_price": null,
+      "retail_price": null,
+      "map_price": null,
+      "fixed_cost_shipping_price": null,
+      "cost_price": null,
+      "weight": null,
+      "width": null,
+      "height": null,
+      "depth": null,
+      "is_free_shipping": false,
+      "calculated_weight": 1,
+      "purchasing_disabled": false,
+      "purchasing_disabled_message": "",
+      "image_url": "",
+      "upc": "",
+      "mpn": "",
+      "gtin": "",
+      "inventory_level": 0,
+      "inventory_warning_level": 0,
+      "bin_picking_number": "",
+      "option_values": [
+        {
+          "id": 220,
+          "label": "Black",
+          "option_id": 482,
+          "option_display_name": "Color"
+        },
+        {
+          "id": 100,
+          "label": "L-shaped - Short",
+          "option_id": 483,
+          "option_display_name": "Style"
+        }
+      ]
+    },
+    {
+      "id": 523,
+      "product_id": 139,
+      "sku": "Sofa-0025-LI-LS-1-1-1",
+      "sku_id": 545,
+      "price": null,
+      "calculated_price": 899,
+      "sale_price": null,
+      "retail_price": null,
+      "map_price": null,
+      "fixed_cost_shipping_price": null,
+      "cost_price": null,
+      "weight": null,
+      "width": null,
+      "height": null,
+      "depth": null,
+      "is_free_shipping": false,
+      "calculated_weight": 1,
+      "purchasing_disabled": false,
+      "purchasing_disabled_message": "",
+      "image_url": "",
+      "upc": "",
+      "mpn": "",
+      "gtin": "",
+      "inventory_level": 0,
+      "inventory_warning_level": 0,
+      "bin_picking_number": "",
+      "option_values": [
+        {
+          "id": 220,
+          "label": "Black",
+          "option_id": 482,
+          "option_display_name": "Color"
+        },
+        {
+          "id": 101,
+          "label": "L-shaped - Long",
+          "option_id": 483,
+          "option_display_name": "Style"
+        }
+      ]
+    },
+    {
+      "id": 524,
+      "product_id": 139,
+      "sku": "Sofa-0025-LI-US-1-1",
+      "sku_id": 546,
+      "price": null,
+      "calculated_price": 899,
+      "sale_price": null,
+      "retail_price": null,
+      "map_price": null,
+      "fixed_cost_shipping_price": null,
+      "cost_price": null,
+      "weight": null,
+      "width": null,
+      "height": null,
+      "depth": null,
+      "is_free_shipping": false,
+      "calculated_weight": 1,
+      "purchasing_disabled": false,
+      "purchasing_disabled_message": "",
+      "image_url": "",
+      "upc": "",
+      "mpn": "",
+      "gtin": "",
+      "inventory_level": 0,
+      "inventory_warning_level": 0,
+      "bin_picking_number": "",
+      "option_values": [
+        {
+          "id": 220,
+          "label": "Black",
+          "option_id": 482,
+          "option_display_name": "Color"
+        },
+        {
+          "id": 102,
+          "label": "U-shaped",
+          "option_id": 483,
+          "option_display_name": "Style"
+        }
+      ]
+    }
+  ],
+  "category_details": [
+    {
+      "id": 18,
+      "parent_id": 0,
+      "name": "Bedroom",
+      "description": "",
+      "views": 0,
+      "sort_order": 3,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "category_with_facets.html",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/bedroom/",
+        "is_customized": false
+      },
+      "image_url": "https://cdn11.bigcommerce.com/s-hhudllvhkp/product_images/k/tvlgiao_imagine_banner_shop_sofas_for_website_funiture_minimals_ba830787-ac16-4a83-beec-cd97b0f581a0.png__43143.jpg"
+    },
+    {
+      "id": 19,
+      "parent_id": 0,
+      "name": "Dining",
+      "description": "",
+      "views": 0,
+      "sort_order": 2,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "category_with_facets.html",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/dining/",
+        "is_customized": false
+      },
+      "image_url": "https://cdn11.bigcommerce.com/s-hhudllvhkp/product_images/t/dining__26120.png"
+    },
+    {
+      "id": 21,
+      "parent_id": 0,
+      "name": "Outdoor",
+      "description": "",
+      "views": 0,
+      "sort_order": 4,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "category_with_facets.html",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/outdoor/",
+        "is_customized": false
+      },
+      "image_url": "https://cdn11.bigcommerce.com/s-hhudllvhkp/product_images/c/outdoor__81198.png"
+    },
+    {
+      "id": 23,
+      "parent_id": 0,
+      "name": "Living",
+      "description": "",
+      "views": 0,
+      "sort_order": 1,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "category_with_facets.html",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/living/",
+        "is_customized": false
+      },
+      "image_url": "https://cdn11.bigcommerce.com/s-hhudllvhkp/product_images/n/living__96416.png"
+    },
+    {
+      "id": 25,
+      "parent_id": 23,
+      "name": "Coffee Tables",
+      "description": "",
+      "views": 0,
+      "sort_order": 4,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/living/coffee-tables/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 26,
+      "parent_id": 23,
+      "name": "Sofas & Sectionals",
+      "description": "",
+      "views": 0,
+      "sort_order": 6,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/living/sofas-sectionals/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 27,
+      "parent_id": 23,
+      "name": "TV Stands & Media Consoles",
+      "description": "",
+      "views": 0,
+      "sort_order": 7,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/living/tv-stands-media-consoles/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 28,
+      "parent_id": 23,
+      "name": "Bookcases & Shelving",
+      "description": "",
+      "views": 0,
+      "sort_order": 3,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/living/bookcases-shelving/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 29,
+      "parent_id": 23,
+      "name": "Living Room Sets",
+      "description": "",
+      "views": 0,
+      "sort_order": 5,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/living/living-room-sets/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 30,
+      "parent_id": 26,
+      "name": "Loveseats",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/living/accent-chairs/loveseats/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 31,
+      "parent_id": 26,
+      "name": "Recliners",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/living/accent-chairs/recliners/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 32,
+      "parent_id": 26,
+      "name": "Modular Sofas",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/living/accent-chairs/modular-sofas/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 33,
+      "parent_id": 26,
+      "name": "Sleeper Sofas",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/living/accent-chairs/sleeper-sofas/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 34,
+      "parent_id": 26,
+      "name": "Leather Sofas",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/living/accent-chairs/leather-sofas/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 35,
+      "parent_id": 26,
+      "name": "Fabric Sofas",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/living/accent-chairs/fabric-sofas/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 36,
+      "parent_id": 28,
+      "name": "Open Shelving Units",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/living/bookcases-shelving/open-shelving-units/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 37,
+      "parent_id": 28,
+      "name": "Corner Bookshelves",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/living/bookcases-shelving/corner-bookshelves/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 38,
+      "parent_id": 28,
+      "name": "Cube Storage",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/living/bookcases-shelving/cube-storage/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 39,
+      "parent_id": 28,
+      "name": "Floating Shelves",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/living/bookcases-shelving/floating-shelves/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 40,
+      "parent_id": 28,
+      "name": "Ladder Bookshelves",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/living/bookcases-shelving/ladder-bookshelves/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 41,
+      "parent_id": 28,
+      "name": "Rustic Wood Shelves",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/living/bookcases-shelving/rustic-wood-shelves/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 42,
+      "parent_id": 23,
+      "name": "Accent Chairs",
+      "description": "",
+      "views": 0,
+      "sort_order": 2,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/living/accent-chairs/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 43,
+      "parent_id": 42,
+      "name": "Lounge Chairs",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/living/accent-chairs/lounge-chairs/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 44,
+      "parent_id": 42,
+      "name": "Swivel Chairs",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/living/accent-chairs/swivel-chairs/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 45,
+      "parent_id": 42,
+      "name": "Armchairs",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/living/accent-chairs/armchairs/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 46,
+      "parent_id": 42,
+      "name": "Rocking Chairs",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/living/accent-chairs/rocking-chairs/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 47,
+      "parent_id": 42,
+      "name": "Tufted Chairs",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/living/accent-chairs/tufted-chairs/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 48,
+      "parent_id": 42,
+      "name": "Velvet Chairs",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/living/accent-chairs/velvet-chairs/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 49,
+      "parent_id": 25,
+      "name": "Round Coffee Tables",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/living/coffee-tables/round-coffee-tables/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 50,
+      "parent_id": 25,
+      "name": "Rectangular Coffee Tables",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/living/coffee-tables/rectangular-coffee-tables/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 51,
+      "parent_id": 25,
+      "name": "Glass Top Tables",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/living/coffee-tables/glass-top-tables/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 52,
+      "parent_id": 25,
+      "name": "Wooden Tables",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/living/coffee-tables/wooden-tables/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 53,
+      "parent_id": 25,
+      "name": "Lift-Top Coffee Tables",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/living/coffee-tables/lift-top-coffee-tables/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 54,
+      "parent_id": 25,
+      "name": "Nesting Tables",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/living/coffee-tables/nesting-tables/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 55,
+      "parent_id": 29,
+      "name": "3-Piece Sofa Sets",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/living/living-room-sets/3-piece-sofa-sets/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 56,
+      "parent_id": 29,
+      "name": "Modern Lounge Sets",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/living/living-room-sets/modern-lounge-sets/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 57,
+      "parent_id": 29,
+      "name": "Traditional Furniture Sets",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/living/living-room-sets/traditional-furniture-sets/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 58,
+      "parent_id": 29,
+      "name": "Minimalist Sets",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/living/living-room-sets/minimalist-sets/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 59,
+      "parent_id": 29,
+      "name": "Luxury Velvet Sets",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/living/living-room-sets/luxury-velvet-sets/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 60,
+      "parent_id": 29,
+      "name": "Scandinavian Living Sets",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/living/living-room-sets/scandinavian-living-sets/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 61,
+      "parent_id": 27,
+      "name": "Floating TV Stands",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/living/tv-stands-media-consoles/floating-tv-stands/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 62,
+      "parent_id": 27,
+      "name": "Wooden Consoles",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/living/tv-stands-media-consoles/wooden-consoles/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 63,
+      "parent_id": 27,
+      "name": "Glass Media Units",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/living/tv-stands-media-consoles/glass-media-units/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 64,
+      "parent_id": 27,
+      "name": "LED-Lit Consoles",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/living/tv-stands-media-consoles/led-lit-consoles/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 65,
+      "parent_id": 27,
+      "name": "Minimalist Stands",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/living/tv-stands-media-consoles/led-lit-consoles-1/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 66,
+      "parent_id": 27,
+      "name": "Industrial TV Units",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/living/tv-stands-media-consoles/industrial-tv-units/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 67,
+      "parent_id": 18,
+      "name": "Beds & Frames",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/bedroom/beds-frames/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 68,
+      "parent_id": 18,
+      "name": "Nightstands",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/bedroom/nightstands/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 69,
+      "parent_id": 18,
+      "name": "Dressers & Chests",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/bedroom/dressers-chests/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 70,
+      "parent_id": 18,
+      "name": "Bedroom Benches",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/bedroom/bedroom-benches/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 71,
+      "parent_id": 18,
+      "name": "Mattresses",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/bedroom/mattresses/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 72,
+      "parent_id": 18,
+      "name": "Bedroom Sets",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/bedroom/bedroom-sets/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 73,
+      "parent_id": 70,
+      "name": "Upholstered Benches",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/bedroom/bedroom-benches/upholstered-benches/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 74,
+      "parent_id": 70,
+      "name": "Wooden Benches",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/bedroom/bedroom-benches/wooden-benches/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 75,
+      "parent_id": 70,
+      "name": "Velvet Storage Benches",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/bedroom/bedroom-benches/velvet-storage-benches/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 76,
+      "parent_id": 70,
+      "name": "Tufted Benches",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/bedroom/bedroom-benches/tufted-benches/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 77,
+      "parent_id": 70,
+      "name": "End-of-Bed Benches",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/bedroom/bedroom-benches/end-of-bed-benches/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 78,
+      "parent_id": 70,
+      "name": "Entryway Benches",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/bedroom/bedroom-benches/entryway-benches/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 79,
+      "parent_id": 72,
+      "name": "Modern Bedroom Sets",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/bedroom/bedroom-sets/modern-bedroom-sets/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 80,
+      "parent_id": 72,
+      "name": "Rustic Wooden Sets",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/bedroom/bedroom-sets/rustic-wooden-sets/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 81,
+      "parent_id": 72,
+      "name": "Scandinavian Sets",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/bedroom/bedroom-sets/scandinavian-sets/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 82,
+      "parent_id": 72,
+      "name": "Minimalist Sets",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/bedroom/bedroom-sets/minimalist-sets/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 83,
+      "parent_id": 72,
+      "name": "Luxury Upholstered Sets",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/bedroom/bedroom-sets/luxury-upholstered-sets/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 84,
+      "parent_id": 72,
+      "name": "Bohemian Bedroom Sets",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/bedroom/bedroom-sets/bohemian-bedroom-sets/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 85,
+      "parent_id": 67,
+      "name": "King Beds",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/bedroom/beds-frames/king-beds/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 86,
+      "parent_id": 67,
+      "name": "Queen Beds",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/bedroom/beds-frames/queen-beds/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 87,
+      "parent_id": 67,
+      "name": "Platform Beds",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/bedroom/beds-frames/platform-beds/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 88,
+      "parent_id": 67,
+      "name": "Canopy Beds",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/bedroom/beds-frames/canopy-beds/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 89,
+      "parent_id": 67,
+      "name": "Storage Beds",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/bedroom/beds-frames/storage-beds/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 90,
+      "parent_id": 67,
+      "name": "Upholstered Beds",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/bedroom/beds-frames/upholstered-beds/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 91,
+      "parent_id": 69,
+      "name": "3-Drawer Dressers",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/bedroom/dressers-chests/3-drawer-dressers/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 92,
+      "parent_id": 69,
+      "name": "6-Drawer Dressers",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/bedroom/dressers-chests/6-drawer-dressers/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 93,
+      "parent_id": 69,
+      "name": "Mirrored Dressers",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/bedroom/dressers-chests/mirrored-dressers/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 94,
+      "parent_id": 69,
+      "name": "Tallboy Chests",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/bedroom/dressers-chests/tallboy-chests/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 95,
+      "parent_id": 69,
+      "name": "Wardrobe Dressers",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/bedroom/dressers-chests/wardrobe-dressers/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 96,
+      "parent_id": 69,
+      "name": "Luxury Wooden Chests",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/bedroom/dressers-chests/luxury-wooden-chests/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 97,
+      "parent_id": 71,
+      "name": "Memory Foam Mattresses",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/bedroom/mattresses/memory-foam-mattresses/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 98,
+      "parent_id": 71,
+      "name": "Hybrid Mattresses",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/bedroom/mattresses/hybrid-mattresses/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 99,
+      "parent_id": 71,
+      "name": "Innerspring Mattresses",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/bedroom/mattresses/innerspring-mattresses/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 100,
+      "parent_id": 71,
+      "name": "Organic Latex Mattresses",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/bedroom/mattresses/organic-latex-mattresses/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 101,
+      "parent_id": 71,
+      "name": "Cooling Gel Mattresses",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/bedroom/mattresses/organic-latex-mattresses-1/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 102,
+      "parent_id": 71,
+      "name": "Adjustable Base Mattresses",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/bedroom/mattresses/adjustable-base-mattresses/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 103,
+      "parent_id": 68,
+      "name": "Wooden Nightstands",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/bedroom/nightstands/wooden-nightstands/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 104,
+      "parent_id": 68,
+      "name": "Floating Nightstands",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/bedroom/nightstands/floating-nightstands/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 105,
+      "parent_id": 68,
+      "name": "Drawer Nightstands",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/bedroom/nightstands/drawer-nightstands/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 106,
+      "parent_id": 68,
+      "name": "Industrial Nightstands",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/bedroom/nightstands/drawer-nightstands-1/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 107,
+      "parent_id": 68,
+      "name": "Minimalist Nightstands",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/bedroom/nightstands/minimalist-nightstands/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 108,
+      "parent_id": 68,
+      "name": "Mid-Century Nightstands",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/bedroom/nightstands/mid-century-nightstands/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 109,
+      "parent_id": 19,
+      "name": "Dining Tables",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/dining/dining-tables/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 110,
+      "parent_id": 19,
+      "name": "Dining Chairs",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/dining/dining-chairs/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 111,
+      "parent_id": 19,
+      "name": "Dining Sets",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/dining/dining-sets/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 112,
+      "parent_id": 19,
+      "name": "Buffets & Sideboards",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/dining/buffets-sideboards/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 113,
+      "parent_id": 19,
+      "name": "Bar Stools & Counter Stools",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/dining/bar-stools-counter-stools/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 114,
+      "parent_id": 19,
+      "name": "Tableware & Dining Decor",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/dining/tableware-dining-decor/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 115,
+      "parent_id": 113,
+      "name": "Swivel Bar Stools",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/dining/bar-stools-counter-stools/swivel-bar-stools/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 116,
+      "parent_id": 113,
+      "name": "Adjustable Counter Stools",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/dining/bar-stools-counter-stools/adjustable-counter-stools/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 117,
+      "parent_id": 113,
+      "name": "Upholstered Bar Stools",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/dining/bar-stools-counter-stools/upholstered-bar-stools/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 118,
+      "parent_id": 113,
+      "name": "Wooden Counter Stools",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/dining/bar-stools-counter-stools/wooden-counter-stools/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 119,
+      "parent_id": 113,
+      "name": "Modern Metal Stools",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/dining/bar-stools-counter-stools/modern-metal-stools/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 120,
+      "parent_id": 113,
+      "name": "Industrial Bar Stools",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/dining/bar-stools-counter-stools/industrial-bar-stools/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 121,
+      "parent_id": 112,
+      "name": "Wooden Sideboards",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/new-category",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 122,
+      "parent_id": 112,
+      "name": "Mirrored Buffets",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/dining/buffets-sideboards/mirrored-buffets/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 123,
+      "parent_id": 112,
+      "name": "Minimalist Sideboards",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/dining/buffets-sideboards/mirrored-buffets-1/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 124,
+      "parent_id": 112,
+      "name": "Industrial Buffets",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/dining/buffets-sideboards/industrial-buffets/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 125,
+      "parent_id": 112,
+      "name": "Mid-Century Sideboards",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/dining/buffets-sideboards/mid-century-sideboards/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 126,
+      "parent_id": 112,
+      "name": "High-Gloss Buffets",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/dining/buffets-sideboards/high-gloss-buffets/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 127,
+      "parent_id": 110,
+      "name": "Upholstered Dining Chairs",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": null,
+      "image_url": ""
+    },
+    {
+      "id": 128,
+      "parent_id": 110,
+      "name": "Wooden Dining Chairs",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/dining/dining-chairs/upholstered-dining-chairs/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 129,
+      "parent_id": 110,
+      "name": "Velvet Dining Chairs",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/dining/dining-chairs/velvet-dining-chairs/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 130,
+      "parent_id": 110,
+      "name": "Leather Dining Chairs",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/dining/dining-chairs/leather-dining-chairs/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 131,
+      "parent_id": 110,
+      "name": "Modern Metal Chairs",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/dining/dining-chairs/modern-metal-chairs/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 132,
+      "parent_id": 110,
+      "name": "Scandinavian Dining Chairs",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/dining/dining-chairs/scandinavian-dining-chairs/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 133,
+      "parent_id": 111,
+      "name": "4-Seater Dining Sets",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/dining/dining-sets/4-seater-dining-sets/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 134,
+      "parent_id": 111,
+      "name": "6-Seater Dining Sets",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": null,
+      "image_url": ""
+    },
+    {
+      "id": 135,
+      "parent_id": 111,
+      "name": "8-Seater Dining Sets",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/dining/dining-sets/8-seater-dining-sets/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 136,
+      "parent_id": 111,
+      "name": "Round Dining Sets",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/dining/dining-sets/round-dining-sets/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 137,
+      "parent_id": 111,
+      "name": "Rustic Wooden Sets",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/dining/dining-sets/round-dining-sets-1/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 138,
+      "parent_id": 111,
+      "name": "Glass Table Sets",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/dining/dining-sets/glass-table-sets/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 139,
+      "parent_id": 109,
+      "name": "Round Dining Tables",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/dining/dining-tables/round-dining-tables/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 140,
+      "parent_id": 109,
+      "name": "Extendable Dining Tables",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/dining/dining-tables/extendable-dining-tables/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 141,
+      "parent_id": 109,
+      "name": "Wooden Dining Tables",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/dining/dining-tables/extendable-dining-tables-1/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 142,
+      "parent_id": 109,
+      "name": "Glass Dining Tables",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": null,
+      "image_url": ""
+    },
+    {
+      "id": 143,
+      "parent_id": 109,
+      "name": "Marble Top Tables",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/dining/dining-tables/marble-top-tables/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 144,
+      "parent_id": 109,
+      "name": "Minimalist Dining Tables",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/dining/dining-tables/minimalist-dining-tables/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 145,
+      "parent_id": 114,
+      "name": "Dinnerware Sets",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": null,
+      "image_url": ""
+    },
+    {
+      "id": 146,
+      "parent_id": 114,
+      "name": "Glassware & Stemware",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/dining/tableware-dining-decor/glassware-stemware/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 147,
+      "parent_id": 114,
+      "name": "Table Runners & Napkins",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/dining/tableware-dining-decor/table-runners-napkins/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 148,
+      "parent_id": 114,
+      "name": "Candle Holders & Centerpieces",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/dining/tableware-dining-decor/candle-holders-centerpieces/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 149,
+      "parent_id": 114,
+      "name": "Placemats & Coasters",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/dining/tableware-dining-decor/candle-holders-centerpieces-1/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 150,
+      "parent_id": 114,
+      "name": "Serving Trays & Bowls",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/dining/tableware-dining-decor/serving-trays-bowls/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 151,
+      "parent_id": 21,
+      "name": "Outdoor Sofas & Sectionals",
+      "description": "",
+      "views": 0,
+      "sort_order": 4,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/outdoor/outdoor-sofas-sectionals/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 152,
+      "parent_id": 21,
+      "name": "Patio Dining Sets",
+      "description": "",
+      "views": 0,
+      "sort_order": 6,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/outdoor/patio-dining-sets/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 153,
+      "parent_id": 21,
+      "name": "Outdoor Chairs & Loungers",
+      "description": "",
+      "views": 0,
+      "sort_order": 3,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/outdoor/outdoor-chairs-loungers/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 154,
+      "parent_id": 21,
+      "name": "Outdoor Tables",
+      "description": "",
+      "views": 0,
+      "sort_order": 5,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/outdoor/outdoor-tables/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 155,
+      "parent_id": 21,
+      "name": "Umbrellas & Shades",
+      "description": "",
+      "views": 0,
+      "sort_order": 7,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/outdoor/umbrellas-shades/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 156,
+      "parent_id": 21,
+      "name": "Outdoor Accessories",
+      "description": "",
+      "views": 0,
+      "sort_order": 2,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/outdoor/umbrellas-shades-1/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 157,
+      "parent_id": 156,
+      "name": "Patio Rugs",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": null,
+      "image_url": ""
+    },
+    {
+      "id": 158,
+      "parent_id": 156,
+      "name": "Lanterns & Outdoor Lighting",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/outdoor/outdoor-accessories/lanterns-outdoor-lighting/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 159,
+      "parent_id": 156,
+      "name": "Garden Planters & Pots",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/outdoor/outdoor-accessories/lanterns-outdoor-lighting-1/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 160,
+      "parent_id": 156,
+      "name": "Outdoor Storage Boxes",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/outdoor/outdoor-accessories/outdoor-storage-boxes/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 161,
+      "parent_id": 156,
+      "name": "Fire Pits & Heaters",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/outdoor/outdoor-accessories/fire-pits-heaters/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 162,
+      "parent_id": 156,
+      "name": "Waterproof Covers",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/outdoor/outdoor-accessories/waterproof-covers/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 163,
+      "parent_id": 153,
+      "name": "Adirondack Chairs",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/outdoor/outdoor-chairs-loungers/adirondack-chairs/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 164,
+      "parent_id": 153,
+      "name": "Hammock Chairs",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/outdoor/outdoor-chairs-loungers/hammock-chairs/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 165,
+      "parent_id": 153,
+      "name": "Reclining Loungers",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/outdoor/outdoor-chairs-loungers/reclining-loungers/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 166,
+      "parent_id": 153,
+      "name": "Wicker Chairs",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/outdoor/outdoor-chairs-loungers/wicker-chairs/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 167,
+      "parent_id": 153,
+      "name": "Hanging Egg Chairs",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/outdoor/outdoor-chairs-loungers/hanging-egg-chairs/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 168,
+      "parent_id": 153,
+      "name": "Folding Patio Chairs",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/outdoor/outdoor-chairs-loungers/hanging-egg-chairs-1/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 169,
+      "parent_id": 151,
+      "name": "Wicker Sofas",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/outdoor/outdoor-sofas-sectionals/wicker-sofas/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 170,
+      "parent_id": 151,
+      "name": "Metal Frame Sofas",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/outdoor/outdoor-sofas-sectionals/wicker-sofas-1/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 171,
+      "parent_id": 151,
+      "name": "Modular Patio Sofas",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/outdoor/outdoor-sofas-sectionals/modular-patio-sofas/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 172,
+      "parent_id": 151,
+      "name": "Teakwood Sofas",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/outdoor/outdoor-sofas-sectionals/modular-patio-sofas-1/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 173,
+      "parent_id": 151,
+      "name": "Waterproof Sofas",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/outdoor/outdoor-sofas-sectionals/waterproof-sofas/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 174,
+      "parent_id": 151,
+      "name": "Lounge Sectionals",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/outdoor/outdoor-sofas-sectionals/lounge-sectionals/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 175,
+      "parent_id": 154,
+      "name": "Round Patio Tables",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/outdoor/outdoor-tables/round-patio-tables/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 176,
+      "parent_id": 154,
+      "name": "Fire Pit Tables",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/outdoor/outdoor-tables/fire-pit-tables/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 177,
+      "parent_id": 154,
+      "name": "Folding Outdoor Tables",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/outdoor/outdoor-tables/folding-outdoor-tables/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 178,
+      "parent_id": 154,
+      "name": "Glass Top Outdoor Tables",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/outdoor/outdoor-tables/folding-outdoor-tables-1/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 179,
+      "parent_id": 154,
+      "name": "Wooden Garden Tables",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/outdoor/outdoor-tables/wooden-garden-tables/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 180,
+      "parent_id": 154,
+      "name": "Minimalist Metal Tables",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/outdoor/outdoor-tables/minimalist-metal-tables/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 181,
+      "parent_id": 152,
+      "name": "4-Seater Patio Sets",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/outdoor/patio-dining-sets/4-seater-patio-sets/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 182,
+      "parent_id": 152,
+      "name": "6-Seater Patio Sets",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/outdoor/patio-dining-sets/6-seater-patio-sets/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 183,
+      "parent_id": 152,
+      "name": "Wooden Outdoor Sets",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/outdoor/patio-dining-sets/wooden-outdoor-sets/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 184,
+      "parent_id": 152,
+      "name": "Glass Top Patio Sets",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/outdoor/patio-dining-sets/glass-top-patio-sets/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 185,
+      "parent_id": 152,
+      "name": "Foldable Outdoor Sets",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/outdoor/patio-dining-sets/foldable-outdoor-sets/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 186,
+      "parent_id": 152,
+      "name": "Rustic Rattan Sets",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/outdoor/patio-dining-sets/foldable-outdoor-sets-1/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 187,
+      "parent_id": 155,
+      "name": "Market Umbrellas",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": null,
+      "image_url": ""
+    },
+    {
+      "id": 188,
+      "parent_id": 155,
+      "name": "Cantilever Umbrellas",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/outdoor/umbrellas-shades/market-umbrellas/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 189,
+      "parent_id": 155,
+      "name": "Sail Shades",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/outdoor/umbrellas-shades/sail-shades/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 190,
+      "parent_id": 155,
+      "name": "Adjustable Sunshades",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/outdoor/umbrellas-shades/sail-shades-1/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 191,
+      "parent_id": 155,
+      "name": "Waterproof Outdoor Umbrellas",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/outdoor/umbrellas-shades/waterproof-outdoor-umbrellas/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 192,
+      "parent_id": 155,
+      "name": "Patio Gazebos",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/outdoor/umbrellas-shades/patio-gazebos/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 193,
+      "parent_id": 0,
+      "name": "Ottomans",
+      "description": "",
+      "views": 0,
+      "sort_order": 5,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/ottomans/",
+        "is_customized": false
+      },
+      "image_url": "https://cdn11.bigcommerce.com/s-hhudllvhkp/product_images/b/tvlgiao_a_contemporary_ottoman_featuring_dusty_rose_pink_or_lig_0ee29cfb-d814-4f22-86e8-94f7116b5df9__58524.jpg"
+    },
+    {
+      "id": 194,
+      "parent_id": 193,
+      "name": "Storage Ottomans",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/ottomans/storage-ottomans/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 195,
+      "parent_id": 193,
+      "name": "Round Ottomans",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/ottomans/round-ottomans/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 196,
+      "parent_id": 193,
+      "name": "Square Ottomans",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/ottomans/square-ottomans/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 197,
+      "parent_id": 193,
+      "name": "Bench Ottomans",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": null,
+      "image_url": ""
+    },
+    {
+      "id": 198,
+      "parent_id": 193,
+      "name": "Folding Ottomans",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/ottomans/bench-ottomans/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 199,
+      "parent_id": 193,
+      "name": "Luxury Ottomans",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/ottomans/folding-ottomans/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 200,
+      "parent_id": 197,
+      "name": "Upholstered Bench Ottomans",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/ottomans/bench-ottomans/upholstered-bench-ottomans/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 201,
+      "parent_id": 197,
+      "name": "Wooden Bench Ottomans",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": null,
+      "image_url": ""
+    },
+    {
+      "id": 202,
+      "parent_id": 197,
+      "name": "Velvet Entryway Benches",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/ottomans/bench-ottomans/wooden-bench-ottomans/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 203,
+      "parent_id": 197,
+      "name": "Tufted Ottoman Benches",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/ottomans/bench-ottomans/tufted-ottoman-benches/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 204,
+      "parent_id": 197,
+      "name": "Storage Ottoman Benches",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/ottomans/bench-ottomans/tufted-ottoman-benches-1/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 205,
+      "parent_id": 197,
+      "name": "Industrial Style Benches",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/ottomans/bench-ottomans/industrial-style-benches/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 206,
+      "parent_id": 198,
+      "name": "Compact Folding Ottomans",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/ottomans/folding-ottomans/compact-folding-ottomans/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 207,
+      "parent_id": 198,
+      "name": "Collapsible Storage Ottomans",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/ottomans/folding-ottomans/collapsible-storage-ottomans/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 208,
+      "parent_id": 198,
+      "name": "Leather Folding Benches",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/ottomans/folding-ottomans/leather-folding-benches/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 209,
+      "parent_id": 198,
+      "name": "Space-Saving Poufs",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": null,
+      "image_url": ""
+    },
+    {
+      "id": 210,
+      "parent_id": 198,
+      "name": "Multi-Use Folding Ottomans",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/ottomans/folding-ottomans/multi-use-folding-ottomans/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 211,
+      "parent_id": 198,
+      "name": "Kid-Friendly Folding Seats",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/ottomans/folding-ottomans/multi-use-folding-ottomans-1/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 212,
+      "parent_id": 199,
+      "name": "Handcrafted Ottomans",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": null,
+      "image_url": ""
+    },
+    {
+      "id": 213,
+      "parent_id": 199,
+      "name": "Designer Tufted Ottomans",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/ottomans/luxury-ottomans/handcrafted-ottomans/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 214,
+      "parent_id": 199,
+      "name": "Gold-Legged Ottomans",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/ottomans/luxury-ottomans/gold-legged-ottomansgold-legged-ottomans/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 215,
+      "parent_id": 199,
+      "name": "High-End Leather Poufs",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": null,
+      "image_url": ""
+    },
+    {
+      "id": 216,
+      "parent_id": 199,
+      "name": "Customizable Luxury Ottomans",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/ottomans/luxury-ottomans/customizable-luxury-ottomans/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 217,
+      "parent_id": 199,
+      "name": "Embroidered Velvet Ottomans",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/ottomans/luxury-ottomans/customizable-luxury-ottomans-1/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 218,
+      "parent_id": 0,
+      "name": "Decor",
+      "description": "",
+      "views": 0,
+      "sort_order": 6,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/decor/",
+        "is_customized": false
+      },
+      "image_url": "https://cdn11.bigcommerce.com/s-hhudllvhkp/product_images/v/decor__73889.png"
+    },
+    {
+      "id": 219,
+      "parent_id": 218,
+      "name": "Wall Art & Mirrors",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/decor/wall-art-mirrors/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 220,
+      "parent_id": 218,
+      "name": "Rugs & Carpets",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/decor/wall-art-mirrors-1/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 221,
+      "parent_id": 218,
+      "name": "Lighting & Lamps",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/decor/lighting-lamps/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 222,
+      "parent_id": 218,
+      "name": "Throw Pillows & Blankets",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/decor/throw-pillows-blankets/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 223,
+      "parent_id": 218,
+      "name": "Curtains & Window Treatments",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/decor/curtains-window-treatments/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 224,
+      "parent_id": 218,
+      "name": "Vases & Decorative Accents",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/decor/curtains-window-treatments-1/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 225,
+      "parent_id": 195,
+      "name": "Tufted Round Ottomans",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/ottomans/round-ottomans/tufted-round-ottomans/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 226,
+      "parent_id": 195,
+      "name": "Velvet Round Ottomans",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/ottomans/round-ottomans/velvet-round-ottomans/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 227,
+      "parent_id": 195,
+      "name": "Leather Round",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/ottomans/round-ottomans/velvet-round-ottomans-1/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 228,
+      "parent_id": 195,
+      "name": "Bohemian Round",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/ottomans/round-ottomans/bohemian-round/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 229,
+      "parent_id": 195,
+      "name": "Modern Minimalist",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/ottomans/round-ottomans/modern-minimalist/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 230,
+      "parent_id": 196,
+      "name": "Upholstered Square",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/ottomans/square-ottomans/upholstered-square/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 231,
+      "parent_id": 196,
+      "name": "Industrial Square",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/ottomans/square-ottomans/industrial-square/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 232,
+      "parent_id": 196,
+      "name": "Foldable Square",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/ottomans/square-ottomans/foldable-square/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 233,
+      "parent_id": 196,
+      "name": "Padded Top Square",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/ottomans/square-ottomans/padded-top-square/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 234,
+      "parent_id": 196,
+      "name": "Modular Square",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/ottomans/square-ottomans/modular-square/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 235,
+      "parent_id": 196,
+      "name": "Leather Square",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/ottomans/square-ottomans/leather-square/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 236,
+      "parent_id": 195,
+      "name": "Mid-Century Round",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/ottomans/round-ottomans/mid-century-round/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 237,
+      "parent_id": 194,
+      "name": "Hinged-Lid",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/ottomans/storage-ottomans/hinged-lid/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 238,
+      "parent_id": 194,
+      "name": "Cube Storage",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/ottomans/storage-ottomans/hinged-lid-1/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 239,
+      "parent_id": 194,
+      "name": "Tufted Storage",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/ottomans/storage-ottomans/tufted-storage/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 240,
+      "parent_id": 194,
+      "name": "Wicker Storage",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/ottomans/storage-ottomans/wicker-storage/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 241,
+      "parent_id": 194,
+      "name": "Large Blanket",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/ottomans/storage-ottomans/large-blanket/",
+        "is_customized": false
+      },
+      "image_url": ""
+    },
+    {
+      "id": 242,
+      "parent_id": 194,
+      "name": "Hidden Compartment",
+      "description": "",
+      "views": 0,
+      "sort_order": 0,
+      "page_title": "",
+      "search_keywords": "",
+      "meta_keywords": [],
+      "meta_description": "",
+      "layout_file": "",
+      "is_visible": true,
+      "default_product_sort": "use_store_settings",
+      "custom_url": {
+        "url": "/ottomans/storage-ottomans/hidden-compartment/",
+        "is_customized": false
+      },
+      "image_url": ""
+    }
+  ]
+}
