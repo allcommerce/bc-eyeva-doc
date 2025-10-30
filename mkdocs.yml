@@ -1,4 +1,5 @@
 site_name: "Eyeva BigCommerce Theme User Guide"
+site_url: https://bc-eyeva-docs.papathemes.com/
 nav:
 - Home: index.md
 - Usage Guide:
@@ -75,9 +76,10 @@ plugins:
   - blog
   - search:
       separator: '[\s\u200b\-_,:!=\[\]()"`/]+|\.(?!\d)|&[lg]t;|(?!\b)(?=[A-Z][a-z])'
+  - absolute-paths
   # - macros
 
-use_directory_urls: false
+use_directory_urls: true
 
 extra_css:
   - css/style.css

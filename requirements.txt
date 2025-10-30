@@ -1,0 +1,11 @@
+# MkDocs core
+mkdocs>=1.6.0
+
+# MkDocs Material theme
+mkdocs-material>=9.6.9
+
+# MkDocs plugins
+mkdocs-blog-plugin>=0.1.0
+
+# Custom plugin (local)
+-e .
