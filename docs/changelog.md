@@ -1,5 +1,11 @@
 # Release Notes
 
+## 1.3.0 (12-12-2025)
+- Fix: Prevent duplicate Add to Cart button for Pre-order products in Recently Viewed carousel
+- feat: [Add keyword suggestions feature for quick search](./usage/keyword-suggestions.md) (#112)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMg9aPb5SJY" title="Quick Search - Keyword Suggestions" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ## 1.2.2 (10-03-2025)
 - Fix currency symbol and add to cart url for product card rendered by graphql
 
