@@ -718,6 +718,15 @@
     <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
       
         <li class="md-nav__item">
+  <a href="#disable-sticky-add-to-cart-box-on-product-details-page" class="md-nav__link">
+    <span class="md-ellipsis">
+      Disable Sticky Add to Cart Box on Product Details Page
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
   <a href="#converting-videos-to-h265-format-for-safari-compatibility" class="md-nav__link">
     <span class="md-ellipsis">
       Converting Videos to H.265 Format for Safari Compatibility
@@ -803,6 +812,15 @@
     <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
       
         <li class="md-nav__item">
+  <a href="#disable-sticky-add-to-cart-box-on-product-details-page" class="md-nav__link">
+    <span class="md-ellipsis">
+      Disable Sticky Add to Cart Box on Product Details Page
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
   <a href="#converting-videos-to-h265-format-for-safari-compatibility" class="md-nav__link">
     <span class="md-ellipsis">
       Converting Videos to H.265 Format for Safari Compatibility
@@ -828,12 +846,39 @@
 
 
 <h1 id="faqs">FAQs<a class="headerlink" href="#faqs" title="Permanent link">&para;</a></h1>
+<h2 id="disable-sticky-add-to-cart-box-on-product-details-page">Disable Sticky Add to Cart Box on Product Details Page<a class="headerlink" href="#disable-sticky-add-to-cart-box-on-product-details-page" title="Permanent link">&para;</a></h2>
+<p>To disable the sticky behavior of the Add to Cart box on the right side of the Product Details Page, add the following script via <strong>Script Manager</strong>:</p>
+<ol>
+<li>Navigate to <strong>Storefront</strong> &gt; <strong>Script Manager</strong></li>
+<li>Click <strong>Create a Script</strong></li>
+<li>Configure the script:<ul>
+<li><strong>Name</strong>: Disable Sticky Add to Cart</li>
+<li><strong>Location on page</strong>: Footer</li>
+<li><strong>Select pages where script will be added</strong>: Store Pages</li>
+<li><strong>Script category</strong>: Essential</li>
+</ul>
+</li>
+<li>Paste the following code in the <strong>Script contents</strong> field:</li>
+</ol>
+<div class="language-html highlight"><pre><span></span><code><span id="__span-0-1"><a id="__codelineno-0-1" name="__codelineno-0-1" href="#__codelineno-0-1"></a><span class="p">&lt;</span><span class="nt">script</span><span class="p">&gt;</span>
+</span><span id="__span-0-2"><a id="__codelineno-0-2" name="__codelineno-0-2" href="#__codelineno-0-2"></a><span class="p">(</span><span class="kd">function</span><span class="p">()</span><span class="w"> </span><span class="p">{</span>
+</span><span id="__span-0-3"><a id="__codelineno-0-3" name="__codelineno-0-3" href="#__codelineno-0-3"></a><span class="w">    </span><span class="kd">var</span><span class="w"> </span><span class="nx">style</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nb">document</span><span class="p">.</span><span class="nx">createElement</span><span class="p">(</span><span class="s1">&#39;style&#39;</span><span class="p">);</span>
+</span><span id="__span-0-4"><a id="__codelineno-0-4" name="__codelineno-0-4" href="#__codelineno-0-4"></a><span class="w">    </span><span class="nx">style</span><span class="p">.</span><span class="nx">innerHTML</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s1">&#39;.productView ._eyeva-sticky-box { position: relative }&#39;</span><span class="p">;</span>
+</span><span id="__span-0-5"><a id="__codelineno-0-5" name="__codelineno-0-5" href="#__codelineno-0-5"></a><span class="w">    </span><span class="nb">document</span><span class="p">.</span><span class="nx">head</span><span class="p">.</span><span class="nx">appendChild</span><span class="p">(</span><span class="nx">style</span><span class="p">);</span>
+</span><span id="__span-0-6"><a id="__codelineno-0-6" name="__codelineno-0-6" href="#__codelineno-0-6"></a><span class="p">})();</span>
+</span><span id="__span-0-7"><a id="__codelineno-0-7" name="__codelineno-0-7" href="#__codelineno-0-7"></a><span class="p">&lt;/</span><span class="nt">script</span><span class="p">&gt;</span>
+</span></code></pre></div>
+<ol>
+<li>Click <strong>Save</strong></li>
+</ol>
+<p>This script injects a CSS rule that overrides the sticky positioning, making the Add to Cart box scroll normally with the page content instead of staying fixed on the screen.</p>
+<hr />
 <h2 id="converting-videos-to-h265-format-for-safari-compatibility">Converting Videos to H.265 Format for Safari Compatibility<a class="headerlink" href="#converting-videos-to-h265-format-for-safari-compatibility" title="Permanent link">&para;</a></h2>
 <p>Install <code>ffmpeg</code> on Windows using command line:</p>
-<div class="language-bash highlight"><pre><span></span><code><span id="__span-0-1"><a id="__codelineno-0-1" name="__codelineno-0-1" href="#__codelineno-0-1"></a>choco<span class="w"> </span>install<span class="w"> </span>ffmpeg
+<div class="language-bash highlight"><pre><span></span><code><span id="__span-1-1"><a id="__codelineno-1-1" name="__codelineno-1-1" href="#__codelineno-1-1"></a>choco<span class="w"> </span>install<span class="w"> </span>ffmpeg
 </span></code></pre></div>
 <p>Run the following command to convert the video to H.265 format:</p>
-<div class="language-bash highlight"><pre><span></span><code><span id="__span-1-1"><a id="__codelineno-1-1" name="__codelineno-1-1" href="#__codelineno-1-1"></a>ffmpeg<span class="w"> </span>-i<span class="w"> </span>input.mp4<span class="w"> </span>-vcodec<span class="w"> </span>libx265<span class="w"> </span>-c:a<span class="w"> </span>aac<span class="w"> </span>-tag:v<span class="w"> </span>hvc1<span class="w">  </span>output.mp4
+<div class="language-bash highlight"><pre><span></span><code><span id="__span-2-1"><a id="__codelineno-2-1" name="__codelineno-2-1" href="#__codelineno-2-1"></a>ffmpeg<span class="w"> </span>-i<span class="w"> </span>input.mp4<span class="w"> </span>-vcodec<span class="w"> </span>libx265<span class="w"> </span>-c:a<span class="w"> </span>aac<span class="w"> </span>-tag:v<span class="w"> </span>hvc1<span class="w">  </span>output.mp4
 </span></code></pre></div>
 
 
