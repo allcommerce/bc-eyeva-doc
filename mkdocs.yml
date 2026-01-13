@@ -17,6 +17,7 @@ nav:
 - Release Notes: changelog.md
 theme:
   name: material
+  custom_dir: overrides
   features:
     - announce.dismiss
     - content.action.edit
