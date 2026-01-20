@@ -1,5 +1,8 @@
 # Release Notes
 
+## 1.3.1 (01-20-2026)
+- Fix: Logo text color setting now correctly applies to logo text instead of using navUser-color
+
 ## 1.3.0 (12-12-2025)
 - Fix: Prevent duplicate Add to Cart button for Pre-order products in Recently Viewed carousel
 - feat: [Add keyword suggestions feature for quick search](./usage/keyword-suggestions.md) (#112)
