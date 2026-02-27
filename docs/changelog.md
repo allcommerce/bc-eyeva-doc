@@ -1,5 +1,8 @@
 # Release Notes
 
+## 1.3.2 (02-27-2026)
+- Fix: Footer link color now respects theme style settings
+
 ## 1.3.1 (01-20-2026)
 - Fix: Logo text color setting now correctly applies to logo text instead of using navUser-color
 
