@@ -1,5 +1,10 @@
 # Release Notes
 
+## 1.3.3 (04-24-2026)
+- Fix: Swap content/data keys in onProductOptionsChanged event detail [bigcommerce/cornerstone#2640](https://github.com/bigcommerce/cornerstone/pull/2640)
+- Add page transition overlay feature (#115)
+- Fix: Swap content/data keys in onProductOptionsChanged event detail
+
 ## 1.3.2 (02-27-2026)
 - Fix: Footer link color now respects theme style settings
 
