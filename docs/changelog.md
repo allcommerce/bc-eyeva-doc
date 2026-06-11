@@ -1,5 +1,9 @@
 # Release Notes
 
+## 1.3.4 (06-11-2026)
+- Fix: Wishlist dropdown not opening on quick-search product cards
+- Fix: AJAX add-to-cart click silently failing when href is empty
+
 ## 1.3.3 (04-24-2026)
 - Fix: Swap content/data keys in onProductOptionsChanged event detail [bigcommerce/cornerstone#2640](https://github.com/bigcommerce/cornerstone/pull/2640)
 - Add page transition overlay feature (#115)
