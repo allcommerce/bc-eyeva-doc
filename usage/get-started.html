@@ -957,13 +957,19 @@
 </ul>
 <p><strong>Import Steps:</strong></p>
 <ol>
-<li>Go to <strong><a href="https://bc-tools.papathemes.com/">BC Tools</a></strong></li>
-<li>Click the <strong>Store Manager</strong> menu item and enter your store API key</li>
+<li>Go to <strong><a href="https://bc-tools.papathemes.com/">BC Tools</a></strong> and <strong>sign up for a free account</strong>, then log in. Importing requires an account: every account gets 100 free credits per month, and each import costs 5 credits</li>
+<li>Click the <strong>Store Manager</strong> menu item and enter your store API credentials</li>
 <li>Click the <strong>Import Product</strong> menu item</li>
 <li>Select your store as the target store</li>
 <li>Select <strong>Quick Import from Samples</strong> or Under <strong>Product JSON File</strong>, upload the downloaded JSON file from above</li>
 <li>Click the <strong>Import Product</strong> button to import the product into your store</li>
 </ol>
+<div class="admonition warning">
+<p class="admonition-title">Enter the Store Hash correctly</p>
+<p>In your BigCommerce admin, go to <strong>Settings &gt; API Accounts</strong> and open the API account you created. The API path is shown as <code>https://api.bigcommerce.com/stores/abc123def/v3/</code>.</p>
+<p>The <strong>Store Hash</strong> is only the part between <code>/stores/</code> and <code>/v3/</code>, for example <code>abc123def</code>. Do not include <code>/v3/</code> or the full URL, and do not use your store address - imports will fail if the hash is wrong.</p>
+<p>Your API account also needs these scopes: <strong>Products - modify</strong>, <strong>Content - modify</strong>, and <strong>Themes - modify</strong>.</p>
+</div>
 <p><img alt="import-product" loading="lazy" src="../img/import-product.jpg" /></p>
 <h2 id="importing-widgets-to-pages">Importing Widgets to Pages<a class="headerlink" href="#importing-widgets-to-pages" title="Permanent link">&para;</a></h2>
 <p>To import widgets to pages (Home, Product, Cart, global regions) in your store to work exactly like our demo stores:</p>
@@ -990,8 +996,8 @@
 </ul>
 <p><strong>Import Steps:</strong></p>
 <ol>
-<li>Go to <strong><a href="https://bc-tools.papathemes.com/">BC Tools</a></strong></li>
-<li>Click the <strong>Store Manager</strong> menu item and enter your store API key (skip if already entered)</li>
+<li>Go to <strong><a href="https://bc-tools.papathemes.com/">BC Tools</a></strong> and log in (see the account note above)</li>
+<li>Click the <strong>Store Manager</strong> menu item and enter your store API credentials (skip if already entered)</li>
 <li>Click the <strong>Import Widgets</strong> menu item</li>
 <li>Select your store as the target store</li>
 <li>Enter your <strong>Channel ID</strong> (default is <code>1</code> if you only have one storefront)</li>
