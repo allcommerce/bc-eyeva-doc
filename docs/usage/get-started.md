@@ -58,12 +58,20 @@ To set up your store to work exactly like our demo stores, you can import sample
 
 **Import Steps:**
 
-1. Go to **[BC Tools](https://bc-tools.papathemes.com/)**
-2. Click the **Store Manager** menu item and enter your store API key
+1. Go to **[BC Tools](https://bc-tools.papathemes.com/)** and **sign up for a free account**, then log in. Importing requires an account: every account gets 100 free credits per month, and each import costs 5 credits
+2. Click the **Store Manager** menu item and enter your store API credentials
 3. Click the **Import Product** menu item
 4. Select your store as the target store
 5. Select **Quick Import from Samples** or Under **Product JSON File**, upload the downloaded JSON file from above
 6. Click the **Import Product** button to import the product into your store
+
+!!! warning "Enter the Store Hash correctly"
+
+    In your BigCommerce admin, go to **Settings > API Accounts** and open the API account you created. The API path is shown as `https://api.bigcommerce.com/stores/abc123def/v3/`.
+
+    The **Store Hash** is only the part between `/stores/` and `/v3/`, for example `abc123def`. Do not include `/v3/` or the full URL, and do not use your store address - imports will fail if the hash is wrong.
+
+    Your API account also needs these scopes: **Products - modify**, **Content - modify**, and **Themes - modify**.
 
 ![import-product](../img/import-product.jpg){ loading=lazy }
 
@@ -84,8 +92,8 @@ To import widgets to pages (Home, Product, Cart, global regions) in your store t
 
 **Import Steps:**
 
-1. Go to **[BC Tools](https://bc-tools.papathemes.com/)**
-2. Click the **Store Manager** menu item and enter your store API key (skip if already entered)
+1. Go to **[BC Tools](https://bc-tools.papathemes.com/)** and log in (see the account note above)
+2. Click the **Store Manager** menu item and enter your store API credentials (skip if already entered)
 3. Click the **Import Widgets** menu item
 4. Select your store as the target store
 5. Enter your **Channel ID** (default is `1` if you only have one storefront)
