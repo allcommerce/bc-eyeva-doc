@@ -1,5 +1,10 @@
 # Release Notes
 
+## Draft
+- Add Featured Promotions callouts on product cards and the product detail page, with a theme setting and editable colors (#118)
+- Add backorder and stock messaging on the product detail page, cart, cart drawer, and account order details, including per-picklist-option backorder handling (#117)
+- Fix: Shipping countdown no longer promises on-schedule shipping when the quantity exceeds ship-ready stock (#117)
+
 ## 1.3.4 (06-11-2026)
 - Fix: Wishlist dropdown not opening on quick-search product cards
 - Fix: AJAX add-to-cart click silently failing when href is empty
