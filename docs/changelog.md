@@ -1,6 +1,6 @@
 # Release Notes
 
-## Draft
+## 1.4.0 (08-04-2026)
 - Add Featured Promotions callouts on product cards and the product detail page, with a theme setting and editable colors (#118)
 - Add backorder and stock messaging on the product detail page, cart, cart drawer, and account order details, including per-picklist-option backorder handling (#117)
 - Fix: Shipping countdown no longer promises on-schedule shipping when the quantity exceeds ship-ready stock (#117)
