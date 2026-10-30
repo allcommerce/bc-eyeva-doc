@@ -1,5 +1,18 @@
 # Release Notes
 
+## 1.4.1 (10-30-2026)
+- Fix: The footer "Products" heading showed with nothing under it when the store had no categories to list; it now hides like the Brands heading, and widgets placed in that column stay (#129)
+- Fix: With two or more top banners (Marketing > Banners), clicking the banner on screen opened the link of a hidden one, because the hidden banners sat on top of it (#128)
+- Fix: Category Suggestions on the search page listed every ancestor as a suggestion of its own, so a parent repeated once per matching child; each suggestion is now one row carrying its whole path (#126)
+- Theme Editor: optional headings for the homepage Featured, Most popular and New product sections; blank keeps the language-file text (#125)
+- Selected product options share one colour, "Field border active": rectangle buttons are filled (text picked for contrast), swatches and pick list items get a 2px ring, on the product page and in the modifiers modal (#124)
+- Fix: Swatches had no hover state on the product page or in the modifiers modal (#124)
+- Fix: Keyboard focus on a swatch in the modifiers modal drew a row-wide ellipse (#124)
+- Sofas variation: "Field border active" set to the olive brand colour, so selected options match the buttons (#124)
+- Fix: Stray tax label ("(Ex. Tax)" / "(Inc. Tax)") rendered inside the hidden, empty price block, so crawlers read a tax-exclusive label next to a tax-inclusive price (#123)
+- Expose `product_col_xl` (1441px and up) and `product_col_l` (1261px - 1440px) in the theme editor, and label each column setting with its screen size range (#121)
+- Fix: GraphQL product cards (Recently Viewed, header recently viewed dropdown, guest wishlist, cart suggestions) threw an error and stayed on grey placeholders when the store currency came back empty, and showed random catalog products when there was nothing to show (first visit, empty wishlist) (#130)
+
 ## 1.4.0 (08-04-2026)
 - Add Featured Promotions callouts on product cards and the product detail page, with a theme setting and editable colors (#118)
 - Add backorder and stock messaging on the product detail page, cart, cart drawer, and account order details, including per-picklist-option backorder handling (#117)
