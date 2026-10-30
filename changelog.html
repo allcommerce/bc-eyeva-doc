@@ -758,6 +758,15 @@
     <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
       
         <li class="md-nav__item">
+  <a href="#141-10-30-2026" class="md-nav__link">
+    <span class="md-ellipsis">
+      1.4.1 (10-30-2026)
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
   <a href="#140-08-04-2026" class="md-nav__link">
     <span class="md-ellipsis">
       1.4.0 (08-04-2026)
@@ -900,6 +909,15 @@
     <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
       
         <li class="md-nav__item">
+  <a href="#141-10-30-2026" class="md-nav__link">
+    <span class="md-ellipsis">
+      1.4.1 (10-30-2026)
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
   <a href="#140-08-04-2026" class="md-nav__link">
     <span class="md-ellipsis">
       1.4.0 (08-04-2026)
@@ -1024,6 +1042,20 @@
 
 
 <h1 id="release-notes">Release Notes<a class="headerlink" href="#release-notes" title="Permanent link">&para;</a></h1>
+<h2 id="141-10-30-2026">1.4.1 (10-30-2026)<a class="headerlink" href="#141-10-30-2026" title="Permanent link">&para;</a></h2>
+<ul>
+<li>Fix: The footer "Products" heading showed with nothing under it when the store had no categories to list; it now hides like the Brands heading, and widgets placed in that column stay (<a class="magiclink magiclink-github magiclink-issue" href="https://github.com/squidfunk/mkdocs-material/issues/129" title="GitHub Issue: squidfunk/mkdocs-material #129">#129</a>)</li>
+<li>Fix: With two or more top banners (Marketing &gt; Banners), clicking the banner on screen opened the link of a hidden one, because the hidden banners sat on top of it (<a class="magiclink magiclink-github magiclink-issue" href="https://github.com/squidfunk/mkdocs-material/issues/128" title="GitHub Issue: squidfunk/mkdocs-material #128">#128</a>)</li>
+<li>Fix: Category Suggestions on the search page listed every ancestor as a suggestion of its own, so a parent repeated once per matching child; each suggestion is now one row carrying its whole path (<a class="magiclink magiclink-github magiclink-issue" href="https://github.com/squidfunk/mkdocs-material/issues/126" title="GitHub Issue: squidfunk/mkdocs-material #126">#126</a>)</li>
+<li>Theme Editor: optional headings for the homepage Featured, Most popular and New product sections; blank keeps the language-file text (<a class="magiclink magiclink-github magiclink-issue" href="https://github.com/squidfunk/mkdocs-material/issues/125" title="GitHub Issue: squidfunk/mkdocs-material #125">#125</a>)</li>
+<li>Selected product options share one colour, "Field border active": rectangle buttons are filled (text picked for contrast), swatches and pick list items get a 2px ring, on the product page and in the modifiers modal (<a class="magiclink magiclink-github magiclink-issue" href="https://github.com/squidfunk/mkdocs-material/issues/124" title="GitHub Issue: squidfunk/mkdocs-material #124">#124</a>)</li>
+<li>Fix: Swatches had no hover state on the product page or in the modifiers modal (<a class="magiclink magiclink-github magiclink-issue" href="https://github.com/squidfunk/mkdocs-material/issues/124" title="GitHub Issue: squidfunk/mkdocs-material #124">#124</a>)</li>
+<li>Fix: Keyboard focus on a swatch in the modifiers modal drew a row-wide ellipse (<a class="magiclink magiclink-github magiclink-issue" href="https://github.com/squidfunk/mkdocs-material/issues/124" title="GitHub Issue: squidfunk/mkdocs-material #124">#124</a>)</li>
+<li>Sofas variation: "Field border active" set to the olive brand colour, so selected options match the buttons (<a class="magiclink magiclink-github magiclink-issue" href="https://github.com/squidfunk/mkdocs-material/issues/124" title="GitHub Issue: squidfunk/mkdocs-material #124">#124</a>)</li>
+<li>Fix: Stray tax label ("(Ex. Tax)" / "(Inc. Tax)") rendered inside the hidden, empty price block, so crawlers read a tax-exclusive label next to a tax-inclusive price (<a class="magiclink magiclink-github magiclink-issue" href="https://github.com/squidfunk/mkdocs-material/issues/123" title="GitHub Issue: squidfunk/mkdocs-material #123">#123</a>)</li>
+<li>Expose <code>product_col_xl</code> (1441px and up) and <code>product_col_l</code> (1261px - 1440px) in the theme editor, and label each column setting with its screen size range (<a class="magiclink magiclink-github magiclink-issue" href="https://github.com/squidfunk/mkdocs-material/issues/121" title="GitHub Issue: squidfunk/mkdocs-material #121">#121</a>)</li>
+<li>Fix: GraphQL product cards (Recently Viewed, header recently viewed dropdown, guest wishlist, cart suggestions) threw an error and stayed on grey placeholders when the store currency came back empty, and showed random catalog products when there was nothing to show (first visit, empty wishlist) (<a class="magiclink magiclink-github magiclink-issue" href="https://github.com/squidfunk/mkdocs-material/issues/130" title="GitHub Issue: squidfunk/mkdocs-material #130">#130</a>)</li>
+</ul>
 <h2 id="140-08-04-2026">1.4.0 (08-04-2026)<a class="headerlink" href="#140-08-04-2026" title="Permanent link">&para;</a></h2>
 <ul>
 <li>Add Featured Promotions callouts on product cards and the product detail page, with a theme setting and editable colors (<a class="magiclink magiclink-github magiclink-issue" href="https://github.com/squidfunk/mkdocs-material/issues/118" title="GitHub Issue: squidfunk/mkdocs-material #118">#118</a>)</li>
